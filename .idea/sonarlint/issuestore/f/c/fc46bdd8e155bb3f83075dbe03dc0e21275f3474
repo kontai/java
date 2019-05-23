@@ -1,0 +1,23 @@
+
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(÷ø¬Üùÿÿÿÿ
+fsquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò·÷Å
+csquid:S1223)"LRename this method to prevent any misunderstanding or make it a constructor.(ò·÷Å
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ôŸ£ 
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(²õÌÄ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Š¦ˆI
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(²õÌÄ
+1squid:S1220""Move this file to a named package.
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨•„š
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(öÖƒûøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉÃÎáþÿÿÿÿ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ëôßÊ
