@@ -1,53 +1,112 @@
-package 多線程thread;
 /*
-进程：正在进行中的程序(直译).
+创建线程的第一种方式:继承Thread类。
 
-线程：就是进程中一个负责程序执行的控制单元(执行路径)
-一个进程中可以多执行路径，称之为多线程。
+创建线程的第二种方式：实现Runnable接口。
 
-一个进程中至少要有一个线程。
+1,定义类实现Runnable接口。
+2，覆盖接口中的run方法，将线程的任务代码封装到run方法中。
+3，通过Thread类创建线程对象，并将Runnable接口的子类对象作为Thread类的构造函数的参数进行传递。
+	为什么？因为线程的任务都封装在Runnable接口子类对象的run方法中。
+	所以要在线程对象创建时就必须明确要运行的任务。
 
-开启多个线程是为了同时运行多部分代码。
-
-每一个线程都有自己运行的内容。这个内容可以称为线程要执行的任务。
-
-多线程好处：解决了多部分同时运行的问题。
-
-多线程的弊端：线程太多回到效率的降低。
+4，调用线程对象的start方法开启线程。
 
 
-其实应用程序的执行都是cpu在做着快速的切换完成的。这个切换是随机的。
+实现Runnable接口的好处：
+1，将线程的任务从线程的子类中分离出来，进行了单独的封装。
+	按照面向对象的思想将任务的封装成对象。
+2，避免了java单继承的局限性。
 
-
-JVM启动时就启动了多个线程，至少有两个线程可以分析的出来。
-
-1，执行main函数的线程，
-		该线程的任务代码都定义在main函数中。
-
-2，负责垃圾回收的线程。
-
+所以，创建线程的第二种方式较为常用。
 
 */
 
+package 多線程thread;
 
-class Demo extends Object
+class DemoA implements Runnable//extends Fu //准备扩展Demo类的功能，让其中的内容可以作为线程的任务执行。
+		//通过接口的形式完成。
 {
-	public void finalize()
+	public void run()
 	{
-		System.out.println("demo ok");
+		show();
+	}
+	public void show()
+	{
+		for(int x=0; x<20; x++)
+		{
+			System.out.println(Thread.currentThread().getName()+"....."+x);
+		}
 	}
 }
 
 
 class  ThreadDemo
 {
-	public static void main(String[] args) 
+	public static void main(String[] args)
 	{
+		DemoA a = new DemoA();
+		Runnable b = new DemoA();
+		Thread t1 = new Thread(a);
+		Thread t2 = new Thread(b);
+		t1.start();
+		t2.start();
 
-		new Demo();
-		new Demo();
-		new Demo();
-		System.gc();
-		System.out.println("Hello World!");
+
+//		Demo d1 = new Demo();
+//		Demo d2 = new Demo();
+//		d1.start();
+//		d2.start();
 	}
 }
+
+
+
+/*
+class Thread
+{
+	private Runnable r;
+	Thread()
+	{
+
+	}
+	Thread(Runnable r)
+	{
+		this.r  = r;
+	}
+
+	public void run()
+	{
+		if(r!=null)
+			r.run();
+	}
+
+	public void start()
+	{
+		run();
+	}
+}
+class ThreadImpl implements Runnable
+{
+	public void run()
+	{
+		System.out.println("runnable run");
+	}
+}
+ThreadImpl i = new ThreadImpl();
+Thread t = new Thread(i);
+t.start();
+
+
+
+
+class SubThread extends Thread
+{
+	public void run()
+	{
+		System.out.println("hahah");
+	}
+}
+//SubThread s = new SubThread();
+//s.start();
+
+*/

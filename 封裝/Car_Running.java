@@ -1,4 +1,4 @@
-package 封裝;
+//package 封裝;
 
 class Car {
     int wheel;

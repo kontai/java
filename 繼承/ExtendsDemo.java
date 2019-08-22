@@ -1,4 +1,4 @@
-//package 繼承;
+package 繼承;//package 繼承;
 
 class Fu{
     Fu()

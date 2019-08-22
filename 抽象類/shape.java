@@ -1,3 +1,4 @@
+package 抽象類;
 import java.util.Scanner;
 
 //圖形類

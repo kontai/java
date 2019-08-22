@@ -1,3 +1,5 @@
+package 內部類;
+
 class Out {
     int i = 9;
 

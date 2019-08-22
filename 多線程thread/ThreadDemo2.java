@@ -16,6 +16,7 @@
 
 主线程的名字就是main。
 */
+package 多線程thread;
 
 class Demo2 extends Thread
 {

@@ -1,3 +1,5 @@
+package 內部類;
+
 class Outer {
     public void test() {
         int y = 100;
@@ -18,5 +20,6 @@ class Test {
     public static void main(String[] args) {
         Outer out = new Outer();
         out.test();
+
     }
 }
