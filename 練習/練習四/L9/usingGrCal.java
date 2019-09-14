@@ -1,8 +1,8 @@
 package 練習.練習四.L9;
-import sun.java2d.loops.GeneralRenderer;
-import sun.util.calendar.Gregorian;
+//import sun.java2d.loops.GeneralRenderer;
+//import sun.util.calendar.Gregorian;
 
-import java.util.GregorianCalendar;
+import java.util.*;
 
 public class usingGrCal {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class usingGrCal {
         System.out.println(date1.getTime());
     }
 
-    public static GeneralRenderer get(GeneralRenderer d01)
+    public  GregorianCalendar get(GregorianCalendar d01)
     {
         return d01;
     }

@@ -23,4 +23,7 @@ public class 字符串替換 {
         String s=new String();
         System.out.println(s.length());
     }
+
+
 }
+

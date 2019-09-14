@@ -1,7 +1,6 @@
 package 抽象類.Calendar;
 
 
-
 import java.util.*;
 
 public class TestCalendar {
@@ -9,21 +8,18 @@ public class TestCalendar {
         // Construct a Gregorian calendar for the current date and time
         Calendar calendar = new GregorianCalendar();
         showCalendar(calendar);
-        calendar.set(Calendar.DAY_OF_MONTH,1);
+        calendar.set(Calendar.DAY_OF_MONTH, 1);
         showCalendar(calendar);
 
-
         // Construct a calendar for December 25, 1997
-        Calendar calendar1 = new GregorianCalendar(1980,9,1);
+        Calendar calendar1 = new GregorianCalendar(1980, 9, 1);
         String[] dayNameOfWeek = {"Sunday", "Monday", "Tuesday", "Wednesday",
                 "Thursday", "Friday", "Saturday"};
         System.out.println("September 1, 1980 is a " +
                 dayNameOfWeek[calendar1.get(Calendar.DAY_OF_WEEK) - 1]);
-
     }
 
-    public static void showCalendar(Calendar calendar)
-    {
+    public static void showCalendar(Calendar calendar) {
         System.out.println("************************");
         System.out.println("Current time is " + new Date());
         System.out.println("YEAR: " + calendar.get(Calendar.YEAR));
