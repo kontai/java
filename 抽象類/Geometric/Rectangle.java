@@ -33,6 +33,14 @@ public class Rectangle extends GeometricObject {
         this.height = height;
     }
 
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "width=" + width +
+                ", height=" + height +
+                '}';
+    }
+
     @Override /** Return area */
     public double getArea() {
         return width * height;
