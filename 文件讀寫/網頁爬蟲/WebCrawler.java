@@ -1,4 +1,4 @@
-//package 文件讀寫.網頁爬蟲;
+package 文件讀寫.網頁爬蟲;//package 文件讀寫.網頁爬蟲;
 
 import java.util.Scanner;
 import java.util.ArrayList;
