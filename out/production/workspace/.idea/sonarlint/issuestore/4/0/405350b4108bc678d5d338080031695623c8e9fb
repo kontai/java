@@ -1,21 +1,0 @@
-
-:squid:S3010	"Remove this assignment of "y".(Æ™êÿúÿÿÿÿ
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñôÏ	
-O
-squid:S106&"9Replace this use of System.out or System.err by a logger.(¨¢¥ï
-Qsquid:S2209	"5Change this instance-reference to a static reference.(Æ™êÿúÿÿÿÿ
-Lsquid:S2209"5Change this instance-reference to a static reference.(µè©
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñôÏ	
-T
-squid:S106)"9Replace this use of System.out or System.err by a logger.(ÇÎÒ…ÿÿÿÿÿ
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÛº‰
-9squid:S1118"Hide this public constructor.(ııèóÿÿÿÿÿ
-1squid:S1220""Move this file to a named package.
-Lsquid:S2209&"5Change this instance-reference to a static reference.(¨¢¥ï
-Qsquid:S2209)"5Change this instance-reference to a static reference.(ÇÎÒ…ÿÿÿÿÿ
-5squid:S3010"Remove this assignment of "x".(µè©
-ssquid:S3973("WUse curly braces or indentation to denote the code conditionally executed by this "if".(Ë¿º®ùÿÿÿÿ
-Qsquid:S2209 "5Change this instance-reference to a static reference.(óÃşÿÿÿÿ
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(…¶…

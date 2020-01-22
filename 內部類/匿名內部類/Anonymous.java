@@ -1,3 +1,5 @@
+package 內部類.匿名內部類;
+
 abstract class Pip {
     abstract public void run();
 

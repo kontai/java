@@ -1,3 +1,5 @@
+package 內部類;
+
 class AA { // 外部類
     int out_a;
     int x = 100;

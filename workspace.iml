@@ -32,9 +32,36 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11" inherit-compiler-output="true">
-    <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arrayList類" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/File類" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaCoreBook" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java語言程序設計基礎篇" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static靜態" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Temp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/untitled" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/三種權限標示" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/內部類" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/包Package" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/單一實例" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/基本運算" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/object類" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/多線程thread" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/封裝" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/常用API" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/抽象類" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/掃描輸入" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/接口interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/數組" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/文件讀寫" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/枚舉" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/異常" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/練習" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/繼承" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/多態" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Java語言程序設計基礎篇" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />

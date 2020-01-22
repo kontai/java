@@ -1,4 +1,4 @@
-package arrayList類;
+//package arrayList類;
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -12,6 +12,7 @@ public class C1131 {
         ArrayList<String> list2=new ArrayList<>(Arrays.asList(str));
         for(int i=0;i<list2.size();i++)
             list2.remove("Dallas");
+
 
     }
 }

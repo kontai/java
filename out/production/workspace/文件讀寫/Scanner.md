@@ -1,1 +1,0 @@
-![](.Scanner_images/aa321f7e.png)
