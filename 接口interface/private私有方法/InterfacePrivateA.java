@@ -32,7 +32,7 @@ public interface InterfacePrivateA {
     {
         System.out.println("默認方法2");
     }
-    private void methodDefaultCommon()
+     default void methodDefaultCommon()
     {
         System.out.println("AAA");
         System.out.println("BBB");

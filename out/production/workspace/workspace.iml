@@ -26,6 +26,7 @@
         <option name="remotingEnabled" value="false" />
         <option name="secure" value="true" />
         <option name="url" />
+        <option name="useRelativePathsInXml" value="false" />
         <option name="xmlDir" />
       </configuration>
     </facet>
@@ -36,7 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Java語言程序設計基礎篇" />
     </content>
-    <orderEntry type="jdk" jdkName="12" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
