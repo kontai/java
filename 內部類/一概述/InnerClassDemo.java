@@ -1,4 +1,4 @@
-package 概述;
+package 一概述;
 
 /*
 內部類訪問特點：

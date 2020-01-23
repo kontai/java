@@ -63,6 +63,7 @@
       <sourceFolder url="file://$MODULE_DIR$/繼承" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/多態" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Java語言程序設計基礎篇" />
+      <excludeFolder url="file://$MODULE_DIR$/異常/四異常處理的捕捉" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
