@@ -1,3 +1,5 @@
+package equals;
+
 import java.util.ArrayList;
 
 /*

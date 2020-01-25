@@ -1,4 +1,4 @@
-package 練習.練習四;
+package 練習四;
 
 interface Inter
 {

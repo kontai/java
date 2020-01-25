@@ -43,7 +43,7 @@ class C extends Exception {
 
 
 class Fu {
-    void show() throws A
+    void show() throws A, C
     {
     }
 }
@@ -56,7 +56,7 @@ class Test {
         {
             f.show();
 
-        } catch (A a)
+        } catch (A | C a)
         {
         }
     }
@@ -74,6 +74,6 @@ class ExceptionDemo6 {
     public static void main(String[] args)
     {
         Test t = new Test();
-        t.show(new Zi());
+//        t.show(new Zi());
     }
 }

@@ -26,7 +26,7 @@ class ThreadDemo33
 {
 	public static void main(String[] args) 
 	{
-		Demo3 d1 = new Demo3("����");
+		Demo3 d1 = new Demo3("旺財");
 		Demo3 d2 = new Demo3("xiaoqiang");
 		d1.start();
 		
