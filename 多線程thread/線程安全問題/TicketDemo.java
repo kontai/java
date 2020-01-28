@@ -1,16 +1,10 @@
-package 多線程thread;
+package 線程安全問題;
 
 
 /*
 需求：卖票。
 
-
-
-
-
 */
-
-
 
 /*
 线程安全问题产生的原因：
@@ -49,46 +43,50 @@ synchronized(对象)
 
 class Ticket0 implements Runnable//extends Thread
 {
-	private  int num = 400;
+    private int num = 400;
 
-	Object obj = new Object();
+    Object obj = new Object();
 
-	//public synchronized void run()
-	public void run()
-	{
-		//Object obj = new Object();  每個線程將各自擁有一個鎖(同步無效)
-		while(true)
-		{
-			synchronized(obj)
-			{
-				if(num>0)
-				{
-					try{Thread.sleep(10);}catch (InterruptedException e){}
+    //public synchronized void run()
+    public void run()
+    {
+        //Object obj = new Object();  每個線程將各自擁有一個鎖(同步無效)
+        while (true)
+        {
+            synchronized (obj)
+            {
+                if (num > 0)
+                {
+                    try
+                    {
+                        Thread.sleep(10);
+                    } catch (InterruptedException e)
+                    {
+                    }
 
-					System.out.println(Thread.currentThread().getName()+".....sale...."+num--);
-				}
-			}
-		}
-	}
+                    System.out.println(Thread.currentThread().getName() + ".....sale...." + num--);
+                }
+            }
+        }
+    }
 }
 
 
-class  TicketDemo
-{
-	public static void main(String[] args)
-	{
+class TicketDemo {
+    public static void main(String[] args)
+    {
 
-		Ticket0 t = new Ticket0();//创建一个线程任务对象。
+        Ticket0 t = new Ticket0();//创建一个线程任务对象。
 
-		Thread t1 = new Thread(t);
-		Thread t2 = new Thread(t);
-		Thread t3 = new Thread(t);
-		Thread t4 = new Thread(t);
+        Thread t1 = new Thread(t);
+        Thread t2 = new Thread(t);
+        Thread t3 = new Thread(t);
+        Thread t4 = new Thread(t);
 
-		t1.start();
-		t2.start();
-		t3.start();
-		t4.start();
+        t1.start();
+        t2.start();
+        t3.start();
+        t4.start();
 
 
 		/*
@@ -104,7 +102,7 @@ class  TicketDemo
 		*/
 
 
-	}
+    }
 }
 
 
