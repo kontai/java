@@ -1,4 +1,4 @@
-package 多線程thread;
+package I多線程thread;
 
 /*
 死锁：常见情景之一：同步的嵌套。

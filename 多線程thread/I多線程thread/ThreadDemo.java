@@ -21,7 +21,7 @@
 
 */
 
-package 多線程thread;
+package I多線程thread;
 
 class DemoA implements Runnable//extends Fu //准备扩展Demo类的功能，让其中的内容可以作为线程的任务执行。
 		//通过接口的形式完成。

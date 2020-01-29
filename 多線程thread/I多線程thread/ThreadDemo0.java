@@ -1,4 +1,4 @@
-package 多線程thread;
+package I多線程thread;
 /*
 进程：正在进行中的程序(直译).
 

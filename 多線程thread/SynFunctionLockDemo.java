@@ -1,4 +1,4 @@
-package 多線程thread;
+package I多線程thread;
 
 /*
 同步函数的使用的锁是this；

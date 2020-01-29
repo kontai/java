@@ -1,4 +1,4 @@
-package 多線程thread;
+package I多線程thread;
 /*
 多线程下的单例
 

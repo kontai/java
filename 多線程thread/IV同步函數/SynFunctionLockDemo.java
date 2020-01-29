@@ -1,4 +1,4 @@
-package 同步函數;
+package IV同步函數;
 
 /*
 同步函數的使用的鎖是this；
