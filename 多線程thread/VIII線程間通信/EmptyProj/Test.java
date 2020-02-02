@@ -1,7 +1,11 @@
 package VIII線程間通信.EmptyProj;
 
+import java.util.concurrent.locks.*;
+
 
 class People {
+    Lock lock=new ReentrantLock();
+
     private String name;
     private int number;
     private boolean flag = false;
