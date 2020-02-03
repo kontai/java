@@ -1,4 +1,4 @@
-package IXJDK1_5新特性;
+package IX_JDK1_5新特性;
 /*
 生產者，消費者。
 
