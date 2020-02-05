@@ -1,4 +1,4 @@
-package p1;
+package 獲取_轉換_判斷_比較;
 public class a2
 {
 	void me()

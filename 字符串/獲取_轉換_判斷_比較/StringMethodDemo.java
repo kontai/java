@@ -1,4 +1,4 @@
-package p1;
+package 獲取_轉換_判斷_比較;
 
 public class StringMethodDemo {
 
@@ -64,7 +64,7 @@ public class StringMethodDemo {
 		 * 4，比較。
 		 * 		
 		 */
-		stringMethodDemo_4();
+		stringMethodDemo_3();
 		
 //		System.out.println("abc".concat("kk"));
 //		System.out.println("abc"+"kk");
@@ -85,7 +85,8 @@ public class StringMethodDemo {
 		System.out.println(s.equalsIgnoreCase("ABC"));
 		
 		System.out.println(s.contains("cc"));
-		
+		System.out.println(s.indexOf("cc"));
+
 		String str  = "ArrayDemo.java";
 		
 		System.out.println(str.startsWith("Array"));
