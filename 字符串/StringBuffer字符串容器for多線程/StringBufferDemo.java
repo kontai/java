@@ -1,4 +1,4 @@
-package StringBuffer字符串緩衝;
+package StringBuffer字符串容器for多線程;
 
 public class StringBufferDemo {
 
