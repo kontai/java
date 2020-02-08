@@ -81,6 +81,7 @@ public class WrapperDemo {
 		
 		
 		Integer a = new Integer("89");
+//		如果不需要新的 Integer 实例，则通常应优先使用该方法，而不是构造方法 Integer(int)，因为该方法有可能通过缓存经常请求的值而显著提高空间和时间性能。
 		Integer b = new Integer(300);
 		
 		System.out.println(a==b);

@@ -1,4 +1,4 @@
-package StringBuilder字符串容器for單線程;
+package 基本數據類型.字符串.StringBuilder字符串容器for單線程;
 
 public class StringBuilderTest {
 

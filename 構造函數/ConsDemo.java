@@ -1,4 +1,4 @@
-
+package 構造函數;
 
 
 class Person

@@ -1,4 +1,4 @@
-package 字符串;
+package 基本數據類型.字符串;
 
 public class stringBuiler {
     public static void main(String[] args) {

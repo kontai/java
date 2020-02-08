@@ -1,4 +1,4 @@
-package 字符串;
+package 基本數據類型.字符串;
 
 public class 數值與字符串 {
     public static void main(String[] args) {

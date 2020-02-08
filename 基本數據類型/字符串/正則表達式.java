@@ -1,4 +1,4 @@
-package 字符串;
+package 基本數據類型.字符串;
 
 public class 正則表達式 {
     public static void main(String[] args) {

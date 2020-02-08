@@ -1,4 +1,4 @@
-package StringBuffer字符串容器for多線程;
+package 基本數據類型.字符串.StringBuffer字符串容器for多線程;
 
 public class StringBufferDemo {
 

@@ -1,4 +1,4 @@
-package 獲取_轉換_判斷_比較;
+package 基本數據類型.字符串.獲取_轉換_判斷_比較;
 
 public class StringConstructorDemo {
 
