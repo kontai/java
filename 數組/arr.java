@@ -1,3 +1,5 @@
+package 數組;
+
 class arr {
     public static void main(String[] args) {
         // 動態初始化 : 類型 [] 變數名 = new 類型名[數組長度]
