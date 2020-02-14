@@ -15,6 +15,10 @@ public class Person {
     @Override
     public boolean equals(Object obj)
     {
+        if(this==obj)
+            return true;
+        if(!(obj instanceof Person))
+            throw new ClassCastException();
         System.out.println(this+".....equals......"+obj);
         Person p=(Person)obj;
         return this.name.equals(p.name) && this.age==p.age;

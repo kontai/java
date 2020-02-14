@@ -28,17 +28,34 @@ public class ArrayListTest2 {
 		al.add(new Person("lisi4",24));
 		al.add(new Person("lisi2",22));
 		al.add(new Person("lisi3",23));
-		System.out.println(al);
-		
+//		System.out.println(al);
+
+		show(al);
+
 		al = getSingleElement(al);
-		
-		
+
+		show(al);
+
 		System.out.println(al.remove(new Person("lisi2",22)));
-		System.out.println(al);
+
+		show(al);
+
 		
 		
 		
-		
+	}
+
+	private static void show(ArrayList al)
+	{
+	    ArrayList ar=al;
+	    Iterator it=ar.iterator();
+	    for(int i=0;i<al.size();i++)
+		{
+			Person p=(Person)al.get(i);
+			System.out.print("["+p.getName()+","+p.getAge()+"]");
+		}
+		System.out.println();
+
 	}
 
 	/**
