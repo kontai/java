@@ -14,6 +14,8 @@ public class GenericDefineDemo3 {
 		
 //		tool.setObject(new Worker());
 		tool.setObject(new Student());
+		tool.method("abc");
+		tool.method(23);
 		Student stu = tool.getObject();
 //		Tool tool = new Tool();
 //		tool.setObject(new Worker());

@@ -13,15 +13,15 @@ public class GenericDemo {
 		
 		int[] arr = new int[4];
 //		arr[0] = 3.0;
-		
-		
-		ArrayList<String> al = new ArrayList<String>();
+
+
+		ArrayList<String> al = new ArrayList<String>();	//容器內只允許存儲String
 		
 		al.add("abc");//public boolean add(Object obj)
 		al.add("hahah");
 //		al.add(4);//al.add(new Integer(4));
 		
-		Iterator<String> it = al.iterator();
+		Iterator<String> it = al.iterator();	//使用Interator迭代String對象 (不需要再強轉)
 		while(it.hasNext()){
 			
 			String str = it.next();

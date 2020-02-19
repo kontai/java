@@ -7,6 +7,7 @@ import java.util.TreeSet;
 public class GenericDemo2 {
 
 	/**
+	 * 比較姓名
 	 * @param args
 	 */
 	public static void main(String[] args) {

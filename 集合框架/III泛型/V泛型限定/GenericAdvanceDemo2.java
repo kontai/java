@@ -35,10 +35,10 @@ public class GenericAdvanceDemo2 {
 
     /**
      * 迭代並打印集合中元素。
-     * <p>
+     *
      * 可以對類型進行限定：
      * ? extends E:接收E類型或者E的子類型對象。上限！
-     * <p>
+     *
      * ? super E ：接收E類型或者E的父類型。下限！
      *
      * @param al

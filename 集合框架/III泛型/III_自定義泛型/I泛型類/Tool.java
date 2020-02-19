@@ -21,11 +21,13 @@ public class Tool {
 public class Tool<QQ> {
     private QQ q;
 
-    public QQ getObject() {
+    public QQ getObject()
+    {
         return q;
     }
 
-    public void setObject(QQ object) {
+    public void setObject(QQ object)
+    {
         this.q = object;
     }
 
@@ -35,21 +37,31 @@ public class Tool<QQ> {
      *
      * @param str
      */
-    public <W> void show(W str) {
+    public <W> void show(W str)
+    {
         System.out.println("show : " + str.toString());
     }
 
+/*
     public void print(QQ str) {
+        System.out.println("print : " + str);
+    }
+*/
+
+    public void print(QQ str)
+    {
         System.out.println("print : " + str);
     }
 
     /**
-     * 當方法靜態時，不能訪問類上定義的泛型。如果靜態方法使用泛型，
-     * 只能將泛型定義在方法上。
+     * 當方法靜態時，不能訪問類上定義的泛型。
+     * 如果靜態方法使用泛型,只能將泛型定義在方法上。
      *
      * @param obj
      */
-    public static <Y> void method(Y obj) {
+    public static <Y> void method(Y obj)
+//    public static  void method(QQ obj)
+    {
         System.out.println("method:" + obj);
     }
 }

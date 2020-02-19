@@ -15,7 +15,7 @@ public class GenericDefineDemo4 {
 		tool.show(new Integer(4));
 		tool.show("abc");
 		tool.print("hahah");
-//		tool.print(new Integer(8));
+//		tool.print(new Integer(8));	//類型限制
 		Tool.method("haha");
 		Tool.method(new Integer(9));
 	}

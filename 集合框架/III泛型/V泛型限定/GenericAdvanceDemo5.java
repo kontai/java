@@ -2,9 +2,7 @@ package 集合框架.III泛型.V泛型限定;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Comparator;
 import java.util.Iterator;
-import java.util.TreeSet;
 
 import 集合框架.III泛型.II_comparator.Person;
 
@@ -16,11 +14,10 @@ public class GenericAdvanceDemo5 {
 	public static void main(String[] args) {
 
 		ArrayList<Person> al1 = new ArrayList<Person>();
-		
 		al1.add(new Person("abc",30));
 		al1.add(new Person("abc4",34));
+
 		ArrayList<Person> al2 = new ArrayList<Person>();
-		
 		al2.add(new Person("abc22222",30));
 		al2.add(new Person("abc42222222",34));
 		
@@ -30,7 +27,11 @@ public class GenericAdvanceDemo5 {
 		al4.add("abc");
 		
 		al1.containsAll(al4);
-		
+
+		printCollection(al1);
+		printCollection(al2);
+		printCollection(al4);
+
 		
 //		"abc".equals(new Person("ahahah",20));
 		

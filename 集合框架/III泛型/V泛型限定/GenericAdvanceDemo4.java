@@ -59,7 +59,7 @@ public class GenericAdvanceDemo4 {
  * 		Tree(Comparator<? super Worker> comp);
  * }
  * 
- * 什麼時候用下限呢？通常對集合中的元素進行取出操作時，可以是用下限。
+ * 什麼時候用下限呢？通常對集合中的元素進行取出操作時，可以使用下限。
  * 
  */
 
