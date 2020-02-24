@@ -34,8 +34,8 @@ public class SystemDemo {
 //		System.out.println(l2-l1);
 
 		
-		System.out.println("hello-"+LINE_SEPARATOR+" world");
-//		demo_1();
+//		System.out.println("hello-"+LINE_SEPARATOR+" world");
+		demo_1();
 		//給系統設置一些屬性信息。這些信息是全局，其他程序都可以使用。 
 //		System.setProperty("myclasspath", "c:\myclass");
 		

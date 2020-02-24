@@ -99,7 +99,7 @@ public class CollectionsDemo {
 		list.add("cba");
 		list.add("nbaa");
 		System.out.println(list);
-		
+
 		
 		//對list集合進行指定順序的排序。
 //		Collections.sort(list);
@@ -126,7 +126,8 @@ public class CollectionsDemo {
 		}
 	}
 	
-	
+
+	//只允許有compare方法對象調用
 	public static <T extends Comparable<? super T>> void mySort(List<T> list){
 		
 		for (int i = 0; i < list.size()-1; i++) {
