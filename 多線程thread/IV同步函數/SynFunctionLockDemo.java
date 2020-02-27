@@ -35,7 +35,9 @@ class Ticket implements Runnable
 			}
 		else
 			while(true)
+			{
 				this.show();
+			}
 	}
 
 	public synchronized void show()
