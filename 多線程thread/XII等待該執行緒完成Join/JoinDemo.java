@@ -20,6 +20,7 @@ class  JoinDemo
 
 		Thread t1 = new Thread(d);
 		Thread t2 = new Thread(d);
+		Thread t3 = new Thread(d);
 
 		t1.start();
 

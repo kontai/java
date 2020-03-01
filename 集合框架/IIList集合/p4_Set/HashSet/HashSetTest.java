@@ -41,3 +41,8 @@ public class HashSetTest {
 	}
 
 }
+
+class UltraClass implements Hash
+{
+
+}

@@ -57,7 +57,7 @@ class StopThreadDemo
 		Thread t2 = new Thread(st);
 
 		t1.start();
-		t2.setDaemon(true);	//守護線程（後台線程），當前台線程結束，後台線程自動跟著結束。線程啟動前就須先定義
+//		t2.setDaemon(true);	//守護線程（後台線程），當前台線程結束，後台線程自動跟著結束。線程啟動前就須先定義
 		t2.start();
 
 

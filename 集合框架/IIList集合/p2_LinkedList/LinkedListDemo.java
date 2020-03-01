@@ -17,7 +17,7 @@ public class LinkedListDemo {
 		link.addFirst("abc2");
 		link.addFirst("abc3");
 		link.addFirst("abc4");
-//		System.out.println(link);
+		System.out.println(link);
 //		System.out.println(link.getFirst());//獲取第一個但不刪除。
 //		System.out.println(link.getFirst());
 		
