@@ -1,4 +1,4 @@
-package File類;
+package IO流.X_IO_FILE類與常見功能;
 
 import java.io.File;
 import java.io.IOException;
