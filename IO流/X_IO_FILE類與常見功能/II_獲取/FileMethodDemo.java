@@ -72,7 +72,7 @@ public class FileMethodDemo {
 		
 //		f.mkdir();
 		f.createNewFile();
-		
+
 //		boolean b = f.exists();		
 //		System.out.println("b="+b);
 		// 最好先判斷是否存在。 
