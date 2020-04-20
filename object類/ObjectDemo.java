@@ -1,4 +1,4 @@
-/*
+package object類;/*
 
 Object:所有類的根類。
 
@@ -29,8 +29,7 @@ class Zi extends Fu
 }
 */
 
-class Person extends Object
-{
+class Person {
 	private int age;
 	Person(int age)
 	{

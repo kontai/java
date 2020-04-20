@@ -1,0 +1,11 @@
+
+T
+java:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(à±à«ÿÿÿÿÿ
+T
+java:S4719;"9Replace charset name argument with StandardCharsets.UTF_8(€¡Ôüÿÿÿÿ
+O
+java:S4719@"9Replace charset name argument with StandardCharsets.UTF_8(º¹˜ª
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(º¹˜ª
+\
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(º¹˜ª

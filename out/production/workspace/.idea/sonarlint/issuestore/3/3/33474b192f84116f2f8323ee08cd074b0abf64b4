@@ -1,0 +1,10 @@
+
+
+java:S1130
+"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(› Î…8‘åöÓ.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(œ’ÿµüÿÿÿÿ8°”éÓ.
+L
+java:S14812"/Remove this unused "newestFile" local variable.(±›°8Ë÷£Ô.
+>
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8Ë÷£Ô.

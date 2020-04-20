@@ -1,0 +1,19 @@
+
+O
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(í›³
+W
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
+f
+java:S20954"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(í›³
+^
+java:S2095V"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(£…íÖ
+e
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(²ÂÉ†
+
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ô¿úå
+^
+java:S2095&"HUse try-with-resources or close this "FileReader" in a "finally" clause.(“İƒ
+f
+java:S2095="PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(ô®ò—
+`
+java:S1192"JDefine a constant instead of duplicating this literal "gbk_1.txt" 3 times.(²ÂÉ†

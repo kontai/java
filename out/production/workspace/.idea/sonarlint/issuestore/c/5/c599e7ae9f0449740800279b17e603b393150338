@@ -1,0 +1,5 @@
+
+wsquid:CallToDeprecatedMethod#"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(†Ôþ–ûÿÿÿÿ
+Bsquid:S1174#"&Make this finalize() method protected.(†Ôþ–ûÿÿÿÿ
+`"squid:ObjectFinalizeOverridenCheck#"-Do not override the Object.finalize() method.(†Ôþ–ûÿÿÿÿ
+ksquid:S12152"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“

@@ -1,0 +1,17 @@
+
+i
+java:S2095g"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Æ³‹ ûÿÿÿÿ
+h
+java:S2095#"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+\
+java:S10758"ARefactor your code to get this URI from a customizable parameter.(‹¿ÿŽÿÿÿÿÿ
+\
+java:S1075a"ARefactor your code to get this URI from a customizable parameter.(‹¿ÿŽÿÿÿÿÿ
+h
+java:S2095V"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(±ç½«þÿÿÿÿ
+\
+java:S2259k"AA "NullPointerException" could be thrown; "fos" is nullable here.(æŒÕ®ùÿÿÿÿ
+i
+java:S2095>"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Æ³‹ ûÿÿÿÿ

@@ -1,4 +1,4 @@
-package object類;
+package object類.object類;
 
 class Person{
     int age=20;

@@ -1,0 +1,46 @@
+
+>
+java:S1604V"(Make this anonymous inner class a lambda(õœ„„
+o
+java:S1450)"YRemove the "jMenuItem1" field and declare it as a local variable in the relevant methods.(È˜ÒÑ
+s
+java:S1450%"XRemove the "jMenuBar1" field and declare it as a local variable in the relevant methods.(´‚ýßþÿÿÿÿ
+C
+java:S1604e"(Make this anonymous inner class a lambda(£’ª‰úÿÿÿÿ
+H
+java:S1199a"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199C"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+F
+java:S1172™"*Remove this unused method parameter "evt".(Àþ„…ùÿÿÿÿ
+>
+java:S1148v"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+c
+java:S2095Ž"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(©¦À™
+>
+java:S1148\"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+E
+java:S1172z"*Remove this unused method parameter "evt".(½œÞ¡ÿÿÿÿÿ
+p
+java:S1450*"URemove the "jMenu1" field and declare it as a local variable in the relevant methods.(ñÿ®Öøÿÿÿÿ
+H
+java:S1199N"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Q	java:S110#"<This class has 6 parents which is greater than 5 authorized.(ÑÀÜý
+H
+java:S1199R"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199K"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+C
+java:S16042"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ
+t
+java:S1450'"YRemove the "jMenuItem2" field and declare it as a local variable in the relevant methods.(øš‡çùÿÿÿÿ
+v
+java:S1450&"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(ê¼¿Çýÿÿÿÿ
+h
+java:S2095¦"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ãñÍ¿þÿÿÿÿ
+>
+java:S1148k"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+H
+java:S1199F"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+@
+java:S1068,"*Remove this unused "dialog" private field.(¹ÀºË

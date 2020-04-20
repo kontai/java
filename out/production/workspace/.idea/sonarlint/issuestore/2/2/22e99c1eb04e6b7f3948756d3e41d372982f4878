@@ -1,0 +1,15 @@
+
+e
+java:S3973I"JUse indentation to denote the code conditionally executed by this "while".(ð•“¡þÿÿÿÿ
+—
+java:S2681L"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(½û½âúÿÿÿÿ
+`
+java:S39731"JUse indentation to denote the code conditionally executed by this "while".(¦Ê¸¶
+l	java:S116("WRename this field "producer_con" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«ä
+q	java:S116)"WRename this field "consumer_con" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Óžòýÿÿÿÿ
+\
+java:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(èìºŠ
+>	java:S1083")Either remove or fill this block of code.(èìºŠ
+C	java:S108K")Either remove or fill this block of code.( Ç“«ûÿÿÿÿ
+a
+java:S2142K"FEither re-interrupt this method or rethrow the "InterruptedException".( Ç“«ûÿÿÿÿ

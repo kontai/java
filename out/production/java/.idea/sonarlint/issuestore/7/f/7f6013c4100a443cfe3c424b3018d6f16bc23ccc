@@ -1,0 +1,6 @@
+
+Usquid:S4973z"9Use the "equals" method if value comparison was intended.(î¨¿úÿÿÿÿ
+squid:S1157T"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ø®Ïœûÿÿÿÿ
+asquid:UnusedPrivateMethodM"7Remove this unused private "stringMethodDemo_4" method.(Ù”úÿÿÿÿ
+asquid:UnusedPrivateMethoda"7Remove this unused private "stringMethodDemo_2" method.(ïˆ¶–ıÿÿÿÿ
+bsquid:UnusedPrivateMethod€"7Remove this unused private "stringMethodDemo_1" method.(òßÁÃşÿÿÿÿ

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"IO流.I_FileStream.test","c":"CopyTestTest","l":"CopyTestTest()","url":"%3Cinit%3E()"},{"p":"IO流.I_FileStream.test","c":"CopyTestTest","l":"main(String[])","url":"main(java.lang.String[])"}]

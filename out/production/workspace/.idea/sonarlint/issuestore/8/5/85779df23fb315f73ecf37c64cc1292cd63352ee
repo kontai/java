@@ -1,0 +1,8 @@
+
+d
+java:S1192."IDefine a constant instead of duplicating this literal "info.txt" 4 times.(Œä¼üÿÿÿÿ
+\	java:S8990"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+b
+java:S1192?"GDefine a constant instead of duplicating this literal "wangwu" 4 times.(Ù¼ı¤üÿÿÿÿ
+g
+java:S2095W"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹™èÙùÿÿÿÿ

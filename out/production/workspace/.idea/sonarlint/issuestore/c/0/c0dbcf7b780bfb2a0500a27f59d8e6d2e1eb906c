@@ -1,0 +1,8 @@
+
+>
+java:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(¦×îÊúÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

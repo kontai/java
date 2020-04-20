@@ -1,0 +1,5 @@
+
+Msquid:S00108)")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8Œ ¥ú‡.
+fsquid:S2276'"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8Œ ¥ú‡.
+isquid:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ8Œ ¥ú‡.
+Psquid:S1199 "-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Óâ£ú‡.

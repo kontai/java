@@ -1,0 +1,8 @@
+
+Csquid:S14810"'Remove this unused "ss" local variable.(ÙâÅ™øÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck "Remove this empty statement.(Ÿùûÿÿÿÿÿ
+^squid:S2094,"BRemove this empty class, write its code or make it an "interface".(ÅÁ‹Åúÿÿÿÿ
+=squid:S14813"'Remove this unused "zz" local variable.(¶Ù'
+>squid:S14815"'Remove this unused "bb" local variable.( ¹©‡
+Csquid:S14812"'Remove this unused "ww" local variable.(Ö¨Çëûÿÿÿÿ
+>squid:S14814"'Remove this unused "aa" local variable.(ÓÙõå

@@ -1,6 +1,5 @@
 import java.io.Console;
 import java.util.*;
-import javax.lang.model.util.ElementScanner6;
 
 class inputDemo {
      public static void main(String[] args) {

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="workspace:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/artifacts/workspace_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="workspace/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="lib">
+        <element id="archive" name="workspace.jar">
+          <element id="module-output" name="workspace" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

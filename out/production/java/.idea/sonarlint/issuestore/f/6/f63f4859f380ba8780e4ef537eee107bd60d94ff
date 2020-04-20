@@ -1,0 +1,9 @@
+
+l
+java:S1874#"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(†Ôþ–ûÿÿÿÿ8¢Ÿ—Û—.
+H
+java:S1174#"&Make this finalize() method protected.(†Ôþ–ûÿÿÿÿ8¢Ÿ—Û—.
+O
+java:S1113#"-Do not override the Object.finalize() method.(†Ôþ–ûÿÿÿÿ8¢Ÿ—Û—.
+q
+java:S12152"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¢Ÿ—Û—.
