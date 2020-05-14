@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/arrayList類/C1131.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/javaDoc產生java文檔/ArrayTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/反射機制/III獲取Class中的字段/ReflectDemo3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/反射機制/II獲取Class中的構造函數/ReflectDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/反射機制/IV獲取Class中的方法/ReflectDemo4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/反射機制/I獲取class的三種方式/ReflectDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/反射機制/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/反射機制/V反射練習/ReflectTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/反射機制/V反射練習/pci.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/常用API/正則表達式/RegexDemo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/常用API/正則表達式/常用的正则表达式字符" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/毕向东Java/day03/if和switch.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/毕向东Java/day09/AbstractDemo.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/網路編程/ie_server/MyBrowser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/網路編程/ie_server/MyTomcat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/網路編程/ie_server/URLDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/網路編程/iegui/MyBrowseGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/網路編程/uploadpic/UploadPicClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/網路編程/uploadpic/UploadPicServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/網路編程/uploadpic/UploadTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/網路編程/網絡編程.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/繼承/I/ExtendsDemo.java" charset="UTF-8" />
-    <file url="PROJECT" charset="UTF-8" />
+    <file url="PROJECT" charset="x-windows-950" />
   </component>
 </project>

@@ -1,9 +1,9 @@
 
-A
-java:S1481S"&Remove this unused "d" local variable.(Ìæô¦üÿÿÿÿ
 X
 java:S2094H"BRemove this empty class, write its code or make it an "interface".(€Õ±ä
-f
-java:S12062"PThis class overrides "equals()" and should therefore also override "hashCode()".( ÙÚ‰
+A
+java:S1481S"&Remove this unused "d" local variable.(Ìæô¦üÿÿÿÿ
 =
 java:S1481R"'Remove this unused "p2" local variable.(ë‚çÆ
+f
+java:S12062"PThis class overrides "equals()" and should therefore also override "hashCode()".( ÙÚ‰

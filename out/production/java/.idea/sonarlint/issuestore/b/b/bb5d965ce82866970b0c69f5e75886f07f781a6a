@@ -1,0 +1,9 @@
+
+“
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ö»ä€ýÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(¹ïîžøÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.( ì„–
+b
+java:S2095 "LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(£Íû¦
