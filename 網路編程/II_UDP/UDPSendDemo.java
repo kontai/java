@@ -1,11 +1,9 @@
-package 網路編程.UDP;
+package 網路編程.II_UDP;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
-import java.net.SocketException;
-import java.net.UnknownHostException;
 
 public class UDPSendDemo {
 
@@ -34,7 +32,7 @@ public class UDPSendDemo {
         byte[] buf = str.getBytes();
 
         DatagramPacket dp =
-                new DatagramPacket(buf, buf.length, InetAddress.getByName("192.168.1.100"), 10000);
+                new DatagramPacket(buf, buf.length, InetAddress.getByName("localhost"), 10000);
 
 
         //3，通過udp的socket服務將數據包發送出去。使用send方法。

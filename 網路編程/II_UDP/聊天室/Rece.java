@@ -1,4 +1,4 @@
-package 網路編程.UDP.聊天室;
+package 網路編程.II_UDP.聊天室;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;

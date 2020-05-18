@@ -1,12 +1,12 @@
-package 網路編程.TCP;
+package 網路編程.III_TCP;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.OutputStream;
+import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-public class ClientDemo2 {
+public class ClientDemo {
 
 	/**
 	 * @param args
@@ -28,37 +28,24 @@ public class ClientDemo2 {
 		 */
 		
 		
-		
-		Socket socket = new Socket("192.168.1.100",10002);
-		
-		
-		OutputStream out = socket.getOutputStream();	
-		
-		
+		//創建客戶端socket服務。
+		Socket socket = new Socket(InetAddress.getLocalHost(),10002);
+
+		//獲取socket流中的輸出流。
+		OutputStream out = socket.getOutputStream();
+
+
+		//使用輸出流將指定的數據寫出去。
 		out.write("tcp演示：哥們又來了!".getBytes());
-		
-		
-		
-		//讀取服務端返回的數據,使用socket讀取流。 
-		InputStream in = socket.getInputStream();
-		byte[] buf = new byte[1024];
-		
-		int len = in.read(buf);
-		
-		String  text = new String(buf,0,len);
-		
-		System.out.println(text);
-		
-		
-		
+
 		//關閉資源。
 		socket.close();
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
 	}
 
 }

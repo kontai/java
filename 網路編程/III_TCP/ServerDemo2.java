@@ -1,4 +1,4 @@
-package 網路編程.TCP;
+package 網路編程.III_TCP;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -6,7 +6,7 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class ServerDemo {
+public class ServerDemo2 {
 
 	/**
 	 * @param args
@@ -28,7 +28,7 @@ public class ServerDemo {
 		ServerSocket ss = new ServerSocket(10002);
 		
 		//2,獲取連接過來的客戶端對象。
-		Socket s = ss.accept();//阻塞式.
+		Socket s = ss.accept();
 		
 		String ip = s.getInetAddress().getHostAddress();
 		
@@ -43,9 +43,10 @@ public class ServerDemo {
 		
 		
 		
+		//使用客戶端socket對象的輸出流給客戶端返回數據
+		OutputStream out = s.getOutputStream();
+		out.write("收到".getBytes());
 		
-		
-				
 		s.close();
 		ss.close();
 		
