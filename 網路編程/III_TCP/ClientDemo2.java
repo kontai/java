@@ -3,6 +3,7 @@ package 網路編程.III_TCP;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
@@ -29,7 +30,7 @@ public class ClientDemo2 {
 		
 		
 		
-		Socket socket = new Socket("192.168.1.100",10002);
+		Socket socket = new Socket(InetAddress.getLocalHost(),10002);
 		
 		
 		OutputStream out = socket.getOutputStream();	

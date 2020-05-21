@@ -1,5 +1,0 @@
-
-f
-java:S2095 "DUse try-with-resources or close this "Socket" in a "finally" clause.(‹·ÔÆüÿÿÿÿ8Ú¿¼ö—.
-“
-java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ö»ä€ýÿÿÿÿ

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="NO_ENCODING">
     <file url="file://$PROJECT_DIR$/arrayList類/C1131.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/javaDoc產生java文檔/ArrayTool.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/反射機制/III獲取Class中的字段/ReflectDemo3.java" charset="UTF-8" />
@@ -12,6 +12,10 @@
     <file url="file://$PROJECT_DIR$/反射機制/V反射練習/pci.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/常用API/正則表達式/RegexDemo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/常用API/正則表達式/常用的正则表达式字符" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/正則表達式/III_示例/RegexTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/正則表達式/III_示例/RegexTest2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/正則表達式/II_常見功能/RegexDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/正則表達式/I_概述/RegexDemo.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/網路編程/ie_server/MyBrowser.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/網路編程/ie_server/MyTomcat.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/網路編程/ie_server/URLDemo.java" charset="UTF-8" />
@@ -20,7 +24,8 @@
     <file url="file://$PROJECT_DIR$/網路編程/uploadpic/UploadPicServer.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/網路編程/uploadpic/UploadTask.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/網路編程/網絡編程.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/練習/Test0324/printDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/練習/test0521/readAndWrite.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/繼承/I/ExtendsDemo.java" charset="UTF-8" />
-    <file url="PROJECT" charset="x-windows-950" />
   </component>
 </project>

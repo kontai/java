@@ -1,10 +1,12 @@
-package Test0324;
+package 練習.Test0324;
 
 import java.io.File;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Iterator;
+import java.util.TreeSet;
 
 public class printDemo {
     public static void main(String[] args) throws ParseException
@@ -26,9 +28,10 @@ public class printDemo {
 */
 
         File file = new File("d:\\workspace\\JAVA");
-//        ShowDirectory("d:\\driver");
-        System.out.println(DateFormat.getDateTimeInstance().format(getLatestModifiedDate(file)));
+        ShowDirectory(new File("d:\\driver"));
+//        System.out.println(DateFormat.getDateTimeInstance().format(getLatestModifiedDate(file)));
         ;
+        showTree();
 
     }
 
@@ -37,9 +40,12 @@ public class printDemo {
 //        File dir = new File(in);
         if (dir.exists())
         {
-            for (String str : dir.list())
+            File[] fileList=dir.listFiles();
+            for (File str : fileList)
             {
-                System.out.println(str + "  " + new File(str).lastModified());
+                Date date =new Date(dir.lastModified()) ;
+//                System.out.println(str + "  " + DateFormat.getDateTimeInstance().format(date));
+                System.out.println(str.getName()+ "  " + new SimpleDateFormat("YY/MM/dd").format(date));
             }
         }
     }
@@ -59,5 +65,17 @@ public class printDemo {
             }
         }
         return Math.max(latestDate, dir.lastModified());
+    }
+
+    private  static void showTree()
+    {
+        TreeSet ts=new TreeSet();
+        ts.add("an");
+        ts.add("ss");
+        Iterator<String> it=ts.iterator();
+        while(it.hasNext())
+        {
+            System.out.println(it.next());
+        }
     }
 }
