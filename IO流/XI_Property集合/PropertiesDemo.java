@@ -1,6 +1,7 @@
 package IO流.XI_Property集合;
 
 import java.io.*;
+import java.util.Enumeration;
 import java.util.Properties;
 import java.util.Set;
 
@@ -29,7 +30,7 @@ public class PropertiesDemo {
 		
 //		methodDemo_4();
 //		myLoad();
-		
+
 		test();
 	}
 	
@@ -180,7 +181,7 @@ public class PropertiesDemo {
 		
 		//取出所有元素。
 		Set<String> names = prop.stringPropertyNames();
-		
+
 		for(String name : names){
 			String value = prop.getProperty(name);
 			System.out.println(name+":"+value);
