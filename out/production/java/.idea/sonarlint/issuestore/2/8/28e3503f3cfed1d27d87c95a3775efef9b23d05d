@@ -1,20 +1,20 @@
 
->	Web:S1827	")Remove this deprecated "width" attribute.(ÿΑνϊ
-HWeb:TableWithoutCaptionCheck" Add a description to this table.(ÿΑνϊ
-D	Web:S1827	"/Remove this deprecated "cellspacing" attribute.(ÿΑνϊ
-HWeb:TableWithoutCaptionCheck	" Add a description to this table.(ÿΑνϊ
-D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(ÿΑνϊ
-Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(χΓϋÿÿÿÿ
-l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ψω ώÿÿÿÿ
-D	Web:S1827""/Remove this deprecated "bordercolor" attribute.(ÿΑνϊ
-D	Web:S1827""/Remove this deprecated "cellspacing" attribute.(ÿΑνϊ
-f Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Τέ«
-D	Web:S1827	"/Remove this deprecated "bordercolor" attribute.(ÿΑνϊ
-D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(ÿΑνϊ
-D	Web:S1827"/Remove this deprecated "bordercolor" attribute.(ÿΑνϊ
 D	Web:S1827""/Remove this deprecated "cellpadding" attribute.(ÿΑνϊ
->	Web:S1827"")Remove this deprecated "width" attribute.(ÿΑνϊ
-g Web:TableHeaderHasIdOrScopeCheck%";Add either an 'id' or a 'scope' attribute to this <th> tag.(ύΥΎ΅
 >	Web:S1827")Remove this deprecated "width" attribute.(ÿΑνϊ
+g Web:TableHeaderHasIdOrScopeCheck%";Add either an 'id' or a 'scope' attribute to this <th> tag.(ύΥΎ΅
+>	Web:S1827"")Remove this deprecated "width" attribute.(ÿΑνϊ
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(ÿΑνϊ
+D	Web:S1827"/Remove this deprecated "bordercolor" attribute.(ÿΑνϊ
+HWeb:TableWithoutCaptionCheck	" Add a description to this table.(ÿΑνϊ
+D	Web:S1827	"/Remove this deprecated "cellspacing" attribute.(ÿΑνϊ
+>	Web:S1827	")Remove this deprecated "width" attribute.(ÿΑνϊ
 l Web:TableHeaderHasIdOrScopeCheck&";Add either an 'id' or a 'scope' attribute to this <th> tag.(όΞΪύÿÿÿÿ
 D	Web:S1827	"/Remove this deprecated "cellpadding" attribute.(ÿΑνϊ
+l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ψω ώÿÿÿÿ
+D	Web:S1827""/Remove this deprecated "bordercolor" attribute.(ÿΑνϊ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(χΓϋÿÿÿÿ
+D	Web:S1827""/Remove this deprecated "cellspacing" attribute.(ÿΑνϊ
+D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(ÿΑνϊ
+D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(ÿΑνϊ
+D	Web:S1827	"/Remove this deprecated "bordercolor" attribute.(ÿΑνϊ
+f Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Τέ«
