@@ -1,8 +1,0 @@
-
-d
-java:S2095+"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯
->	java:S108J")Either remove or fill this block of code.(ï­£Ä
-i
-java:S4042>"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¸´¨ıÿÿÿÿ
-W
-java:S1075 "ARefactor your code to get this URI from a customizable parameter.(ùŠ¤ã

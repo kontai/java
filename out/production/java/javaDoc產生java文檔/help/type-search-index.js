@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"IO流.I_FileStream.test","l":"CopyTestTest"}]

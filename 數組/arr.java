@@ -1,4 +1,4 @@
-package 數組;
+//package 數組;
 
 class arr {
     public static void main(String[] args) {

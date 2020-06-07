@@ -1,9 +1,0 @@
-
-O
-java:S4719 "9Replace charset name argument with StandardCharsets.UTF_8(–ãƒ“
-a
-java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(½¨˜¡üÿÿÿÿ
-T
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(½¨˜¡üÿÿÿÿ
-‡
-java:S1192"eDefine a constant instead of duplicating this literal "IOæµ\\XX_commons_APIä½¿ç”¨\\emp.txt" 4 times.(½¨˜¡üÿÿÿÿ8äı‹®¤.

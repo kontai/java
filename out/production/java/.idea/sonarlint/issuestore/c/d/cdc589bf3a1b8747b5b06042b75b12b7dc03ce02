@@ -1,9 +1,0 @@
-
-h
-java:S1192"FDefine a constant instead of duplicating this literal "lisi2" 3 times.(ø˜¥²ıÿÿÿÿ8ÈºìŸ‰.
-’
-java:S1319P"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜îÏÃûÿÿÿÿ8ÈºìŸ‰.
-
-java:S1319P"mThe type of the "al" object should be an interface such as "List" rather than the implementation "ArrayList".(˜îÏÃûÿÿÿÿ8ÈºìŸ‰.
-I
-java:S14813"'Remove this unused "it" local variable.(Ã¾”ıÿÿÿÿ8ÈºìŸ‰.

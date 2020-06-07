@@ -1,7 +1,0 @@
-
-Wsquid:S4973"9Use the "equals" method if value comparison was intended.(Ôë¶€8´ºœÄ.
-?squid:S2129"!Remove this "Integer" constructor(Şñüæ8´ºœÄ.
-csquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(Ü­Å“ÿÿÿÿÿ8´ºœÄ.
-Dsquid:S2129"!Remove this "Integer" constructor(Ü­Å“ÿÿÿÿÿ8´ºœÄ.
-^squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(Şñüæ8´ºœÄ.
-Wsquid:S4973"9Use the "equals" method if value comparison was intended.(ï…“Õ8´ºœÄ.

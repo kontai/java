@@ -1,8 +1,0 @@
-
->
-java:S1170("!Make this final field static too.(Ï»Ÿ¥8š‹˜Ê‹.
-o	java:S116("SRename this field "BUFFSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï»Ÿ¥8š‹˜Ê‹.
-\
-java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8èùÖÊ‹.
-j
-java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.( ƒ«·úÿÿÿÿ8¹óÙÊ‹.
