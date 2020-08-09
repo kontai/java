@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õí©£ùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€†§£ùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(³óáÉúÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Í“şÄ
+h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¹àõıÿÿÿÿ
+c	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıòš
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¯ÿ¡Éıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ğ¡ùÿÿÿÿ
+J
+java:S1144+"/Remove this unused private "PrintDemo2" method.(¼¹àõıÿÿÿÿ
+E
+java:S11448"/Remove this unused private "PrintDemo1" method.(ıòš

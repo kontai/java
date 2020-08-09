@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<demo>
-    <servlet>
-        <server-name>login</server-name>
-    </servlet>
-</demo>

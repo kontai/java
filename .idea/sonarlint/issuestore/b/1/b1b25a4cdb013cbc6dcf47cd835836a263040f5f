@@ -1,0 +1,9 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‚š‰1
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Éµ»ñÿÿÿÿÿ
+
+java:S1598"zThis file "SpiderTest01.java" should be located in "com\sxt\loc" directory, not in "D:\workspace\JAVA\ç¶²è·¯ç·¨ç¨‹\day01".(ä¸©Æ
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Éµ»ñÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ˆ÷ÆÛ

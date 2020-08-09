@@ -1,0 +1,17 @@
+
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(™©ôÃøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+w
+java:S1488&"\Immediately return this expression instead of assigning it to the temporary variable "inet".(ú•çüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À¾İ˜
+n
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Ù„Åıÿÿÿÿ8¡ÂĞÀº.
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÔ„8Æ£–Éº.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º‰š
+I
+java:S1144".Remove this unused private "getString" method.(ê¶šÅÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”×şòÿÿÿÿÿ8é•éÀº.
+Q	java:S125'"<This block of commented-out lines of code should be removed.(Î­ğœ
+N
+java:S1144$",Remove this unused private "getAddr" method.(‡øı»ùÿÿÿÿ8¥ÄØÀº.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ä¹¬‚

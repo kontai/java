@@ -1,0 +1,10 @@
+
+f
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(á†ÅŠÿÿÿÿÿ8Óñ†èº.
+D
+java:S2189""Add an end condition to this loop.(…Ó¡Çúÿÿÿÿ8Ûíêº.
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(‚š‰18–ÿÜêº.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²µı³ùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ú±8Áä¬èº.
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(…Ó¡Çúÿÿÿÿ8Ûíêº.
