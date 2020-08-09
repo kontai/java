@@ -1,11 +1,0 @@
-
-
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹À¿ãşÿÿÿÿ8Úİ¸œŠ.
-Q
-java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8…½ÒšŠ.
-™
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¹À¿ãşÿÿÿÿ8Úİ¸œŠ.
-K
-java:S1481")Remove this unused "time" local variable.(é´û¥şÿÿÿÿ8ÃæÉ›Š.
-L
-java:S1481"*Remove this unused "date2" local variable.(çëÁÕøÿÿÿÿ8Ûç›Š.

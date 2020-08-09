@@ -1,0 +1,14 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(íÉÑÿÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(¨ä¼ƒúÿÿÿÿ
+Q	java:S125="<This block of commented-out lines of code should be removed.(ñ¥ğı
+c	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÂî™
+Q	java:S125#"<This block of commented-out lines of code should be removed.(ëëˆ
+i
+java:S20958"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ú¬µüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ûû‚úÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­°ÎÓ
+V	java:S125 "<This block of commented-out lines of code should be removed.(·ÚÄªûÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(ğ±»ï

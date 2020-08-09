@@ -1,4 +1,4 @@
-package IO流.XX_commons_API使用;
+//package IO流.XX_commons_API使用;
 
 import java.io.File;
 import java.util.Collection;

@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®³œç8ùÎÏí¨.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¸Â8ùÎÏí¨.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»Äÿ«ùÿÿÿÿ8ùÎÏí¨.
+T
+java:S1854"7Remove this useless assignment to local variable "arr".(¦ÄèÕ8ùÎÏí¨.
+]	java:S125"<This block of commented-out lines of code should be removed.(™ã™ıÿÿÿÿ8ùÎÏí¨.
+E
+java:S1481"(Remove this unused "arr" local variable.(¦ÄèÕ8ùÎÏí¨.
+X	java:S125"<This block of commented-out lines of code should be removed.(ã°‹Ë8ùÎÏí¨.

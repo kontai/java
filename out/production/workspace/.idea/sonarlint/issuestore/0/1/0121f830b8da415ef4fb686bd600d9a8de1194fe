@@ -1,13 +1,0 @@
-
-j
-java:S1192"HDefine a constant instead of duplicating this literal "zhaoliu" 3 times.( Ñ°ÿÿÿÿÿ8éÍªà.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Éâ¯8éÍªà.
-
-java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´Ò¾Ç8éÍªà.
-\
-java:S1118w":Add a private constructor to hide the implicit public one.(Ş÷ÁÙüÿÿÿÿ8éÍªà.
-
-java:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÜÎ«8éÍªà.
-W
-java:S1118x":Add a private constructor to hide the implicit public one.(‡ë¬¶8éÍªà.

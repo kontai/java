@@ -1,10 +1,13 @@
-package test0225;
+//package test0225;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * @author kontai
+ */
 public class CollectP {
     public static void main(String[] args)
     {

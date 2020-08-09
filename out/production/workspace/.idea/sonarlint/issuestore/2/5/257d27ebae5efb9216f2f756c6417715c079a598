@@ -1,7 +1,0 @@
-
-o
-java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¶±ö«
-d
-java:S2095="NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(åüª­
-l
-java:S2095;"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(°á°¢øÿÿÿÿ

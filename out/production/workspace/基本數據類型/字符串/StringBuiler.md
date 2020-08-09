@@ -1,1 +1,0 @@
-![](.StringBuiler_images/stringBuiler.png)

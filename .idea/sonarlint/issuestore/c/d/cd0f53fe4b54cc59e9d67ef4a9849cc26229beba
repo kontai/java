@@ -1,0 +1,24 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "a.txt" 3 times.(‡Á†¤ûÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‡Á†¤ûÿÿÿÿ
+B
+java:S1481"'Remove this unused "f2" local variable.(‡Á†¤ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(†ÿ…Ó
+L
+java:S1854"6Remove this useless assignment to local variable "f3".(š‚Ø
+Q
+java:S1854"6Remove this useless assignment to local variable "f2".(‡Á†¤ûÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "f1".(Å¯é£þÿÿÿÿ
+=
+java:S1481"'Remove this unused "f3" local variable.(š‚Ø
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†­ÿ¨
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Å¯é£þÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(´ÛÀÖûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬Áø„ÿÿÿÿÿ
+B
+java:S1481"'Remove this unused "f1" local variable.(Å¯é£þÿÿÿÿ

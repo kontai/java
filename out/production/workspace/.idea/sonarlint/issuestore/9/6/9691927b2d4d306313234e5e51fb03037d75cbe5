@@ -1,9 +1,0 @@
-
-a
-java:S1130#"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(•€ÈÁ
-k
-java:S2095%"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Êˆ¼ªÿÿÿÿÿ
-e
-java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÖÃà‘
-†
-java:S2118'"pMake the "IOæµ.XIV_ObjectIOStreamå°è±¡çš„åºåˆ—åŒ–èˆ‡ååºåˆ—.Person" class "Serializable" or don't write it.(ÈÄ¥™

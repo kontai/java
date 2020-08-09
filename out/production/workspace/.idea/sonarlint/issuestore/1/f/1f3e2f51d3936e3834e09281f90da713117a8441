@@ -1,7 +1,0 @@
-
-
-java:S11300"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¸ÔŸ
-^
-java:S20951"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÂÄçì
-g
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÀÑàíıÿÿÿÿ

@@ -1,0 +1,30 @@
+
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+f
+java:S2095="PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(ô®ò—
+^
+java:S2095&"HUse try-with-resources or close this "FileReader" in a "finally" clause.(“İƒ
+^
+java:S2095V"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(£…íÖ
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(²ÂÉ†
+e
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(²ÂÉ†
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¿úå
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+c	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬£·“
+c	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÏ ¯
+O
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(í›³
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æø‘÷ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á¿—Êùÿÿÿÿ
+h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒöÜÓüÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(Íæ·‹üÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
+`
+java:S1192"JDefine a constant instead of duplicating this literal "gbk_1.txt" 3 times.(²ÂÉ†
+f
+java:S20954"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(í›³
+
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ô¿úå

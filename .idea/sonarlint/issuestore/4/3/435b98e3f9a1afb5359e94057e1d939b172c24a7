@@ -1,0 +1,19 @@
+
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(šÈÍÙùÿÿÿÿ
+c	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‘Ñ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Î¾Åãüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(âÂû
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëê†•
+W
+java:S1075'"ARefactor your code to get this URI from a customizable parameter.(ŒÔ¬Ä
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÌĞİ–ûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ì¯•ùÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÖÒ’ùÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ŒÔ¬Ä
+W
+java:S10755"ARefactor your code to get this URI from a customizable parameter.(ë¦åİ

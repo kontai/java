@@ -1,0 +1,12 @@
+
+d
+java:S2095+"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ΐψ―
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(―‡«―ψÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ύσ‡Ϋ
+W
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(ω¤γ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(–ζ¦
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Έ΄¨ύÿÿÿÿ
+i
+java:S4042>"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Έ΄¨ύÿÿÿÿ
+>	java:S108J")Either remove or fill this block of code.(ο­£Δ

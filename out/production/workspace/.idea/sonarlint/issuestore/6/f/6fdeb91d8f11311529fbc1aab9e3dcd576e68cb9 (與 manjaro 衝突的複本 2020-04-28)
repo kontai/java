@@ -1,9 +1,0 @@
-
-a
-java:S2142?"FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ
-C	java:S108&")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-a
-java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ
-x	java:S116"WRename this field "consumer_con" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Óòıÿÿÿÿ8½¤©‰.
-C	java:S108@")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-r	java:S116"VRename this field "product_con" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æç·À8œä¨‰.

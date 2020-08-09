@@ -1,0 +1,15 @@
+
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Ïµ•‘şÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯‡«¯øÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+J
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+V	java:S125"<This block of commented-out lines of code should be removed.(¨îÁüÿÿÿÿ

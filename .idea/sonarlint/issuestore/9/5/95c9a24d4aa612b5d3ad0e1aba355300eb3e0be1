@@ -1,0 +1,10 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ«¥\
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éô·üÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¿ ‰¼ûÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(å€×ÿÿÿÿÿ
+P
+java:S1161,":Add the "@Override" annotation above this method signature(¥é–
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¿ ‰¼ûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(å€×ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(õ…¿Îøÿÿÿÿ

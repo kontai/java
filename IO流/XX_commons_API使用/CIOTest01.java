@@ -1,8 +1,7 @@
-package IO流.XX_commons_API使用;
+import org.apache.commons.io.FileUtils;
+
 
 import java.io.File;
-
-import org.apache.commons.io.FileUtils;
 
 /**
  * 大小
