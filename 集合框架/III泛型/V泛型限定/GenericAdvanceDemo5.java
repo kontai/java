@@ -33,7 +33,7 @@ public class GenericAdvanceDemo5 {
 		printCollection(al4);
 
 		
-//		"abc".equals(new Person("ahahah",20));
+//		"abc".equals(new com.sxt.server.basic.Person("ahahah",20));
 		
 		
 		

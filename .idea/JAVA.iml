@@ -48,6 +48,30 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/test0809/Demo01" relative="/WEB-INF" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/JDBC" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/IO流/XX_commons_API使用" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0809/new" />
+        </sourceRoots>
       </configuration>
     </facet>
   </component>
@@ -76,6 +100,11 @@
       <sourceFolder url="file://$MODULE_DIR$/練習/test0808/Demo1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/練習/test0809/Demo01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/練習/test0809/new" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/手寫webserver/03_server" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/手寫webserver/04+server" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/手寫webserver/01_Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/練習/test0809/Demo02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/練習/test0810/Demo01" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/mysql-connector-java-5.1.49" />
     </content>
     <orderEntry type="inheritedJdk" />

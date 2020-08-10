@@ -31,7 +31,7 @@ public class Server04 {
 			Socket client = serverSocket.accept();
 			System.out.println("一个客户端建立了连接....");
 			//获取请求协议
-			com.shsxt.server.Request1 request =new com.shsxt.server.Request1(client);
+			Request1 request =new Request1(client);
 			
 			Response response =new Response(client);
 			//关注了内容

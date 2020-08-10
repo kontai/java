@@ -1,10 +1,10 @@
 
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(©şøùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Á»ŒÙıÿÿÿÿ
 œ
 java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À–®»ÿÿÿÿÿ
-G
-java:S1481"",Remove this unused "request" local variable.(‰æËßşÿÿÿÿ
-S	java:S1064"9Replace this use of System.out or System.err by a logger.(Á»ŒÙıÿÿÿÿ
 S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¯ûÿÿÿÿ
+G
+java:S1481"",Remove this unused "request" local variable.(Ú®šñøÿÿÿÿ
 V
-java:S1854"";Remove this useless assignment to local variable "request".(‰æËßşÿÿÿÿ
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(©şøùÿÿÿÿ
+java:S1854"";Remove this useless assignment to local variable "request".(Ú®šñøÿÿÿÿ

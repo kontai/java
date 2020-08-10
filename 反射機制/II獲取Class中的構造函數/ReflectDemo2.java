@@ -19,7 +19,7 @@ public class ReflectDemo2 {
 	
 	public static void createNewObject_2() throws Exception {
 		
-//		反射機制.Person p = new 反射機制.Person("小強",39);
+//		反射機制.com.sxt.server.basic.Person p = new 反射機制.com.sxt.server.basic.Person("小強",39);
 		
 		/*
 		 * 當獲取指定名稱對應類中的所體現的對象時，
@@ -29,7 +29,7 @@ public class ReflectDemo2 {
 		 * 該方法是：getConstructor(paramterTypes);
 		 * 
 		 */
-		String name = "反射機制.Person";
+		String name = "反射機制.com.sxt.server.basic.Person";
 		//找尋該名稱類文件，並加載進內存，並產生Class對象。
 		Class clazz = Class.forName(name);
 		//獲取到了指定的構造函數對  象。
@@ -47,10 +47,10 @@ public class ReflectDemo2 {
 		
 		//早期：new時候，先根據被new的類的名稱找尋該類的字節碼文件，並加載進內存，
 //		並創建該字節碼文件對象，並接著創建該字節文件的對應的Person對像.
-//		反射機制.Person p = new 反射機制.Person();
+//		反射機制.com.sxt.server.basic.Person p = new 反射機制.com.sxt.server.basic.Person();
 		
 		//現在：
-		String name = "反射機制.Person";
+		String name = "反射機制.com.sxt.server.basic.Person";
 		//找尋該名稱類文件，並加載進內存，並產生Class對象。
 		Class clazz = Class.forName(name);
 		//如何產生該類的對象呢？

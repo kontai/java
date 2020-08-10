@@ -28,7 +28,7 @@ public class XmlTest02 {
 		WebHandler handler=new WebHandler();
 		//5、解析
 		parse.parse(Thread.currentThread().getContextClassLoader()
-		.getResourceAsStream("com/sxt/server/basic/servlet/web-template.xml")
+		.getResourceAsStream("web.xml")
 		,handler);
 		
 		//获取数据

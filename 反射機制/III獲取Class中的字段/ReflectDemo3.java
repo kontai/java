@@ -19,7 +19,7 @@ public class ReflectDemo3 {
 	 */
 	public static void getFieldDemo() throws Exception {
 		
-		Class clazz = Class.forName("反射機制.Person");
+		Class clazz = Class.forName("反射機制.com.sxt.server.basic.Person");
 		
 		Field field = null;//clazz.getField("age");//只能獲取公有的，
 		
@@ -37,7 +37,7 @@ public class ReflectDemo3 {
 		
 		System.out.println(o);
 		
-//		反射機制.Person p = new 反射機制.Person();
+//		反射機制.com.sxt.server.basic.Person p = new 反射機制.com.sxt.server.basic.Person();
 //		p.age = 30;
 		
 	}

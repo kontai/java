@@ -53,12 +53,12 @@ class StaticDemo
 	int num = 4;
 	public static void main(String[] args)
 	{
-//		Person  p = new Person();
+//		com.sxt.server.basic.Person  p = new com.sxt.server.basic.Person();
 //		p.name = "小强";
 //		p.show();
 //		System.out.println(p.country);
-//		System.out.println(Person.country);
-//		Person.show();
+//		System.out.println(com.sxt.server.basic.Person.country);
+//		com.sxt.server.basic.Person.show();
 		new StaticDemo().show();
 	}
 

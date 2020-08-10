@@ -10,7 +10,7 @@ public class Person {
 		this.age = age;
 		this.name = name;
 		
-		System.out.println("Person param run..."+this.name+":"+this.age);
+		System.out.println("com.sxt.server.basic.Person param run..."+this.name+":"+this.age);
 	
 	}
 	public Person() {

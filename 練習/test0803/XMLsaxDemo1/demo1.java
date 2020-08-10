@@ -10,6 +10,6 @@ public class demo1 {
         SAXParserFactory saxfac=SAXParserFactory.newDefaultInstance();
 //        SAXParser parser= SAXParserFactory.newInstance().newSAXParser();
         SAXParser parser=saxfac.newSAXParser();
-//        parser.parse(Person.getInpu)
+//        parser.parse(com.sxt.server.basic.Person.getInpu)
     }
 }

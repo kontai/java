@@ -1,9 +1,9 @@
 
-ˆ
-java:S1598"tThis file "IPTest.java" should be located in "com\sxt\loc" directory, not in "D:\workspace\JAVA\ç¶²è·¯ç·¨ç¨‹\day01".(ä¸©Æ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(üËæçøÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(¤îÿ¿şÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(”¡³ıÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(£¢š“ıÿÿÿÿ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(Œš£Á
-L	java:S106"9Replace this use of System.out or System.err by a logger.(Ò€¼œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”¡³ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤îÿ¿şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üËæçøÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Œš£Á
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ò€¼œ
+Š
+java:S1598"tThis file "IPTest.java" should be located in "com\sxt\loc" directory, not in "D:\workspace\JAVA\ç¶²è·¯ç·¨ç¨‹\day01".(ä¸©Æ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£¢š“ıÿÿÿÿ

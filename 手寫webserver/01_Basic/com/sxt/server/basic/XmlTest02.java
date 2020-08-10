@@ -1,4 +1,4 @@
-//package 手寫webserver.01_Basic;
+package com.sxt.server.basic;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -18,6 +18,7 @@ import org.xml.sax.helpers.DefaultHandler;
  * @author 裴新 QQ:3401997271
  *
  */
+
 public class XmlTest02 {
 
 	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {

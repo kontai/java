@@ -82,15 +82,15 @@ class StaticCodeDemo
 	public static void main(String[] args)
 	{
 
-//		Person p = null;
+//		com.sxt.server.basic.Person p = null;
 //		p.speak();
 
-//		Person.show();
-//		Person p1 = new Person();
+//		com.sxt.server.basic.Person.show();
+//		com.sxt.server.basic.Person p1 = new com.sxt.server.basic.Person();
 //		p1.speak();
-//		Person p2 = new Person("旺财");
+//		com.sxt.server.basic.Person p2 = new com.sxt.server.basic.Person("旺财");
 //		p2.speak();
-//		new Person();
+//		new com.sxt.server.basic.Person();
 
 
 //		new StaticCode().show();

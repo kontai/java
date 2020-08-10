@@ -20,7 +20,7 @@ public class ArrayListTest {
 		
 		Iterator it = al.iterator();
 		while(it.hasNext()){
-//			System.out.println(((Person) it.next()).getName()+"::"+((Person) it.next()).getAge());
+//			System.out.println(((com.sxt.server.basic.Person) it.next()).getName()+"::"+((com.sxt.server.basic.Person) it.next()).getAge());
 			Person p = (Person) it.next();
 			System.out.println(p.getName()+"--"+p.getAge());
 		}

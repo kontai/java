@@ -1,7 +1,5 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(§›´‘
-7
-java:S1220""Move this file to a named package.8Íã“Íº.
 W
 java:S1075"ARefactor your code to get this URI from a customizable parameter.(£…Ò™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§›´‘
 N	java:S106"9Replace this use of System.out or System.err by a logger.(§›´‘

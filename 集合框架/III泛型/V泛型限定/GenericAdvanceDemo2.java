@@ -43,15 +43,15 @@ public class GenericAdvanceDemo2 {
      *
      * @param al
      */
-	/*public static void printCollection(Collection<? extends Person> al) //等同1Collection<Person> al = new ArrayList<Dog>(),錯誤，左右類型限定不匹配!
+	/*public static void printCollection(Collection<? extends com.sxt.server.basic.Person> al) //等同1Collection<com.sxt.server.basic.Person> al = new ArrayList<Dog>(),錯誤，左右類型限定不匹配!
 	{
-		Iterator<? extends Person> it = al.iterator();
+		Iterator<? extends com.sxt.server.basic.Person> it = al.iterator();
 
 		while(it.hasNext()){
 //			T str = it.next();
 //			System.out.println(str);
 //			System.out.println(it.next().toString());
-			Person p = it.next();
+			com.sxt.server.basic.Person p = it.next();
 
 			System.out.println(p.getName()+":"+p.getAge());
 		}

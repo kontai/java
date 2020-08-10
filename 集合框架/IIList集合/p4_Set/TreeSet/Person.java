@@ -16,10 +16,10 @@ public class Person implements Comparable {
     {
         if(this==obj)
             return true;
-        if(!(obj instanceof Person))
+        if(!(obj instanceof com.sxt.server.basic.Person))
             throw new ClassCastException();
         System.out.println(this+".....equals......"+obj);
-        Person p=(Person)obj;
+        com.sxt.server.basic.Person p=(com.sxt.server.basic.Person)obj;
         return this.name.equals(p.name) && this.age==p.age;
     }
 

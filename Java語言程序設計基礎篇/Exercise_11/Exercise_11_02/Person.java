@@ -1,14 +1,14 @@
 package Java語言程序設計基礎篇.Exercise_11.Exercise_11_02;
 
 /*****************************************
-*                Person                  *
+*                com.sxt.server.basic.Person                  *
 *----------------------------------------*
 * -name: String                          *
 * -address: String                       *
 * -phone: String                         *
 * -email: String                         *
-* +Person()                              *
-* +Person(name: String, address: String, *
+* +com.sxt.server.basic.Person()                              *
+* +com.sxt.server.basic.Person(name: String, address: String, *
 *  phone: String, email: String)         *
 * +getName(): String                     *
 * +getAddress(): String                  *
@@ -20,19 +20,19 @@ package Java語言程序設計基礎篇.Exercise_11.Exercise_11_02;
 * +setEmail(email: String): void         *
 * +toString(): String                    *
 *****************************************/
-// Implement Person class
+// Implement com.sxt.server.basic.Person class
 public class Person {
 	private String name;
 	private String address;
 	private String phone;
 	private String email;
 
-	/** Construct default Person object */
+	/** Construct default com.sxt.server.basic.Person object */
 	public Person() {
 		this("Unknown","Unknown","Unknown","Unknown");
 	}
 
-	/** Construct Person object with specified name, address, phone and email */
+	/** Construct com.sxt.server.basic.Person object with specified name, address, phone and email */
 	public Person(String name, String address, String phone, String email) {
 		this.name = name;
 		this.address = address;

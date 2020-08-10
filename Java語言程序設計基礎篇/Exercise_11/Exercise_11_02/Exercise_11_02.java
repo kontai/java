@@ -1,8 +1,8 @@
 package Java語言程序設計基礎篇.Exercise_11.Exercise_11_02;
 
 /*********************************************************************************
-* (The Person, Student, Employee, Faculty, and Staff classes) Design a           *
-* class named Person and its two subclasses named Student and Employee.          *
+* (The com.sxt.server.basic.Person, Student, Employee, Faculty, and Staff classes) Design a           *
+* class named com.sxt.server.basic.Person and its two subclasses named Student and Employee.          *
 * Make Faculty and Staff subclasses of Employee. A person has a name,            *
 * address, phone number, and email address. A student has a class status         *
 * (freshman, sophomore, junior, or senior). Define the status as a constant. An  *
@@ -11,13 +11,13 @@ package Java語言程序設計基礎篇.Exercise_11.Exercise_11_02;
 * member has office hours and a rank. A staff member has a title. Override the   *
 * toString method in each class to display the class name and the person’s name. *
 * Draw the UML diagram for the classes and implement them. Write a test program  *
-* that creates a Person, Student, Employee, Faculty, and Staff, and invokes      *
+* that creates a com.sxt.server.basic.Person, Student, Employee, Faculty, and Staff, and invokes      *
 * their toString() methods.                                                      *
 *********************************************************************************/
 public class Exercise_11_02 {
 	// Main method
 	public static void main(String[] args) {
-		// Create a Person, Student, Employee, Faculty, and Staff objects
+		// Create a com.sxt.server.basic.Person, Student, Employee, Faculty, and Staff objects
 		Person person = new Person("John", "12 Bell street", 
 			"3473339999", "john12@aol.com");
 
@@ -33,7 +33,7 @@ public class Exercise_11_02 {
 		Staff staff = new Staff("Tom", "90 Country road", "2030000000",
 			"tomcat@aol.com", 12, 65000, "Executive Assistant");
 
-		// Invoke toString of Person, Student, Employee, Faculty and Staff
+		// Invoke toString of com.sxt.server.basic.Person, Student, Employee, Faculty and Staff
 		System.out.println(person.toString());
 		System.out.println(student.toString());
 		System.out.println(employee.toString());

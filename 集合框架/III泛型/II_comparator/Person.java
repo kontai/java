@@ -21,7 +21,7 @@ public class Person implements Comparable<Person> {
 
     public int compareTo(Person p) {
 
-//		Person p = (Person)obj;
+//		com.sxt.server.basic.Person p = (com.sxt.server.basic.Person)obj;
         int temp = this.age - p.age;
         return temp == 0 ? this.name.compareTo(p.name) : temp;
     }
@@ -77,7 +77,7 @@ public class Person implements Comparable<Person> {
     @Override
     public String toString() {
 
-        return "Person:" + getName() + ":" + getAge();
+        return "com.sxt.server.basic.Person:" + getName() + ":" + getAge();
     }
 
 

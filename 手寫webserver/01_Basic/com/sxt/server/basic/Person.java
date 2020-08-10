@@ -1,4 +1,5 @@
-//package com.sxt.server.basic;
+package com.sxt.server.basic;
+
 public class Person {
 	private String name;
 	private int age;

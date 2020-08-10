@@ -40,7 +40,7 @@ public class ReflectDemo {
 	
 	public static void getClassObject_3() throws ClassNotFoundException {
 		
-		String className = "反射機制.Person";
+		String className = "反射機制.com.sxt.server.basic.Person";
 		
 		Class clazz = Class.forName(className);
 		

@@ -22,7 +22,7 @@ public class ReflectDemo4 {
 
 	public static void getMethodDemo_3() throws Exception {
 		
-		Class clazz = Class.forName("反射機制.Person");
+		Class clazz = Class.forName("反射機制.com.sxt.server.basic.Person");
 		
 		Method method = clazz.getMethod("paramMethod", String.class,int.class);
 		
@@ -35,7 +35,7 @@ public class ReflectDemo4 {
 
 	public static void getMethodDemo_2() throws Exception {
 		
-		Class clazz = Class.forName("反射機制.Person");
+		Class clazz = Class.forName("反射機制.com.sxt.server.basic.Person");
 		
 		Method method = clazz.getMethod("show", null);//獲取空參數一般方法。
 		
@@ -55,7 +55,7 @@ public class ReflectDemo4 {
 	 */
 	public static void getMethodDemo() throws Exception {
 		
-		Class clazz = Class.forName("反射機制.Person");
+		Class clazz = Class.forName("反射機制.com.sxt.server.basic.Person");
 		
 		Method[] methods  = clazz.getMethods();//獲取的都是公有的方法。 
 		methods = clazz.getDeclaredMethods();//只獲取本類中所有方法，包含私有。 

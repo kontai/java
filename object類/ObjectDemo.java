@@ -37,7 +37,7 @@ class Person {
 	}
 	/*
 	//比較Person的年齡。是否是同齡人
-	public boolean compare(Person p)
+	public boolean compare(com.sxt.server.basic.Person p)
 	{
 		return this.age == p.age;	
 	}
@@ -66,7 +66,7 @@ class Person {
 
 	public String toString()
 	{
-		return "Person :"+age;
+		return "com.sxt.server.basic.Person :"+age;
 	}
 }
 class Demo
@@ -92,12 +92,12 @@ class  ObjectDemo
 //		System.out.println(clazz1==clazz2);
 //		System.out.println(clazz1.getName());
 
-		System.out.println(p1.toString());//Person@61de33
-		System.out.println(p1.getClass().getName()+"$"+Integer.toHexString(p1.hashCode()));//Person@61de33
+		System.out.println(p1.toString());//com.sxt.server.basic.Person@61de33
+		System.out.println(p1.getClass().getName()+"$"+Integer.toHexString(p1.hashCode()));//com.sxt.server.basic.Person@61de33
 
 
 
-//		Person p3 = p1;
+//		com.sxt.server.basic.Person p3 = p1;
 
 //		Demo d = new Demo();
 

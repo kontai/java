@@ -6,6 +6,8 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 import java.io.IOException;
+import java.util.List;
+import java.util.Map;
 import java.util.logging.Filter;
 import java.util.logging.LogRecord;
 
@@ -29,17 +31,14 @@ public class SaxP01 {
 
 
 class DemoHandler extends DefaultHandler  {
-    static int ident = 0;
-
-    public DemoHandler()
-    {
-
-    }
+    private static  int ident = 0;
+    List<String> Entity=null;
+    Map<String,String[]> map=null;
 
     @Override
     public void startDocument() throws SAXException
     {
-        System.out.println("calling startDocument~");
+
     }
 
     @Override

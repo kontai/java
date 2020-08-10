@@ -1,30 +1,30 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãî“¬ÿÿÿÿÿ8Óßâ¿º.
-G
-java:S3457"%String contains no format specifiers.(Ãî“¬ÿÿÿÿÿ8Óßâ¿º.
-B
-java:S2129" Remove this "String" constructor(îŸüúÿÿÿÿ8è“¸Àº.
-P
-java:S1144".Remove this unused private "getString" method.(ê¶šÅÿÿÿÿÿ8½Ú¿º.
-X	java:S125"<This block of commented-out lines of code should be removed.(ëºÚŸ8½Ú¿º.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø‡Ìùÿÿÿÿ8½È¹Àº.
 ~
 java:S1488-"\Immediately return this expression instead of assigning it to the temporary variable "inet".(ú•çüÿÿÿÿ8ÁĞºÀº.
-h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†³ş8Ú»—Éº.
-M
-java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ğ Ù¿º.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º‰š
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(™©ôÃøÿÿÿÿ8°øµ¿º.
-X	java:S125."<This block of commented-out lines of code should be removed.(Î­ğœ8ÁĞºÀº.
-]	java:S125"<This block of commented-out lines of code should be removed.(¶û“ûÿÿÿÿ8‡’’¿º.
 K
 java:S1128"/Remove this unused import 'jdk.jfr.StackTrace'.(ŞŞçS8€ƒó¿º.
-M
-java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8œò¶Àº.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø‡Ìùÿÿÿÿ8½È¹Àº.
-G
-java:S3457"%String contains no format specifiers.(ø‡Ìùÿÿÿÿ8½È¹Àº.
 Z	java:S106&"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8°øµ¿º.
-i
-java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(êõ8§œ³Àº.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º‰š
 S
 java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8„°°Àº.
+G
+java:S3457"%String contains no format specifiers.(Ãî“¬ÿÿÿÿÿ8Óßâ¿º.
+]	java:S125"<This block of commented-out lines of code should be removed.(¶û“ûÿÿÿÿ8‡’’¿º.
+P
+java:S1144".Remove this unused private "getString" method.(ê¶šÅÿÿÿÿÿ8½Ú¿º.
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ğ Ù¿º.
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†³ş8Ú»—Éº.
+B
+java:S2129" Remove this "String" constructor(îŸüúÿÿÿÿ8è“¸Àº.
+i
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(êõ8§œ³Àº.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãî“¬ÿÿÿÿÿ8Óßâ¿º.
+X	java:S125"<This block of commented-out lines of code should be removed.(ëºÚŸ8½Ú¿º.
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8œò¶Àº.
+G
+java:S3457"%String contains no format specifiers.(ø‡Ìùÿÿÿÿ8½È¹Àº.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(™©ôÃøÿÿÿÿ8°øµ¿º.
+X	java:S125."<This block of commented-out lines of code should be removed.(Î­ğœ8ÁĞºÀº.

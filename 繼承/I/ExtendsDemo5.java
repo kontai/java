@@ -41,7 +41,7 @@ class ExtendsDemo5
 
 /*
 一個對像實例化過程：
-Person p = new Person();
+com.sxt.server.basic.Person p = new com.sxt.server.basic.Person();
 1，JVM會讀取指定的路徑下的Person.class文件，並加載進內存，
 	並會先加載Person的父類(如果有直接的父類的情況下).
 2，在堆內存中的開闢空間，分配地址。

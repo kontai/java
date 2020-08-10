@@ -87,10 +87,10 @@ class  ExceptionDemo3
 }
 
 /*
-class Person
+class com.sxt.server.basic.Person
 {
 	private String name;
-	Person(String name)
+	com.sxt.server.basic.Person(String name)
 	{
 		this.name = name;
 	}
@@ -99,7 +99,7 @@ class Person
 		return name;
 	}
 }
-class Student extends Person
+class Student extends com.sxt.server.basic.Person
 {
 	Student(String name)
 	{

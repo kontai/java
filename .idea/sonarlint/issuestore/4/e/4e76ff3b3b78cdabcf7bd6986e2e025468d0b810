@@ -1,11 +1,11 @@
 
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰èõ¯ùÿÿÿÿ
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó“þïùÿÿÿÿ
 F
 java:S1068"+Remove this unused "entitys" private field.(‘õÉ„üÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó“þïùÿÿÿÿ
 E
 java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
 B
 java:S1068	",Remove this unused "mappings" private field.(¼ç³Ë
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰èõ¯ùÿÿÿÿ

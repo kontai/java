@@ -67,7 +67,7 @@ class Person {
 		}
 
 		//向下转型
-		Person other = (Person) o;
+		com.sxt.server.basic.Person other = (com.sxt.server.basic.Person) o;
 
 		if(!this.name.equals(other.name)) {
 			return false;

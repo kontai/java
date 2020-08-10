@@ -1,10 +1,10 @@
 
-‹
-java:S1598"wThis file "URLTest01.java" should be located in "com\sxt\loc" directory, not in "D:\workspace\JAVA\ç¶²è·¯ç·¨ç¨‹\day01".(ä¸©Æ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(ÂĞ§Í
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ıƒÓ‚ûÿÿÿÿ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(±¤Œó
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(¾Í«şÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ãğóûÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(®¬‡ñûÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ï’ûßûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±¤Œó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾Í«şÿÿÿÿ
+
+java:S1598"wThis file "URLTest01.java" should be located in "com\sxt\loc" directory, not in "D:\workspace\JAVA\ç¶²è·¯ç·¨ç¨‹\day01".(ä¸©Æ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıƒÓ‚ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãğóûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï’ûßûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂĞ§Í
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®¬‡ñûÿÿÿÿ

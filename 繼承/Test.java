@@ -3,8 +3,8 @@ package 繼承;
 public class Test implements Cloneable{
     public static void main(String[] args) {
         Person a=new Student();
-//        Person b= Student.clone(a);
-//        new Person().printPerson();
+//        com.sxt.server.basic.Person b= Student.clone(a);
+//        new com.sxt.server.basic.Person().printPerson();
 //        new Student().printPerson();
         a.printPerson();
         System.out.println(a.i);
@@ -27,15 +27,15 @@ public Student(){}
 }
 
 class Person {
-//    public Person()
+//    public com.sxt.server.basic.Person()
 //    {
-//        System.out.println("Person's constructor is involed");
+//        System.out.println("com.sxt.server.basic.Person's constructor is involed");
 //    }
     int i=1;
     double d=2.3;
     public String getInfo()
     {
-        return "Person";
+        return "com.sxt.server.basic.Person";
     }
 
     public void printPerson()

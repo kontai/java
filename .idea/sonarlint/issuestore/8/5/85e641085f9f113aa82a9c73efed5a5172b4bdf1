@@ -1,29 +1,27 @@
 
 K
 java:S3740"/Provide the parametrized type for this generic.(¦É`8ëíØö©.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‚ÆÕûÿÿÿÿ8ëíØö©.
+K
+java:S3740"/Provide the parametrized type for this generic.(¦É`8ëíØö©.
 L
 java:S3740"/Provide the parametrized type for this generic.(œ¾ü÷8ëíØö©.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(É„†ú8ëíØö©.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‚ÆÕûÿÿÿÿ8ëíØö©.
-Q
-java:S3740"/Provide the parametrized type for this generic.(¢‚ÆÕûÿÿÿÿ8ëíØö©.
 L
 java:S3740 "/Provide the parametrized type for this generic.(—…¿ë8ëíØö©.
-]	java:S125"<This block of commented-out lines of code should be removed.(À¼®Éùÿÿÿÿ8ëíØö©.
-Q
-java:S3740"/Provide the parametrized type for this generic.(•‡™Ğûÿÿÿÿ8ëíØö©.
-Q
-java:S3740"/Provide the parametrized type for this generic.(•‡™Ğûÿÿÿÿ8ëíØö©.
-L
-java:S3740 "/Provide the parametrized type for this generic.(—…¿ë8ëíØö©.
+X
+java:S1854"6Remove this useless assignment to local variable "c2".(•‡™Ğûÿÿÿÿ8ëíØö©.
 I
 java:S1481"'Remove this unused "c2" local variable.(•‡™Ğûÿÿÿÿ8ëíØö©.
 Q
+java:S3740"/Provide the parametrized type for this generic.(•‡™Ğûÿÿÿÿ8ëíØö©.
+Q
+java:S3740"/Provide the parametrized type for this generic.(•‡™Ğûÿÿÿÿ8ëíØö©.
+Q
 java:S3740"/Provide the parametrized type for this generic.(µ“üøüÿÿÿÿ8ëíØö©.
+Q
+java:S3740"/Provide the parametrized type for this generic.(¢‚ÆÕûÿÿÿÿ8ëíØö©.
 ]	java:S125%"<This block of commented-out lines of code should be removed.(­Ûü—üÿÿÿÿ8ëíØö©.
-X
-java:S1854"6Remove this useless assignment to local variable "c2".(•‡™Ğûÿÿÿÿ8ëíØö©.
-K
-java:S3740"/Provide the parametrized type for this generic.(¦É`8ëíØö©.
-7
-java:S1220""Move this file to a named package.8‡„Úö©.
+L
+java:S3740 "/Provide the parametrized type for this generic.(—…¿ë8ëíØö©.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(É„†ú8ëíØö©.
+]	java:S125"<This block of commented-out lines of code should be removed.(À¼®Éùÿÿÿÿ8ëíØö©.

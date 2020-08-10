@@ -1,19 +1,19 @@
 
-8
-java:S3626"Remove this redundant jump.(ûÁİ…8Û¢Ó».
 [
-java:S4719-"9Replace charset name argument with StandardCharsets.UTF_8(ç¦°Âûÿÿÿÿ8Û¢Ó».
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ç¦°Âûÿÿÿÿ8ëö«Ó».
 n
 java:S2095-"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ç¦°Âûÿÿÿÿ8Û¢Ó».
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8Û¢Ó».
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ø’©
+X
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8œ³½Ò».
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ˜Øøÿÿÿÿ8éƒ£Ó».
+[
+java:S4719-"9Replace charset name argument with StandardCharsets.UTF_8(ç¦°Âûÿÿÿÿ8Û¢Ó».
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘¯Œ
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Û¢Ó».
 T	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Ïğ¬Ó».
 j	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ–¨å8Û¢Ó».
 J
 java:S1144*"-Remove this unused private "Connet01" method.(ğ–¨å8éƒ£Ó».
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘¯Œ
-X
-java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8œ³½Ò».
-[
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ç¦°Âûÿÿÿÿ8ëö«Ó».
-T	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Û¢Ó».
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ø’©
-]	java:S125"<This block of commented-out lines of code should be removed.(ñ˜Øøÿÿÿÿ8éƒ£Ó».

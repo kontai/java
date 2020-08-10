@@ -1,9 +1,9 @@
 
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ò¦•8çü±èº.
 l
 java:S2095	"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(’õ…¹ýÿÿÿÿ8‚Ú¯èº.
-D
-java:S2189""Add an end condition to this loop.(…Ó¡Çúÿÿÿÿ8¨ÌÐéº.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ò¦•8çü±èº.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èñ–£úÿÿÿÿ
 Y
 java:S2589"7Remove this expression which always evaluates to "true"(…Ó¡Çúÿÿÿÿ8¨ÌÐéº.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èñ–£úÿÿÿÿ
+D
+java:S2189""Add an end condition to this loop.(…Ó¡Çúÿÿÿÿ8¨ÌÐéº.
