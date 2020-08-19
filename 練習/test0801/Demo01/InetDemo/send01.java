@@ -1,6 +1,6 @@
-package InetDemo;
+//package InetDemo;
 
-import jdk.jfr.StackTrace;
+//import jdk.jfr.StackTrace;
 
 import java.io.IOException;
 import java.io.InputStream;

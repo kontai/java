@@ -1,0 +1,29 @@
+
+J
+java:S3740""/Provide the parametrized type for this generic.(Ê­Ûøþÿÿÿÿ
+E
+java:S3740$"/Provide the parametrized type for this generic.(ÖéÝ÷
+J
+java:S37407"/Provide the parametrized type for this generic.(Ê­Ûøþÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ë“¿Üýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¡ŠÃ
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ
+–
+java:S1130"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(¢¯ùÍûÿÿÿÿ
+–
+java:S1130"{Remove the declaration of thrown exception 'java.lang.InstantiationException' which is a subclass of 'java.lang.Exception'.(¢¯ùÍûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë“¿Üýÿÿÿÿ
+M
+java:S1854'"7Remove this useless assignment to local variable "obj".(Íš°Õ
+M
+java:S18549"7Remove this useless assignment to local variable "obj".(¢£šø
+I
+java:S18749"3Remove this use of "newInstance"; it is deprecated.(¢£šø
+>
+java:S1481'"(Remove this unused "obj" local variable.(Íš°Õ
+>
+java:S14819"(Remove this unused "obj" local variable.(¢£šø
+V	java:S125"<This block of commented-out lines of code should be removed.(œ¬‚‰ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÏÕžÅûÿÿÿÿ
+P	java:S1252"<This block of commented-out lines of code should be removed.(øé¼h

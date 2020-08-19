@@ -1,0 +1,27 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜðÁµ
+f
+java:S12062"PThis class overrides "equals()" and should therefore also override "hashCode()".( ÙÚ‰
+X
+java:S2094H"BRemove this empty class, write its code or make it an "interface".(€Õ±ä
+P
+java:S1854S"5Remove this useless assignment to local variable "d".(Ìæô¦üÿÿÿÿ
+L
+java:S1854R"6Remove this useless assignment to local variable "p2".(ë‚çÆ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(êÐùÄ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ðÞÞü
+=
+java:S1481R"'Remove this unused "p2" local variable.(ë‚çÆ
+A
+java:S1481S"&Remove this unused "d" local variable.(Ìæô¦üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.( ÙÚ‰
+Q	java:S1256"<This block of commented-out lines of code should be removed.(ÞÎÂÚ
+V	java:S125>"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+V	java:S125T"<This block of commented-out lines of code should be removed.(šãð¯ÿÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(¨´žÂüÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(ìÌî˜úÿÿÿÿ
+P	java:S125d"<This block of commented-out lines of code should be removed.(ƒúêV
+Q	java:S125f"<This block of commented-out lines of code should be removed.(ÃÌ˜ê
+Q	java:S125h"<This block of commented-out lines of code should be removed.(ºÈè

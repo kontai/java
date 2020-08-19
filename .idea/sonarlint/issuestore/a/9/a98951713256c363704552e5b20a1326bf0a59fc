@@ -1,0 +1,10 @@
+
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+NWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(Ûëëúÿÿÿÿ
+MWeb:TableWithoutCaptionCheckZ" Add a description to this table.(‡é·ôÿÿÿÿÿ
+I	Web:S1827Z"/Remove this deprecated "bordercolor" attribute.(‡é·ôÿÿÿÿÿ
+I	Web:S1827Z"/Remove this deprecated "cellpadding" attribute.(‡é·ôÿÿÿÿÿ
+I	Web:S1827Z"/Remove this deprecated "cellspacing" attribute.(‡é·ôÿÿÿÿÿ
+C	Web:S1827Z")Remove this deprecated "width" attribute.(‡é·ôÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheck\";Add either an 'id' or a 'scope' attribute to this <th> tag.(¢ûªÂøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck…";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÏÕĞòşÿÿÿÿ

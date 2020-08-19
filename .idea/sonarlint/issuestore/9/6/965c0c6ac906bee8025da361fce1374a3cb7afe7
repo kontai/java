@@ -1,0 +1,24 @@
+
+Y
+java:S1155}">Use isEmpty() to check whether the collection is empty or not.(¬Í½Äıÿÿÿÿ
+c	java:S116"ORename this field "CRLF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎşÁ
+6
+java:S1170"!Make this final field static too.(ÎşÁ
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ŸØ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(‰ÃÉãûÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ø¢è²üÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(„…ÿ‚
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ƒğ³·ûÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ŠÊ¶‚üÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¦­œ°
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(º¦˜ƒ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(æ¯ƒÆ
+R
+java:S1117["<Rename "queryStr" which hides the field declared at line 27.(Î›Ÿá
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ì’Œıÿÿÿÿ
+M
+java:S1135q"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+<
+java:S1168~"&Return an empty array instead of null.(¥¹ï

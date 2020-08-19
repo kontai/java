@@ -1,16 +1,16 @@
 
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(ø¢è²üÿÿÿÿ8™«Š»».
-U	java:S106@"9Replace this use of System.out or System.err by a logger.(º¦˜ƒ8™«Š»».
-r
-java:S1450"URemove the "method" field and declare it as a local variable in the relevant methods.(ÁÙôþ8™«Š»».
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒð³·ûÿÿÿÿ8™«Š»».
-U	java:S106H"9Replace this use of System.out or System.err by a logger.(æ¯ƒÆ8™«Š»».
 j	java:S116"ORename this field "CRLF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎþÁ8™«Š»».
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ŠÊ¶‚üÿÿÿÿ8™«Š»».
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(æ¯ƒÆ8™«Š»».
 U	java:S106+"9Replace this use of System.out or System.err by a logger.(„…ÿ‚8™«Š»».
 U	java:S106<"9Replace this use of System.out or System.err by a logger.(¦­œ°8™«Š»».
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(‰ÃÉãûÿÿÿÿ8™«Š»».
-Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ŠÊ¶‚üÿÿÿÿ8™«Š»».
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ø¢è²üÿÿÿÿ8™«Š»».
 =
 java:S1170"!Make this final field static too.(ÎþÁ8™«Š»».
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(º¦˜ƒ8™«Š»».
 t
 java:S1450"RRemove the "url" field and declare it as a local variable in the relevant methods.(«Œåùÿÿÿÿ8™«Š»».
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(‰ÃÉãûÿÿÿÿ8™«Š»».
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒð³·ûÿÿÿÿ8™«Š»».
+r
+java:S1450"URemove the "method" field and declare it as a local variable in the relevant methods.(ÁÙôþ8™«Š»».

@@ -2,9 +2,10 @@ package transPic;
 
 import org.w3c.dom.ranges.Range;
 
-import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.awt.image.ColorModel;
+
+//import java.awt.*;
+//import java.awt.image.BufferedImage;
+//import java.awt.image.ColorModel;
 import java.io.*;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;

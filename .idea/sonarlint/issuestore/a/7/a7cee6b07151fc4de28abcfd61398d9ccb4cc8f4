@@ -1,5 +1,8 @@
 
-W
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(£…Ò™
-N	java:S106"9Replace this use of System.out or System.err by a logger.(§›´‘
-N	java:S106"9Replace this use of System.out or System.err by a logger.(§›´‘
+]	java:S125"<This block of commented-out lines of code should be removed.(Ä’Å“üÿÿÿÿ8Ç¿ÌŽ¿.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ŽœŽðþÿÿÿÿ8Ç¿ÌŽ¿.
+]	java:S125"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8Ç¿ÌŽ¿.
+X	java:S125"<This block of commented-out lines of code should be removed.(ú­‘8Ç¿ÌŽ¿.
+X	java:S125"<This block of commented-out lines of code should be removed.(õ £Î8Ç¿ÌŽ¿.
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ç¿ÌŽ¿.

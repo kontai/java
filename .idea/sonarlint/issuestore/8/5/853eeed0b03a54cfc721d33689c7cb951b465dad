@@ -1,0 +1,14 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¯œ†á
+L
+java:S1854"6Remove this useless assignment to local variable "p2".(Õ±ı∫
+l
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(¯œ†á
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å“âª
+f
+java:S1206 "PThis class overrides "equals()" and should therefore also override "hashCode()".(ç‹—„
+=
+java:S1481"'Remove this unused "p2" local variable.(Õ±ı∫
+V	java:S125"<This block of commented-out lines of code should be removed.(£¥˚Ö˝ˇˇˇˇ
+V	java:S125:"<This block of commented-out lines of code should be removed.(›¢ÍÕ˝ˇˇˇˇ

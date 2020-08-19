@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò×¤üÿÿÿÿ8‡é²±½.
+Y
+java:S1128"=Remove this unused import 'javax.net.ssl.HttpsURLConnection'.(æÎº08Ëí°½.
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8ñï¡°½.
+7
+java:S1700"Rename field "server"(­«ÚÒùÿÿÿÿ8Ç¯½°½.
+X
+java:S1128"6Remove this unused import 'java.net.http.HttpRequest'.(ş€ŠÍşÿÿÿÿ8”Ì‹°½.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¬ŸæÀ8‡é²±½.
+T
+java:S1128"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­8ñï¡°½.
+W	java:S125!"<This block of commented-out lines of code should be removed.(¯²ÅD8‡é²±½.
+w
+java:S1450"URemove the "server" field and declare it as a local variable in the relevant methods.(­«ÚÒùÿÿÿÿ8‡é²±½.

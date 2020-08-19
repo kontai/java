@@ -1,0 +1,21 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰İš‡ÿÿÿÿÿ
+;
+java:S2157"%Add a "clone()" method to this class.(º§½¬
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(›¦ô
+B
+java:S2387"'"i" is the name of a field in "Person".(¨Û•¨üÿÿÿÿ
+B
+java:S2387"'"d" is the name of a field in "Person".(ÛÊœ¾úÿÿÿÿ
+>
+java:S1172"(Remove this unused method parameter "i".(‰—„ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’šÔ
+U
+java:S1161":Add the "@Override" annotation above this method signature(©äÁ”ÿÿÿÿÿ
+T
+java:S3400&"9Remove this method and declare a constant for this value.(µ‹ëÌÿÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÔÂóÒüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(êó¾ıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‰†ã»
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬
