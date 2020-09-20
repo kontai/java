@@ -1,10 +1,10 @@
 
-j	java:S116"PRename this field "BLANK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‰¹Ôÿÿÿÿÿ
-O
-java:S2479O":Remove the non-escaped \u00A0 character from this literal.(•µÒ"
-<
-java:S1170"!Make this final field static too.(Ë‰¹Ôÿÿÿÿÿ
 6
 java:S1170"!Make this final field static too.(ÎþÁ
-c	java:S116"ORename this field "CRLF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎþÁ
+O
+java:S2479O":Remove the non-escaped \u00A0 character from this literal.(•µÒ"
+j	java:S116"PRename this field "BLANK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‰¹Ôÿÿÿÿÿ
 <	java:S131B""Add a default case to this switch.(«ü”ùÿÿÿÿ
+c	java:S116"ORename this field "CRLF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎþÁ
+<
+java:S1170"!Make this final field static too.(Ë‰¹Ôÿÿÿÿÿ

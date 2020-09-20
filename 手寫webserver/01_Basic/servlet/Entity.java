@@ -3,7 +3,7 @@
   <servlet-name>login</servlet-name>
   <servlet-class>com.shsxt.LoginServlet</servlet-class>
   </servlet>
- * 
+ *
  * @author 裴新 QQ:3401997271
  *
  */
@@ -11,7 +11,6 @@ public class Entity {
 	private String name;
 	private String clz;
 	public Entity() {
-		// TODO Auto-generated constructor stub
 	}
 	public String getName() {
 		return name;

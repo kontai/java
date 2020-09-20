@@ -59,7 +59,7 @@
         <option name="wavedrom" value="NONE" />
       </fencedCodeConversions>
     </HtmlSettings>
-    <CssSettings previewScheme="DARK_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="true" isDynamicPageWidth="true">
+    <CssSettings previewScheme="DARK_SCHEME" cssUri="file:/D:\Dropbox\Backup Setting\markdown-navigator-settings.xml" isCssUriEnabled="true" isCssUriSerial="true" isCssTextEnabled="true" isDynamicPageWidth="true">
       <StylesheetProvider>
         <provider providerId="com.vladsch.md.nav.editor.text.html.css" providerName="No Stylesheet" />
       </StylesheetProvider>

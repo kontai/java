@@ -1,15 +1,15 @@
 
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(®≥ÅÀ
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(®≥ÅÀ
-N	java:S106."9Replace this use of System.out or System.err by a logger.(®≥ÅÀ
 N	java:S106$"9Replace this use of System.out or System.err by a logger.(†ç£â
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(†ç£â
+]	java:S125"<This block of commented-out lines of code should be removed.( ã⁄®˘ˇˇˇˇ8º¶ﬁéø.
 N	java:S1063"9Replace this use of System.out or System.err by a logger.(†ç£â
-N	java:S106"9Replace this use of System.out or System.err by a logger.(†ç£â
 r
 java:S1192"\Define a constant instead of duplicating this literal "IOÊµÅ\\XX_commons_API‰ΩøÁî®" 5 times.(°îöï
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(®≥ÅÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†ç£â
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(®≥ÅÀ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(®≥ÅÀ
 N	java:S106"9Replace this use of System.out or System.err by a logger.(†ç£â
 l
 java:S1192"VDefine a constant instead of duplicating this literal "---------------------" 4 times.(®≥ÅÀ
 N	java:S106"9Replace this use of System.out or System.err by a logger.(®≥ÅÀ
-N	java:S106+"9Replace this use of System.out or System.err by a logger.(†ç£â
-]	java:S125"<This block of commented-out lines of code should be removed.( ã⁄®˘ˇˇˇˇ8º¶ﬁéø.

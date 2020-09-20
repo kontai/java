@@ -1,5 +1,3 @@
-package bjsxt.test.annotation;
-
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 
@@ -12,7 +10,7 @@ public class Demo03 {
 
     public static void main(String[] args) {
         try {
-            Class clazz = Class.forName("com.bjsxt.rhio.annotation.SxtStudent");
+            Class clazz = Class.forName("com.bjsxt.test.annotation.SxtStudent");
 
             //获得类的所有有效注解
             Annotation[] annotations=clazz.getAnnotations();

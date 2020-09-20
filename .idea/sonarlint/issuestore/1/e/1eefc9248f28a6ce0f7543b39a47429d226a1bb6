@@ -1,15 +1,15 @@
 
-7
-java:S2189O""Add an end condition to this loop.(¤èÄ7
-7
-java:S2189?""Add an end condition to this loop.(¤èÄ7
-g	java:S101U"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„›¾úÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ñÕï
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ
-C	java:S108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¿€
 a
 java:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+7
+java:S2189O""Add an end condition to this loop.(¤èÄ7
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¿€
+7
+java:S2189?""Add an end condition to this loop.(¤èÄ7
 C	java:S108)")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ñÕï
 N	java:S106,"9Replace this use of System.out or System.err by a logger.(‰¹Êü
+g	java:S101U"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„›¾úÿÿÿÿ

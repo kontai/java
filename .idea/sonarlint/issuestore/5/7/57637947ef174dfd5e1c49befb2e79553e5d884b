@@ -1,9 +1,9 @@
 
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ÓºÏ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(±‹Ë=
 N
 java:S2755"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ
-S	java:S106="9Replace this use of System.out or System.err by a logger.(Ó”¢Øşÿÿÿÿ
-N	java:S106A"9Replace this use of System.out or System.err by a logger.(ÓºÏ
-S	java:S1065"9Replace this use of System.out or System.err by a logger.(µªï‰ıÿÿÿÿ
 S	java:S106."9Replace this use of System.out or System.err by a logger.(è³’üüÿÿÿÿ
-M	java:S1067"9Replace this use of System.out or System.err by a logger.(±‹Ë=
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ó”¢Øşÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(µªï‰ıÿÿÿÿ
 N	java:S106)"9Replace this use of System.out or System.err by a logger.(»Äù£

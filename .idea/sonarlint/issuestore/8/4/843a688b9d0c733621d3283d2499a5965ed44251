@@ -1,17 +1,17 @@
 
-œ
-java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑÚÓşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ä¢Ûÿÿÿÿÿ
+ˆ
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(„Àûšıÿÿÿÿ
 
 java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(„Àûšıÿÿÿÿ
+œ
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑÚÓşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿Ñãß
 D
 java:S3740"/Provide the parametrized type for this generic.(Ú²ù
 M
 java:S1854"7Remove this useless assignment to local variable "clz".(¯‚¥º
 L
 java:S1854"7Remove this useless assignment to local variable "clz".(Ú²ù
-ˆ
-java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(„Àûšıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ä¢Ûÿÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(¿Ñãß
 [
 java:S2133"@Remove this object instantiation and use "Iphone.class" instead.(»Ÿ¸øÿÿÿÿ

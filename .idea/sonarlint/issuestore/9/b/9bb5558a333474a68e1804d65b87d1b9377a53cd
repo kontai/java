@@ -1,16 +1,16 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™üı¾8• Ç¿.
 O
-java:S1128"2Remove this unused import 'com.mysql.jdbc.Driver'.(Ô–ƒŸ8ˆ˜¨é¹.
-Q
-java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8ˆ˜¨é¹.
-n
-java:S3457#"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°8ƒÂö˜¹.
-F
-java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ˆ˜¨é¹.
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8ˆ˜¨é¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï«¨°8ƒÂö˜¹.
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°8ƒÂö˜¹.
 M
-java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8ˆ˜¨é¹.
-U	java:S106""9Replace this use of System.out or System.err by a logger.(»ğË8„õ¥˜¹.
-B
-java:S3457#"%String contains no format specifiers.(ï«¨°8ƒÂö˜¹.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(ï«¨°8ƒÂö˜¹.
+java:S1128"2Remove this unused import 'com.mysql.jdbc.Driver'.(Ô–ƒŸ8ˆ˜¨é¹.
+@
+java:S3457"%String contains no format specifiers.(ï«¨°8ƒÂö˜¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™üı¾8• Ç¿.
+D
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ˆ˜¨é¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»ğË8„õ¥˜¹.
+K
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8ˆ˜¨é¹.

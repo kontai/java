@@ -30,13 +30,20 @@
         String name="王五";
         String sql="delete from t_table where name="+name;
         st.execute(sql);
-<font color="#fff0">
+<font color="#f2f2">
 <strong>
 - PreparedStatement：<br/>
  继承自Statement接口，由prepareStatement创建，用于发送含有一个或多
-个输入参数的sql语句。PreparedStatement对象比Statement对象的效率更
-高，并且可以防止SQL注入。我们一般都用PreparedStatement.
+个输入参数的sql语句。PreparedStatement对象比Statement对象的
+<font color="#ff8c00">效率更高，并且可以防止SQL注入。</font>我们一般都用PreparedStatement.
 </strong></font>
+
+<pre style="background-color: #1f389c">
+常用的Statement方法：
+ execute()：运行语句，返回是否有结果集。
+ executeQuery()：运行select语句，返回ResultSet结果集。
+ executeUpdate()：运行insert/update/delete操作，返回更新的行数。
+ </pre>
 
 4. 执行sql ，得到ResultSet
 

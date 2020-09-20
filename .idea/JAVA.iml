@@ -141,6 +141,8 @@
       <sourceFolder url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JDBC/testORM源码/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/練習/test0819/Demo1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/mysql-connector-java-5.1.49" />
       <excludeFolder url="file://$MODULE_DIR$/反射機制/资料" />
     </content>

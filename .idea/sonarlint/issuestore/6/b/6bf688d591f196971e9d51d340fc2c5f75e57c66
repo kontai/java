@@ -1,12 +1,12 @@
 
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(©şøùÿÿÿÿ
-M	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÕíz
-
-java:S1598"‚This file "Server02.java" should be located in "com\shsxt\server" directory, not in "D:\workspace\JAVA\æ‰‹å¯«webserver\02_server".(ôäç¹øÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼½›µ
 S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¯ûÿÿÿÿ
 œ
 java:S1186Z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À–®»ÿÿÿÿÿ
-f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼½›µ
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÕíz
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(Á»ŒÙıÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(©şøùÿÿÿÿ
 P
 java:S2479I":Remove the non-escaped \u00A0 character from this literal.(–ô¼˜
-S	java:S106V"9Replace this use of System.out or System.err by a logger.(Á»ŒÙıÿÿÿÿ
+
+java:S1598"‚This file "Server02.java" should be located in "com\shsxt\server" directory, not in "D:\workspace\JAVA\æ‰‹å¯«webserver\02_server".(ôäç¹øÿÿÿÿ

@@ -1,15 +1,15 @@
 
-H
-java:S1199 "-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+^
+java:S2276'"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ
+g	java:S1015"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö¾µ±øÿÿÿÿ
 7
 java:S2189!""Add an end condition to this loop.(¤èÄ7
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(‡Œ©é
+H
+java:S1199 "-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ĞãÎŠùÿÿÿÿ
 g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß„çôùÿÿÿÿ
-g	java:S1015"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö¾µ±øÿÿÿÿ
+C	java:S108)")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šª„øÿÿÿÿ
 a
 java:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ
-^
-java:S2276'"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ
-C	java:S108)")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-N	java:S106+"9Replace this use of System.out or System.err by a logger.(‡Œ©é
-V	java:S125"<This block of commented-out lines of code should be removed.(ĞãÎŠùÿÿÿÿ

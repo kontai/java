@@ -16,7 +16,7 @@ public class Demo03 {
 		PreparedStatement ps = null;
 		try {
 			//加载驱动类
-			Class.forName("com.mysql.jdbc.Driver")
+			Class.forName("com.mysql.jdbc.Driver");
 			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/testjdbc","root","123456");
 			
 			String sql = "insert into t_user (username,pwd,regTime) values (?,?,?)";  //?占位符

@@ -1,22 +1,22 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Âîıÿÿÿÿ
-I
-java:S1610"3Convert the abstract class "Pip" into an interface.(Œ‚Çß
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ÖÀ
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(÷òõ*
 7
 java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‰ï†
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(°ºÛ‹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Äíôìùÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ÖÀ
 O
 java:S1610
 "4Convert the abstract class "Pip2" into an interface.(‚ğ²’ıÿÿÿÿ
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‰ï†
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄœÊÇ
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÄœÊÇ
+I
+java:S1610"3Convert the abstract class "Pip" into an interface.(Œ‚Çß
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Âîıÿÿÿÿ
 ]
 java:S2094"BRemove this empty class, write its code or make it an "interface".(æ¾Éâüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Äíôìùÿÿÿÿ
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(°ºÛ‹ùÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÄœÊÇ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄœÊÇ
 N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÈÒ˜æ
-M	java:S1062"9Replace this use of System.out or System.err by a logger.(÷òõ*

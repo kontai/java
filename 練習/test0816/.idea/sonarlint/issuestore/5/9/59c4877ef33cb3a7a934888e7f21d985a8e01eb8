@@ -1,6 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(´ü»ˆ8Çà°§¿.
-R
-java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8ÆÁ¯§¿.
-N
-java:S1481",Remove this unused "rootDir" local variable.(åÊÍãûÿÿÿÿ8ö±’¸¿.
