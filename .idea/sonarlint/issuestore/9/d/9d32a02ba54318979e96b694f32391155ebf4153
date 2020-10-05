@@ -1,0 +1,23 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¶é™øÿÿÿÿ
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(™ÃìŒıÿÿÿÿ
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ÿ°Íİúÿÿÿÿ
+W
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‘àx
+@
+java:S3985"+Remove this unused private "Private" class.(‘àx
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Üºœÿÿÿÿÿ
+X
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(µÿÙ¨
+X
+java:S2094
+"BRemove this empty class, write its code or make it an "interface".(÷ôÖ¬
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‹±Êıÿÿÿÿ
+L
+java:S3985"1Remove this unused private "PrivateStatic" class.(‹±Êıÿÿÿÿ
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àĞ°í

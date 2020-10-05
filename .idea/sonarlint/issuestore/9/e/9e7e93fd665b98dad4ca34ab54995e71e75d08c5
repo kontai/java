@@ -1,0 +1,34 @@
+
+‡
+java:S1192¹"kDefine a constant instead of duplicating this literal "Could not find class in descriptor [pos = " 4 times.(¦¹ßÏşÿÿÿÿ
+I
+java:S1199ü"-Extract this nested code block into a method.(Í£Ëùÿÿÿÿ
+I
+java:S1199…"-Extract this nested code block into a method.(â®¢øşÿÿÿÿ
+I
+java:S1199™"-Extract this nested code block into a method.(èºÏÂøÿÿÿÿ
+I
+java:S1199¨"-Extract this nested code block into a method.(ê»õÔøÿÿÿÿ
+I
+java:S1199¦"-Extract this nested code block into a method.(ÕªËÏüÿÿÿÿ
+D
+java:S1199Ì"-Extract this nested code block into a method.(ĞùŠ“
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+k	java:S116$"VRename this field "STRING_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ìó¬
+o	java:S116%"URename this field "CLASS_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é…Ôëùÿÿÿÿ
+s	java:S116&"YRename this field "THROWABLE_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òúµ™úÿÿÿÿ
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚µİ”
+<	java:S131I""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ
+^
+java:S1479I"CReduce the number of non-empty switch cases from 133 to at most 30.(ìıÇÓÿÿÿÿÿ
+H
+java:S1135€"2Complete the task associated to this TODO comment.(Şµ
+I
+java:S1172Í"-Remove this unused method parameter "opcode".(€áæ­úÿÿÿÿ
+D
+java:S1172ğ"-Remove this unused method parameter "opcode".(–ˆóİ
+T
+java:S1197µ"8Move the array designator from the variable to the type.(¶Ãøàûÿÿÿÿ
+R	java:S125­"<This block of commented-out lines of code should be removed.(»ô’Š

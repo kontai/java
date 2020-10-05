@@ -1,0 +1,16 @@
+
+>
+java:S1604t"(Make this anonymous inner class a lambda(éÊ÷Ÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(®µú’ûÿÿÿÿ
+?
+java:S1604£"(Make this anonymous inner class a lambda(”²›
+U
+java:S1118%":Add a private constructor to hide the implicit public one.(º±ÜŸùÿÿÿÿ
+>	java:S1083")Either remove or fill this block of code.(‡ü¿Á
+m
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.( € Æùÿÿÿÿ
+a
+java:S2147Ë"ECombine this catch with the one at line 200, which has the same body.(Ä‘öùÿÿÿÿ
+L
+java:S5261d"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ

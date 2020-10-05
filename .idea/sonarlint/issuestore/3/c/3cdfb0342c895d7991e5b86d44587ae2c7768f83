@@ -1,0 +1,17 @@
+
+F
+java:S1066æ"/Merge this if statement with the enclosing one.( öœ½
+r
+java:S1104ü"VMake clientData a static final constant or non-public and provide accessors if needed.(šˆŞ€ûÿÿÿÿ
+=
+java:S1168˜"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‘Ú¡ìûÿÿÿÿ
+=
+java:S1168È"&Return an empty array instead of null.(¥¹ï
+p
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹„¶õ
+\
+java:S1124Ñ"EReorder the modifiers to comply with the Java Language Specification.(õÉÉ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(í¶§Ÿşÿÿÿÿ

@@ -1,0 +1,77 @@
+
+F
+java:S3740ã"/Provide the parametrized type for this generic.(¬‘Áı
+u
+java:S1192®"^Define a constant instead of duplicating this literal "test5.InnerModifier$NonStatic" 3 times.(³é™Ê
+h
+java:S1192‘"RDefine a constant instead of duplicating this literal "test5.RemoveAnno1" 3 times.(é•ë*
+i
+java:S1192¨"SDefine a constant instead of duplicating this literal "test5.NestHost$Foo" 3 times.(Á¡óg
+q
+java:S1192Á"[Define a constant instead of duplicating this literal "test5.InnerModifier$Static" 4 times.(‚ú¼x
+o
+java:S1192İ"SDefine a constant instead of duplicating this literal "$_ = $proceed($$);" 3 times.(çØñùÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(£ºµ²úÿÿÿÿ
+[	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(‘„üğ
+`	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(¼­¡üÿÿÿÿ
+[	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Îœîã
+`	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(Šçß—ùÿÿÿÿ
+`	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(ù¾¤Ğúÿÿÿÿ
+`	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(©Ÿñüÿÿÿÿ
+`	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(°•¾—ıÿÿÿÿ
+[	java:S112v"FDefine and throw a dedicated exception instead of using a generic one.(¦ê¸¸
+a	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(ÌØë¤ÿÿÿÿÿ
+\	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(”«ê¶
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(›ƒˆÈùÿÿÿÿ
+[	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(™Z
+\	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(êô‹
+a	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(Û¢‰÷ÿÿÿÿÿ
+a	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(ª×Ğ§ûÿÿÿÿ
+\	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.(ŒÀîæ
+a	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(´Û®§şÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÊÖÎ´
+[	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.( º™"
+a	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(´ú·÷øÿÿÿÿ
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ÿ÷£ñ
+\	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(€ÜíÂ
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(ÇÆÎËûÿÿÿÿ
+[	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(Ñ¿‡
+\	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(„¨
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(™ü©Ò
+a	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(šà½ıÿÿÿÿ
+\	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(øš
+a	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(™¸ş‹øÿÿÿÿ
+\	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(©ìœ¡
+\	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(ª–Ï¼
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(ÈäÈ¡ıÿÿÿÿ
+\	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(Î®ÑÑ
+S
+java:S1854R"8Remove this useless assignment to local variable "make".(¢ÏñÔûÿÿÿÿ
+L
+java:S1854V"6Remove this useless assignment to local variable "ss".(ô•ñ€
+=
+java:S1872¯"'Use an "instanceof" comparison instead.(Ìİ‰
+V
+java:S1161Å":Add the "@Override" annotation above this method signature(•Ê×üÿÿÿÿ
+N
+java:S1854ä"7Remove this useless assignment to local variable "obj".(¶‘É¸
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(Î€Ñúÿÿÿÿÿ
+D	java:S108†")Either remove or fill this block of code.(ÆÃ­çúÿÿÿÿ
+D	java:S108Š")Either remove or fill this block of code.(ÆÃ­çúÿÿÿÿ
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(Øğ øÿÿÿÿ
+Q
+java:S1161Ü":Add the "@Override" annotation above this method signature(”ïÉà
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(”ïÉà
+Q
+java:S1161ù":Add the "@Override" annotation above this method signature(”ïÉà
+D	java:S108 ")Either remove or fill this block of code.(ÆÃ­çúÿÿÿÿ
+D
+java:S1481R")Remove this unused "make" local variable.(¢ÏñÔûÿÿÿÿ
+=
+java:S1481V"'Remove this unused "ss" local variable.(ô•ñ€
+?
+java:S1481ä"(Remove this unused "obj" local variable.(¶‘É¸
+W	java:S125"<This block of commented-out lines of code should be removed.(†Âêüÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¿ó¿·ıÿÿÿÿ

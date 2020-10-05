@@ -1,0 +1,26 @@
+
+p
+java:S1192‘"YUse already-defined constant 'metaobjectClassName' instead of duplicating its value here.(‡‚À›
+z
+java:S1192š"^Use already-defined constant 'classMetaobjectClassName' instead of duplicating its value here.(á™ä·şÿÿÿÿ
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(Ç·¼ú
+\	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(Ç·¼ú
+D
+java:S1659Y".Declare "trapStaticMethod" on a separate line.(Õ‚¦ı
+=
+java:S1659Z"'Declare "trapWrite" on a separate line.(Ô§Ö‚
+t	java:S115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢Šïøÿÿÿÿ
+t	java:S115N"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‘Åşÿÿÿÿ
+o	java:S115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ôéìã
+t	java:S115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çó½×üÿÿÿÿ
+t	java:S115Q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á®ÍÙúÿÿÿÿ
+t	java:S115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡²úÿÿÿÿ
+t	java:S115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®¬Äûıÿÿÿÿ
+o	java:S115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶“âæ
+t	java:S115V"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•Ø£‰ùÿÿÿÿ
+a
+java:S2147…"ECombine this catch with the one at line 131, which has the same body.(Å‡Ö‡ûÿÿÿÿ
+³
+java:S1130Ù"–Remove the declaration of thrown exception 'javassist.tools.reflect.CannotReflectException' which is a subclass of 'javassist.CannotCompileException'.(ßÛŠÌûÿÿÿÿ
+
+java:S1130á"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(ŸŠèæûÿÿÿÿ

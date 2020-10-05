@@ -1,0 +1,14 @@
+
+`	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(Èêì¾úÿÿÿÿ
+A
+java:S16593"&Declare "maxStack" on a separate line.(‘í¯Ñúÿÿÿÿ
+?	java:S108¤")Either remove or fill this block of code.(˜äÔÂ
+o	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñŒ¸«
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(äÏ¼É
+?	java:S108”")Either remove or fill this block of code.(˜äÔÂ
+Q
+java:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+p
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÐ€¶
+>	java:S108˜")Either remove or fill this block of code.(ÂÓ¤v

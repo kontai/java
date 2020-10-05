@@ -1,0 +1,20 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+MWeb:TableWithoutCaptionCheck " Add a description to this table.(¿‰˜ÿÿÿÿÿ
+?	Web:S5256 "%Add "<th>" headers to this "<table>".(¿‰˜ÿÿÿÿÿ
+TWeb:UnsupportedTagsInHtml5Check""$Remove this deprecated "tt" element.(Ê‰Í¢ûÿÿÿÿ
+OWeb:UnsupportedTagsInHtml5Check("$Remove this deprecated "tt" element.(ßêã¾
+TWeb:UnsupportedTagsInHtml5Check-"$Remove this deprecated "tt" element.(ôÀîÿÿÿÿÿ
+TWeb:UnsupportedTagsInHtml5Check2"$Remove this deprecated "tt" element.(µò¤ÿùÿÿÿÿ
+TWeb:UnsupportedTagsInHtml5Check7"$Remove this deprecated "tt" element.(¼æ›Çùÿÿÿÿ
+OWeb:UnsupportedTagsInHtml5Check<"$Remove this deprecated "tt" element.(×ÙÁ 
+TWeb:UnsupportedTagsInHtml5Checkm"$Remove this deprecated "tt" element.(èÁùîûÿÿÿÿ
+CWeb:BoldAndItalicTagsChecko"Replace this <i> tag by <em>.(³÷Ã
+OWeb:UnsupportedTagsInHtml5Checko"$Remove this deprecated "tt" element.(³÷Ã
+HWeb:BoldAndItalicTagsCheckq"Replace this <i> tag by <em>.(’¢‰‹ùÿÿÿÿ
+OWeb:UnsupportedTagsInHtml5Checkr"$Remove this deprecated "tt" element.(†ì§ë
+OWeb:UnsupportedTagsInHtml5Checkr"$Remove this deprecated "tt" element.(†ì§ë
+UWeb:UnsupportedTagsInHtml5CheckÖ"$Remove this deprecated "tt" element.(áåÃõÿÿÿÿÿ
+UWeb:UnsupportedTagsInHtml5Check×"$Remove this deprecated "tt" element.(èâÌ”øÿÿÿÿ
+>	Web:S1827Â"(Remove this deprecated "name" attribute.(‘ê£ø

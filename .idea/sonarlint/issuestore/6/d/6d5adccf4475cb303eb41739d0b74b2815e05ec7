@@ -1,0 +1,19 @@
+
+^
+java:S1214"CMove constants defined in this interfaces to another class or enum.(ú©â²þÿÿÿÿ
+t	java:S115g"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô±Ï†þÿÿÿÿ
+o	java:S115h"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ý×¥ž
+n	java:S115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä½æ4
+o	java:S115j"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“ÍÇÿ
+t	java:S115k"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä¡û°ûÿÿÿÿ
+t	java:S115l"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥­Õæþÿÿÿÿ
+t	java:S115m"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íáùÃùÿÿÿÿ
+t	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óúœ”úÿÿÿÿ
+H
+java:S2386]"2Move "opNames" to a class and lower its visibility(í›ú§
+J
+java:S2386c"4Move "assignOps" to a class and lower its visibility(¥©ÎÇ
+N
+java:S1197]"8Move the array designator from the variable to the type.(í›ú§
+N
+java:S1197c"8Move the array designator from the variable to the type.(¥©ÎÇ

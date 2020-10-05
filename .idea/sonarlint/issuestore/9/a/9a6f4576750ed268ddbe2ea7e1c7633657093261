@@ -1,0 +1,12 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "str".(âØ¹ÿ8»¾É£¿.
+n
+java:S2095+"LUse try-with-resources or close this "URLClassLoader" in a "finally" clause.(ãŽÃ¥þÿÿÿÿ8»¾É£¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îö¹üùÿÿÿÿ8»¾É£¿.
+]	java:S125"<This block of commented-out lines of code should be removed.(ëËÕöøÿÿÿÿ8»¾É£¿.
+]	java:S125"<This block of commented-out lines of code should be removed.(¶Ê”¡ûÿÿÿÿ8»¾É£¿.
+E
+java:S1481"(Remove this unused "str" local variable.(âØ¹ÿ8»¾É£¿.
+L
+java:S3740,"/Provide the parametrized type for this generic.(ƒãÖ—8»¾É£¿.

@@ -1,0 +1,147 @@
+
+f
+java:S2095G"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÿÛÄ¬
+d
+java:S2095O"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(í¯“
+H
+java:S1444ó",Make this "public static result" field final( ºêøÿÿÿÿ
+H
+java:S1444™",Make this "public static result" field final( ºêøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740©"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740½"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740á"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740"/Provide the parametrized type for this generic.(ÍéŒü
+e
+java:S1192Ë"IDefine a constant instead of duplicating this literal "extended" 3 times.(Ùñ­ÿÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "./proxy" 5 times.(ûÃçİúÿÿÿÿ
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ûÁØm
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(‰™‹µûÿÿÿÿ
+`	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(¹¡áäùÿÿÿÿ
+[	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(ß€•ô
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(ƒûæ¡üÿÿÿÿ
+\	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(×µß
+\	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(æõ¦ø
+[	java:S112û"FDefine and throw a dedicated exception instead of using a generic one.(ƒêú|
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(µú×ïşÿÿÿÿ
+\	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(›®øú
+>
+java:S1604"(Make this anonymous inner class a lambda(›üšƒ
+C
+java:S16049"(Make this anonymous inner class a lambda(“Îïİøÿÿÿÿ
+n
+java:S1104ó"RMake result a static final constant or non-public and provide accessors if needed.( ºêøÿÿÿÿ
+n
+java:S1104™"RMake result a static final constant or non-public and provide accessors if needed.( ºêøÿÿÿÿ
+Q
+java:S26969"6Make the enclosing method "static" or remove this set.(“Îïİøÿÿÿÿ
+Q
+java:S2696L"6Make the enclosing method "static" or remove this set.(Ü¯ì¹üÿÿÿÿ
+E
+java:S20938"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+O
+java:S3400Z"9Remove this method and declare a constant for this value.(Áÿ¼
+\
+java:S3878f"ADisambiguate this call by either casting as "Class" or "Class[]".(é­àÔùÿÿÿÿ
+6
+java:S3878h"Remove this array creation.(Òÿ×ïüÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÏœßÌ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÏœßÌ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(ÏœßÌ
+M
+java:S1610˜"7Convert the abstract class "Base244" into an interface.(âıºX
+[
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(âıºX
+U
+java:S3400™"9Remove this method and declare a constant for this value.(µ¹¼ñıÿÿÿÿ
+U
+java:S3400š"9Remove this method and declare a constant for this value.(÷ˆëóüÿÿÿÿ
+P
+java:S3400"9Remove this method and declare a constant for this value.(÷ÅÚú
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(¼ïÈ¦şÿÿÿÿ
+P
+java:S1161Ö":Add the "@Override" annotation above this method signature(éÅ<
+?
+java:S1185Ú"(Remove this method to simply inherit it.(•ıò
+Q
+java:S1161Ú":Add the "@Override" annotation above this method signature(•ıò
+R
+java:S2696å"6Make the enclosing method "static" or remove this set.(üü†üÿÿÿÿ
+M
+java:S2696é"6Make the enclosing method "static" or remove this set.(À¼ûà
+?
+java:S3010ô"#Remove this assignment of "result".(¸ŠÑıÿÿÿÿ
+?
+java:S3010õ"#Remove this assignment of "result".(Ÿ‰¢Ùúÿÿÿÿ
+D
+java:S1172õ"(Remove this unused method parameter "i".(Ÿ‰¢Ùúÿÿÿÿ
+>
+java:S1172ö"(Remove this unused method parameter "i".(½Æ E
+L
+java:S2696ö"6Make the enclosing method "static" or remove this set.(½Æ E
+D
+java:S1172÷"(Remove this unused method parameter "i".(Åè“Êşÿÿÿÿ
+R
+java:S2696÷"6Make the enclosing method "static" or remove this set.(Åè“Êşÿÿÿÿ
+?
+java:S1172ø"(Remove this unused method parameter "i".(×å½é
+M
+java:S2696ø"6Make the enclosing method "static" or remove this set.(×å½é
+R
+java:S2696ı"6Make the enclosing method "static" or remove this set.(„è˜áøÿÿÿÿ
+M
+java:S2696…"6Make the enclosing method "static" or remove this set.(ô¥†ı
+R
+java:S2696Š"6Make the enclosing method "static" or remove this set.(ğ°Ù«ùÿÿÿÿ
+M
+java:S2696”"6Make the enclosing method "static" or remove this set.(¦èÔ¦
+:
+java:S3010š"#Remove this assignment of "result".(­åŞê
+:
+java:S3010›"#Remove this assignment of "result".(œ¥êÍ
+?
+java:S1172›"(Remove this unused method parameter "i".(œ¥êÍ
+>
+java:S1172œ"(Remove this unused method parameter "i".(½Æ E
+L
+java:S2696œ"6Make the enclosing method "static" or remove this set.(½Æ E
+D
+java:S1172"(Remove this unused method parameter "i".(Åè“Êşÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(Åè“Êşÿÿÿÿ
+?
+java:S1172"(Remove this unused method parameter "i".(×å½é
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(×å½é
+a
+java:S2133¥"ERemove this object instantiation and use "Extended267.class" instead.(ãåÎ˜ıÿÿÿÿ
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(Â¡ùÔ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(Ìë×Ğøÿÿÿÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(Ìë×Ğøÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(Ìë×Ğøÿÿÿÿ
+S
+java:S1610Ä"7Convert the abstract class "Base267" into an interface.(¡îòğüÿÿÿÿ
+a
+java:S1124Ä"EReorder the modifiers to comply with the Java Language Specification.(¡îòğüÿÿÿÿ
+U
+java:S3400Å"9Remove this method and declare a constant for this value.(µ¹¼ñıÿÿÿÿ
+V
+java:S1161Ë":Add the "@Override" annotation above this method signature(Ùñ­ÿÿÿÿÿ
+[
+java:S1854Ñ"?Remove this useless assignment to local variable "extended267".(›¡î«üÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(è»ÕÅøÿÿÿÿ
+U
+java:S3400å"9Remove this method and declare a constant for this value.(£‰æøÿÿÿÿ
+Q
+java:S1161ë":Add the "@Override" annotation above this method signature(­ñÃÇ
+L
+java:S1481Ñ"0Remove this unused "extended267" local variable.(›¡î«üÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(ü·¸ÿÿÿÿÿ
+V	java:S125F"<This block of commented-out lines of code should be removed.(ÉàÖÉıÿÿÿÿ

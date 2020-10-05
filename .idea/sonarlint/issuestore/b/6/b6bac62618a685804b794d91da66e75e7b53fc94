@@ -1,0 +1,11 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ŽË¢
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¨Ô…‹
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(¦Ñ¯†
+C
+java:S1481"(Remove this unused "idx" local variable.(õ»ëüúÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(Ç×Ÿê
+Q	java:S125+"<This block of commented-out lines of code should be removed.(ß¾Õ˜
+V	java:S125/"<This block of commented-out lines of code should be removed.(Ãºí€þÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(š¡øÿÿÿÿ

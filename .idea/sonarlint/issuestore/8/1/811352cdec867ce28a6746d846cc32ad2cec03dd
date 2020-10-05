@@ -1,0 +1,24 @@
+
+v
+java:S1192&"[Define a constant instead of duplicating this literal "  return n1+n2+n3+n4+n5; }" 4 times.(Ã±óşÿÿÿÿ
+`	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(“ĞÙ¯úÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Üˆíÿÿÿÿÿ
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+T
+java:S1854-"9Remove this useless assignment to local variable "code3".(ƒîÙÂüÿÿÿÿ
+O
+java:S1854'"9Remove this useless assignment to local variable "code2".(ä‘Í’
+?
+java:S11726")Remove this unused method parameter "cc".(€á­İ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(”¡Àôùÿÿÿÿ
+U
+java:S1161W":Add the "@Override" annotation above this method signature(•Ê×üÿÿÿÿ
+F
+java:S1172c"+Remove this unused method parameter "args".(üÎÆıÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(·å®‚
+@
+java:S1481'"*Remove this unused "code2" local variable.(ä‘Í’
+E
+java:S1481-"*Remove this unused "code3" local variable.(ƒîÙÂüÿÿÿÿ

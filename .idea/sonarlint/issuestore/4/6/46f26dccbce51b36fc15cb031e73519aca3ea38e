@@ -1,0 +1,50 @@
+
+g
+java:S1192}"LDefine a constant instead of duplicating this literal "defineClass" 3 times.(ñïäıùÿÿÿÿ
+o
+java:S1192I"ZDefine a constant instead of duplicating this literal "Access denied for caller." 7 times.(Îô¢p
+m
+java:S1192K"RDefine a constant instead of duplicating this literal "cannot initialize" 7 times.(æ›ëúÿÿÿÿ
+`	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+`	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+`	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+a	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+a	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+L
+java:S1610$"6Convert the abstract class "Helper" into an interface.(«× ¹
+[
+java:S1124$"EReorder the modifiers to comply with the Java Language Specification.(«× ¹
+P
+java:S1161+":Add the "@Override" annotation above this method signature( ³‘—
+V
+java:S1193R"@Replace the usage of the "instanceof" operator by a catch block.(®öÄê
+V
+java:S1193S"@Replace the usage of the "instanceof" operator by a catch block.(Ü‹¶ï
+@
+java:S1181k"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+A
+java:S1181ƒ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+W
+java:S1193´"@Replace the usage of the "instanceof" operator by a catch block.(®öÄê
+W
+java:S1193µ"@Replace the usage of the "instanceof" operator by a catch block.(Ü‹¶ï
+A
+java:S1181Ù"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+O
+java:S3878Ö"8Remove this array creation and simply pass the elements.(˜å»
+W
+java:S1193Ú"@Replace the usage of the "instanceof" operator by a catch block.(Ü‹¶ï
+W
+java:S1193Û"@Replace the usage of the "instanceof" operator by a catch block.(®öÄê
+[
+java:S3358å"DExtract this nested ternary operation into an independent statement.(²–ÃÆ
+[
+java:S3358ç"DExtract this nested ternary operation into an independent statement.(ÀêŠ§
+[
+java:S2147Š"ECombine this catch with the one at line 263, which has the same body.(“´Üx
+G
+java:S1172Å"0Remove this unused method parameter "className".(Ìƒµä
+A
+java:S1181Í"%Catch Exception instead of Throwable.(’ğôãøÿÿÿÿ

@@ -1,0 +1,87 @@
+
+]
+java:S1192ñ"FDefine a constant instead of duplicating this literal "fatal" 3 times.(ê§×ï
+D
+java:S1199æ"-Extract this nested code block into a method.(—¼¬Ç
+D
+java:S1199´"-Extract this nested code block into a method.(×»¶Ò
+I
+java:S1199¼"-Extract this nested code block into a method.(÷Ãùÿÿÿÿ
+I
+java:S1199Å"-Extract this nested code block into a method.(„æ«Éıÿÿÿÿ
+D
+java:S1199Í"-Extract this nested code block into a method.(™ä‡
+D
+java:S1199Ö"-Extract this nested code block into a method.(Š¼Œ¡
+D
+java:S1199ğ"-Extract this nested code block into a method.(ÇÔ¿à
+D
+java:S1199ö"-Extract this nested code block into a method.(€·å
+D
+java:S1199‚"-Extract this nested code block into a method.(§¶ˆ´
+D
+java:S1199Š"-Extract this nested code block into a method.(÷›ê¼
+I
+java:S1199¥"-Extract this nested code block into a method.(©Çãåøÿÿÿÿ
+D
+java:S1199­"-Extract this nested code block into a method.(ı®û
+D
+java:S1199Û"-Extract this nested code block into a method.(‘¥Çô
+D
+java:S1199â"-Extract this nested code block into a method.(ºôÑ£
+D
+java:S1199õ"-Extract this nested code block into a method.(‡é¶ˆ
+C
+java:S1199©"-Extract this nested code block into a method.(¦¦ø
+D
+java:S1199¹"-Extract this nested code block into a method.(íÏ×¬
+\	java:S112ñ"FDefine and throw a dedicated exception instead of using a generic one.(ê§×ï
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(î¯ò
+
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ê§×ï
+\	java:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(ê§×ï
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(–—µò
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(æÓ˜Óüÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰²„ú
+U
+java:S1117ƒ">Rename "stackTypes" which hides the field declared at line 37.(ÇÏÌå
+e
+java:S1871Ê"IThis case's code block is the same as the block for the case on line 157.(Ò•Øñúÿÿÿÿ
+e
+java:S1871½"IThis case's code block is the same as the block for the case on line 147.(È©¡Òûÿÿÿÿ
+U
+java:S1117ø">Rename "stackTypes" which hides the field declared at line 37.(ÇÏÌå
+K
+java:S1172—"/Remove this unused method parameter "localVar".(Ÿ˜µ¤ùÿÿÿÿ
+i	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È½İüÿÿÿÿ
+h
+java:S3252à"LUse static access with "javassist.bytecode.stackmap.TypeData" for "aastore".(ŸÖÉÇÿÿÿÿÿ
+i	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(— ªÒÿÿÿÿÿ
+T
+java:S1197¯"8Move the array designator from the variable to the type.(Îö¬„ùÿÿÿÿ
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‚Ö†üÿÿÿÿ
+B
+java:S1172¸"&Remove these unused method parameters.(È‚Ö†üÿÿÿÿ
+`
+java:S1871à"IThis case's code block is the same as the block for the case on line 458.(ÁÜö
+`
+java:S1871Û"IThis case's code block is the same as the block for the case on line 450.(°¾
+i	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛçØ¿üÿÿÿÿ
+`
+java:S1871‹"IThis case's code block is the same as the block for the case on line 520.(¯ÕÊş
+e
+java:S1871¿"IThis case's code block is the same as the block for the case on line 567.(˜«‘éÿÿÿÿÿ
+e
+java:S1871ƒ"IThis case's code block is the same as the block for the case on line 507.(àÀö—úÿÿÿÿ
+e
+java:S1871»"IThis case's code block is the same as the block for the case on line 563.(˜üæùÿÿÿÿ
+=	java:S131ú""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+^
+java:S1479ú"BReduce the number of non-empty switch cases from 37 to at most 30.(õÙÆ‚úÿÿÿÿ
+d	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘úé¾
+d	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ±¾
+P	java:S125w"<This block of commented-out lines of code should be removed.(òÁõ"
+W	java:S125ö"<This block of commented-out lines of code should be removed.(ù¤ò·ıÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(ù¤ò·ıÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(÷íÍßıÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(ÿú ¿øÿÿÿÿ

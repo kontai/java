@@ -1,0 +1,42 @@
+
+`	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(ûí˜ûÿÿÿÿ
+`	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(ûí˜ûÿÿÿÿ
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(ûí˜ûÿÿÿÿ
+a	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(ûí˜ûÿÿÿÿ
+a	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(ûí˜ûÿÿÿÿ
+/
+java:S1700í"Rename field "theUnsafe"(ó¡Çó
+C
+java:S1604?"(Make this anonymous inner class a lambda(Ñ¿£şÿÿÿÿ
+C
+java:S1604M"(Make this anonymous inner class a lambda(ã‰ùÁûÿÿÿÿ
+>
+java:S1604¡"(Make this anonymous inner class a lambda(ÆŞÖ
+A
+java:S1452G"&Remove usage of generic wildcard type.( Ù†–şÿÿÿÿ
+
+java:S1130\"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ã‡¢Ñûÿÿÿÿ
+G
+java:S3011^",This accessibility update should be removed.(âÕ®ÿÿÿÿÿ
+=
+java:S1452ƒ"&Remove usage of generic wildcard type.(Èç‹Š
+H
+java:S3011®",This accessibility bypass should be removed.(çãÏÄşÿÿÿÿ
+H
+java:S3011´",This accessibility bypass should be removed.(çãÏÄşÿÿÿÿ
+‚
+java:S1130Æ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(›¯Ë·ıÿÿÿÿ
+„
+java:S1130Ç"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(½ÒÆ
+C
+java:S3011Ê",This accessibility update should be removed.(‚˜ÛË
+b
+java:S1764Ø"KCorrect one of the identical sub-expressions on both sides of operator "||"(Ï»‘Å
+o
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ¡à]
+p
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¤äü
+D
+java:S1172"(Remove this unused method parameter "o".(„¡ºøúÿÿÿÿ
+<
+java:S1181Š"%Catch Exception instead of Throwable.(ûõËğ

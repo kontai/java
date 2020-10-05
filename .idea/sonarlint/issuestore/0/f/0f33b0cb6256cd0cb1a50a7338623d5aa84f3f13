@@ -1,0 +1,18 @@
+
+>
+java:S1185Q"(Remove this method to simply inherit it.(äÏ¼É
+[	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(ù¶Ñ
+<
+java:S1481~"'Remove this unused "cp" local variable.(ñ“ö6
+\
+java:S2147œ"ECombine this catch with the one at line 153, which has the same body.(¬¦ñ
+t
+java:S3008%"YRename this field "EXCEPTION_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©şŒşÿÿÿÿ
+=
+java:S1185?"(Remove this method to simply inherit it.(ò‚C
+>
+java:S11857"(Remove this method to simply inherit it.(Çö»¼
+K
+java:S1854~"6Remove this useless assignment to local variable "cp".(ñ“ö6
+C
+java:S1185I"(Remove this method to simply inherit it.(“Êûşÿÿÿÿ

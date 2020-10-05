@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ªœó
+q
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "obj".(ŽÆÇ
+M
+java:S1854"7Remove this useless assignment to local variable "obj".(½ýï´
+>
+java:S1481"(Remove this unused "obj" local variable.(½ýï´

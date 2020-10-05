@@ -1,0 +1,19 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ªœó
+i
+java:S1104"NMake f1 a static final constant or non-public and provide accessors if needed.(„–¤Üÿÿÿÿÿ
+i
+java:S1104	"NMake f2 a static final constant or non-public and provide accessors if needed.(„¹Äâøÿÿÿÿ
+d
+java:S1104
+"NMake f3 a static final constant or non-public and provide accessors if needed.(þ¿¹¾
+d
+java:S1104"NMake f4 a static final constant or non-public and provide accessors if needed.(Ò¶ãˆ
+d
+java:S1104"NMake f5 a static final constant or non-public and provide accessors if needed.(­Ôµí
+d
+java:S1104"NMake f6 a static final constant or non-public and provide accessors if needed.(“Þ³ˆ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŽÂú˜ÿÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊÍ±ßüÿÿÿÿ

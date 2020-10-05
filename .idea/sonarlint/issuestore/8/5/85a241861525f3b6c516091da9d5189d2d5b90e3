@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óíªúøÿÿÿÿ
+—
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­ÿêÄ
+@
+java:S2157	"%Add a "clone()" method to this class.(ñÑ¡Œúÿÿÿÿ
+>
+java:S1172"(Remove this unused method parameter "k".(¡º²ü
+C
+java:S1172"(Remove this unused method parameter "i".(ğüÑşÿÿÿÿ
+<
+java:S1172"&Remove these unused method parameters.(­Î‹Õ

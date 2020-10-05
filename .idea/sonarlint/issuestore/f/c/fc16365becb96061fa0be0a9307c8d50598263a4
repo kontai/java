@@ -1,0 +1,14 @@
+
+J
+java:S37405"/Provide the parametrized type for this generic.(Ó·ðŸüÿÿÿÿ
+J
+java:S3740C"/Provide the parametrized type for this generic.(û²«§þÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¨í¹Îýÿÿÿÿ
+`	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(û²«§þÿÿÿÿ
+f	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Þð€üÿÿÿÿ
+K
+java:S11178"5Rename "e" which hides the field declared at line 42.(”ý¾
+C
+java:S1185>"(Remove this method to simply inherit it.(ŽÞã¤ûÿÿÿÿ
+:
+java:S3398C"Move this method into "Worker".(û²«§þÿÿÿÿ

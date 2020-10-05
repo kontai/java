@@ -1,0 +1,38 @@
+
+e
+java:S1192Ã	"NDefine a constant instead of duplicating this literal "type mismatch" 5 times.(¤ƒì†
+a	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(Û²ããüÿÿÿÿ
+\	java:S112Â"FDefine and throw a dedicated exception instead of using a generic one.(ç¬À—
+o	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óç£Ä
+D
+java:S1185Ô"(Remove this method to simply inherit it.(¼ŒÖŠûÿÿÿÿ
+=
+java:S1168Ö"&Return an empty array instead of null.(¥¹ï
+W
+java:S1610ú";Convert the abstract class "Initializer" into an interface.(ÏÇúúüÿÿÿÿ
+a
+java:S1124ú"EReorder the modifiers to comply with the Java Language Specification.(ÏÇúúüÿÿÿÿ
+B
+java:S1172ä"&Remove these unused method parameters.(ì÷éøùÿÿÿÿ
+U
+java:S3400ä"9Remove this method and declare a constant for this value.(ì÷éøùÿÿÿÿ
+a
+java:S1124ç"EReorder the modifiers to comply with the Java Language Specification.(Î±Íòûÿÿÿÿ
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(…­ìÄúÿÿÿÿ
+T
+java:S3252Ÿ"=Use static access with "javassist.bytecode.Opcode" for "DUP".(ŠˆÖá
+M
+java:S5261·"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+T
+java:S3252Ê"=Use static access with "javassist.bytecode.Opcode" for "DUP".(ŠˆÖá
+•
+java:S1130Ú"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(ÄÒˆşÿÿÿÿ
+T
+java:S3252à"=Use static access with "javassist.bytecode.Opcode" for "DUP".(ì‡®²
+X
+java:S3252ã"AUse static access with "javassist.bytecode.Opcode" for "AASTORE".(±ô¬
+s
+java:S2177’	"WRename this method; there is a "private" method in the parent class with the same name.(Ñ¥ŠĞûÿÿÿÿ
+M
+java:S5261™	"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ

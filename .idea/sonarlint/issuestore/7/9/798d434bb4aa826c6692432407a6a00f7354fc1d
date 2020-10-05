@@ -1,0 +1,77 @@
+
+b
+java:S2095!"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ßÍ—¢
+c
+java:S2095L"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¹øĞÜûÿÿÿÿ
+b
+java:S2095|"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÆÉü­
+b
+java:S20958"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ßÍ—¢
+^
+java:S2095K"HUse try-with-resources or close this "FileReader" in a "finally" clause.(İ†¿„
+g
+java:S20959"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ßÀíşÿÿÿÿ
+b
+java:S2095d"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÆÉü­
+d
+java:S2095“"HUse try-with-resources or close this "FileReader" in a "finally" clause.(áÉÛøÿÿÿÿ
+g
+java:S2095""LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ßÀíşÿÿÿÿ
+e
+java:S1192n"ODefine a constant instead of duplicating this literal "file not found" 3 times.(°Â¨Â
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¸™Úûÿÿÿÿ
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¸™Úûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¬®ûÿÿÿÿ
+•
+java:S1598"zThis file "Demo001.java" should be located in "ç·´ç¿’\test0521" directory, not in "D:\workspace\JAVA\ç·´ç¿’\OLD\test0521".(¤¬®ûÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+G
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+n	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ÿì
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(´úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿŸÍ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı®¤ìüÿÿÿÿ
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œêáôşÿÿÿÿ
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‡çìüÿÿÿÿ
+1
+java:S3626p"Remove this redundant jump.(ûÁİ…
+h	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¶¬êşÿÿÿÿ
+S
+java:S1854_"8Remove this useless assignment to local variable "file".(‘‚æ¬ıÿÿÿÿ
+M	java:S106h"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ë¨šıÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(°Â¨Â
+2
+java:S3626ˆ"Remove this redundant jump.(ûÁİ…
+h	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü€©øúÿÿÿÿ
+S
+java:S1854w"8Remove this useless assignment to local variable "file".(‘‚æ¬ıÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(µ¹™ûÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ë¨šıÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(°Â¨Â
+2
+java:S3626œ"Remove this redundant jump.(ûÁİ…
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÏÆƒûÿÿÿÿ
+N	java:S106–"9Replace this use of System.out or System.err by a logger.(Ë­ú
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(°Â¨Â
+C
+java:S1481$"(Remove this unused "len" local variable.(¤í´‚şÿÿÿÿ
+D
+java:S1481_")Remove this unused "file" local variable.(‘‚æ¬ıÿÿÿÿ
+D
+java:S1481w")Remove this unused "file" local variable.(‘‚æ¬ıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(®½µŒüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÈÖ¥
+Q	java:S125"<This block of commented-out lines of code should be removed.(îêÙƒ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(Æóã…
+Q	java:S1256"<This block of commented-out lines of code should be removed.(îêÙƒ
+[
+java:S11442"@Remove this unused private "WriterDemoWithBufferedDemo1" method.(Œêáôşÿÿÿÿ
+J
+java:S1144G"/Remove this unused private "WriterDemo" method.(ˆ‡çìüÿÿÿÿ
+U
+java:S1144\":Remove this unused private "ReadWithBufferedDemo2" method.(Õ¶¬êşÿÿÿÿ
+U
+java:S1144t":Remove this unused private "ReadWithBufferedDemo1" method.(Ü€©øúÿÿÿÿ

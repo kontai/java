@@ -1,0 +1,50 @@
+
+F
+java:S3740ğ"/Provide the parametrized type for this generic.(Á³öÆ
+F
+java:S3740ğ"/Provide the parametrized type for this generic.(Á³öÆ
+K
+java:S3740ò"/Provide the parametrized type for this generic.(µ”æÄÿÿÿÿÿ
+k
+java:S1192'"UDefine a constant instead of duplicating this literal "java.io.Serializable" 3 times.(Åò¥ñ
+d
+java:S1192Ï"HDefine a constant instead of duplicating this literal "valueOf" 5 times.(œÉÎŠøÿÿÿÿ
+h
+java:S1192›"QDefine a constant instead of duplicating this literal "java.lang.String" 8 times.(Œ»­š
+]
+java:S1192"GDefine a constant instead of duplicating this literal "$Dummy" 8 times.(Óœœ¥
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(™—±Õ
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(½îÈúÿÿÿÿ
+[	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(íğã…
+[	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(«Ò©
+[	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(¬²úí
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(×é¯ë
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(­¾Æäşÿÿÿÿ
+a	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.(šÍÚÓÿÿÿÿÿ
+\	java:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(„ÉğŠ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(×…ºíúÿÿÿÿ
+
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘öò¶ıÿÿÿÿ
+^
+java:S2094Á"BRemove this empty class, write its code or make it an "interface".(ñ‡¨üÿÿÿÿ
+8
+java:S1116Á"Remove this empty statement.(ñ‡¨üÿÿÿÿ
+8
+java:S1116Ã"Remove this empty statement.(‰‘—Şøÿÿÿÿ
+8
+java:S1116Å"Remove this empty statement.(‰‘—Şøÿÿÿÿ
+<
+java:S2157Æ"%Add a "clone()" method to this class.(×Û¥í
+8
+java:S1116Ç"Remove this empty statement.(‰‘—Şøÿÿÿÿ
+<
+java:S2157È"%Add a "clone()" method to this class.(íöŒœ
+8
+java:S1116É"Remove this empty statement.(‰‘—Şøÿÿÿÿ
+8
+java:S1116Ê"Remove this empty statement.(ıµÅ²ùÿÿÿÿ
+8
+java:S1116Ì"Remove this empty statement.(‰‘—Şøÿÿÿÿ
+R	java:S899ó"<Do something with the "boolean" value returned by "hasNext".(å÷¢Ô
+?	java:S108ô")Either remove or fill this block of code.(”ı¾
+R	java:S125‹"<This block of commented-out lines of code should be removed.(ˆ˜Şò

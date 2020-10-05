@@ -1,0 +1,17 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨£²¯øÿÿÿÿ
+\	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(ü„†¹
+\	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(ŸÒèÜ
+—
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óòˆ
+o
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñô¬
+o
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñô¬
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ùğ¬¬
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(Îã­Ã
+A
+java:S1181ğ"%Catch Exception instead of Throwable.(ÓÌËÉûÿÿÿÿ
+A
+java:S1181÷"%Catch Exception instead of Throwable.(ÓÌËÉûÿÿÿÿ

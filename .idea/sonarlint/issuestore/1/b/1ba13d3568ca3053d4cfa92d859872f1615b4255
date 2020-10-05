@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(׃ם×תרÿÿÿÿ
+h
+java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(—÷נרÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ְ׀€ע‎ÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "q2".(יםױ¥
+K
+java:S1854"5Remove this useless assignment to local variable "b".(תהענ
+<
+java:S1481"&Remove this unused "b" local variable.(תהענ
+=
+java:S1481"'Remove this unused "q2" local variable.(יםױ¥

@@ -1,0 +1,28 @@
+
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(ğ£øÎÿÿÿÿÿ
+8
+java:S23865"Make this member "protected".(üÆÚıÿÿÿÿ
+8
+java:S2386="Make this member "protected".(’ÂÅŸûÿÿÿÿ
+3
+java:S2386F"Make this member "protected".(òº¯õ
+8
+java:S2386Q"Make this member "protected".(ëöÿ€şÿÿÿÿ
+2
+java:S2386Z"Make this member "protected".(—¨ÍK
+2
+java:S2386b"Make this member "protected".(ÿÉÿ
+P
+java:S1118$":Add a private constructor to hide the implicit public one.(äŸÅş
+P
+java:S1133n"5Do not forget to remove this deprecated code someday.(ÜÀÍÌûÿÿÿÿ
+B
+java:S1123n"'Add the missing @Deprecated annotation.(ÜÀÍÌûÿÿÿÿ
+K
+java:S1133€"5Do not forget to remove this deprecated code someday.(ŠÊT
+=
+java:S1123€"'Add the missing @Deprecated annotation.(ŠÊT
+•
+java:S1130Ï"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(Ù¥š´úÿÿÿÿ
+n
+java:S2737à"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û

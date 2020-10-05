@@ -1,0 +1,17 @@
+
+>
+java:S1659É"'Declare "signature" on a separate line.(†ëÓ·
+W	java:S125´"<This block of commented-out lines of code should be removed.(ÅÔÕ—ûÿÿÿÿ
+C
+java:S1185Q"(Remove this method to simply inherit it.(“Êûşÿÿÿÿ
+>
+java:S1185>"(Remove this method to simply inherit it.(Çö»¼
+=
+java:S1185G"(Remove this method to simply inherit it.(ò‚C
+?
+java:S1659É"(Declare "methodname" on a separate line.(†ëÓ·
+a
+java:S2147‚"ECombine this catch with the one at line 257, which has the same body.(ÿŞíüøÿÿÿÿ
+?
+java:S1185›"(Remove this method to simply inherit it.(äÏ¼É
+W	java:S125«"<This block of commented-out lines of code should be removed.(àõœ¥üÿÿÿÿ

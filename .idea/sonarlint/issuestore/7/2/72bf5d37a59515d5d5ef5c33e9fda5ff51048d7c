@@ -1,0 +1,38 @@
+
+K
+java:S3740¢"/Provide the parametrized type for this generic.(‘ÓŠ‚üÿÿÿÿ
+K
+java:S3740¢"/Provide the parametrized type for this generic.(‘ÓŠ‚üÿÿÿÿ
+K
+java:S3740±"/Provide the parametrized type for this generic.(ôã©Øÿÿÿÿÿ
+F
+java:S3740ë"/Provide the parametrized type for this generic.(˜®ÒŒ
+F
+java:S3740î"/Provide the parametrized type for this generic.(Ÿâé
+n	java:S135\"YReduce the total number of break and continue statements in this loop to use at most one.(È–ï
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÍòÀ£
+{
+java:S1149¡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(êŸé¯ùÿÿÿÿ
+
+java:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘ÓŠ‚üÿÿÿÿ
+{
+java:S1149±"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôã©Øÿÿÿÿÿ
+
+java:S1149±"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ôã©Øÿÿÿÿÿ
+{
+java:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(°ÊóÌùÿÿÿÿ
+v
+java:S1149Ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡Ôñğ
+|
+java:S1149ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜®ÒŒ
+T
+java:S1197‚"8Move the array designator from the variable to the type.(òÍ÷Ùşÿÿÿÿ
+O
+java:S1874ı"3Remove this use of "newInstance"; it is deprecated.(ã°çµùÿÿÿÿ
+[
+java:S2147¤"ECombine this catch with the one at line 289, which has the same body.(“´Üx
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(¡ãÇÀûÿÿÿÿ
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(¢½•“

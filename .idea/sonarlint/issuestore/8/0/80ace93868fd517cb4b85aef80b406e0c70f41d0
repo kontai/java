@@ -1,0 +1,19 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(à…§Ñ
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(á©ÒÇÿÿÿÿÿ
+`	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(†¹ø ùÿÿÿÿ
+S
+java:S25899"8Remove this expression which always evaluates to "false"(äž÷´ÿÿÿÿÿ
+E
+java:S11721"/Remove this unused method parameter "outgoing".(ØÛ£Õ
+J
+java:S1854:"5Remove this useless assignment to local variable "k".(“¾È
+M	java:S106a"9Replace this use of System.out or System.err by a logger.(ÞðÝD
+@
+java:S1181i"%Catch Exception instead of Throwable.(’ðôãøÿÿÿÿ
+A
+java:S14812"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ç§úk
+P	java:S125A"<This block of commented-out lines of code should be removed.(ç§úk
+C
+java:S11441"-Remove this unused private "testNode" method.(ØÛ£Õ

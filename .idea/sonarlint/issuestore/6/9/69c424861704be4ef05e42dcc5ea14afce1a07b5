@@ -1,0 +1,19 @@
+
+H
+java:S1444"-Make this "public static counter" field final(£èÆıÿÿÿÿ
+E
+java:S1444"*Make this "public static loop" field final(¹÷Ê†üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óíªúøÿÿÿÿ
+,
+java:S1700"Rename field "fi"(ˆê¹÷şÿÿÿÿ
+n
+java:S1104"SMake counter a static final constant or non-public and provide accessors if needed.(£èÆıÿÿÿÿ
+k
+java:S1104"PMake loop a static final constant or non-public and provide accessors if needed.(¹÷Ê†üÿÿÿÿ
+i
+java:S1104"NMake fi a static final constant or non-public and provide accessors if needed.(ˆê¹÷şÿÿÿÿ
+8
+java:S1118"Hide this public constructor.(£Ï¤Ğøÿÿÿÿ
+@
+java:S1172"*Remove this unused method parameter "obj".(ÜÇĞÂ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºÉÔ¹ûÿÿÿÿ

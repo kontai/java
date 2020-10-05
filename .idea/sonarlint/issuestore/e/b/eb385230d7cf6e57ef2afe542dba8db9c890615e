@@ -1,0 +1,200 @@
+
+g
+java:S1301ø"KReplace this "switch" statement by "if" statements to increase readability.(›‡ã¿øÿÿÿÿ
+g
+java:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(›‡ã¿øÿÿÿÿ
+C
+java:S1444Å",Make this "public static value2" field final(´¥ê¹
+J
+java:S37405"/Provide the parametrized type for this generic.(â“Ò¶ûÿÿÿÿ
+J
+java:S3740T"/Provide the parametrized type for this generic.(â“Ò¶ûÿÿÿÿ
+K
+java:S3740•"/Provide the parametrized type for this generic.(ã†òƒúÿÿÿÿ
+K
+java:S3740•"/Provide the parametrized type for this generic.(ã†òƒúÿÿÿÿ
+K
+java:S3740¸"/Provide the parametrized type for this generic.(ÂÚÌùÿÿÿÿ
+K
+java:S3740¸"/Provide the parametrized type for this generic.(ùÂ«Ğúÿÿÿÿ
+F
+java:S3740¹"/Provide the parametrized type for this generic.(œ¾ü÷
+o
+java:S1192‚"SDefine a constant instead of duplicating this literal "java.lang.String[]" 3 times.( Ş•ûÿÿÿÿ
+m
+java:S1192…"QDefine a constant instead of duplicating this literal "java.lang.Object" 5 times.(ÀëÛÈúÿÿÿÿ
+]
+java:S1192ò"FDefine a constant instead of duplicating this literal "int[]" 5 times.(ÁòÃ¨
+`
+java:S1192ß"JDefine a constant instead of duplicating this literal "String s;" 4 times.(ÆÏ‡X
+j
+java:S1192„"SDefine a constant instead of duplicating this literal "java.lang.Object[]" 5 times.(ğÙ´¦
+b
+java:S1192Í"FDefine a constant instead of duplicating this literal "test2" 9 times.(ÙÄ—öøÿÿÿÿ
+b
+java:S1192á"FDefine a constant instead of duplicating this literal "s =\"" 4 times.(²åéøıÿÿÿÿ
+I
+java:S1199Ñ"-Extract this nested code block into a method.(®ä¹Õùÿÿÿÿ
+K
+java:S1066²"/Merge this if statement with the enclosing one.(’Ö´Œıÿÿÿÿ
+`	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ø’¸Šıÿÿÿÿ
+[	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(ëî‰„
+`	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(ÄøèÌÿÿÿÿÿ
+[	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(ÒÏ¯
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(•ºƒ³úÿÿÿÿ
+a	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(ˆœåÕÿÿÿÿÿ
+a	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(¾ËÎùÿÿÿÿ
+\	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(×î¾ú
+a	java:S112«"FDefine and throw a dedicated exception instead of using a generic one.(€İúâúÿÿÿÿ
+[	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(ãØÔZ
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(Ï¬àğøÿÿÿÿ
+\	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(›—€°
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…•µÖıÿÿÿÿ
+-
+java:S1700í"Rename field "t7"(Ù”ÏÇúÿÿÿÿ
+V
+java:S2259¡"?A "NullPointerException" could be thrown; "a" is nullable here.(ò‘‰È
+X
+java:S2259L"BA "NullPointerException" could be thrown; "smt2" is nullable here.(ˆ¡Êœ
+m
+java:S1104Ä"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
+i
+java:S1104Å"RMake value2 a static final constant or non-public and provide accessors if needed.(´¥ê¹
+S
+java:S2589¬"7Remove this expression which always evaluates to "true"(Ù’ë“úÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'javassist.CtNewMethod'.(÷§Ëüÿÿÿÿ
+q
+java:S1450"VRemove the "dloader" field and declare it as a local variable in the relevant methods.(±¾´õùÿÿÿÿ
+@
+java:S1659"%Declare "dloader" on a separate line.(±¾´õùÿÿÿÿ
+u
+java:S1149ß"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÆÏ‡X
+u
+java:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÆÏ‡X
+u
+java:S1149¯"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÆÏ‡X
+u
+java:S1149à"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÆÏ‡X
+W
+java:S3878."ADisambiguate this call by either casting as "Class" or "Class[]".(ñİôÒ
+6
+java:S3878/"Remove this array creation.(·‘§‚ùÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ñ”Éøÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(³ªö›ıÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(”ôÙŸúÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ˆ¡Êœ
+
+java:S1130["wRemove the declaration of thrown exception 'javassist.bytecode.BadBytecode', as it cannot be thrown from method's body.(õ¨¹
+‚
+java:S1130["lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(õ¨¹
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(¦Ñ¯†
+D
+java:S1172ß"(Remove this unused method parameter "i".(Íûÿ‹şÿÿÿÿ
+U
+java:S3400ß"9Remove this method and declare a constant for this value.(Íûÿ‹şÿÿÿÿ
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(ßîİÏ
+[
+java:S3358Ó"DExtract this nested ternary operation into an independent statement.(ö·šÛ
+P
+java:S3400ï"9Remove this method and declare a constant for this value.(Ëä¨å
+Q
+java:S1854ö"5Remove this useless assignment to local variable "s".(ûñ¦Ùüÿÿÿÿ
+L
+java:S1854÷"5Remove this useless assignment to local variable "t".(äÊÿ·
+t
+java:S3923÷"]This conditional operation returns the same value whether the condition is "true" or "false".(äÊÿ·
+=	java:S131ø""Add a default case to this switch.(›‡ã¿øÿÿÿÿ
+P
+java:S3400—"9Remove this method and declare a constant for this value.(Ëä¨å
+Q
+java:S1854"5Remove this useless assignment to local variable "s".(ûñ¦Ùüÿÿÿÿ
+Q
+java:S1854Ÿ"5Remove this useless assignment to local variable "t".(šóÜ“ûÿÿÿÿ
+y
+java:S3923Ÿ"]This conditional operation returns the same value whether the condition is "true" or "false".(šóÜ“ûÿÿÿÿ
+=	java:S131 ""Add a default case to this switch.(›‡ã¿øÿÿÿÿ
+˜
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅõË‡
+P
+java:S3400À"9Remove this method and declare a constant for this value.(Ëä¨å
+D
+java:S1172Â"(Remove this unused method parameter "k".(ã›çşÿÿÿÿ
+U
+java:S3400Â"9Remove this method and declare a constant for this value.(ã›çşÿÿÿÿ
+W
+java:S1119Ì";Refactor the code to remove this label and the need for it.(«ãƒüÿÿÿÿ
+7	java:S131Î""Add a default case to this switch.(ìúÇV
+
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÓáİøÿÿÿÿ
+
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷üÄÿÿÿÿÿ
+—
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯Ğÿ1
+U
+java:S3400ü"9Remove this method and declare a constant for this value.(ÇÃ®ÿıÿÿÿÿ
+D
+java:S1172ı"(Remove this unused method parameter "s".(¾—Ï–ÿÿÿÿÿ
+D
+java:S1172ÿ"(Remove this unused method parameter "s".(÷üÄÿÿÿÿÿ
+?
+java:S1172€"(Remove this unused method parameter "s".(ü·ü‰
+?
+java:S1172"(Remove this unused method parameter "s".(›È
+U
+java:S3400‚"9Remove this method and declare a constant for this value.(¦Çš‹ûÿÿÿÿ
+P
+java:S3400†"9Remove this method and declare a constant for this value.(Ëä¨å
+D	java:S108Š")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+B
+java:S1172"&Remove these unused method parameters.(•ºƒ³úÿÿÿÿ
+D
+java:S1172•"(Remove this unused method parameter "s".(ã†òƒúÿÿÿÿ
+
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÓáİøÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷üÄÿÿÿÿÿ
+—
+java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯Ğÿ1
+U
+java:S3400š"9Remove this method and declare a constant for this value.(ÇÃ®ÿıÿÿÿÿ
+D
+java:S1172›"(Remove this unused method parameter "s".(¾—Ï–ÿÿÿÿÿ
+D
+java:S1172"(Remove this unused method parameter "s".(÷üÄÿÿÿÿÿ
+?
+java:S1172"(Remove this unused method parameter "s".(ü·ü‰
+?
+java:S1172Ÿ"(Remove this unused method parameter "s".(›È
+U
+java:S3400 "9Remove this method and declare a constant for this value.(¦Çš‹ûÿÿÿÿ
+r
+java:S3923Ê"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¦şÕ¸
+0
+java:S2153Ë"Remove the boxing of "i".(ØŞ“Å
+0
+java:S2153Í"Remove the boxing of "i".(ØŞ“Å
+<
+java:S2129‚" Remove this "String" constructor(¨Øû®ùÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(½›Š©
+7
+java:S2129†" Remove this "String" constructor(èùŠ¨
+Q
+java:S1161®":Add the "@Override" annotation above this method signature(¾ïÑ
+R
+java:S1854Ñ"6Remove this useless assignment to local variable "t1".(«¢ØÜüÿÿÿÿ
+B
+java:S1481ö"&Remove this unused "s" local variable.(ûñ¦Ùüÿÿÿÿ
+B
+java:S1481"&Remove this unused "s" local variable.(ûñ¦Ùüÿÿÿÿ
+D
+java:S1481Ñ"(Remove this unused "poi" local variable.(®ä¹Õùÿÿÿÿ
+C
+java:S1481Ñ"'Remove this unused "t1" local variable.(«¢ØÜüÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(Ï¿àÀşÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(²…è×úÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(şØó¿
+G
+java:S1144ÿ"+Remove this unused private "print2" method.(÷üÄÿÿÿÿÿ
+@
+java:S1144€")Remove this unused private "func" method.(ü·ü‰

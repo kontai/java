@@ -1,0 +1,8 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ªÿ·üÿÿÿÿ
+M
+java:S1068"2Remove this unused "initialVersion" private field.(€ªÿ·üÿÿÿÿ
+L
+java:S1068"6Remove this unused "updatableClassName" private field.(—„Ð¹
+H
+java:S1068"2Remove this unused "updatableClass" private field.(»É…ƒ

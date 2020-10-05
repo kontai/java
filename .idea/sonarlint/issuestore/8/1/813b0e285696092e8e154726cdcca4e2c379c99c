@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÊ†Ùùÿÿÿÿ
+b
+java:S1104"MMake f a static final constant or non-public and provide accessors if needed.(ãí…U
+h
+java:S1104"MMake s a static final constant or non-public and provide accessors if needed.(¶¡ã¾øÿÿÿÿ
+b
+java:S1104	"MMake f a static final constant or non-public and provide accessors if needed.(ãí…U
+c
+java:S1104
+"MMake s a static final constant or non-public and provide accessors if needed.(±¸¡í
+B
+java:S2387	"-"f" is the name of a field in "GetFieldDesc".(ãí…U
+C
+java:S2387
+"-"s" is the name of a field in "GetFieldDesc".(±¸¡í

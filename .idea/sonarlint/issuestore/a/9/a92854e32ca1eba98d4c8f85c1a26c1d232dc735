@@ -1,0 +1,28 @@
+
+s	java:S127«"XRefactor the code in order to not assign to this loop counter from within the loop body.(Úš¿úÿÿÿÿ
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÔœÜ
+k	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¨™ªüÿÿÿÿ
+k	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¦ËÒûÿÿÿÿ
+k	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ô‹øùÿÿÿÿ
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µè¢
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µè¢
+o	java:S115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÈóÂ
+t
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê°ìšûÿÿÿÿ
+t
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê°ìšûÿÿÿÿ
+t
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê°ìšûÿÿÿÿ
+
+java:S1130‡"€Remove the declaration of thrown exception 'javassist.bytecode.CodeAttribute$RuntimeCopyException' which is a runtime exception.(îÅšÎÿÿÿÿÿ
+?
+java:S1659ò"#Declare "index" on a separate line.(–Öóøùÿÿÿÿ
+2
+java:S3626ş"Remove this redundant jump.(ûÁİ…
+2
+java:S3626‰"Remove this redundant jump.(ûÁİ…
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(´®ªÂ
+H
+java:S1481f"-Remove this unused "attr_len" local variable.(ß¦ËÒûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(ë–¬Îøÿÿÿÿ

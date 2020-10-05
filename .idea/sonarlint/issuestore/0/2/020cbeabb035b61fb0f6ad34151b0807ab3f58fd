@@ -1,0 +1,11 @@
+
+P
+java:S1141a"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1659"(Declare "methodname" on a separate line.(Ïß£©ùÿÿÿÿ
+I
+java:S1659".Declare "methodDescriptor" on a separate line.(Ïß£©ùÿÿÿÿ
+F
+java:S1659"+Declare "newMethodname" on a separate line.(çåïÈøÿÿÿÿ
+
+java:S1130r"wRemove the declaration of thrown exception 'javassist.bytecode.BadBytecode', as it cannot be thrown from method's body.(óŠÁÿ

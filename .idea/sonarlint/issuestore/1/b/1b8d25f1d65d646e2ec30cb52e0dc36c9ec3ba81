@@ -1,0 +1,102 @@
+
+e
+java:S1192ú"NDefine a constant instead of duplicating this literal ", name&type #" 3 times.(Û·¸Ñ
+b
+java:S2259ï"KA "NullPointerException" could be thrown; "getClassInfo()" can return null.(Éƒ•É
+P
+java:S4973œ"9Use the "equals" method if value comparison was intended.(à•öƒ
+U
+java:S4973²"9Use the "equals" method if value comparison was intended.(ïÃĞ ûÿÿÿÿ
+P
+java:S4973"9Use the "equals" method if value comparison was intended.(±—‰
+P
+java:S4973"9Use the "equals" method if value comparison was intended.(±—‰
+O
+java:S4973ê"9Use the "equals" method if value comparison was intended.(Ó¥ñM
+O
+java:S4973ú"9Use the "equals" method if value comparison was intended.(Ó¥ñM
+{
+java:S4144¯"_Update this method so that its implementation is not identical to "getMemberClass" on line 330.(¦¼Œìıÿÿÿÿ
+v
+java:S4144ü"_Update this method so that its implementation is not identical to "getMemberClass" on line 330.(ÒÔÈ
+|
+java:S4144É"eUpdate this method so that its implementation is not identical to "getMemberNameAndType" on line 345.(ÄŒ±Á
+
+java:S4144”"eUpdate this method so that its implementation is not identical to "getMemberNameAndType" on line 345.(ÁàÉùÿÿÿÿ
+}
+java:S4144£"aUpdate this method so that its implementation is not identical to "getMethodrefName" on line 471.(„œÒøÿÿÿÿ
+}
+java:S4144¸"aUpdate this method so that its implementation is not identical to "getMethodrefType" on line 491.(•º¤æıÿÿÿÿ
+t	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•ÁÆÇøÿÿÿÿ
+t	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü—“âùÿÿÿÿ
+t	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªŒšäÿÿÿÿÿ
+t	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨¬±Óûÿÿÿÿ
+n	java:S115A"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·Ş©h
+o	java:S115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á ‡
+t	java:S115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç›ïôúÿÿÿÿ
+o	java:S115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úê©Ø
+t	java:S115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ¬Ëóüÿÿÿÿ
+t	java:S115Z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ı¬Åşÿÿÿÿ
+t	java:S115_"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾È«İøÿÿÿÿ
+t	java:S115d"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±™˜øÿÿÿÿ
+t	java:S115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖšŠ‚úÿÿÿÿ
+t	java:S115n"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ˆº–ÿÿÿÿÿ
+o	java:S115t"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…ˆ¤Ÿ
+o	java:S115u"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«÷úì
+t	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úÒÑøÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÊ«
+p	java:S115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôĞê¡
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡üÇ†
+u	java:S115“"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³‡´Ïüÿÿÿÿ
+u	java:S115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çñùíüÿÿÿÿ
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­Óè›
+u	java:S115¢"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûà°Íûÿÿÿÿ
+u	java:S115§"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ—ÿÿÿÿÿ
+p	java:S115¬"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥ÙÉ–
+u	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å„‹êüÿÿÿÿ
+u
+java:S2293Œ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÒöğùÿÿÿÿ
+p
+java:S2293Ê
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¡—Ö
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(…ï—Ğ
+@
+java:S1172Á")Remove this unused method parameter "cp".(ÇÍ»º
+
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş™«úÿÿÿÿ
+p	java:S115ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶øô÷
+H
+java:S5261£"1Add explicit curly braces to avoid dangling else.(á¢–¬
+p	java:S115ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©¨ñã
+H
+java:S5261"1Add explicit curly braces to avoid dangling else.(á¢–¬
+H
+java:S5261 "1Add explicit curly braces to avoid dangling else.(á¢–¬
+\
+java:S1124ë"EReorder the modifiers to comply with the Java Language Specification.(ú¥«ä
+p	java:S115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÖ¿®
+p	java:S115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ƒİ
+u	java:S115»"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë™£şÿÿÿÿ
+p	java:S115×"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î¸º„
+p	java:S115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çª¾ò
+u	java:S115»"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÑÃá¶ÿÿÿÿÿ
+p	java:S115í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òì÷‡
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾ÅŠ¾øÿÿÿÿ
+u	java:S115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€Í’Ğşÿÿÿÿ
+B
+java:S1659‹"&Declare "refIndex" on a separate line.(èÊØ²üÿÿÿÿ
+p	java:S115Š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ìß‰†
+p	java:S115Æ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–¥
+H
+java:S5261í"1Add explicit curly braces to avoid dangling else.(á¢–¬
+H
+java:S5261ı"1Add explicit curly braces to avoid dangling else.(á¢–¬
+E
+java:S1659")Declare "nameAndType" on a separate line.(ÏÇìãûÿÿÿÿ
+u	java:S115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏÎĞ€ÿÿÿÿÿ
+E
+java:S1659Ü")Declare "nameAndType" on a separate line.(ÏÇìãûÿÿÿÿ
+u	java:S115Û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥’ÇÂüÿÿÿÿ
+p	java:S115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İà¼ô
+u	java:S115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ›–ùÿÿÿÿ

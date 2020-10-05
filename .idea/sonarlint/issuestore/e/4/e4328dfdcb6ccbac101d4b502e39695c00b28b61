@@ -1,0 +1,9 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë²®«
+o	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½Ñµ€
+P
+java:S11339"5Do not forget to remove this deprecated code someday.(–‘éşÿÿÿÿ
+^
+java:S11238"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+t
+java:S3012W"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ½Óÿÿÿÿÿ

@@ -1,0 +1,77 @@
+
+U
+java:S3516Ê"9Refactor this method to not always return the same value.(Ô“ßÖûÿÿÿÿ
+K
+java:S1066Æ"/Merge this if statement with the enclosing one.(ªàƒªùÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(‚ì¢
+\	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(Ãí‚®
+k
+java:S1104Õ"TMake position a static final constant or non-public and provide accessors if needed.(‚¾™ä
+h
+java:S1104Ú"RMake length a static final constant or non-public and provide accessors if needed.(ÇÈÕ[
+p
+java:S1488Û"YImmediately return this expression instead of assigning it to the temporary variable "r".(®ò¯É
+>
+java:S16597"#Declare "mark2" on a separate line.(Òèåûÿÿÿÿ
+h
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ò³¦8
+p
+java:S3012ä"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õå€
+O
+java:S1197ı"8Move the array designator from the variable to the type.(ñÙÌ¿
+M
+java:S5261¡"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+D	java:S108®")Either remove or fill this block of code.(¢«°Œúÿÿÿÿ
+n
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ûŸ¹îüÿÿÿÿ
+Q
+java:S1854õ"5Remove this useless assignment to local variable "i".(®…ò»ùÿÿÿÿ
+g	java:S128ò"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+g	java:S128ğ"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+g	java:S128î"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+>
+java:S1659’""Declare "mark" on a separate line.(’¹Ø¼şÿÿÿÿ
+?
+java:S1659’"#Declare "mark2" on a separate line.(’¹Ø¼şÿÿÿÿ
+?
+java:S1659•"#Declare "types" on a separate line.(ıĞ‡Âøÿÿÿÿ
+n
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦ã»Íüÿÿÿÿ
+n
+java:S3776’	"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(“‘­øÿÿÿÿ
+i
+java:S3776»	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ñÔ¼Ô
+o
+java:S2293¾	"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÿ¬
+n
+java:S3776ø	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Á³¯øÿÿÿÿ
+9
+java:S1659‚
+""Declare "dest" on a separate line.(™©ó¶
+;
+java:S1659‚
+"$Declare "bindex" on a separate line.(™©ó¶
+@
+java:S1659«
+"$Declare "orgPos" on a separate line.(´ˆóÎÿÿÿÿÿ
+\
+java:S1124ª
+"EReorder the modifiers to comply with the Java Language Specification.(×Ñøå
+O
+java:S3400É
+"9Remove this method and declare a constant for this value.(²˜¹U
+P
+java:S3400Ê
+"9Remove this method and declare a constant for this value.(‘ßş‘
+\
+java:S1124ï
+"EReorder the modifiers to comply with the Java Language Specification.(Î’›³
+@
+java:S1659ç")Declare "defaultByte" on a separate line.(ÑÓÉµ
+\
+java:S1124æ"EReorder the modifiers to comply with the Java Language Specification.(ı¶¿
+>
+java:S1659¼""Declare "high" on a separate line.(íòˆˆùÿÿÿÿ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(¡¶ı­
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(¡¶ı­

@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¶é™øÿÿÿÿ
++
+java:S1700"Rename field "a"(×º’·ıÿÿÿÿ
++
+java:S1700"Rename field "b"(Íğ‘üÿÿÿÿ
++
+java:S1700"Rename field "c"(™´Èçıÿÿÿÿ
+T
+java:S3400"9Remove this method and declare a constant for this value.(æï˜åÿÿÿÿÿ

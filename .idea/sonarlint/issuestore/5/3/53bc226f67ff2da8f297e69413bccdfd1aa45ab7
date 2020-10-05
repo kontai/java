@@ -1,0 +1,12 @@
+
+i
+java:S2095/"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ø’ñ¡ùÿÿÿÿ
+b
+java:S2095+"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ĞÂé ûÿÿÿÿ
+Z
+java:S21478"DCombine this catch with the one at line 54, which has the same body.(”ı¾
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(¤ÖË³

@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÊ†Ùùÿÿÿÿ
+d
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(€÷ëÚ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+S
+java:S1854"8Remove this useless assignment to local variable "name".(üÿ£•üÿÿÿÿ
+@
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+R
+java:S1117"7Rename "name" which hides the field declared at line 5.(üÿ£•üÿÿÿÿ
+D
+java:S1481")Remove this unused "name" local variable.(üÿ£•üÿÿÿÿ

@@ -1,0 +1,16 @@
+
+]
+java:S3973	"GUse indentation to denote the code conditionally executed by this "if".(æ¶àÔ
+]
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ò¯ò·
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(¹½¦Æûÿÿÿÿ
+d
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÆÜ÷þÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(×À±ªþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒË›áüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úßüÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ

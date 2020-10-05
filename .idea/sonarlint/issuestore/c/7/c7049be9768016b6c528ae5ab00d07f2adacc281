@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ªœó
+T
+java:S3400"9Remove this method and declare a constant for this value.(ô¿˜Ðÿÿÿÿÿ
+T
+java:S3400"9Remove this method and declare a constant for this value.(®Œš“þÿÿÿÿ
+@
+java:S1068"%Remove this unused "d" private field.(õß£žøÿÿÿÿ
+@
+java:S1068"%Remove this unused "s" private field.(÷…©Ÿúÿÿÿÿ
+?
+java:S1144")Remove this unused private "geti" method.(ìóîò
+?
+java:S1144	")Remove this unused private "getj" method.(‚éçû

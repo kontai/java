@@ -1,0 +1,34 @@
+
+a	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112è"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112«"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+^
+java:S2259’"BA "NullPointerException" could be thrown; "deep" is nullable here.(åÒ§Åøÿÿÿÿ
+\
+java:S2259“"EA "NullPointerException" could be thrown; "shallow" is nullable here.(‚ù‘¯
+\
+java:S2259¹"EA "NullPointerException" could be thrown; "shallow" is nullable here.(„µÜ
+\
+java:S2259ô"EA "NullPointerException" could be thrown; "typeMap" is nullable here.(´Ö÷¼
+Y
+java:S2259¸"BA "NullPointerException" could be thrown; "deep" is nullable here.(ÓÖ×
+t
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÒÿÑşÿÿÿÿ
+=
+java:S1905}"'Remove this unnecessary cast to "Type".(–ÿ…Ì
+>
+java:S1905ë"'Remove this unnecessary cast to "Type".(ÿùÎæ
+A
+java:S1905Æ"*Remove this unnecessary cast to "CtClass".(¨²÷ö
+u
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªü”úÿÿÿÿ
+o
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êİn
+o
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êİn

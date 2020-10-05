@@ -1,0 +1,31 @@
+
+m
+java:S1192á"QDefine a constant instead of duplicating this literal "java.lang.Object" 3 times.(®é‚¦ùÿÿÿÿ
+9
+java:S1659<"#Declare "minor" on a separate line.(ıÜİ
+;
+java:S1181±"%Catch Exception instead of Throwable.(Ğ²¼u
+>	java:S108±")Either remove or fill this block of code.(Ğ²¼u
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(šá“ıÿÿÿÿ
+p
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ä©ÿ
+u
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê°ìšûÿÿÿÿ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡•®ùÿÿÿÿ
+M
+java:S1172æ"1Remove this unused method parameter "descriptor".(Ù‰¿Œÿÿÿÿÿ
+L
+java:S1172°"0Remove this unused method parameter "newMethod".(û·¡ıÿÿÿÿ
+;
+java:S1659“"Declare "n" on a separate line.(©ÃÎ—üÿÿÿÿ
+u
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(šá“ıÿÿÿÿ
+p
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ä©ÿ
+u
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê°ìšûÿÿÿÿ
+;
+java:S1659¿"Declare "n" on a separate line.(©ÃÎ—üÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(€¹­à

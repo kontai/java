@@ -1,0 +1,13 @@
+
+[
+java:S2095"EUse try-with-resources or close this "ZipFile" in a "finally" clause.(Òüàƒ
+D
+java:S3740"/Provide the parametrized type for this generic.(³–£P
+`	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(²¸ä€ûÿÿÿÿ
+:
+java:S1659"$Declare "detach" on a separate line.(©øŠž
+<
+java:S1659"&Declare "readonly" on a separate line.(©øŠž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ñ¯†
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(î•«›üÿÿÿÿ

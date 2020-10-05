@@ -1,0 +1,41 @@
+
+o
+java:S1192<"ZDefine a constant instead of duplicating this literal "Access denied for caller." 4 times.(Îô¢p
+V	java:S107$"<Method has 9 parameters, which is greater than 7 authorized.(ó‹Àíÿÿÿÿÿ
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(‰—ßÅùÿÿÿÿ
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+`	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(æ›ëúÿÿÿÿ
+L
+java:S1610#"6Convert the abstract class "Helper" into an interface.(«× ¹
+[
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(«× ¹
+ƒ
+java:S1130'"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¡Î´Ó
+ƒ
+java:S11300"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
+7
+java:S11164"Remove this empty statement.(ôŸìúÿÿÿÿ
+ƒ
+java:S1130L"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
+[
+java:S1193T"@Replace the usage of the "instanceof" operator by a catch block.(¼§²«ùÿÿÿÿ
+V
+java:S1193U"@Replace the usage of the "instanceof" operator by a catch block.(®öÄê
+ƒ
+java:S1130q"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
+@
+java:S1181{"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+A
+java:S3011v",This accessibility update should be removed.(Òìï	
+N
+java:S3878w"8Remove this array creation and simply pass the elements.(ÑëÇ¸
+V
+java:S1193|"@Replace the usage of the "instanceof" operator by a catch block.(»šğ
+W
+java:S1193"@Replace the usage of the "instanceof" operator by a catch block.(®öÄê
+8
+java:S1116…"Remove this empty statement.(ôŸìúÿÿÿÿ
+Z
+java:S3358‰"DExtract this nested ternary operation into an independent statement.(éñ™5
+2
+java:S3626«"Remove this redundant jump.(ûÁİ…

@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¶é™øÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ŽË¢
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ŽË¢
+C
+java:S1481"(Remove this unused "idx" local variable.(õ»ëüúÿÿÿÿ
+C
+java:S1481"(Remove this unused "idx" local variable.(õ»ëüúÿÿÿÿ

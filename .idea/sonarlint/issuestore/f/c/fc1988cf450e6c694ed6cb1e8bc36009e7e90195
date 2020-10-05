@@ -1,0 +1,46 @@
+
+f
+java:S1192ê"ODefine a constant instead of duplicating this literal "no method body" 4 times.(ÒêÖô
+a	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(Û²ããüÿÿÿÿ
+a	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(Û²ããüÿÿÿÿ
+>
+java:S2189»""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+Z
+java:S2147a"DCombine this catch with the one at line 94, which has the same body.(¾Èßÿ
+L
+java:S5261U"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+‹
+java:S1130–"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(” —¤
+a
+java:S2147Û"ECombine this catch with the one at line 473, which has the same body.(Å‡Ö‡ûÿÿÿÿ
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+G
+java:S1172¡"+Remove this unused method parameter "desc".( –Ü•şÿÿÿÿ
+\
+java:S2147¥"ECombine this catch with the one at line 802, which has the same body.(¬¦ñ
+\
+java:S2147¨"ECombine this catch with the one at line 802, which has the same body.(¾Èßÿ
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ïêƒ†ıÿÿÿÿ
+\
+java:S2147É"ECombine this catch with the one at line 966, which has the same body.(¬¦ñ
+\
+java:S2147Ì"ECombine this catch with the one at line 966, which has the same body.(¾Èßÿ
+E
+java:S1172Ò")Remove this unused method parameter "cp".(­„î„øÿÿÿÿ
+]
+java:S2147°	"FCombine this catch with the one at line 1197, which has the same body.(¬¦ñ
+b
+java:S2147²	"FCombine this catch with the one at line 1197, which has the same body.(Å‡Ö‡ûÿÿÿÿ
+@
+java:S1172¹	")Remove this unused method parameter "ca".(ÉºÑ•
+P
+java:S3400º	"9Remove this method and declare a constant for this value.(”·³›
+]
+java:S2147™
+"FCombine this catch with the one at line 1302, which has the same body.(¬¦ñ
+]
+java:S2147œ
+"FCombine this catch with the one at line 1302, which has the same body.(¾Èßÿ
+Q	java:S125¾"<This block of commented-out lines of code should be removed.(ÜÒÔ<

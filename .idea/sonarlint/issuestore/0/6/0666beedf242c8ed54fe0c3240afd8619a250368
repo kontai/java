@@ -1,0 +1,10 @@
+
+n	java:S135P"YReduce the total number of break and continue statements in this loop to use at most one.(Öï¨Ð
+h
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¸›”Ö
+:
+java:S1659m"$Declare "index2" on a separate line.(Ú—¼å
+<	java:S131n""Add a default case to this switch.(ìýÇÓÿÿÿÿÿ
+Ž
+java:S1130Õ"wRemove the declaration of thrown exception 'javassist.bytecode.BadBytecode', as it cannot be thrown from method's body.(¾Ì¸Ì
+b	java:S128ý"LEnd this switch case with an unconditional break, return or throw statement.(€£‹

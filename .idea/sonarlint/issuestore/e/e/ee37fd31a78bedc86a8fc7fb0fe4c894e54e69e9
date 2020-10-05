@@ -1,0 +1,6 @@
+
+t	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åÛ Ñúÿÿÿÿ
+o	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Þ„ò·
+o	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç³øá
+”
+java:S1130å"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(ø¥ÈÄýÿÿÿÿ

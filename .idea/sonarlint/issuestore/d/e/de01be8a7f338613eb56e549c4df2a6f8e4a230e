@@ -1,0 +1,12 @@
+
+_
+java:S4201Ä"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¤Œ¥
+D	java:S108ú")Either remove or fill this block of code.(Õúû‰ûÿÿÿÿ
+B
+java:S1172æ"+Remove this unused method parameter "code".(äù“í
+P
+java:S3400ç"9Remove this method and declare a constant for this value.(”·³›
+P
+java:S3400ò"9Remove this method and declare a constant for this value.(ÂË¬Ü
+U
+java:S3400‚"9Remove this method and declare a constant for this value.(ÈÜù¼úÿÿÿÿ

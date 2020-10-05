@@ -1,0 +1,32 @@
+
+J
+java:S3740H"/Provide the parametrized type for this generic.(®ÀÒùûÿÿÿÿ
+J
+java:S3740H"/Provide the parametrized type for this generic.(®ÀÒùûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñâšôıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×µ¥ƒüÿÿÿÿ
+—
+java:S1598"|This file "printDemo.java" should be located in "ç·´ç¿’\Test0324" directory, not in "D:\workspace\JAVA\ç·´ç¿’\OLD\Test0324".(×µ¥ƒüÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "file".(œ’ÿµüÿÿÿÿ
+‡
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(› Î…
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(œ’ÿµüÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(÷ìµİúÿÿÿÿ
+7
+java:S1116!"Remove this empty statement.(Åñ­õşÿÿÿÿ
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®å¸
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ÁçıÆùÿÿÿÿ
+_
+java:S39860"DMake sure that Week Year "YY" is expected here instead of Year "yy".(ÁçıÆùÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(É„†ú
+D
+java:S1481")Remove this unused "file" local variable.(œ’ÿµüÿÿÿÿ
+E
+java:S14818"/Remove this unused "newestFile" local variable.(±›°
+V	java:S125"<This block of commented-out lines of code should be removed.(¨°Óúÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(¼ßÂ·
+Q	java:S125("<This block of commented-out lines of code should be removed.(¸şõƒ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(‡ê²£

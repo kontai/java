@@ -1,0 +1,19 @@
+
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+X
+java:S22593"BA "NullPointerException" could be thrown; "conn" is nullable here.(µ°Í˜
+E
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(‡çËâşÿÿÿÿ
+j
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Î”àéşÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "123456" 3 times.(Í°ìß
+P
+java:S1141""5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Š˜°Ëşÿÿÿÿ
+\
+java:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ

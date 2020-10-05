@@ -1,0 +1,21 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+XWeb:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(°‹¼·úÿÿÿÿ
+XWeb:UnsupportedTagsInHtml5Check"(Remove this deprecated "applet" element.(û»Êıùÿÿÿÿ
+LWeb:BoldAndItalicTagsCheck$"!Replace this <b> tag by <strong>.(æ™Æ·şÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check'"&Remove this deprecated "font" element.(¬Ï›ÿÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check+"&Remove this deprecated "font" element.(‡…ñ
+QWeb:UnsupportedTagsInHtml5Check5"&Remove this deprecated "font" element.(¸ƒŞ¤
+VWeb:UnsupportedTagsInHtml5Check<"&Remove this deprecated "font" element.(¾ˆûŸûÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check="&Remove this deprecated "font" element.(‹´¡Ëüÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5CheckC"&Remove this deprecated "font" element.(¶‡Òåüÿÿÿÿ
+LWeb:BoldAndItalicTagsCheck\"!Replace this <b> tag by <strong>.(«¶ƒşşÿÿÿÿ
+GWeb:BoldAndItalicTagsCheckw"!Replace this <b> tag by <strong>.(ƒÈå¦
+VWeb:UnsupportedTagsInHtml5Check~"&Remove this deprecated "font" element.(é²â¯üÿÿÿÿ
+MWeb:BoldAndItalicTagsCheck’"!Replace this <b> tag by <strong>.(Áµ—Êûÿÿÿÿ
+MWeb:BoldAndItalicTagsCheck—"!Replace this <b> tag by <strong>.(šÑêŒıÿÿÿÿ
+MWeb:BoldAndItalicTagsCheck¡"!Replace this <b> tag by <strong>.(ñÔÁÇúÿÿÿÿ
+YWeb:UnsupportedTagsInHtml5Check¼"(Remove this deprecated "center" element.(áĞ¡¸ıÿÿÿÿ
+MWeb:ImgWithoutAltCheck¼"%Add an "alt" attribute to this image.(áĞ¡¸ıÿÿÿÿ
+IWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(œ÷Ãûÿÿÿÿ

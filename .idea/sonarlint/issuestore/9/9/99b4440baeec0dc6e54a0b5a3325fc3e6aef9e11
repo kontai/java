@@ -1,0 +1,19 @@
+
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çìó³şÿÿÿÿ
+n
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÈŞ
+P
+java:S1161g":Add the "@Override" annotation above this method signature(íĞ¤Œ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(à²Ä÷üÿÿÿÿ
+Q
+java:S1161İ":Add the "@Override" annotation above this method signature(Ú‹ÑŒ
+F
+java:S1905ş"*Remove this unnecessary cast to "CtClass".( ÈÏËøÿÿÿÿ
+f
+java:S1874£"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(«Ç–Ëøÿÿÿÿ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(«Ç–Ëøÿÿÿÿ
+F
+java:S1874²"/Remove this use of "toClass"; it is deprecated.(³Ä¨

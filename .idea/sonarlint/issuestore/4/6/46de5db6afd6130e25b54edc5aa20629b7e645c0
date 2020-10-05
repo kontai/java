@@ -1,0 +1,12 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ˆ–Âïøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(š››
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óíªúøÿÿÿÿ
+q
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ˆ–Âïøÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "p".(É¿ì—
+<
+java:S1481"&Remove this unused "p" local variable.(É¿ì—

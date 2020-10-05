@@ -1,0 +1,33 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÓÉš–ûÿÿÿÿ
+Z	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+Z	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(äÌêÉ
+Z	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ¸ó
+Z	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(¤ž‹å
+Z	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+Z	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(´ÝÍøÿÿÿÿ
+Z	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+`	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(àð¨ãøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÊ†Ùùÿÿÿÿ
+g
+java:S4144A"QUpdate this method so that its implementation is not identical to "m1" on line 8.(ˆ¿›ð
+h
+java:S4144M"RUpdate this method so that its implementation is not identical to "m2" on line 20.(¤ž‹å
+m
+java:S4144["RUpdate this method so that its implementation is not identical to "m3" on line 34.(´ÝÍøÿÿÿÿ
+m
+java:S4144p"RUpdate this method so that its implementation is not identical to "m4" on line 55.(àð¨ãøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´¢óÅ
+K
+java:S1854*"5Remove this useless assignment to local variable "i".(ëŒÕã
+K
+java:S1854;"5Remove this useless assignment to local variable "i".(ëŒÕã
+K
+java:S1854c"5Remove this useless assignment to local variable "i".(ëŒÕã
+K
+java:S1854t"5Remove this useless assignment to local variable "i".(ëŒÕã

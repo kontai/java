@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¶é™øÿÿÿÿ
+D
+java:S1172".Remove this unused method parameter "builder".(ßƒíƒ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àê°üÿÿÿÿ
+D
+java:S2440")Remove this instantiation of "NestHost3".(Ó³ğ¿úÿÿÿÿ

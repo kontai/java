@@ -1,0 +1,56 @@
+
+E
+java:S1066§"/Merge this if statement with the enclosing one.(™Ğß
+K
+java:S1066™"/Merge this if statement with the enclosing one.(ÉŒèêüÿÿÿÿ
+K
+java:S1066‹"/Merge this if statement with the enclosing one.(°õ…şÿÿÿÿ
+F
+java:S1066²"/Merge this if statement with the enclosing one.(ƒÉ˜Æ
+\	java:S112«"FDefine and throw a dedicated exception instead of using a generic one.(ê§×ï
+\	java:S112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(ê§×ï
+f	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜œf
+g	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÔ·¬
+g	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÆè»
+f	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜œf
+f	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜œf
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÔ·¬
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…”ªıÿÿÿÿ
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…”ªıÿÿÿÿ
+v
+java:S1488ú"_Immediately return this expression instead of assigning it to the temporary variable "is2byte".(èÍÅ
+o
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(­éøÉ
+p
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚àëØ
+n
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ì‹Ú¦ùÿÿÿÿ
+M
+java:S5261ì"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+7
+java:S1659Æ"!Declare "dim" on a separate line.(ÈªÙ
+i
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ÙªöÇ
+P
+java:S1854Ö"9Remove this useless assignment to local variable "stack".(“ˆû÷
+?	java:S108ö")Either remove or fill this block of code.(‡ü¿Á
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Â²Š²ûÿÿÿÿ
+H
+java:S5261•"1Add explicit curly braces to avoid dangling else.(á¢–¬
+?	java:S108ş")Either remove or fill this block of code.(‡ü¿Á
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(é¥Îçúÿÿÿÿ
+B
+java:S1172¥"+Remove this unused method parameter "expr".(É©á
+i
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¨ğ½‘
+M
+java:S5261¾"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+=
+java:S1168›	"&Return an empty array instead of null.(¥¹ï
+A
+java:S1481Ö"*Remove this unused "stack" local variable.(“ˆû÷
+R	java:S125”"<This block of commented-out lines of code should be removed.(ä¿
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(Ñ›Ä›úÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(æ²²ÿÿÿÿÿ

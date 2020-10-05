@@ -1,0 +1,120 @@
+
+m
+java:S1192í	"VDefine a constant instead of duplicating this literal "(..) is not found in " 3 times.(Èª—É
+F
+java:S1066ß"/Merge this if statement with the enclosing one.(ÓÚâı
+E
+java:S1066á"/Merge this if statement with the enclosing one.(ç†‚
+a	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(É»”¬şÿÿÿÿ
+a	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(ğúœşúÿÿÿÿ
+a	java:S112Ú"FDefine and throw a dedicated exception instead of using a generic one.(É»”¬şÿÿÿÿ
+a	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(É»”¬şÿÿÿÿ
+\	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(Ç·¼ú
+\	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ¸ÌÉ
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ÿŸŞ·
+a	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(Û²ããüÿÿÿÿ
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+a	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(åŠ£•ùÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ê‰ÍÔüÿÿÿÿ
+[
+java:S2583Í"DChange this condition so that it does not always evaluate to "false"(Í¿õÊ
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Â³¿Á
+a
+java:S2147Ü"ECombine this catch with the one at line 217, which has the same body.(©œ¡ÿÿÿÿÿ
+?	java:S108ä")Either remove or fill this block of code.(á·¶ß
+F
+java:S2093Ë"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+M
+java:S5261ú"1Add explicit curly braces to avoid dangling else.( ßğîûÿÿÿÿ
+?	java:S108’")Either remove or fill this block of code.(á·¶ß
+
+java:S1130»"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Ì»ğÿÿÿÿÿÿ
+|
+java:S1130ê"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Üéñı
+|
+java:S1130ˆ"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(— ç
+|
+java:S1130 "eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(— ç
+u
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÀ‹ºüÿÿÿÿ
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÍäÅ‹ÿÿÿÿÿ
+Q
+java:S1133£"5Do not forget to remove this deprecated code someday.(ñ¾“ışÿÿÿÿ
+_
+java:S1123¢"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+@
+java:S1172ª")Remove this unused method parameter "cp".(ƒÑüĞ
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒÑüĞ
+?
+java:S1659®"#Declare "anno2" on a separate line.(ää¸Ğùÿÿÿÿ
+i
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜ˆ¾
+?
+java:S1659Õ"#Declare "anno2" on a separate line.(ää¸Ğùÿÿÿÿ
+?
+java:S1659"#Declare "anno2" on a separate line.(ää¸Ğùÿÿÿÿ
+?
+java:S1659"#Declare "size2" on a separate line.(õ¬“‘ùÿÿÿÿ
+p
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(û£²İ
+D	java:S108±")Either remove or fill this block of code.( äÍİûÿÿÿÿ
+D	java:S108¶")Either remove or fill this block of code.( äÍİûÿÿÿÿ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(‰Òû‡
+?
+java:S1659Ë"#Declare "anno2" on a separate line.(ää¸Ğùÿÿÿÿ
+?
+java:S1659Ì"#Declare "size2" on a separate line.(õ¬“‘ùÿÿÿÿ
+p
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(û£²İ
+D	java:S108î")Either remove or fill this block of code.( äÍİûÿÿÿÿ
+D	java:S108ô")Either remove or fill this block of code.( äÍİûÿÿÿÿ
+<
+java:S1181‘"%Catch Exception instead of Throwable.(¸ËÎû
+?	java:S108§")Either remove or fill this block of code.(‡ù“í
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(”şØüùÿÿÿÿ
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¢¤‹
+?	java:S108æ")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108í")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108")Either remove or fill this block of code.(‡ü¿Á
+p
+java:S2293Å	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘…Ä
+?	java:S108Ğ	")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108×	")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108ˆ
+")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108’
+")Either remove or fill this block of code.(‡ü¿Á
+u
+java:S2293›
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(øƒ™ÿùÿÿÿÿ
+u
+java:S2293©
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(øƒ™ÿùÿÿÿÿ
+i
+java:S3776Ş
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(º«À
+?	java:S108ô
+")Either remove or fill this block of code.(‡ü¿Á
+=
+java:S1168å"&Return an empty array instead of null.(¥¹ï
+b
+java:S2147À"FCombine this catch with the one at line 1597, which has the same body.(©œ¡ÿÿÿÿÿ
+W
+java:S3252€"@Use static access with "javassist.bytecode.Opcode" for "RETURN".(±õÛĞ
+u
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(•¢êûÿÿÿÿ
+u
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ©ö¤ıÿÿÿÿ
+`
+java:S4201¦"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¬†—
+?	java:S108©")Either remove or fill this block of code.(‡ü¿Á
+e
+java:S4201­"IRemove this unnecessary null check; "instanceof" returns false for nulls.(º©·ñûÿÿÿÿ
+?	java:S108°")Either remove or fill this block of code.(‡ü¿Á
+R	java:S125·"<This block of commented-out lines of code should be removed.(œÎÃù

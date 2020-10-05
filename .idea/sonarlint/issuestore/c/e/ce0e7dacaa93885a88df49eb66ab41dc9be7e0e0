@@ -1,0 +1,35 @@
+
+c
+java:S1192„"MDefine a constant instead of duplicating this literal "; is missing" 6 times.(Ÿ¤¸7
+i
+java:S1192Œ"MDefine a constant instead of duplicating this literal ") is missing" 5 times.(Š¢Òüÿÿÿÿ
+F
+java:S1066Õ"/Merge this if statement with the enclosing one.(ˆ•îğ
+`
+java:S2583­"DChange this condition so that it does not always evaluate to "false"(ô¹–´üÿÿÿÿ
+J
+java:S1121Û	".Extract the assignment out of this expression.(¤¶Ìÿùÿÿÿÿ
+{
+java:S1149Ü"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+{
+java:S1149²	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+v
+java:S1149·	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ßÂÑ
+m
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ø£‚üÿÿÿÿ
+i
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Âõ¡
+?
+java:S1659î"#Declare "expr3" on a separate line.(Ÿîµùÿÿÿÿ
+F
+java:S1172©"*Remove this unused method parameter "tbl".(‡§èÏıÿÿÿÿ
+L
+java:S1854°"5Remove this useless assignment to local variable "t".(íŒäÀ
+L
+java:S1854Ï"5Remove this useless assignment to local variable "t".(íŒäÀ
+F
+java:S1172æ"*Remove this unused method parameter "tbl".(¸ˆäøüÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(äë‹Çûÿÿÿÿ
+8
+java:S1116¥	"Remove this empty statement.(Åñ­õşÿÿÿÿ

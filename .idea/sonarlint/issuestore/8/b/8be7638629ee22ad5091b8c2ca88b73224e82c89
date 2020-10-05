@@ -1,0 +1,10 @@
+
+Z
+java:S2147)"DCombine this catch with the one at line 39, which has the same body.(É®£
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Õ²äŒıÿÿÿÿ
+_
+java:S2583."DChange this condition so that it does not always evaluate to "false"(Ñ¿È©ûÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ

@@ -1,0 +1,16 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(²¬Ä“üÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ŠÅ“›
+J
+java:S3740"/Provide the parametrized type for this generic.(Ã±ÃÆûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ªœó
+A
+java:S1172
+"+Remove this unused method parameter "args".(ÅÀÅÂ
+P
+java:S1854"5Remove this useless assignment to local variable "h".(Ã±ÃÆûÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(‚Üò
+<
+java:S1481"&Remove this unused "h" local variable.(ŠÅ“›

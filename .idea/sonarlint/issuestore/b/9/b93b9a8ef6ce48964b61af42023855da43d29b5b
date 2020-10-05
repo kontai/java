@@ -1,0 +1,99 @@
+
+
+java:S4165Æ"cRemove this useless assignment; "clazz" already holds the assigned value along all execution paths.(‹ø‰úÿÿÿÿ
+J
+java:S1444c"/Make this "public static doPruning" field final(ãñê¥ûÿÿÿÿ
+[
+java:S1444r"@Make this "public static releaseUnmodifiedClassFile" field final(®µôŠÿÿÿÿÿ
+S
+java:S1444z"8Make this "public static cacheOpenedJarFile" field final(˜ÊÒ©ûÿÿÿÿ
+E
+java:S3740~"/Provide the parametrized type for this generic.(Ì¨Á®
+F
+java:S3740ƒ"/Provide the parametrized type for this generic.(µÊ°‡
+K
+java:S3740‡"/Provide the parametrized type for this generic.(ïÈ¼…ûÿÿÿÿ
+F
+java:S3740§"/Provide the parametrized type for this generic.(íÍŠÍ
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(µ·×˜
+F
+java:S3740«"/Provide the parametrized type for this generic.(¶µ¥á
+K
+java:S3740Õ"/Provide the parametrized type for this generic.(ð²Ä¥ùÿÿÿÿ
+K
+java:S3740á"/Provide the parametrized type for this generic.(ð²Ä¥ùÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(Ý¼¨ú
+F
+java:S3740Ç"/Provide the parametrized type for this generic.(ïÁ¯Å
+K
+java:S3740í"/Provide the parametrized type for this generic.(€ŽÿÊýÿÿÿÿ
+E
+java:S3740Ó	"/Provide the parametrized type for this generic.(éíË!
+F
+java:S1066à"/Merge this if statement with the enclosing one.(Úåºà
+\	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(¹Õ´‡
+\	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(¹Õ´‡
+a	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(Ê¿ÀÆøÿÿÿÿ
+a	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(ž¦“ßÿÿÿÿÿ
+w
+java:S1104S"\Make childFirstLookup a static final constant or non-public and provide accessors if needed.(’’×¾þÿÿÿÿ
+p
+java:S1104c"UMake doPruning a static final constant or non-public and provide accessors if needed.(ãñê¥ûÿÿÿÿ
+
+java:S1104r"fMake releaseUnmodifiedClassFile a static final constant or non-public and provide accessors if needed.(®µôŠÿÿÿÿÿ
+y
+java:S1104z"^Make cacheOpenedJarFile a static final constant or non-public and provide accessors if needed.(˜ÊÒ©ûÿÿÿÿ
+l
+java:S1149~"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ì¨Á®
+m
+java:S1149ƒ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µÊ°‡
+E
+java:S1172ë".Remove this unused method parameter "dynamic".(Ú‹ÑŒ
+Q
+java:S1133Ç"5Do not forget to remove this deprecated code someday.(Ð«¸Êùÿÿÿÿ
+C
+java:S1123Ç"'Add the missing @Deprecated annotation.(Ð«¸Êùÿÿÿÿ
+A
+java:S1905"*Remove this unnecessary cast to "CtClass".(Í¢ïÊ
+?	java:S108Ï")Either remove or fill this block of code.(‡ü¿Á
+
+java:S1130Ä"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Ê¿ÀÆøÿÿÿÿ
+?	java:S108Ë")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108ä")Either remove or fill this block of code.(‡ü¿Á
+|
+java:S1130«"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(’„Àª
+|
+java:S1130¿"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(’„Àª
+|
+java:S1130Ü"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(— ç
+|
+java:S1130ð"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(— ç
+|
+java:S1130"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(’„Àª
+|
+java:S1130­"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(³èÍ
+|
+java:S1130Ã"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(— ç
+
+java:S1130á"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(çäÚØýÿÿÿÿ
+|
+java:S1130ï"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(— ç
+
+java:S1130"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(‹®ÊÕüÿÿÿÿ
+K
+java:S1874 "/Remove this use of "toClass"; it is deprecated.(Ôô¹Ïøÿÿÿÿ
+L
+java:S1133Ç"5Do not forget to remove this deprecated code someday.(ïÁ¯Å
+>
+java:S1123Ç"'Add the missing @Deprecated annotation.(ïÁ¯Å
+Q
+java:S1133í"5Do not forget to remove this deprecated code someday.(€ŽÿÊýÿÿÿÿ
+C
+java:S1123í"'Add the missing @Deprecated annotation.(€ŽÿÊýÿÿÿÿ
+Q
+java:S1133ô	"5Do not forget to remove this deprecated code someday.(ï”²¡ùÿÿÿÿ
+C
+java:S1123ô	"'Add the missing @Deprecated annotation.(ï”²¡ùÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(ô¸€Ùÿÿÿÿÿ

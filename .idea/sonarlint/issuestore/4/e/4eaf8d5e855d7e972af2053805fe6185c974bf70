@@ -1,0 +1,12 @@
+
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+Z
+java:S21475"DCombine this catch with the one at line 51, which has the same body.(É®£
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(‡çËâşÿÿÿÿ
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤úÊ
+E
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø

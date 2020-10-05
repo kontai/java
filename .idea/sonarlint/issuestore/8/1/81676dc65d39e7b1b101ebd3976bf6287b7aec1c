@@ -1,0 +1,28 @@
+
+Q
+java:S1444C";Make this "public static useContextClassLoader" field final(°Âß
+`	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(üÜ¬Òüÿÿÿÿ
+a	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+a	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+a	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+a	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+\	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(îæÇ¡
+\	java:S112ë"FDefine and throw a dedicated exception instead of using a generic one.(îæÇ¡
+w
+java:S1104C"aMake useContextClassLoader a static final constant or non-public and provide accessors if needed.(°Âß
+t	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’ˆ¼öüÿÿÿÿ
+t	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èŸ‚úÿÿÿÿ
+\
+java:S2147•"ECombine this catch with the one at line 146, which has the same body.(™è“î
+a
+java:S2147˜"ECombine this catch with the one at line 146, which has the same body.(ÿŠïıÿÿÿÿ
+\
+java:S2147¯"ECombine this catch with the one at line 172, which has the same body.(™è“î
+\
+java:S2147Ã"ECombine this catch with the one at line 192, which has the same body.(™è“î
+H
+java:S3011¾",This accessibility bypass should be removed.(³ÉàÃÿÿÿÿÿ
+a
+java:S1124Î"EReorder the modifiers to comply with the Java Language Specification.(é´ıÿÿÿÿ
+n
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ø·…Ôúÿÿÿÿ

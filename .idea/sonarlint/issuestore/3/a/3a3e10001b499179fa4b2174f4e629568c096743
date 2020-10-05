@@ -1,0 +1,18 @@
+
+g	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­Œ
+l	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œéÜ¤úÿÿÿÿ
+U
+java:S4973Œ"9Use the "equals" method if value comparison was intended.(¶’ç»ÿÿÿÿÿ
+o	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥ïˆğ
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ»ß”
+C
+java:S11725"(Remove this unused method parameter "c".(–¯Ÿ…øÿÿÿÿ
+Z
+java:S2147Z"DCombine this catch with the one at line 87, which has the same body.(˜äÔÂ
+\
+java:S2147˜"ECombine this catch with the one at line 149, which has the same body.(˜äÔÂ
+\
+java:S2147Î"ECombine this catch with the one at line 203, which has the same body.(˜äÔÂ
+\
+java:S2147…"ECombine this catch with the one at line 258, which has the same body.(˜äÔÂ

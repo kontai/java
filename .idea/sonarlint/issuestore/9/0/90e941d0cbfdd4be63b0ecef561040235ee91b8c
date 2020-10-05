@@ -1,0 +1,34 @@
+
+J
+java:S3740-"/Provide the parametrized type for this generic.(õ‰åúûÿÿÿÿ
+D
+java:S3740o"/Provide the parametrized type for this generic.(ºŞ²7
+`	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(õ‰åúûÿÿÿÿ
+g	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ³¸
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÄ¢
+f	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ—ò
+>
+java:S1604Z"(Make this anonymous inner class a lambda(Î¸•…
+_
+java:S2583<"DChange this condition so that it does not always evaluate to "false"(Ï…±Ïúÿÿÿÿ
+L
+java:S2696."6Make the enclosing method "static" or remove this set.(ğõìË
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ŠËÏÖşÿÿÿÿ
+a
+java:S2142J"FEither re-interrupt this method or rethrow the "InterruptedException".(²ı…¦ûÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ÃäÒé
+P
+java:S1161a":Add the "@Override" annotation above this method signature(“–ış
+S
+java:S1854o">Remove this useless assignment to local variable "proxyClass".(ºŞ²7
+@
+java:S1181q"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+Q
+java:S2696s"6Make the enclosing method "static" or remove this set.(á¥™ûÿÿÿÿ
+I
+java:S1135—"2Complete the task associated to this TODO comment.(…ïœ†
+D
+java:S1481o"/Remove this unused "proxyClass" local variable.(ºŞ²7
+Q	java:S125R"<This block of commented-out lines of code should be removed.(è«Ïå
+V	java:S125m"<This block of commented-out lines of code should be removed.(ª§°½üÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(ÌŒŸŞøÿÿÿÿ

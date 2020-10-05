@@ -1,0 +1,48 @@
+
+K
+java:S1066ñ"/Merge this if statement with the enclosing one.(²Ÿ Åúÿÿÿÿ
+E
+java:S1066ò"/Merge this if statement with the enclosing one.(ï–¶V
+o	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñŒ¸«
+o	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Ø“æ
+n	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îÁû!
+t	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙË¦Õüÿÿÿÿ
+z
+java:S1149M"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+z
+java:S1149c"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥÷¸­ÿÿÿÿÿ
+z
+java:S1149c"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥÷¸­ÿÿÿÿÿ
+7
+java:S1659Ù"!Declare "dim" on a separate line.(ÈªÙ
+G
+java:S1172‡"+Remove this unused method parameter "expr".(ª„»ûÿÿÿÿ
+B
+java:S1172˜"&Remove these unused method parameters.(ó½±Òıÿÿÿÿ
+=
+java:S1172¥"&Remove these unused method parameters.(½¹²¬
+V
+java:S1854º":Remove this useless assignment to local variable "cname1".(šß¦•ûÿÿÿÿ
+M
+java:S5261À"1Add explicit curly braces to avoid dangling else.(­íñüÿÿÿÿ
+”
+java:S1130±"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(ø¥ÈÄıÿÿÿÿ
+n
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(“ãÉõıÿÿÿÿ
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÙªöÇ
+n
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(àÖİûÿÿÿÿ
+G
+java:S1172´"+Remove this unused method parameter "expr".(Ş¡ĞÁøÿÿÿÿ
+”
+java:S1130´"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(Ş¡ĞÁøÿÿÿÿ
+H
+java:S1172Ğ",Remove this unused method parameter "token".(õûÎàûÿÿÿÿ
+@
+java:S1481Ù"*Remove this unused "count" local variable.(ÈªÙ
+G
+java:S1481º"+Remove this unused "cname1" local variable.(šß¦•ûÿÿÿÿ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(Ñ›Ä›úÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¼Ö„áşÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(ğ“˜øùÿÿÿÿ

@@ -1,0 +1,16 @@
+
+d
+java:S2259Ý"HA "NullPointerException" could be thrown; "methodName" is nullable here.(ùÖ­Ðýÿÿÿÿ
+”
+java:S1130,"yRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from constructor's body.(Ï¬ßíüÿÿÿÿ
+L
+java:S1854K"7Remove this useless assignment to local variable "pos".(ÞÙÈo
+R
+java:S1854O"7Remove this useless assignment to local variable "pos".(ùÔ¢óùÿÿÿÿ
+’
+java:S1130e"wRemove the declaration of thrown exception 'javassist.bytecode.BadBytecode', as it cannot be thrown from method's body.(½ôñ£üÿÿÿÿ
+7
+java:S1110k"!Remove these useless parentheses.(¤†Õ‡
+=	java:S131ª""Add a default case to this switch.(ìýÇÓÿÿÿÿÿ
+=	java:S131ä""Add a default case to this switch.(ìýÇÓÿÿÿÿÿ
+=	java:S131û""Add a default case to this switch.(ìýÇÓÿÿÿÿÿ

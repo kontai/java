@@ -1,0 +1,33 @@
+
+E
+java:S3740N"/Provide the parametrized type for this generic.(ÈÄ‰°
+S	java:S106="9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'javassist.NotFoundException'.(Šæ¶™
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(­öò£
+2
+java:S1116d"Remove this empty statement.(ÿá¤ß
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(à´Þº
+[	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(ŒþÛ»
+V	java:S125\"<This block of commented-out lines of code should be removed.(ÝË˜“þÿÿÿÿ
+M	java:S106~"9Replace this use of System.out or System.err by a logger.(ÞÏ®
+Z	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(í®¡'
+N	java:S106""9Replace this use of System.out or System.err by a logger.(÷è÷
+V	java:S125/"<This block of commented-out lines of code should be removed.(ØËŠÑÿÿÿÿÿ
+7
+java:S1116e"Remove this empty statement.(ÖÉÚ½ûÿÿÿÿ
+E
+java:S37409"/Provide the parametrized type for this generic.(ÈÄ‰°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“ÄËßþÿÿÿÿ
+I
+java:S1874O"3Remove this use of "newInstance"; it is deprecated.(‰™æ
+[	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(†ÕŠÍ
+i
+java:S1192"SDefine a constant instead of duplicating this literal "com.bjsxt.test.Emp" 6 times.(’ŽØ³
+[	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(–£ó
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ë¸„‰
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¤ÿã 
+[	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(¬üòÀ
+I
+java:S1874:"3Remove this use of "newInstance"; it is deprecated.(‰™æ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ÿ´ÏÀ

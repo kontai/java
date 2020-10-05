@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶Âê¥
+j
+java:S1104"OMake pub a static final constant or non-public and provide accessors if needed.(ûÈå¦ùÿÿÿÿ
+j
+java:S1104"OMake pub a static final constant or non-public and provide accessors if needed.(ûÈå¦ùÿÿÿÿ
+B
+java:S1068"'Remove this unused "pri" private field.(Áñÿÿÿÿÿ
+B
+java:S1068"'Remove this unused "pri" private field.(Áñÿÿÿÿÿ

@@ -1,0 +1,131 @@
+
+J
+java:S1444C"/Make this "public static debugDump" field final(®äº¿şÿÿÿÿ
+G
+java:S1444]"1Make this "public static booleanType" field final(Ëµÿ‚
+D
+java:S1444c".Make this "public static charType" field final(ó…ö
+I
+java:S1444i".Make this "public static byteType" field final(–„€ºøÿÿÿÿ
+J
+java:S1444o"/Make this "public static shortType" field final(€»ò°ıÿÿÿÿ
+H
+java:S1444u"-Make this "public static intType" field final(ÚÖàıÿÿÿÿ
+D
+java:S1444{".Make this "public static longType" field final(®û÷ÿ
+F
+java:S1444"/Make this "public static floatType" field final(™šœÆ
+L
+java:S1444‡"0Make this "public static doubleType" field final(—ë·øÿÿÿÿ
+J
+java:S1444".Make this "public static voidType" field final(ŸÅ®Œşÿÿÿÿ
+\	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(ãÓ§
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(Ì»ğÿÿÿÿÿÿ
+\	java:S112¾"FDefine and throw a dedicated exception instead of using a generic one.(±åÜĞ
+\	java:S112¾"FDefine and throw a dedicated exception instead of using a generic one.(¾†œ
+a	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(äøß¯úÿÿÿÿ
+p
+java:S1104C"UMake debugDump a static final constant or non-public and provide accessors if needed.(®äº¿şÿÿÿÿ
+m
+java:S1104]"WMake booleanType a static final constant or non-public and provide accessors if needed.(Ëµÿ‚
+j
+java:S1104c"TMake charType a static final constant or non-public and provide accessors if needed.(ó…ö
+o
+java:S1104i"TMake byteType a static final constant or non-public and provide accessors if needed.(–„€ºøÿÿÿÿ
+p
+java:S1104o"UMake shortType a static final constant or non-public and provide accessors if needed.(€»ò°ıÿÿÿÿ
+n
+java:S1104u"SMake intType a static final constant or non-public and provide accessors if needed.(ÚÖàıÿÿÿÿ
+j
+java:S1104{"TMake longType a static final constant or non-public and provide accessors if needed.(®û÷ÿ
+l
+java:S1104"UMake floatType a static final constant or non-public and provide accessors if needed.(™šœÆ
+r
+java:S1104‡"VMake doubleType a static final constant or non-public and provide accessors if needed.(—ë·øÿÿÿÿ
+p
+java:S1104"TMake voidType a static final constant or non-public and provide accessors if needed.(ŸÅ®Œşÿÿÿÿ
+B
+java:S2390•"+Remove this reference to "CtPrimitiveType".(Şé†µ
+B
+java:S2390š"+Remove this reference to "CtPrimitiveType".(é“ôŠ
+B
+java:S2390Ÿ"+Remove this reference to "CtPrimitiveType".(°…ÙÅ
+G
+java:S2390¤"+Remove this reference to "CtPrimitiveType".(€§§×şÿÿÿÿ
+G
+java:S2390©"+Remove this reference to "CtPrimitiveType".(ùíš™üÿÿÿÿ
+G
+java:S2390®"+Remove this reference to "CtPrimitiveType".(¸Ñ×«ûÿÿÿÿ
+B
+java:S2390³"+Remove this reference to "CtPrimitiveType".(ñŸñİ
+G
+java:S2390¸"+Remove this reference to "CtPrimitiveType".(Õ¬“×øÿÿÿÿ
+G
+java:S2390½"+Remove this reference to "CtPrimitiveType".(â×·Åúÿÿÿÿ
+o	java:S115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡´—
+o	java:S115W"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñŒ¸«
+v
+java:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ªíÇ¥
+{
+java:S1149Ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(äâ©¤şÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(…¢¸î
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ºÃÕ‘øÿÿÿÿ
+
+java:S1130§"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Ì»ğÿÿÿÿÿÿ
+
+java:S1130ä"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(‡Œ¬ÿÿÿÿÿ
+
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿¥–›ıÿÿÿÿ
+B
+java:S1168¦"+Return an empty collection instead of null.(¥¹ï
+P
+java:S3400Ï"9Remove this method and declare a constant for this value.(”·³›
+•
+java:S1130‚"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(šä²ğøÿÿÿÿ
+
+java:S1130¨"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(›¶‡Ôøÿÿÿÿ
+H
+java:S1172Ã"1Remove this unused method parameter "superclass".(¢ùàø
+C
+java:S1172ä",Remove this unused method parameter "clazz".(’»µÓ
+
+java:S1130ä"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(’»µÓ
+
+java:S1130í"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(õé˜˜ûÿÿÿÿ
+Q
+java:S1133œ"5Do not forget to remove this deprecated code someday.(»¦üûÿÿÿÿ
+_
+java:S1123›"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+B
+java:S1172ã"&Remove these unused method parameters.(†çÂ¥ıÿÿÿÿ
+?
+java:S1172¬"(Remove this unused method parameter "c".(¤®ùâ
+•
+java:S1130­"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(ÄÒˆşÿÿÿÿ
+?
+java:S1172¿"(Remove this unused method parameter "m".(…Ùù
+
+java:S1130¿"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(…Ùù
+D
+java:S1172ø"(Remove this unused method parameter "f".(ˆ»×øÿÿÿÿ
+•
+java:S1130ù"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(ÄÒˆşÿÿÿÿ
+?
+java:S1172”	"(Remove this unused method parameter "f".(º«À
+•
+java:S1130•	"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(ÄÒˆşÿÿÿÿ
+=
+java:S1168¶	"&Return an empty array instead of null.(¥¹ï
+•
+java:S1130Ü	"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(ÄÒˆşÿÿÿÿ
+•
+java:S1130ê	"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(ÄÒˆşÿÿÿÿ
+Q
+java:S1133ı
+"5Do not forget to remove this deprecated code someday.(Ûµãúÿÿÿÿ
+_
+java:S1123ü
+"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+‹
+java:S1130"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(ñİ¤

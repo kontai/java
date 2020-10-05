@@ -1,0 +1,24 @@
+
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(ÕÄæòşÿÿÿÿ
+a	java:S112Ì"FDefine and throw a dedicated exception instead of using a generic one.(¤…€äşÿÿÿÿ
+[	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(î¯ò
+
+J
+java:S1121ò".Extract the assignment out of this expression.(şÕ›‘ûÿÿÿÿ
+D
+java:S1121ó".Extract the assignment out of this expression.(Ä÷E
+J
+java:S1121…".Extract the assignment out of this expression.(¥Ëöïûÿÿÿÿ
+J
+java:S1121†".Extract the assignment out of this expression.(ò÷ªàşÿÿÿÿ
+D
+java:S1121‡".Extract the assignment out of this expression.(Ò¥Ó#
+{
+java:S1149î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(„Ÿ­âıÿÿÿÿ
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½»êªúÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(êĞ’ÿùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(êĞ’ÿùÿÿÿÿ

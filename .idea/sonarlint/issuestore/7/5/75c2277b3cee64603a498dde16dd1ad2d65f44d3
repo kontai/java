@@ -1,0 +1,12 @@
+
+y
+java:S1192"cDefine a constant instead of duplicating this literal "javassist.tools.reflect.Metaobject" 6 times.(ËšÅá
+|
+java:S1192<"aDefine a constant instead of duplicating this literal "javassist.tools.reflect.SubClass" 3 times.(İÚ¨øÿÿÿÿ
+ƒ
+java:S1192"hDefine a constant instead of duplicating this literal "javassist.tools.reflect.ClassMetaobject" 6 times.(€Ä¯˜şÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚ëô¡şÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ØØìüÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(É¨£›øÿÿÿÿ
+[	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(…ôÑî
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÅÛöÔÿÿÿÿÿ

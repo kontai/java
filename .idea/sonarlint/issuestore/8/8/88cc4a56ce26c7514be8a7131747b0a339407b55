@@ -1,0 +1,525 @@
+
+g
+java:S1301•"KReplace this "switch" statement by "if" statements to increase readability.(Œ¼’ şÿÿÿÿ
+w
+java:S41655"aRemove this useless assignment; "i23" already holds the assigned value along all execution paths.(œà¦Ì
+|
+java:S4165;"aRemove this useless assignment; "i29" already holds the assigned value along all execution paths.(Áû”ÿÿÿÿÿ
+|
+java:S41656"aRemove this useless assignment; "i24" already holds the assigned value along all execution paths.(éÇ£€ùÿÿÿÿ
+x
+java:S4165…"aRemove this useless assignment; "i27" already holds the assigned value along all execution paths.(…Ø¿ñ
+}
+java:S4165†"aRemove this useless assignment; "i28" already holds the assigned value along all execution paths.(•Ò¨¹üÿÿÿÿ
+w
+java:S41658"aRemove this useless assignment; "i26" already holds the assigned value along all execution paths.(ô«ÿ
+w
+java:S41657"aRemove this useless assignment; "i25" already holds the assigned value along all execution paths.(Çãíí
+x
+java:S4165„"aRemove this useless assignment; "i26" already holds the assigned value along all execution paths.(ô«ÿ
+w
+java:S41659"aRemove this useless assignment; "i27" already holds the assigned value along all execution paths.(…Ø¿ñ
+}
+java:S4165‡"aRemove this useless assignment; "i29" already holds the assigned value along all execution paths.(Áû”ÿÿÿÿÿ
+x
+java:S4165ƒ"aRemove this useless assignment; "i25" already holds the assigned value along all execution paths.(Çãíí
+w
+java:S41654"aRemove this useless assignment; "i22" already holds the assigned value along all execution paths.(ÑµÙ
+|
+java:S4165:"aRemove this useless assignment; "i28" already holds the assigned value along all execution paths.(•Ò¨¹üÿÿÿÿ
+|
+java:S41653"aRemove this useless assignment; "i21" already holds the assigned value along all execution paths.(”üîùÿÿÿÿ
+w
+java:S41652"aRemove this useless assignment; "i20" already holds the assigned value along all execution paths.(­Íç¼
+H
+java:S1444"-Make this "public static counter" field final(Æ—ûÿÿÿÿÿ
+H
+java:S1444L"-Make this "public static counter" field final(Æ—ûÿÿÿÿÿ
+K
+java:S3740²"/Provide the parametrized type for this generic.(Èˆâÿÿÿÿÿ
+K
+java:S3740Å"/Provide the parametrized type for this generic.(Èˆâÿÿÿÿÿ
+\	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(Ô²ú
+\	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(°Ëçë
+n
+java:S1104"SMake counter a static final constant or non-public and provide accessors if needed.(Æ—ûÿÿÿÿÿ
+n
+java:S1104L"SMake counter a static final constant or non-public and provide accessors if needed.(Æ—ûÿÿÿÿÿ
+l
+java:S1450"QRemove the "i1" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+m
+java:S1450"RRemove the "i10" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+h
+java:S1450"RRemove the "i11" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i12" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i13" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i14" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i15" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i16" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i17" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i18" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450"RRemove the "i19" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+l
+java:S1450"QRemove the "i2" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+h
+java:S1450"RRemove the "i20" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+m
+java:S1450"RRemove the "i21" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i22" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i23" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i24" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i25" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i26" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i27" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i28" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i29" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+l
+java:S1450"QRemove the "i3" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+m
+java:S1450"RRemove the "i30" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450"RRemove the "i31" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i32" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i33" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i34" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i35" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i36" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i37" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i38" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450"RRemove the "i39" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+l
+java:S1450"QRemove the "i4" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+m
+java:S1450"RRemove the "i40" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+l
+java:S1450"QRemove the "i5" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450"QRemove the "i6" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450"QRemove the "i7" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450"QRemove the "i8" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450"QRemove the "i9" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+—
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â¢®š
+;
+java:S1659" Declare "i2" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659" Declare "i3" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659" Declare "i4" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659" Declare "i5" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659" Declare "i6" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659" Declare "i7" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659" Declare "i8" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659" Declare "i9" on a separate line.(ßŒù¤ÿÿÿÿÿ
+<
+java:S1659"!Declare "i10" on a separate line.(ßŒù¤ÿÿÿÿÿ
+7
+java:S1659"!Declare "i12" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i13" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i14" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i15" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i16" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i17" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i18" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i19" on a separate line.(Ü¡’Ï
+7
+java:S1659"!Declare "i20" on a separate line.(Ü¡’Ï
+<
+java:S1659"!Declare "i22" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i23" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i24" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i25" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i26" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i27" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i28" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i29" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i30" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659"!Declare "i32" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i33" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i34" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i35" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i36" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i37" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i38" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i39" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659"!Declare "i40" on a separate line.(ÎØ•Éıÿÿÿÿ
+>
+java:S1172"(Remove this unused method parameter "x".(ìšº
+l
+java:S1450S"QRemove the "i1" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+m
+java:S1450S"RRemove the "i10" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+h
+java:S1450T"RRemove the "i11" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i12" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i13" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i14" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i15" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i16" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i17" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i18" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+h
+java:S1450T"RRemove the "i19" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+l
+java:S1450S"QRemove the "i2" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+h
+java:S1450T"RRemove the "i20" field and declare it as a local variable in the relevant methods.(Ü¡’Ï
+m
+java:S1450U"RRemove the "i21" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i22" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i23" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i24" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i25" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i26" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i27" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i28" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450U"RRemove the "i29" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+l
+java:S1450S"QRemove the "i3" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+m
+java:S1450U"RRemove the "i30" field and declare it as a local variable in the relevant methods.(úØİıÿÿÿÿ
+m
+java:S1450V"RRemove the "i31" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i32" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i33" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i34" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i35" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i36" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i37" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i38" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+m
+java:S1450V"RRemove the "i39" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+l
+java:S1450S"QRemove the "i4" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+m
+java:S1450V"RRemove the "i40" field and declare it as a local variable in the relevant methods.(ÎØ•Éıÿÿÿÿ
+l
+java:S1450S"QRemove the "i5" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450S"QRemove the "i6" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450S"QRemove the "i7" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450S"QRemove the "i8" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+l
+java:S1450S"QRemove the "i9" field and declare it as a local variable in the relevant methods.(ßŒù¤ÿÿÿÿÿ
+œ
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›‰´Úÿÿÿÿÿ
+;
+java:S1659S" Declare "i2" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659S" Declare "i3" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659S" Declare "i4" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659S" Declare "i5" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659S" Declare "i6" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659S" Declare "i7" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659S" Declare "i8" on a separate line.(ßŒù¤ÿÿÿÿÿ
+;
+java:S1659S" Declare "i9" on a separate line.(ßŒù¤ÿÿÿÿÿ
+<
+java:S1659S"!Declare "i10" on a separate line.(ßŒù¤ÿÿÿÿÿ
+7
+java:S1659T"!Declare "i12" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i13" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i14" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i15" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i16" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i17" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i18" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i19" on a separate line.(Ü¡’Ï
+7
+java:S1659T"!Declare "i20" on a separate line.(Ü¡’Ï
+<
+java:S1659U"!Declare "i22" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i23" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i24" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i25" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i26" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i27" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i28" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i29" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659U"!Declare "i30" on a separate line.(úØİıÿÿÿÿ
+<
+java:S1659V"!Declare "i32" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i33" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i34" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i35" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i36" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i37" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i38" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i39" on a separate line.(ÎØ•Éıÿÿÿÿ
+<
+java:S1659V"!Declare "i40" on a separate line.(ÎØ•Éıÿÿÿÿ
+>
+java:S1172P"(Remove this unused method parameter "x".(ìšº
+Q
+java:S1854Ô"5Remove this useless assignment to local variable "p".(úËô®ûÿÿÿÿ
+p
+java:S3012Ò"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(î®Ù“
+B
+java:S1481Ô"&Remove this unused "p" local variable.(úËô®ûÿÿÿÿ
+A
+java:S1068"&Remove this unused "i1" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i2" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i3" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i4" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i5" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i6" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i7" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i8" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068"&Remove this unused "i9" private field.(ßŒù¤ÿÿÿÿÿ
+B
+java:S1068"'Remove this unused "i10" private field.(ßŒù¤ÿÿÿÿÿ
+=
+java:S1068"'Remove this unused "i11" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i12" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i13" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i14" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i15" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i16" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i17" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i18" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i19" private field.(Ü¡’Ï
+=
+java:S1068"'Remove this unused "i20" private field.(Ü¡’Ï
+B
+java:S1068"'Remove this unused "i21" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i22" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i23" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i24" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i25" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i26" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i27" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i28" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i29" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i30" private field.(úØİıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i31" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i32" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i33" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i34" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i35" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i36" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i37" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i38" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i39" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068"'Remove this unused "i40" private field.(ÎØ•Éıÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i1" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i2" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i3" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i4" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i5" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i6" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i7" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i8" private field.(ßŒù¤ÿÿÿÿÿ
+A
+java:S1068S"&Remove this unused "i9" private field.(ßŒù¤ÿÿÿÿÿ
+B
+java:S1068S"'Remove this unused "i10" private field.(ßŒù¤ÿÿÿÿÿ
+=
+java:S1068T"'Remove this unused "i11" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i12" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i13" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i14" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i15" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i16" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i17" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i18" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i19" private field.(Ü¡’Ï
+=
+java:S1068T"'Remove this unused "i20" private field.(Ü¡’Ï
+B
+java:S1068U"'Remove this unused "i21" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i22" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i23" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i24" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i25" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i26" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i27" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i28" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i29" private field.(úØİıÿÿÿÿ
+B
+java:S1068U"'Remove this unused "i30" private field.(úØİıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i31" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i32" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i33" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i34" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i35" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i36" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i37" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i38" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i39" private field.(ÎØ•Éıÿÿÿÿ
+B
+java:S1068V"'Remove this unused "i40" private field.(ÎØ•Éıÿÿÿÿ

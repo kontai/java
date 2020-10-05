@@ -1,0 +1,36 @@
+
+J
+java:S3740
+"/Provide the parametrized type for this generic.(ë ¥¸üÿÿÿÿ
+J
+java:S3740
+"/Provide the parametrized type for this generic.(ë ¥¸üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(·›¿óùÿÿÿÿ
+J
+java:S3740#"/Provide the parametrized type for this generic.(•¬şüÿÿÿÿ
+J
+java:S3740,"/Provide the parametrized type for this generic.(š°‰ªûÿÿÿÿ
+J
+java:S37405"/Provide the parametrized type for this generic.(»´Öÿúÿÿÿÿ
+J
+java:S3740C"/Provide the parametrized type for this generic.(–ƒæªşÿÿÿÿ
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(ì­ã€øÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìß–Êøÿÿÿÿ
+q
+java:S1149
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ë ¥¸üÿÿÿÿ
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(Ää°¨úÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ìß–Êøÿÿÿÿ
+G
+java:S3011",This accessibility bypass should be removed.(”ñ³ˆûÿÿÿÿ
+<
+java:S2129-"!Remove this "Integer" constructor(åıŠşÿÿÿÿ
+J
+java:S1874-"/Remove this use of "Integer"; it is deprecated.(åıŠşÿÿÿÿ
+Z
+java:S2147P"DCombine this catch with the one at line 77, which has the same body.(™è“î
+_
+java:S2147S"DCombine this catch with the one at line 77, which has the same body.(ÿŠïıÿÿÿÿ

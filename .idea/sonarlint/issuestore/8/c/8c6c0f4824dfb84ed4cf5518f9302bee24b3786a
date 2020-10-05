@@ -1,0 +1,61 @@
+
+I
+java:S1199†"-Extract this nested code block into a method.(ğòÜ§øÿÿÿÿ
+D
+java:S1199Š"-Extract this nested code block into a method.(‘®¯
+C
+java:S1199"-Extract this nested code block into a method.(»•o
+I
+java:S1199™"-Extract this nested code block into a method.(¤äÑùÿÿÿÿ
+I
+java:S1199"-Extract this nested code block into a method.(äóŠÊùÿÿÿÿ
+D
+java:S1199¢"-Extract this nested code block into a method.(®û—Ò
+D
+java:S1199¥"-Extract this nested code block into a method.(ñ‹
+I
+java:S1199¬"-Extract this nested code block into a method.(É©´Øúÿÿÿÿ
+D
+java:S1199´"-Extract this nested code block into a method.(Î­Ãº
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+\	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(ÇĞ¸•
+\	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(Óà Ê
+\	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(¸´ª†
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(°õ¤Í
+\	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(ÁªëË
+a	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(şñ½­üÿÿÿÿ
+\	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(·Æâï
+\	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(Óà Ê
+\	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(İáâ‡
+a	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(ìı²ıÿÿÿÿ
+\	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(Óà Ê
+\	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(óËÎË
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›„š­ûÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(à”ìıÿÿÿÿ
+o
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öÂèİøÿÿÿÿ
+˜
+java:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸´ª†
+
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¿äûøÿÿÿÿ
+˜
+java:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁªëË
+
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şñ½­üÿÿÿÿ
+˜
+java:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·Æâï
+
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Äõˆ×ÿÿÿÿÿ
+˜
+java:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İáâ‡
+
+java:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìı²ıÿÿÿÿ
+
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷Àáóüÿÿÿÿ
+˜
+java:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óËÎË
+B
+java:S1659£"&Declare "destPool" on a separate line.(ª¸„˜ùÿÿÿÿ

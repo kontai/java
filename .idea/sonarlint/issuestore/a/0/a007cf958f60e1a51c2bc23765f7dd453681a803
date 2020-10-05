@@ -1,0 +1,34 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(ïãów
+D
+java:S3740%"/Provide the parametrized type for this generic.(ïãów
+J
+java:S3740b"/Provide the parametrized type for this generic.(éöùÃşÿÿÿÿ
+E
+java:S3740i"/Provide the parametrized type for this generic.(ÆÅèû
+J
+java:S3740p"/Provide the parametrized type for this generic.(«Í‰«şÿÿÿÿ
+F
+java:S3740‡"/Provide the parametrized type for this generic.(Šë³
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ĞŞ®
+[	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Õ‘—»
+`	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(õ€øûÿÿÿÿ
+`	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(ß¡¢úÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(‹Œ÷…ùÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(€€„³úÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(òÏ’
+‡
+java:S1130Q"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(õ€øûÿÿÿÿ
+P
+java:S1161|":Add the "@Override" annotation above this method signature(Ëä¨å
+L
+java:S1854‡"5Remove this useless assignment to local variable "e".(Šë³
+L
+java:S1854“"5Remove this useless assignment to local variable "e".(€¨£°
+=
+java:S1481‡"&Remove this unused "e" local variable.(Šë³
+=
+java:S1481“"&Remove this unused "e" local variable.(€¨£°
+V	java:S125`"<This block of commented-out lines of code should be removed.(˜ëö†üÿÿÿÿ
+V	java:S125g"<This block of commented-out lines of code should be removed.(³ Î„ÿÿÿÿÿ

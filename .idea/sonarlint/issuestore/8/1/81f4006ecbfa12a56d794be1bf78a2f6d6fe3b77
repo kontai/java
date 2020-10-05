@@ -1,0 +1,148 @@
+
+d
+java:S2095˜"HUse try-with-resources or close this "ByteStream" in a "finally" clause.(‚»ö†ıÿÿÿÿ
+_
+java:S2095°"HUse try-with-resources or close this "ByteStream" in a "finally" clause.(…¦ÃŸ
+`
+java:S1192Ê"IDefine a constant instead of duplicating this literal "test.Baz" 4 times.(øññ
+`
+java:S1192ö"IDefine a constant instead of duplicating this literal "test.Bar" 9 times.(É®õå
+z
+java:S1192¶"cDefine a constant instead of duplicating this literal "<S:Ljava/lang/Object;>(TS;[TS;)TT;" 3 times.(¾ò‹Ó
+f
+java:S1192ª"JDefine a constant instead of duplicating this literal "test1.Bar" 4 times.(ÒƒÜÁøÿÿÿÿ
+l
+java:S1192Í"PDefine a constant instead of duplicating this literal "java/lang/Objec" 5 times.(´ë‰Ëúÿÿÿÿ
+e
+java:S1192ñ"IDefine a constant instead of duplicating this literal "test.Foo" 7 times.(£±…Öøÿÿÿÿ
+f
+java:S1192ƒ"JDefine a constant instead of duplicating this literal "test.Bar2" 3 times.(‹·ÆÑÿÿÿÿÿ
+h
+java:S1192Ì"QDefine a constant instead of duplicating this literal "java/lang/Object" 7 times.(§ÀÈ½
+h
+java:S1192¾"LDefine a constant instead of duplicating this literal "test.Tester" 3 times.(Í’×şÿÿÿÿ
+W
+java:S2184¢"@Cast one of the operands of this addition operation to a "long".(Äÿµ›
+W
+java:S2184£"@Cast one of the operands of this addition operation to a "long".(ô«ıÖ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ø’¸Šıÿÿÿÿ
+[	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ëî‰„
+`	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(ÄøèÌÿÿÿÿÿ
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(úç¦íûÿÿÿÿ
+[	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(ÄÚá®
+[	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(ÂäİÖ
+[	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(‹ûï'
+[	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(‹ûï'
+\	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(î¸ù‡
+[	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(ŒîU
+\	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(½¡ı›
+\	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(¼‡ä•
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(íšòÎ
+\	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(×Ù°
+\	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(ÿ”âø
+\	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(û·ğ
+\	java:S112ş"FDefine and throw a dedicated exception instead of using a generic one.(Çñ®Õ
+\	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(ì«ëš
+\	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(âõ®¹
+\	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(—š“¢
+a	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(ûâ‰…ıÿÿÿÿ
+a	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(î£Ë¸üÿÿÿÿ
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(†Îì‹ıÿÿÿÿ
+[	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(«§í^
+a	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ·ó§ùÿÿÿÿ
+q
+java:S1450"VRemove the "dloader" field and declare it as a local variable in the relevant methods.(±¾´õùÿÿÿÿ
+@
+java:S1659"%Declare "dloader" on a separate line.(±¾´õùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‚š‰1
+W
+java:S3878%"ADisambiguate this call by either casting as "Class" or "Class[]".(ñİôÒ
+6
+java:S3878&"Remove this array creation.(·‘§‚ùÿÿÿÿ
+?	java:S108›")Either remove or fill this block of code.(Æé²¯
+?	java:S108¡")Either remove or fill this block of code.(Æé²¯
+?	java:S108ù")Either remove or fill this block of code.(õã‡Ş
+?	java:S108ş")Either remove or fill this block of code.(õã‡Ş
+O	java:S106ï"9Replace this use of System.out or System.err by a logger.(Ò©ÚÖ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(Ò©ÚÖ
+ƒ
+java:S1130Ë"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(—š“¢
+L
+java:S1854´"5Remove this useless assignment to local variable "n".(±ö––
+a
+java:S1764Ô"ECorrect one of the identical sub-expressions on both sides of equals.(åºÑ×ùÿÿÿÿ
+‘
+java:S2159×"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ù‚¾Ô
+a
+java:S1764Ş"ECorrect one of the identical sub-expressions on both sides of equals.(ØÏáğùÿÿÿÿ
+r
+java:S2159â"VRemove this call to "equals"; comparisons between unrelated types always return false.(£åÚ‹øÿÿÿÿ
+‘
+java:S2159ã"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ü‚ê
+\
+java:S1764ê"ECorrect one of the identical sub-expressions on both sides of equals.(â¤û
+m
+java:S2159î"VRemove this call to "equals"; comparisons between unrelated types always return false.(âİŞ‹
+‘
+java:S2159ï"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(¼èˆÑ
+\
+java:S1764ö"ECorrect one of the identical sub-expressions on both sides of equals.(Ğšì¶
+r
+java:S2159ú"VRemove this call to "equals"; comparisons between unrelated types always return false.(¼–ù‹şÿÿÿÿ
+‘
+java:S2159û"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(¬‘Õ€
+m
+java:S2159‚"VRemove this call to "equals"; comparisons between unrelated types always return false.(µ„€²
+r
+java:S2159ƒ"VRemove this call to "equals"; comparisons between unrelated types always return false.(è„áæÿÿÿÿÿ
+l
+java:S2159…"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÕÕÆ~
+m
+java:S2159†"VRemove this call to "equals"; comparisons between unrelated types always return false.(Çï¯¯
+r
+java:S2159‡"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÕŒ©ğşÿÿÿÿ
+\
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(¾¥“„
+r
+java:S2159‘"VRemove this call to "equals"; comparisons between unrelated types always return false.(²õ†Ÿûÿÿÿÿ
+‘
+java:S2159’"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(‚š»Å
+[
+java:S1764˜"ECorrect one of the identical sub-expressions on both sides of equals.(ÑšÈh
+l
+java:S2159›"VRemove this call to "equals"; comparisons between unrelated types always return false.(àÏ•L
+–
+java:S2159œ"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(®¯Ü…şÿÿÿÿ
+a
+java:S1764¢"ECorrect one of the identical sub-expressions on both sides of equals.(¾Ùáˆøÿÿÿÿ
+r
+java:S2159¥"VRemove this call to "equals"; comparisons between unrelated types always return false.(³”™Ëøÿÿÿÿ
+–
+java:S2159¦"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ú‡ìõşÿÿÿÿ
+a
+java:S1764¬"ECorrect one of the identical sub-expressions on both sides of equals.(ÖÌŞ”üÿÿÿÿ
+m
+java:S2159¯"VRemove this call to "equals"; comparisons between unrelated types always return false.(šçû—
+–
+java:S2159°"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(™û¯¨ùÿÿÿÿ
+a
+java:S1764¶"ECorrect one of the identical sub-expressions on both sides of equals.(±·Ãøÿÿÿÿ
+r
+java:S2159¹"VRemove this call to "equals"; comparisons between unrelated types always return false.(—µ„²úÿÿÿÿ
+–
+java:S2159º"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(£…ãòøÿÿÿÿ
+g
+java:S1764Ğ"KCorrect one of the identical sub-expressions on both sides of operator "=="(‰ÑÈŒúÿÿÿÿ
+b
+java:S1764Ñ"KCorrect one of the identical sub-expressions on both sides of operator "=="(öë½
+b
+java:S1764Õ"KCorrect one of the identical sub-expressions on both sides of operator "=="(±ë˜ø
+R
+java:S1854õ"6Remove this useless assignment to local variable "n6".(«ç¨Ÿûÿÿÿÿ
+M
+java:S1854ò"6Remove this useless assignment to local variable "n3".(ÅŒÇË
+>
+java:S1481ò"'Remove this unused "n3" local variable.(ÅŒÇË
+C
+java:S1481õ"'Remove this unused "n6" local variable.(«ç¨Ÿûÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(âÛê»şÿÿÿÿ

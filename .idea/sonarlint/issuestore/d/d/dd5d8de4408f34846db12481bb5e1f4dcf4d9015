@@ -1,0 +1,113 @@
+
+N
+java:S1444ß"7Make this "public static onlyPublicMethods" field final(Õ»ßù
+J
+java:S1444Œ".Make this "public static useCache" field final(¥ëÆåùÿÿÿÿ
+L
+java:S1444¡"5Make this "public static useWriteReplace" field final(½»•‹
+U
+java:S1444õ"9Make this "public static classLoaderProvider" field final(·‹û­üÿÿÿÿ
+O
+java:S1444ì"3Make this "public static nameGenerator" field final(¢”ô€úÿÿÿÿ
+c
+java:S1192Ğ
+"GDefine a constant instead of duplicating this literal "<init>" 3 times.(‘ÒÅæûÿÿÿÿ
+y
+java:S1192å"]Use already-defined constant 'NULL_INTERCEPTOR_HOLDER' instead of duplicating its value here.(­û£Ùùÿÿÿÿ
+K
+java:S1066Š	"/Merge this if statement with the enclosing one.(»ıÛöüÿÿÿÿ
+F
+java:S1066¯
+"/Merge this if statement with the enclosing one.(ÓÊğô
+R	java:S107™	"<Method has 8 parameters, which is greater than 7 authorized.(Òî¬¥
+R	java:S107œ"<Method has 8 parameters, which is greater than 7 authorized.(êµÏ¦
+\	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(ìä„â
+a	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(¦“ßÿÿÿÿÿ
+a	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(ñ©¥:
+\	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(üùÃ£
+a	java:S112Ë	"FDefine and throw a dedicated exception instead of using a generic one.(ÕøíÀûÿÿÿÿ
+>
+java:S1604ö"(Make this anonymous inner class a lambda( ºÜ:
+D
+java:S1604Ô"(Make this anonymous inner class a lambda(ŒËşÈùÿÿÿÿ
+t
+java:S1104ß"]Make onlyPublicMethods a static final constant or non-public and provide accessors if needed.(Õ»ßù
+v
+java:S1104ê"ZMake writeDirectory a static final constant or non-public and provide accessors if needed.(”Œö©øÿÿÿÿ
+p
+java:S1104Œ"TMake useCache a static final constant or non-public and provide accessors if needed.(¥ëÆåùÿÿÿÿ
+r
+java:S1104¡"[Make useWriteReplace a static final constant or non-public and provide accessors if needed.(½»•‹
+{
+java:S1104õ"_Make classLoaderProvider a static final constant or non-public and provide accessors if needed.(·‹û­üÿÿÿÿ
+u
+java:S1104ì"YMake nameGenerator a static final constant or non-public and provide accessors if needed.(¢”ô€úÿÿÿÿ
+p	java:S115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™ÏÇ£
+{
+java:S1149Ã"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+}
+java:S1845ò"fRename field "HANDLER" to prevent any misunderstanding/clash with field "handler" defined on line 182.(‘åºÕ
+u
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ÛŒ¦ùÿÿÿÿ
+u
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").( ÄÍ§ûÿÿÿÿ
+u
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÄÂÌúÿÿÿÿ
+C
+java:S3011¥",This accessibility bypass should be removed.(ÂÓõÀ
+H
+java:S3011´",This accessibility update should be removed.(Í”úÆùÿÿÿÿ
+H
+java:S3011È",This accessibility update should be removed.(Í”úÆùÿÿÿÿ
+C
+java:S1872ƒ"'Use an "instanceof" comparison instead.(´şüÍÿÿÿÿÿ
+C
+java:S1872—"'Use an "instanceof" comparison instead.(´şüÍÿÿÿÿÿ
+‰
+java:S1130ª"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ôé±ˆÿÿÿÿÿ
+‰
+java:S1130¹"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ôé±ˆÿÿÿÿÿ
+Q
+java:S1133Ì"5Do not forget to remove this deprecated code someday.(Ú ‚­ÿÿÿÿÿ
+_
+java:S1123Ë"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÔ
+u
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÖÈİøÿÿÿÿ
+W
+java:S3252É"@Use static access with "javassist.bytecode.Opcode" for "RETURN".(ø´ÛÇ
+W
+java:S3252î"@Use static access with "javassist.bytecode.Opcode" for "RETURN".(ø´ÛÇ
+X
+java:S3252ü"AUse static access with "javassist.bytecode.Opcode" for "ARETURN".(Ï——
+G
+java:S1172±	"0Remove this unused method parameter "classname".(¹‚Ñ 
+u
+java:S2293ò	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹İÑàüÿÿÿÿ
+u
+java:S2293ó	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÖÃåıÿÿÿÿ
+n
+java:S3776û	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ğ‰Ë°øÿÿÿÿ
+2
+java:S3626»
+"Remove this redundant jump.(ÉŠ©ƒ
+6
+java:S1872º
+"Use "isAssignableFrom" instead.(°ÑŒ¡
+?
+java:S1172È
+"(Remove this unused method parameter "m".(×üØá
+F
+java:S1172"0Remove this unused method parameter "declClass".(¸íïJ
+B
+java:S1659Ö"+Declare "delegatorName" on a separate line.(É¨³Ğ
+?
+java:S1659Ö"(Declare "descriptor" on a separate line.(É¨³Ğ
+R	java:S125á"<This block of commented-out lines of code should be removed.(Ã®§
+W	java:S125ó"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(˜Ôû·
+W	java:S125©"<This block of commented-out lines of code should be removed.(¬±‘àÿÿÿÿÿ

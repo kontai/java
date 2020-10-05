@@ -1,0 +1,25 @@
+
+b
+java:S1192˜"KDefine a constant instead of duplicating this literal "void type?" 3 times.(øÁÈµ
+a	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(ÃŠ¦şÿÿÿÿ
+\	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(øÁÈµ
+\	java:S112õ"FDefine and throw a dedicated exception instead of using a generic one.(øÁÈµ
+\	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(øÁÈµ
+i
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+?
+java:S1905"")Remove this unnecessary cast to "byte[]".(éæ¨…
+B
+java:S1659}"'Declare "maxLocals" on a separate line.(÷õÏ…úÿÿÿÿ
+j
+java:S2975©"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+?
+java:S1185Ë"(Remove this method to simply inherit it.(ºÛã
+D
+java:S1185ê"(Remove this method to simply inherit it.(„ê¿™ûÿÿÿÿ
+D
+java:S1185„"(Remove this method to simply inherit it.(’¾‰ôøÿÿÿÿ
+D
+java:S1185•"(Remove this method to simply inherit it.(ü×ºÔùÿÿÿÿ
+E
+java:S1125§")Remove the literal "false" boolean value.(Ÿ† ¦ÿÿÿÿÿ

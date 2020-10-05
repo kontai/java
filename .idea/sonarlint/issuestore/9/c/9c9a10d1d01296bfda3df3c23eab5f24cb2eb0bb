@@ -1,0 +1,35 @@
+
+J
+java:S1066V"/Merge this if statement with the enclosing one.(›‘¼àøÿÿÿÿ
+8
+java:S1643ä"Use a StringBuilder instead.(ûßºÊÿÿÿÿÿ
+k
+java:S1104:"UMake declaring a static final constant or non-public and provide accessors if needed.(ÕÉû
+f
+java:S1104;"PMake info a static final constant or non-public and provide accessors if needed.(Úñ ‡
+j
+java:S1104<"TMake notmatch a static final constant or non-public and provide accessors if needed.(‹üğ†
+U
+java:S4973™"9Use the "equals" method if value comparison was intended.(®Òş“ıÿÿÿÿ
+u
+java:S1149î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ßíğ
+m
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¦´Î´úÿÿÿÿ
+?	java:S108—")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108®")Either remove or fill this block of code.(‡ü¿Á
+i
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(×ô¼
+M
+java:S5261ˆ"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+?	java:S108À")Either remove or fill this block of code.(‡ü¿Á
+?	java:S108Ÿ")Either remove or fill this block of code.(‡ü¿Á
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‘¥†ûÿÿÿÿ
+u
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü¨ Öøÿÿÿÿ
+p
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãñÒÆ
+?	java:S108Ù")Either remove or fill this block of code.(å€‚û
+?	java:S108")Either remove or fill this block of code.(‡ü¿Á
+D	java:S108")Either remove or fill this block of code.(ÌŠ•àÿÿÿÿÿ
+8	java:S131Ì""Add a default case to this switch.(Ïì©Ê

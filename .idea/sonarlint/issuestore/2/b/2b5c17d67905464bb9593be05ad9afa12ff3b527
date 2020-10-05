@@ -1,0 +1,9 @@
+
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(»³½‹
+s	java:S135'"YReduce the total number of break and continue statements in this loop to use at most one.(úïƒİıÿÿÿÿ
+s	java:S1354"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏüÊËüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ç»›üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËÙ”åşÿÿÿÿ
+L
+java:S5261E"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ

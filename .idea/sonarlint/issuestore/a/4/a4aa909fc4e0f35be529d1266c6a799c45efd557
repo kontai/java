@@ -1,0 +1,9 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Íƒ­¼
+[	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(°œ¶
+[	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(¼¶åñ
+F
+java:S1172d"0Remove this unused method parameter "agentArgs".(¼¶åñ
+F
+java:S2093Î"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

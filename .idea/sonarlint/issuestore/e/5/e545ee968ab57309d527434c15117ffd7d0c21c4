@@ -1,0 +1,13 @@
+
+{
+java:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹àùêúÿÿÿÿ
+H
+java:S1135*"2Complete the task associated to this TODO comment.(×–®’
+Q
+java:S1117j";Rename "changed" which hides the field declared at line 53.(Ÿ—°Ë
+p
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ýœä
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(÷Óß°úÿÿÿÿ
+@
+java:S1125ˆ")Remove the literal "false" boolean value.(è°Ê–

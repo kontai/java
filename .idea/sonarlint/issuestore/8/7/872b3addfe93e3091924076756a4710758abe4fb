@@ -1,0 +1,37 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(Á—Æ„üÿÿÿÿ
+E
+java:S3740'"/Provide the parametrized type for this generic.(–Å¢´
+D
+java:S3740,"/Provide the parametrized type for this generic.(¾ø‹(
+J
+java:S37405"/Provide the parametrized type for this generic.(ÌşÚ¬úÿÿÿÿ
+E
+java:S3740W"/Provide the parametrized type for this generic.(ò§Äÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ı‡Šşÿÿÿÿ
+[	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(öò¢Ä
+`	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(ß¨‡ëûÿÿÿÿ
+O
+java:S1854'"9Remove this useless assignment to local variable "clazz".(–Å¢´
+N
+java:S1854,"9Remove this useless assignment to local variable "clazz".(¾ø‹(
+T
+java:S18545"9Remove this useless assignment to local variable "clazz".(ÌşÚ¬úÿÿÿÿ
+O
+java:S1854W"9Remove this useless assignment to local variable "clazz".(ò§Äÿ
+œ
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§¦åùøÿÿÿÿ
+5
+java:S2129H" Remove this "String" constructor(íÒÕp
+U
+java:S3252J":Use static access with "javassist.CtClass" for "voidType".(Ä¾»üùÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+@
+java:S1481'"*Remove this unused "clazz" local variable.(–Å¢´
+?
+java:S1481,"*Remove this unused "clazz" local variable.(¾ø‹(
+E
+java:S14815"*Remove this unused "clazz" local variable.(ÌşÚ¬úÿÿÿÿ
+@
+java:S1481W"*Remove this unused "clazz" local variable.(ò§Äÿ

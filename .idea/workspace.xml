@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/bin/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/bin/nums.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/src/com/bjsxt/num/TestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/src/com/bjsxt/num/TestNum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/src/com/bjsxt/pojo/Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/src/com/bjsxt/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/jdbc_xml/src/nums.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/bin/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/bin/book2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/bin/scores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/bin/scores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/bin/scores2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/src/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/src/book2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/src/com/bjsxt/xml/TestXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/src/com/bjsxt/xml/TestXml2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/src/scores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/src/scores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML技術/xml/src/scores2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0819/.idea/sonarlint/issuestore/8/1/81c2e147f167560f6bd4b683c2177a1d0995c5c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0819/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0819/.idea/test0819.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0819/demo01/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0819/out/production/test0819/.idea/test0819.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0823/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0823/src/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0823/test0823.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/sonarlint/issuestore/6/7/67d68e98d9a62face11c44ccefc792bd7a9f1164" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/sonarlint/issuestore/b/2/b2bb421eba595f925073d3db78bb38a8ce94b3a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/sonarlint/issuestore/d/6/d6877a85cc021d3f95530ef975c4dbd71e23512c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/src/com/tai/sorm/core/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/src/demo1/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0825/test0825.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/libraries/mysql_connector_java_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/simple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/src/com/tai/Demo1/sqlDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0831/test0831.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/Demo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/src/com/tai/xmlReader/Dom4jRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0901/test0901.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/sonarlint/issuestore/0/e/0ed611d69677e2ac577662ea6eba457377fa4512" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/sonarlint/issuestore/4/f/4f77590d3815c5339e0df8d3dcd52e8a70724424" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/newXML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/src/com/tai/Demo01/SAXout01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0903/test0903.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/test0910/src/com/tai/Demo001/MyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a877f2332cf8efcf329e5cfaed0907d00ebc2b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a877f2332cf8efcf329e5cfaed0907d00ebc2b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0daaac1e1a47e34c5f9c108430a9628d5f7891bf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0daaac1e1a47e34c5f9c108430a9628d5f7891bf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11491bf66abf4cae9160c091cf57cc572d52d01a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11491bf66abf4cae9160c091cf57cc572d52d01a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/193b2f90e86f98ceca9614e342c7aef07bcb0fea" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/193b2f90e86f98ceca9614e342c7aef07bcb0fea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1eefc9248f28a6ce0f7543b39a47429d226a1bb6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1eefc9248f28a6ce0f7543b39a47429d226a1bb6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29506d3ae6564777a974458f5e1e36ce83d2413f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29506d3ae6564777a974458f5e1e36ce83d2413f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32f19c458e34fbfbc8652337944489523340a599" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32f19c458e34fbfbc8652337944489523340a599" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b0552d883e4c67556aa663276cd2f4ae83f433e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e76ff3b3b78cdabcf7bd6986e2e025468d0b810" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e76ff3b3b78cdabcf7bd6986e2e025468d0b810" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5230daa26fb77cb77edd2c91bb44e4cc4499ec94" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5230daa26fb77cb77edd2c91bb44e4cc4499ec94" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57637947ef174dfd5e1c49befb2e79553e5d884b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57637947ef174dfd5e1c49befb2e79553e5d884b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cea128524e6de7e720c186e98e66f090f06bda5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cea128524e6de7e720c186e98e66f090f06bda5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60700ade7a14216b13f5f20ee891685321db7f3b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60700ade7a14216b13f5f20ee891685321db7f3b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62ce2bc79811eb85f0a26715da1147d8302d95d7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62ce2bc79811eb85f0a26715da1147d8302d95d7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/662fc6d770f2ccabef6a303a0bcee69c943bf2fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/662fc6d770f2ccabef6a303a0bcee69c943bf2fe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bf688d591f196971e9d51d340fc2c5f75e57c66" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bf688d591f196971e9d51d340fc2c5f75e57c66" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e71cb7d71d8aa6ff3f72fb005a5eeb0c8fe4540" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e71cb7d71d8aa6ff3f72fb005a5eeb0c8fe4540" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/7472cb8c4e982735d6e7d159143c637ab2773970" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/7472cb8c4e982735d6e7d159143c637ab2773970" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c49b881bba38bbbe04ab37d875792652ad1a0f9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c49b881bba38bbbe04ab37d875792652ad1a0f9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81162362609698ba26f87956b3b8930cc3620434" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81162362609698ba26f87956b3b8930cc3620434" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/843a688b9d0c733621d3283d2499a5965ed44251" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/843a688b9d0c733621d3283d2499a5965ed44251" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85bf0e077cb98d74a1dfa50f82cdef836970e301" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85bf0e077cb98d74a1dfa50f82cdef836970e301" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88cc72e4c096572d66498350bfc8100474fec2a5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88cc72e4c096572d66498350bfc8100474fec2a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a0454fd93eb074456bf6603b5ceac92ac3025a0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a0454fd93eb074456bf6603b5ceac92ac3025a0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95f7f4ec6374013a85da8afffcdab8906ef64e5e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95f7f4ec6374013a85da8afffcdab8906ef64e5e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bb5558a333474a68e1804d65b87d1b9377a53cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bb5558a333474a68e1804d65b87d1b9377a53cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c2765703e41a9b83c7e90ab22866eed31271655" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c2765703e41a9b83c7e90ab22866eed31271655" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0352b40a8b372d578017af6206346aa43bf9a05" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0352b40a8b372d578017af6206346aa43bf9a05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a04d38c208586ab8a70b24c4b6f054ed7819fee8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a04d38c208586ab8a70b24c4b6f054ed7819fee8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a05881fa429f4d81e273f99952887693f7518c0c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a05881fa429f4d81e273f99952887693f7518c0c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a11ab0468eb8e4c6227dc499eca939050829894d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a11ab0468eb8e4c6227dc499eca939050829894d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7cee6b07151fc4de28abcfd61398d9ccb4cc8f4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7cee6b07151fc4de28abcfd61398d9ccb4cc8f4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab68a4f914b1871d27d7c2a4c179bb0fc172774c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab68a4f914b1871d27d7c2a4c179bb0fc172774c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b922c11db09fcb34998b4401aac9de5a9c9f29d9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b922c11db09fcb34998b4401aac9de5a9c9f29d9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9ade4dcf5c15518191cecb0fdc280bd607422fa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9ade4dcf5c15518191cecb0fdc280bd607422fa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be2c4ef0651e94a8f85f83c65a6e9fece32e867e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be2c4ef0651e94a8f85f83c65a6e9fece32e867e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c349e68b62c46f5d6f91c3f4d051af5d0c77f443" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c349e68b62c46f5d6f91c3f4d051af5d0c77f443" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c61ecdc52febdd08e710e16db2ae1cdea685eda0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c61ecdc52febdd08e710e16db2ae1cdea685eda0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca70f7e9cfd9ebcfc7cc22d379b1fcdc3ed12db9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca70f7e9cfd9ebcfc7cc22d379b1fcdc3ed12db9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caa3a677d2af93d559435d30b3630eed4875db87" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caa3a677d2af93d559435d30b3630eed4875db87" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2aecb50a6209515274016b426fa92a36731f0cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2aecb50a6209515274016b426fa92a36731f0cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7fd135bbe7d22f7630534abca537b5371c0ab78" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7fd135bbe7d22f7630534abca537b5371c0ab78" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de52d2e0b6caac67704ffdd55611fa48871cdf52" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de52d2e0b6caac67704ffdd55611fa48871cdf52" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f08d3f8feb059e09a2248292c505320add3847f3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f08d3f8feb059e09a2248292c505320add3847f3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f180ffcce8c943ae1101a2a93fc247badc8a40aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f180ffcce8c943ae1101a2a93fc247badc8a40aa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9df28ce2f5694cfe4c9bee91e3b3b58a75162da" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9df28ce2f5694cfe4c9bee91e3b3b58a75162da" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/jdbc.md" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/jdbc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/测试JDBC源代码/src/com/bjsxt/jdbc/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/测试JDBC源代码/src/com/bjsxt/jdbc/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/手寫webserver/01_Basic/servlet/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/手寫webserver/01_Basic/servlet/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/手寫webserver/01_Basic/servlet/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/手寫webserver/01_Basic/servlet/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/test0816/.idea/sonarlint/issuestore/5/9/59c4877ef33cb3a7a934888e7f21d985a8e01eb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/test0816/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/test0816/Demo1/Run01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/test0816/test0816.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/註解Annotation/自定義註解.md" beforeDir="false" afterPath="$PROJECT_DIR$/註解Annotation/自定義註解.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="module-info" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cywefep51md6lb3D55y8A168b9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/JDBC/Intro01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Dropbox/Backup Setting/markdown-navigator-settings.xml" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MarkdownNavigator.Settings.Css" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\JAVA\JDBC" />
+      <recent name="D:\workspace\JAVA\lib" />
+      <recent name="D:\workspace\JAVA\反射機制" />
+      <recent name="D:\workspace\JAVA\反射機制\反射" />
+      <recent name="D:\workspace\JAVA\註解Annotation\1TestAnnotation" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\JAVA\lib" />
+      <recent name="D:\workspace\JAVA\XML技術" />
+      <recent name="D:\workspace\JAVA\JDBC" />
+      <recent name="D:\workspace\JAVA\反射機制" />
+      <recent name="D:\workspace\JAVA\反射機制\類加載機制" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="transPic" />
+      <recent name="InetDemo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MyMethod" />
+      <recent name="transPic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReflectTest">
+    <configuration name="Demo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bjsxt.test.Demo01" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bjsxt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo03" />
+      <module name="JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bjsxt.test.annotation.Demo03" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bjsxt.test.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoRhio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.rhio.DemoRhio01" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.rhio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.server.basic.ReflectTest" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.server.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.DemoRhio01" />
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.Demo03 (1)" />
+        <item itemvalue="Application.Demo01 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kontai\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="" />
+      <created>1591514237388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591514237388</updated>
+      <workItem from="1591514239772" duration="110000" />
+      <workItem from="1591514380017" duration="610000" />
+      <workItem from="1591515204199" duration="636000" />
+      <workItem from="1591515926036" duration="39000" />
+      <workItem from="1591516444234" duration="568000" />
+      <workItem from="1591518262382" duration="46000" />
+      <workItem from="1591532618244" duration="147000" />
+      <workItem from="1591532787348" duration="393000" />
+      <workItem from="1591719001020" duration="56000" />
+      <workItem from="1591719078959" duration="601000" />
+      <workItem from="1591721889473" duration="44000" />
+      <workItem from="1591802250176" duration="273000" />
+      <workItem from="1591802545407" duration="1036000" />
+      <workItem from="1593427990208" duration="244000" />
+      <workItem from="1593428278888" duration="2012000" />
+      <workItem from="1593431466626" duration="21000" />
+      <workItem from="1593431510911" duration="37000" />
+      <workItem from="1594140501347" duration="21000" />
+      <workItem from="1595766485630" duration="27000" />
+      <workItem from="1595766540226" duration="301000" />
+      <workItem from="1595816757320" duration="2581000" />
+      <workItem from="1595891366080" duration="2979000" />
+      <workItem from="1595895597546" duration="376000" />
+      <workItem from="1595895995473" duration="4635000" />
+      <workItem from="1595949754260" duration="2766000" />
+      <workItem from="1595979980106" duration="8887000" />
+      <workItem from="1596069635566" duration="1195000" />
+      <workItem from="1596237615717" duration="29000" />
+      <workItem from="1596237667034" duration="1534000" />
+      <workItem from="1596248044169" duration="6149000" />
+      <workItem from="1596266376576" duration="13549000" />
+      <workItem from="1596296641616" duration="596000" />
+      <workItem from="1596324877342" duration="7960000" />
+      <workItem from="1596411876432" duration="2997000" />
+      <workItem from="1596498677816" duration="574000" />
+      <workItem from="1596499276384" duration="6631000" />
+      <workItem from="1596556481797" duration="3866000" />
+      <workItem from="1596586780269" duration="597000" />
+      <workItem from="1596587515582" duration="4775000" />
+      <workItem from="1596673862988" duration="8346000" />
+      <workItem from="1596841306476" duration="14000" />
+      <workItem from="1596841339954" duration="5023000" />
+      <workItem from="1596869186053" duration="2252000" />
+      <workItem from="1596932395928" duration="11005000" />
+      <workItem from="1596960773685" duration="14000" />
+      <workItem from="1596960810158" duration="57000" />
+      <workItem from="1596961295261" duration="176000" />
+      <workItem from="1596961492555" duration="3039000" />
+      <workItem from="1596976625889" duration="104000" />
+      <workItem from="1596976764345" duration="6680000" />
+      <workItem from="1597016095809" duration="11298000" />
+      <workItem from="1597069950675" duration="676000" />
+      <workItem from="1597104038558" duration="4948000" />
+      <workItem from="1597111966478" duration="914000" />
+      <workItem from="1597114380717" duration="26000" />
+      <workItem from="1597114426581" duration="315000" />
+      <workItem from="1597159641325" duration="2470000" />
+      <workItem from="1597165523222" duration="635000" />
+      <workItem from="1597189298811" duration="2438000" />
+      <workItem from="1597192299729" duration="67000" />
+      <workItem from="1597192383665" duration="100000" />
+      <workItem from="1597192507320" duration="1853000" />
+      <workItem from="1597194398296" duration="1222000" />
+      <workItem from="1597195930560" duration="1404000" />
+      <workItem from="1597197362370" duration="1310000" />
+      <workItem from="1597284070069" duration="147000" />
+      <workItem from="1597284243412" duration="1056000" />
+      <workItem from="1597360542797" duration="6757000" />
+      <workItem from="1597446897001" duration="3113000" />
+      <workItem from="1597457274445" duration="902000" />
+      <workItem from="1597486935065" duration="1578000" />
+      <workItem from="1597488562423" duration="4935000" />
+      <workItem from="1597531410125" duration="4926000" />
+      <workItem from="1597542236408" duration="1172000" />
+      <workItem from="1597543584983" duration="5201000" />
+      <workItem from="1597576801774" duration="270000" />
+      <workItem from="1597584072231" duration="632000" />
+      <workItem from="1597618129398" duration="2886000" />
+      <workItem from="1597707773173" duration="606000" />
+      <workItem from="1597709637963" duration="2811000" />
+      <workItem from="1597792035372" duration="2596000" />
+      <workItem from="1597794669410" duration="3662000" />
+      <workItem from="1597848029724" duration="1091000" />
+      <workItem from="1597852078507" duration="96000" />
+      <workItem from="1598173976258" duration="3101000" />
+      <workItem from="1598225386857" duration="3394000" />
+      <workItem from="1598310686047" duration="5000" />
+      <workItem from="1598310716615" duration="3541000" />
+      <workItem from="1598329477820" duration="55000" />
+      <workItem from="1598371371379" duration="1035000" />
+      <workItem from="1598397153080" duration="47000" />
+      <workItem from="1598397221095" duration="2300000" />
+      <workItem from="1598487188954" duration="296000" />
+      <workItem from="1598487513898" duration="1250000" />
+      <workItem from="1598658605948" duration="42000" />
+      <workItem from="1598658686077" duration="2680000" />
+      <workItem from="1598741481474" duration="4729000" />
+      <workItem from="1598768282650" duration="884000" />
+      <workItem from="1598828801258" duration="616000" />
+      <workItem from="1598829698159" duration="21000" />
+      <workItem from="1598836201367" duration="29000" />
+      <workItem from="1599750373446" duration="3268000" />
+      <workItem from="1600356407705" duration="118000" />
+      <workItem from="1600495127542" duration="27000" />
+      <workItem from="1600495190489" duration="2178000" />
+      <workItem from="1600515864549" duration="1196000" />
+    </task>
+    <task id="LOCAL-00001" summary="0607">
+      <created>1591514733404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591514733404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0607">
+      <created>1591514975840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591514975840</updated>
+    </task>
+    <task id="LOCAL-00003" summary="0607">
+      <created>1591516568545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591516568545</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0809">
+      <created>1596936049223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596936049223</updated>
+    </task>
+    <task id="LOCAL-00005" summary="0809">
+      <created>1596956569331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596956569331</updated>
+    </task>
+    <task id="LOCAL-00006" summary="0810">
+      <created>1597071302204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597071302204</updated>
+    </task>
+    <task id="LOCAL-00007" summary="0819">
+      <created>1597795587264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597795587264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="0607" />
+    <MESSAGE value="0809" />
+    <MESSAGE value="0810" />
+    <MESSAGE value="0819" />
+    <option name="LAST_COMMIT_MESSAGE" value="0819" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="276" width="1014" height="909" key="#Intentions" timestamp="1597019222713">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="773" y="276" width="1014" height="909" key="#Intentions/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597019222713" />
+    <state x="1130" y="498" width="1231" height="405" key="#Notifications" timestamp="1596961432889">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1130" y="498" width="1231" height="405" key="#Notifications/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1596961432889" />
+    <state x="773" y="254" key="#Plugins" timestamp="1597709657195">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="773" y="254" key="#Plugins/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597709657195" />
+    <state x="761" y="275" key="#Project_Structure" timestamp="1597491865593">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="761" y="275" key="#Project_Structure/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597491865593" />
+    <state x="448" y="500" key="#SQL_Dialects" timestamp="1597850959107">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="448" y="500" key="#SQL_Dialects/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597850959107" />
+    <state x="873" y="351" width="1305" height="913" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597489403803">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="351" width="1305" height="913" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597489403803" />
+    <state x="923" y="472" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600516592078">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="923" y="472" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1600516592078" />
+    <state x="1039" y="332" width="985" height="893" key="#com.intellij.ide.util.MemberChooser" timestamp="1597487101112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1039" y="332" width="985" height="893" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597487101112" />
+    <state x="946" y="422" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1596979074472">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="946" y="422" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1596979074472" />
+    <state x="946" y="441" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596936659972">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="946" y="441" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1596936659972" />
+    <state x="801" y="247" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597489531850">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="801" y="247" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597489531850" />
+    <state x="1162" y="682" width="530" height="245" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1597489617838">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1162" y="682" width="530" height="245" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597489617838" />
+    <state x="1211" y="656" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1596937460814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1211" y="656" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1596937460814" />
+    <state x="827" y="399" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597534191557">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="827" y="399" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597534191557" />
+    <state x="974" y="525" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597016431427">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="974" y="525" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597016431427" />
+    <state x="920" y="458" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1595951138416">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="920" y="458" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1595951138416" />
+    <state x="946" y="386" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596936989595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="946" y="386" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1596936989595" />
+    <state x="900" y="257" key="#console.sql" timestamp="1595896974388">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="900" y="257" key="#console.sql/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1595896974388" />
+    <state x="925" y="519" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600496529537">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="925" y="519" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1600496529537" />
+    <state x="580" y="163" key="CommitChangelistDialog2" timestamp="1597795565890">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="580" y="163" key="CommitChangelistDialog2/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597795565890" />
+    <state x="1006" y="553" key="DetectedRootsChooserDialog" timestamp="1597542520075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1006" y="553" key="DetectedRootsChooserDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597542520075" />
+    <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1600516092371">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1600516092371" />
+    <state width="2505" height="228" key="GridCell.Tab.0.bottom" timestamp="1598719598278">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="228" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598719598278" />
+    <state width="2505" height="228" key="GridCell.Tab.0.center" timestamp="1598719598277">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="228" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598719598277" />
+    <state width="2505" height="228" key="GridCell.Tab.0.left" timestamp="1598719598277">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="228" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598719598277" />
+    <state width="2505" height="228" key="GridCell.Tab.0.right" timestamp="1598719598278">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="228" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598719598278" />
+    <state width="2505" height="455" key="GridCell.Tab.1.bottom" timestamp="1595990836550">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1595990836550" />
+    <state width="2505" height="455" key="GridCell.Tab.1.center" timestamp="1595990836550">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1595990836550" />
+    <state width="2505" height="455" key="GridCell.Tab.1.left" timestamp="1595990836550">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1595990836550" />
+    <state width="2505" height="455" key="GridCell.Tab.1.right" timestamp="1595990836550">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1595990836550" />
+    <state width="291" height="694" key="HiddenNamespacesPopup" timestamp="1595896568801">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="291" height="694" key="HiddenNamespacesPopup/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1595896568801" />
+    <state x="758" y="371" key="IDE.errors.dialog" timestamp="1599752620394">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="758" y="371" key="IDE.errors.dialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1599752620394" />
+    <state x="865" y="331" key="MarkdownNavigator.LinkFormatDialog" timestamp="1597193940450">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="865" y="331" key="MarkdownNavigator.LinkFormatDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597193940450" />
+    <state x="838" y="0" key="MarkdownNavigator.PasteImageDialog" timestamp="1597193934899">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="838" y="0" key="MarkdownNavigator.PasteImageDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597193934899" />
+    <state x="435" y="246" width="1864" height="882" key="SettingsEditor" timestamp="1600516115106">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="435" y="246" width="1864" height="882" key="SettingsEditor/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1600516115106" />
+    <state x="808" y="346" key="StringManipulation.AlignToColumnsAction" timestamp="1596853516899">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="808" y="346" key="StringManipulation.AlignToColumnsAction/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1596853516899" />
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2" timestamp="1600515879794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1600515879794" />
+    <state x="1028" y="463" key="chooseDestDirectoryDialog" timestamp="1598317417177">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1028" y="463" key="chooseDestDirectoryDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598317417177" />
+    <state x="1045" y="545" key="cloudConfig.PluginsDialog" timestamp="1598180475016">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1045" y="545" key="cloudConfig.PluginsDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598180475016" />
+    <state x="1147" y="545" key="cloudConfig.SelfSettingsDialog" timestamp="1598180373344">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1147" y="545" key="cloudConfig.SelfSettingsDialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598180373343" />
+    <state x="994" y="316" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597796939619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="994" y="316" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597796939619" />
+    <state x="946" y="381" key="extract.method.dialog" timestamp="1597492016431">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="946" y="381" key="extract.method.dialog/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1597492016431" />
+    <state x="903" y="172" width="998" height="1056" key="find.popup" timestamp="1598698658872">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="903" y="172" width="998" height="1056" key="find.popup/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598698658872" />
+    <state width="965" height="293" key="javadoc.popup.new" timestamp="1598768367920">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="724" height="218" key="javadoc.popup.new/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@-1920.492.1920.1040" timestamp="1598751538790" />
+    <state width="965" height="293" key="javadoc.popup.new/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1598768367920" />
+    <state x="576" y="266" key="new project wizard" timestamp="1600497388390">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="576" y="266" key="new project wizard/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1600497388390" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1600515912483">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400/-1920.492.1920.1040/3840.0.1152.2008@0.0.2560.1400" timestamp="1600515912483" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+
+B
+java:S1444}"'Make this "public static k" field final(®íÍ€ıÿÿÿÿ
+F
+java:S3740‚"/Provide the parametrized type for this generic.(Ãƒ¼ô
+K
+java:S3740…"/Provide the parametrized type for this generic.(Øá¦…úÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(ê˜ûîşÿÿÿÿ
+n
+java:S1192("YDefine a constant instead of duplicating this literal "javassist.compiler.Print" 3 times.(›‹‰F
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(ø’¸Šıÿÿÿÿ
+`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(¶®Á‰øÿÿÿÿ
+[	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(éÒúÓ
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(ÅÃï¨ùÿÿÿÿ
+`	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(şÌ«ıüÿÿÿÿ
+h
+java:S1104}"MMake k a static final constant or non-public and provide accessors if needed.(®íÍ€ıÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(‚š‰1
+‡
+java:S1130#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ø’¸Šıÿÿÿÿ
+C
+java:S1905T"-Remove this unnecessary cast to "Declarator".(Œ÷º¢
+C
+java:S1905V"-Remove this unnecessary cast to "Declarator".(Æü´Ò
+H
+java:S1905X"-Remove this unnecessary cast to "Declarator".(Œàşƒøÿÿÿÿ
+C
+java:S1905Z"-Remove this unnecessary cast to "Declarator".(áş©¥
+H
+java:S1905]"-Remove this unnecessary cast to "Declarator".(®Ú¤‡øÿÿÿÿ
+C
+java:S1905`"-Remove this unnecessary cast to "Declarator".(ôÌòº
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(¿ùÄüÿÿÿÿ
+N	java:S106”"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+Q	java:S125	"<This block of commented-out lines of code should be removed.(Óµ¨œ

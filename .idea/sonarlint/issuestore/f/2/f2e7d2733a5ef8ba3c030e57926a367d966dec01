@@ -1,0 +1,10 @@
+
+A
+java:S10758"&Remove this hard-coded path-delimiter.(£éð°ùÿÿÿÿ
+<
+java:S1168J"&Return an empty array instead of null.(¥¹ï
+E
+java:S2093="*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(†€éˆ
+M
+java:S2589T"7Remove this expression which always evaluates to "true"(Ù„¶þ

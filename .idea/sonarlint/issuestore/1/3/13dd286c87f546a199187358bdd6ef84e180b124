@@ -1,0 +1,49 @@
+
+i
+java:S2095 "MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Û“™Ðüÿÿÿÿ
+>
+java:S2189À""Add an end condition to this loop.(ÆÖÓ½øÿÿÿÿ
+o
+java:S1104E"TMake debugDir a static final constant or non-public and provide accessors if needed.(Ìþòëÿÿÿÿÿ
+n
+java:S1104U"XMake htmlfileBase a static final constant or non-public and provide accessors if needed.(ì«¥«
+t	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âÌùçûÿÿÿÿ
+t	java:S115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Þ¾ø¯øÿÿÿÿ
+o	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥‚“ñ
+o	java:S115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎˆÈ«
+o	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òáˆ®
+{
+java:S1149á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+[
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(·Š©¯
+`
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(âÌùçûÿÿÿÿ
+`
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(Þ¾ø¯øÿÿÿÿ
+[
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(¥‚“ñ
+[
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(ÎˆÈ«
+[
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(Òáˆ®
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+N	java:S106œ"9Replace this use of System.out or System.err by a logger.(‚š‰1
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(‰ž—Öùÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(×•œ²
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(•¦ºÅùÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(‰ž—Öùÿÿÿÿ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(×•œ²
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(øï–Àúÿÿÿÿ
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(×•œ²
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(¤´ïÌ
+O	java:S106·"9Replace this use of System.out or System.err by a logger.(×•œ²
+N	java:S106¸"9Replace this use of System.out or System.err by a logger.(‚š‰1
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(ûôý¾ùÿÿÿÿ
+D	java:S108Ï")Either remove or fill this block of code.(—žƒþÿÿÿÿÿ
+@
+java:S1172ú")Remove this unused method parameter "in".(±¾Øù
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(±¾Øù
+<
+java:S1659ÿ"%Declare "urlName" on a separate line.(•ý‰®
+D	java:S108¡")Either remove or fill this block of code.(©œ¡ÿÿÿÿÿ

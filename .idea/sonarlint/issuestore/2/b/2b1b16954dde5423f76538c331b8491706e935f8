@@ -1,0 +1,22 @@
+
+W	java:S107ı"<Method has 9 parameters, which is greater than 7 authorized.(‡ÀŒòşÿÿÿÿ
+o	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›²Êâ
+o	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³“¬ø
+o	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëİ£’
+o	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬„éë
+o	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±‚Şã
+{
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+{
+java:S1149£"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶éğƒşÿÿÿÿ
+Y
+java:S3252÷"=Use static access with "javassist.bytecode.Opcode" for "DUP".( ø¨¶ùÿÿÿÿ
+Y
+java:S3252ı"=Use static access with "javassist.bytecode.Opcode" for "DUP".( ø¨¶ùÿÿÿÿ
+]
+java:S3252Š"AUse static access with "javassist.bytecode.Opcode" for "AASTORE".(†ĞÁçûÿÿÿÿ
+M
+java:S5261Ï"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(ûë¶Íúÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(§¹Ò
+W	java:S125ª"<This block of commented-out lines of code should be removed.(´´ûËşÿÿÿÿ

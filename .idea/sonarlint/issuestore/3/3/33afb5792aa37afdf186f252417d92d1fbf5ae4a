@@ -1,0 +1,15 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ÍéŒü
+E
+java:S37402"/Provide the parametrized type for this generic.(ÍéŒü
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ƒ…şŞ
+`	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(°÷¯ııÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(›üšƒ
+>
+java:S1604,"(Make this anonymous inner class a lambda(›üšƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷Øöêÿÿÿÿÿ
+=	java:S108#")Either remove or fill this block of code.(Ûï‹?
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(÷Øöêÿÿÿÿÿ
+=	java:S108?")Either remove or fill this block of code.(Ûï‹?

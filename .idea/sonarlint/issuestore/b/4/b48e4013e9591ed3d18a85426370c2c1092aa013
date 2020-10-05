@@ -1,0 +1,21 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(„Úç½
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óíªúøÿÿÿÿ
+h
+java:S1104"MMake d a static final constant or non-public and provide accessors if needed.(Ñ««şÿÿÿÿ
+l
+java:S1104"QMake calcM a static final constant or non-public and provide accessors if needed.(ÇŠ¢îøÿÿÿÿ
+g
+java:S4144!"QUpdate this method so that its implementation is not identical to "p" on line 24.(Šú¡ñ
+g
+java:S41442"QUpdate this method so that its implementation is not identical to "s" on line 42.(ˆÍŒ
+œ
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş«Âüÿÿÿÿ
+W
+java:S3878"ADisambiguate this call by either casting as "Class" or "Class[]".(Êù‹ù
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ÒùÓ¨
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(­íï—
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(©™Úşÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(­íï—
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(©™Úşÿÿÿÿ

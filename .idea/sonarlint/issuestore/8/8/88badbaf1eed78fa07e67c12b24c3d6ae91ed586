@@ -1,0 +1,175 @@
+
+e
+java:S2095Œ"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(í¯“
+g
+java:S2095„"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÿÛÄ¬
+N
+java:S1444è"2Make this "public static testInitFlag" field final(Ÿõµûÿÿÿÿ
+E
+java:S3740F"/Provide the parametrized type for this generic.(ÍéŒü
+E
+java:S3740a"/Provide the parametrized type for this generic.(ÍéŒü
+E
+java:S3740m"/Provide the parametrized type for this generic.(ÍéŒü
+E
+java:S3740z"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740"/Provide the parametrized type for this generic.(ÍéŒü
+K
+java:S3740 "/Provide the parametrized type for this generic.(Â×ø•øÿÿÿÿ
+F
+java:S3740¡"/Provide the parametrized type for this generic.(ºÊ‘¡
+F
+java:S3740¸"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740Æ"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740à"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740õ"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740…"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740“"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740¬"/Provide the parametrized type for this generic.(’—¿
+K
+java:S3740¯"/Provide the parametrized type for this generic.(íØŸÿÿÿÿÿ
+F
+java:S3740Ò"/Provide the parametrized type for this generic.(ÍéŒü
+F
+java:S3740Ş"/Provide the parametrized type for this generic.(äÌ¥²
+K
+java:S3740·"/Provide the parametrized type for this generic.(³ÔÍ‘ÿÿÿÿÿ
+K
+java:S3740½"/Provide the parametrized type for this generic.(ı®Ñöùÿÿÿÿ
+a
+java:S1192!"LDefine a constant instead of duplicating this literal "intercept: " 3 times.(¢ ˆi
+E
+java:S1066£"/Merge this if statement with the enclosing one.(ÀÿşX
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ú‹¾¸ÿÿÿÿÿ
+[	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(•Â•°
+`	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(§Ä¡åüÿÿÿÿ
+`	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(ğ¡›ıÿÿÿÿ
+[	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(À†øN
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(íñ†‚øÿÿÿÿ
+a	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(ÑÍóØıÿÿÿÿ
+\	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(ö·–
+\	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(²¨İ
+a	java:S112ê"FDefine and throw a dedicated exception instead of using a generic one.(ãğ¦ şÿÿÿÿ
+\	java:S112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(æÄñ§
+\	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(ëÚ¤²
+\	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(´³É
+\	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(€òÖ—
+a	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(±·©Âıÿÿÿÿ
+a	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(‰™‹µûÿÿÿÿ
+a	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(¹¡áäùÿÿÿÿ
+a	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(Î‰Òçıÿÿÿÿ
+\	java:S112Ì"FDefine and throw a dedicated exception instead of using a generic one.(ÿœè¶
+C
+java:S16049"(Make this anonymous inner class a lambda(›„Ğèşÿÿÿÿ
+?
+java:S1604Û"(Make this anonymous inner class a lambda(›üšƒ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(“Îïİøÿÿÿÿ
+D
+java:S1604ö"(Make this anonymous inner class a lambda(“Îïİøÿÿÿÿ
+t
+java:S1104è"XMake testInitFlag a static final constant or non-public and provide accessors if needed.(Ÿõµûÿÿÿÿ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(¢ ˆi
+S	java:S106""9Replace this use of System.out or System.err by a logger.(™­ééşÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(¢ ˆi
+D
+java:S1905n")Remove this unnecessary cast to "Object".(à•¯ıÿÿÿÿ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(ßîİÏ
+D
+java:S1905{")Remove this unnecessary cast to "Object".(à•¯ıÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(â°¨
+T	java:S106"9Replace this use of System.out or System.err by a logger.(äÖîœÿÿÿÿÿ
+V
+java:S1854Š"?Remove this useless assignment to local variable "interceptor".(•‰í
+L
+java:S1854"5Remove this useless assignment to local variable "c".(ÍéŒü
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+O
+java:S1854¡"8Remove this useless assignment to local variable "con2".(ºÊ‘¡
+T
+java:S3878 "8Remove this array creation and simply pass the elements.(Â×ø•øÿÿÿÿ
+O
+java:S3878¡"8Remove this array creation and simply pass the elements.(ºÊ‘¡
+2
+java:S3878¢"Remove this array creation.(—ŒÏ¦
+7
+java:S3878£"Remove this array creation.(Î©¦ıÿÿÿÿ
+O
+java:S3878§"8Remove this array creation and simply pass the elements.(Çç™‘
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(ğ¼ãí
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(ßîİÏ
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ßîİÏ
+O	java:S106ä"9Replace this use of System.out or System.err by a logger.(ßîİÏ
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(µà±ëúÿÿÿÿ
+M
+java:S2696ô"6Make the enclosing method "static" or remove this set.(¤Ğ£Ê
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(©µÁß
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(ŸàÇ±úÿÿÿÿ
+L
+java:S1854…"5Remove this useless assignment to local variable "c".(ÍéŒü
+Q
+java:S1854"5Remove this useless assignment to local variable "x".(¤ƒÈüÿÿÿÿ
+?	java:S108 ")Either remove or fill this block of code.(Ë…æĞ
+W
+java:S1193¢"@Replace the usage of the "instanceof" operator by a catch block.(—š³ˆ
+R
+java:S2696¾"6Make the enclosing method "static" or remove this set.(“Îïİøÿÿÿÿ
+R
+java:S2696È"6Make the enclosing method "static" or remove this set.(Ü¯ì¹üÿÿÿÿ
+R
+java:S2696Ï"6Make the enclosing method "static" or remove this set.(ı´Ûôıÿÿÿÿ
+R
+java:S2696Ú"6Make the enclosing method "static" or remove this set.(ı´Ûôıÿÿÿÿ
+R
+java:S2696ç"6Make the enclosing method "static" or remove this set.(ââª–üÿÿÿÿ
+U
+java:S3400ë"9Remove this method and declare a constant for this value.(ì¥û®øÿÿÿÿ
+R
+java:S2696ö"6Make the enclosing method "static" or remove this set.(“Îïİøÿÿÿÿ
+R
+java:S2696‰"6Make the enclosing method "static" or remove this set.(Ü¯ì¹üÿÿÿÿ
+F
+java:S2093õ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+P
+java:S3400—"9Remove this method and declare a constant for this value.(Áÿ¼
+]
+java:S3878£"ADisambiguate this call by either casting as "Class" or "Class[]".(é­àÔùÿÿÿÿ
+7
+java:S3878¥"Remove this array creation.(Òÿ×ïüÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(»øŒ’
+=
+java:S1481"&Remove this unused "c" local variable.(ÍéŒü
+G
+java:S1481Š"0Remove this unused "interceptor" local variable.(•‰í
+@
+java:S1481¡")Remove this unused "con2" local variable.(ºÊ‘¡
+=
+java:S1481…"&Remove this unused "c" local variable.(ÍéŒü
+B
+java:S1481"&Remove this unused "x" local variable.(¤ƒÈüÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+V	java:S125k"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(£şßûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(£şßûÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(£şßûÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(İÂ½ÿúÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(ò€Åúÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(ü·¸ÿÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ÉàÖÉıÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(İ­•¨ûÿÿÿÿ
+Q	java:S125Î"<This block of commented-out lines of code should be removed.(…´Øb
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(¥ãÓ 

@@ -1,0 +1,15 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ˆÊ€E
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶Âê¥
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÏŠÿ
+@
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(•”ø¾øÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "s2".(ÖÇ§ó
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ˆÊ€E
+=
+java:S1481"'Remove this unused "s2" local variable.(ÖÇ§ó

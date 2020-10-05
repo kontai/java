@@ -1,0 +1,25 @@
+
+a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(úëŸ˜üÿÿÿÿ
+a	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(ƒš±4
+a	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+\	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(‘«˜©
+\	java:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(†Õ
+t	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßáÅ¾úÿÿÿÿ
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æƒç ÿÿÿÿÿ
+p
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+—
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒš±4
+
+java:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÒÇœÆüÿÿÿÿ
+˜
+java:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘«˜©
+B
+java:S1172‰"+Remove this unused method parameter "type".(Ò™ã¼
+L
+java:S1172›"0Remove this unused method parameter "nameIndex".(¼ùÜÇûÿÿÿÿ
+B
+java:S1659”"&Declare "destPool" on a separate line.(ª¸„˜ùÿÿÿÿ

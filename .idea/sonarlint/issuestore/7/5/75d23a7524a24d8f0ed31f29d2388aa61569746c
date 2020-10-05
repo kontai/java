@@ -1,0 +1,34 @@
+
+[
+java:S1192v"FDefine a constant instead of duplicating this literal " usec" 6 times.(Ø—‡J
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(€…Ôÿÿÿÿÿ
+[	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(¢
+`	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(ÜŞ¿öşÿÿÿÿ
+[	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(°ÑÆ¨
+P
+java:S1161":Add the "@Override" annotation above this method signature(şÙ
+P
+java:S1161":Add the "@Override" annotation above this method signature(şÙ
+P
+java:S1161 ":Add the "@Override" annotation above this method signature(şÙ
+P
+java:S1161,":Add the "@Override" annotation above this method signature(şÙ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(½¢¸Õ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ïµÃÔúÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(¡óóõ
+U
+java:S1161F":Add the "@Override" annotation above this method signature(‚ÔÕãÿÿÿÿÿ
+U
+java:S1161M":Add the "@Override" annotation above this method signature(‚ÔÕãÿÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ıÖåˆùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(„İáîşÿÿÿÿ
+P
+java:S1161`":Add the "@Override" annotation above this method signature(şÙ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(·¿”ğûÿÿÿÿ
+M	java:S106v"9Replace this use of System.out or System.err by a logger.(Ø—‡J
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(Ä‰¬Å
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ìêÖÜ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(Ğ†œª
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ãª¡
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(Ä¹çŒøÿÿÿÿ

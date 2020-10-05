@@ -1,0 +1,31 @@
+
+b
+java:S1192 "GDefine a constant instead of duplicating this literal "salary" 3 times.(…Ì²íşÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "empname" 3 times.(ãù•Øüÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁôĞ
+O
+java:S2864+"4Iterate over the "entrySet" instead of the "keySet".(³›Í¨şÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¥º¸×
+n
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö‹è)
+o
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁôĞ
+O
+java:S2864J"4Iterate over the "entrySet" instead of the "keySet".(³›Í¨şÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(¥º¸×
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+o
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(á§´›
+o
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁôĞ
+J
+java:S2864j"4Iterate over the "entrySet" instead of the "keySet".(µÂÏõ
+O
+java:S2864l"4Iterate over the "entrySet" instead of the "keySet".(³›Í¨şÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(¥º¸×
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ô¬«•şÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(ô¬«•şÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(ô¬«•şÿÿÿÿ

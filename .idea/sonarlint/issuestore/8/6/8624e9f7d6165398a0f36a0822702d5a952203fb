@@ -1,0 +1,25 @@
+
+[	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍğÔ·
+f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÒœı
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹õ˜Ãøÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä‡Äÿÿÿÿÿ
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(í¤Ò.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ªÿ·üÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹õ˜Ãøÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ä‡Äÿÿÿÿÿ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(í¤Ò.
+L
+java:S2696*"6Make the enclosing method "static" or remove this set.(ìáùÅ
+H
+java:S5261—"1Add explicit curly braces to avoid dangling else.(á¢–¬
+E
+java:S1172ª".Remove this unused method parameter "version".(¥”€õ
+‹
+java:S1130ª"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(¥”€õ
+M
+java:S1068"2Remove this unused "initialVersion" private field.(€ªÿ·üÿÿÿÿ
+V	java:S125o"<This block of commented-out lines of code should be removed.(ôèˆøÿÿÿÿ

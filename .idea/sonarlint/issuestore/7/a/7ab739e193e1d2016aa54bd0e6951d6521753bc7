@@ -1,0 +1,10 @@
+
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Ë—‹ê
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÊ†Ùùÿÿÿÿ
+F
+java:S2160"+Override the "equals" method in this class.(üúîœüÿÿÿÿ
+C
+java:S1948"(Make "aField" transient or serializable.(ÇØ¿˜üÿÿÿÿ
+D
+java:S1948")Make "aField2" transient or serializable.(Û€ŠÜüÿÿÿÿ

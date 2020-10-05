@@ -1,0 +1,27 @@
+
+a	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(“•·¿ıÿÿÿÿ
+[	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(°ıŞf
+a	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(Àƒ£öıÿÿÿÿ
+a	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(ó·ëçÿÿÿÿÿ
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ó·ëçÿÿÿÿÿ
+\	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(ùí
+g
+java:S1206»"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+€
+java:S3008("eRename this field "JDK_ANNOTATION_TYPE_METHOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÅ¨›ıÿÿÿÿ
+K
+java:S2065-"0Remove the "transient" modifier from this field.(À½üÿÿÿÿ
+K
+java:S2065."0Remove the "transient" modifier from this field.(œıÚçÿÿÿÿÿ
+ƒ
+java:S1130G"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
+
+java:S1130›"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Àƒ£öıÿÿÿÿ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ğÜşŠ
+i
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ùí
+@
+java:S1125û")Remove the literal "false" boolean value.(°õõÕ
+@
+java:S1125–")Remove the literal "false" boolean value.( ÓÑ

@@ -1,0 +1,20 @@
+
+b
+java:S3973`"GUse indentation to denote the code conditionally executed by this "if".(ŞÈó÷ûÿÿÿÿ
+d
+java:S3973b"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+i
+java:S2095]"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İñÍÌûÿÿÿÿ
+h
+java:S2095["MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¢ğÂıÿÿÿÿ
+T
+java:S49738"9Use the "equals" method if value comparison was intended.(ÂÈ­Óÿÿÿÿÿ
+o	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—¾«Ó
+o	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Üƒè
+S	java:S106""9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+P
+java:S1161/":Add the "@Override" annotation above this method signature(±¾Øù
+_
+java:S2147C"DCombine this catch with the one at line 64, which has the same body.(Ÿ¬á´ÿÿÿÿÿ
+
+java:S1130V"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(å½şº

@@ -1,0 +1,20 @@
+
+8
+java:S1110¤"!Remove these useless parentheses.(ŒÓò·
+=
+java:S1185U"(Remove this method to simply inherit it.(ò‚C
+W	java:S125™"<This block of commented-out lines of code should be removed.(àõœ¥üÿÿÿÿ
+>
+java:S1185L"(Remove this method to simply inherit it.(Çö»¼
+V	java:S125<"<This block of commented-out lines of code should be removed.(¢¤Ã©ıÿÿÿÿ
+C
+java:S1185_"(Remove this method to simply inherit it.(“Êûşÿÿÿÿ
+Q	java:S125¬"<This block of commented-out lines of code should be removed.(†ñ
+?
+java:S1185’"(Remove this method to simply inherit it.(äÏ¼É
+a
+java:S2147ì"ECombine this catch with the one at line 235, which has the same body.(ÿŞíüøÿÿÿÿ
+E
+java:S1659ô")Declare "methodIndex" on a separate line.(Üİ¸©ûÿÿÿÿ
+œ
+java:S1130¡"yRemove the declaration of thrown exception 'javassist.CannotCompileException', as it cannot be thrown from method's body.(¯Ò‰…ùÿÿÿÿ8Øñ¥ À.

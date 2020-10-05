@@ -1,0 +1,128 @@
+
+E
+java:S1066’"/Merge this if statement with the enclosing one.(‡ºÿZ
+Z
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(ÆşºÎùÿÿÿÿ
+Z
+java:S1155í">Use isEmpty() to check whether the collection is empty or not.(‡Èä‚şÿÿÿÿ
+l	java:S117ø
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ôóŸøÿÿÿÿ
+l	java:S117ù
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»°Óûÿÿÿÿ
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ôóŸøÿÿÿÿ
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»°Óûÿÿÿÿ
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( †›¿
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊË¡è
+l	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²›ªöıÿÿÿÿ
+u
+java:S1104J"ZMake inStaticMethod a static final constant or non-public and provide accessors if needed.(ÀÖ”Ãıÿÿÿÿ
+D
+java:S1121½	".Extract the assignment out of this expression.(³©öo
+E
+java:S1659L"*Declare "continueList" on a separate line.(ù—ı¡şÿÿÿÿ
+o	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñŒ¸«
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Ø“æ
+o	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óç£Ä
+n	java:S115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îÁû!
+{
+java:S1149È"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+{
+java:S1149ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+{
+java:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+`
+java:S1124Q"EReorder the modifiers to comply with the Java Language Specification.(”Ù£Ãüÿÿÿÿ
+8	java:S131Ö""Add a default case to this switch.(ÜŸ•
+M
+java:S5261Ç"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+
+java:S1130Ë"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(€¿Â
+e
+java:S4201Ñ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(•Û¼¼ùÿÿÿÿ
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ãÁÁ§üÿÿÿÿ
+p
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê›ªı
+u
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡á£¢üÿÿÿÿ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê›ªı
+u
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡á£¢üÿÿÿÿ
+i
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(²Ìáì
+\
+java:S3252¤"@Use static access with "javassist.compiler.TokenId" for "CLASS".(öÓÓ¢ùÿÿÿÿ
+p
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê›ªı
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").( ™êşşÿÿÿÿ
+B
+java:S1905“"&Remove this unnecessary cast to "int".(©ŞĞ úÿÿÿÿ
+@
+java:S1172Ù")Remove this unused method parameter "st".(½¥å¦
+
+java:S1130Ù"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(½¥å¦
+M
+java:S5261ş"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M
+java:S5261©"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+H
+java:S5261é"1Add explicit curly braces to avoid dangling else.(ı¸ùÖ
+X
+java:S1126ì"AReplace this if-then-else statement by a single return statement.(ÓÅº™
+M
+java:S5261Ø"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+B
+java:S1172ì"&Remove these unused method parameters.(Å©Ïüÿÿÿÿ
+i
+java:S3776¯	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾Œ»Â
+”
+java:S1130ë	"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(ĞÜ»†şÿÿÿÿ
+M
+java:S5261„
+"1Add explicit curly braces to avoid dangling else.(ÆÅ°£ıÿÿÿÿ
+T
+java:S1197Œ
+"8Move the array designator from the variable to the type.(™âÑæşÿÿÿÿ
+O
+java:S1197“
+"8Move the array designator from the variable to the type.(Åˆ ë
+n
+java:S3776Ÿ
+"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(à â¡úÿÿÿÿ
+H
+java:S5261ª
+"1Add explicit curly braces to avoid dangling else.(ˆÇˆş
+O
+java:S1197°
+"8Move the array designator from the variable to the type.(ÿãş¶
+M
+java:S5261½
+"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M
+java:S5261Â
+"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+d	java:S100ò
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†úĞ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ã¤Ñ•ıÿÿÿÿ
+@
+java:S1659”")Declare "result_type" on a separate line.( †›¿
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Œ®Óïøÿÿÿÿ
+”
+java:S1130ò"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(ø¥ÈÄıÿÿÿÿ
+=
+java:S1659÷"!Declare "op2" on a separate line.(Ô¢£ãşÿÿÿÿ
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(“ãÉõıÿÿÿÿ
+”
+java:S1130˜"xRemove the declaration of thrown exception 'javassist.compiler.CompileError', as it cannot be thrown from method's body.(ÿÿà³ÿÿÿÿÿ
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(º·¾äÿÿÿÿÿ
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(²›ªöıÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¿Äö§üÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¼Ö„áşÿÿÿÿ
+Q	java:S125§"<This block of commented-out lines of code should be removed.(ŸßŸ)

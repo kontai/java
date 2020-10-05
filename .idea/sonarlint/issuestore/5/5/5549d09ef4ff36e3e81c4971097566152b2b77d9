@@ -1,0 +1,22 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨¹
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š
+T
+java:S1854"9Remove this useless assignment to local variable "date2".(çëÁÕøÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "time".(é´û¥şÿÿÿÿ
+’
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¹À¿ãşÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹À¿ãşÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ê·‘©
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ê·‘©
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ê·‘©
+D
+java:S1481")Remove this unused "time" local variable.(é´û¥şÿÿÿÿ
+E
+java:S1481"*Remove this unused "date2" local variable.(çëÁÕøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(°¹ÊÀ
+Q	java:S125"<This block of commented-out lines of code should be removed.(²¨ç÷
+Q	java:S125%"<This block of commented-out lines of code should be removed.(´×¸

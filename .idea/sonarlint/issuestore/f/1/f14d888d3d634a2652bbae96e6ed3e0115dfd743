@@ -1,0 +1,11 @@
+
+[	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(ğÜ÷Æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ªœó
+T
+java:S1226">Introduce a new variable instead of reusing the parameter "k".(‰îÎú
+K
+java:S1854"5Remove this useless assignment to local variable "k".(‰îÎú
+‚
+java:S1130
+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ğÜ÷Æ
