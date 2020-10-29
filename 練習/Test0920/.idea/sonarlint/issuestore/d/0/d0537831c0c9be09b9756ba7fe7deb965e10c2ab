@@ -1,8 +1,8 @@
 
-V	java:S125"<This block of commented-out lines of code should be removed.(×´óã8ÕÏÈØÊ.
-m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îµÍ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(õê 8•ô°ØÊ.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‹³Çæ8¥ûãØÊ.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¾ƒ·ç8•ô°ØÊ.
-V	java:S125"<This block of commented-out lines of code should be removed.(ã¿´œ8’Ë†ÙÊ.
-e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰ğç±üÿÿÿÿ8ÍºÿØÊ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ã¿´œ8’Ë†ÙÊ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õê 8•ô°ØÊ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îµÍ
+X	java:S125"<This block of commented-out lines of code should be removed.(×´óã8ÕÏÈØÊ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾ƒ·ç8•ô°ØÊ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹³Çæ8¥ûãØÊ.
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(‰ğç±üÿÿÿÿ8ÍºÿØÊ.

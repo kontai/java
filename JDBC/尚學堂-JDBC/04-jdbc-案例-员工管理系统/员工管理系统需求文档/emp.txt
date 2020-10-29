@@ -1,0 +1,28 @@
+需求分析:
+	員工管理系統
+功能分析:
+	查詢所有的員工信息
+	根據編號查詢員工信息
+	修改員工信息(修改員工姓名)
+	新增員工信息
+	刪除員工信息
+數據庫設計:
+	員工信息表(emp)
+Sql語句設計:
+	查詢所有的員工信息:
+		select *from emp
+	根據編號查詢員工信息:
+		select * from emp where empno=?
+	修改員工信息(修改員工姓名):
+		update emp set ename=? where empno =?
+	新增員工信息:
+		insert into emp values(?,?,?,?,?,?,?,?)
+	刪除員工信息:
+		delete from emp where empno=?
+功能開發:
+	創建數據庫操作功能類(不用的數據使用相同的數據庫操作)
+	創建程序入口類
+
+
+
+
