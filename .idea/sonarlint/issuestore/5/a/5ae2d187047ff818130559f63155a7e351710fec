@@ -1,0 +1,15 @@
+
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¹şÒÜüÿÿÿÿ8ı‹‡¶Ñ.
+X
+java:S1854	"6Remove this useless assignment to local variable "ip".(÷ÅíŒùÿÿÿÿ8ò£¤¶Ñ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ü“½¦8»Ë´¶Ñ.
+J	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8»Ë´¶Ñ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ç‡š¤8øõ¶Ñ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÑïŸÉ8ı‹‡¶Ñ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÀêÕÒ8ı‹‡¶Ñ.
+I
+java:S1481	"'Remove this unused "ip" local variable.(÷ÅíŒùÿÿÿÿ8ò£¤¶Ñ.
+X	java:S125
+"<This block of commented-out lines of code should be removed.(¸ŒŸ†8”ÌÿµÑ.
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(‰ÒP8ı‹‡¶Ñ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰•ÂÒşÿÿÿÿ

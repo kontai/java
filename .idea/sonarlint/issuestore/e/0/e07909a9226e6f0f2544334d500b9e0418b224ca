@@ -1,0 +1,9 @@
+
+–
+java:S1130 "yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(¶¹åÇ8„çé¼Ö.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(²‘¡“úÿÿÿÿ8„çé¼Ö.
+]	java:S125""<This block of commented-out lines of code should be removed.(ŠÊ¤“ýÿÿÿÿ8„çé¼Ö.
+i
+java:S2095&"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8„çé¼Ö.
+e
+java:S2095$"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕÞ8„çé¼Ö.

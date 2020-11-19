@@ -1,0 +1,19 @@
+
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‰’µ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íï»£
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šğ×úÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "regex".(µÀ“æıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Õ„Â´ÿÿÿÿÿ
+h	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÎşÕùÿÿÿÿ
+M	java:S106."9Replace this use of System.out or System.err by a logger.(ƒÚáB
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÏõßıÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(°š÷Ï
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(°š÷Ï
+t
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¶˜šùÿÿÿÿ
+t
+java:S3012R"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(˜–¬Âûÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(ÂÃŸ„
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(â¯¼Æ

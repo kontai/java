@@ -1,0 +1,28 @@
+
+j
+java:S2259j"T"NullPointerException" will be thrown when invoking method "getPreparedStatement()".(´Ü¸ã
+[
+java:S2259q"@A "NullPointerException" could be thrown; "ps" is nullable here.(±“ƒòÿÿÿÿÿ
+V
+java:S2259o"@A "NullPointerException" could be thrown; "ps" is nullable here.(ÉÖ´
+c
+java:S2259}"H"NullPointerException" will be thrown when invoking method "closeAll()".(×ŸóÁûÿÿÿÿ
+
+java:S1598"zThis file "JdbcUtil.java" should be located in "com\bjsxt\util" directory, not in "D:\workspace\JAVA\JDBC\å°šå­¸å ‚-JDBC".(å‹üŸ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Å®¼Ó
+Z
+java:S2147$"DCombine this catch with the one at line 34, which has the same body.(ıàÑÎ
+M
+java:S1135%"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S11350"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S1135>"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S1135K"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+>	java:S108V")Either remove or fill this block of code.(”ı¾
+>	java:S108[")Either remove or fill this block of code.(É®£
+>	java:S108`")Either remove or fill this block of code.(É®£
+M
+java:S1135x"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

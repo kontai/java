@@ -1,0 +1,36 @@
+
+^
+java:S2095I"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÔ„Ä
+b
+java:S2095:"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ
+b
+java:S2095)"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ
+C
+java:S4925%"-Remove this "Class.forName()", it is useless.(ùíÄé
+b
+java:S2095^"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ
+C
+java:S4925G"-Remove this "Class.forName()", it is useless.(ùíÄé
+C
+java:S49256"-Remove this "Class.forName()", it is useless.(ùíÄé
+C
+java:S4925Z"-Remove this "Class.forName()", it is useless.(ùíÄé
+\
+java:S1192'"FDefine a constant instead of duplicating this literal "scott" 4 times.(…†ÕŞ
+^
+java:S2095'"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+|
+java:S1192'"fDefine a constant instead of duplicating this literal "jdbc:oracle:thin:@localhost:1521:orcl" 4 times.(…†ÕŞ
+b
+java:S2095K"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ
+‹
+java:S1319V"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ñ ¬Óşÿÿÿÿ
+^
+java:S20958"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+^
+java:S2095\"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+v
+java:S1192%"`Define a constant instead of duplicating this literal "oracle.jdbc.driver.OracleDriver" 4 times.(ùíÄé
+]
+java:S1192'"GDefine a constant instead of duplicating this literal "oracle" 4 times.(…†ÕŞ

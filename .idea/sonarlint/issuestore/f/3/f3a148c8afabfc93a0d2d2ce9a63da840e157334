@@ -1,0 +1,12 @@
+
+l
+java:S1104"QMake pname a static final constant or non-public and provide accessors if needed.(ï·÷şÿÿÿÿ
+O
+java:S3400"9Remove this method and declare a constant for this value.(î‡…ù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ì€œüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æâ“°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÛÛÌ
+C
+java:S1068"(Remove this unused "psex" private field.(¸Œæ©ÿÿÿÿÿ
+G
+java:S1144",Remove this unused private "pHello1" method.(±¢Ï²ıÿÿÿÿ

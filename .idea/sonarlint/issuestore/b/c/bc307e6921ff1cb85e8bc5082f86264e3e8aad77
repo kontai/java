@@ -1,0 +1,18 @@
+
+@
+java:S1444"+Make this "public static money" field final(³¯ó?
+l
+java:S1104"QMake sname a static final constant or non-public and provide accessors if needed.(æÀšùÿÿÿÿ
+f
+java:S1104"QMake money a static final constant or non-public and provide accessors if needed.(³¯ó?
+M
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+O
+java:S3400"9Remove this method and declare a constant for this value.(Úåö
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(†ã¤Ñıÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Õ‹ºˆşÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ãÍµıÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(’ ‹×
+G
+java:S11441",Remove this unused private "sHello1" method.(ºÏµóüÿÿÿÿ

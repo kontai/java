@@ -1,0 +1,10 @@
+
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¶î’ƒ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+C
+java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«¾Ë²ýÿÿÿÿ

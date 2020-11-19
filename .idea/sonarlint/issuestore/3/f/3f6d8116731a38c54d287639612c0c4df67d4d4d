@@ -1,0 +1,37 @@
+
+^
+java:S2095!"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+e
+java:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½
+e
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½
+^
+java:S2095V"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+^
+java:S2095@"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+e
+java:S2095D"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½
+e
+java:S2095p"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½
+^
+java:S2095l"HUse try-with-resources or close this "Connection" in a "finally" clause.(…†ÕŞ
+]
+java:S1192!"GDefine a constant instead of duplicating this literal "oracle" 4 times.(…†ÕŞ
+|
+java:S1192!"fDefine a constant instead of duplicating this literal "jdbc:oracle:thin:@localhost:1521:orcl" 4 times.(…†ÕŞ
+\
+java:S1192!"FDefine a constant instead of duplicating this literal "scott" 4 times.(…†ÕŞ
+v
+java:S1192"`Define a constant instead of duplicating this literal "oracle.jdbc.driver.OracleDriver" 4 times.(ùíÄé
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠÇŠÜúÿÿÿÿ
+C
+java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé
+Q
+java:S17512"6Remove this "return" statement or make it conditional.(©‡ë‹üÿÿÿÿ
+C
+java:S4925>"-Remove this "Class.forName()", it is useless.(ùíÄé
+C
+java:S4925T"-Remove this "Class.forName()", it is useless.(ùíÄé
+C
+java:S4925j"-Remove this "Class.forName()", it is useless.(ùíÄé
+R	java:S125€"<This block of commented-out lines of code should be removed.(Ïà÷Ø

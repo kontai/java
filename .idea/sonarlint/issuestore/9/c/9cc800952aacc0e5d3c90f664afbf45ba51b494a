@@ -1,0 +1,17 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(×ëœë
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—àØùÿÿÿÿ
+|
+java:S1130	"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(£ «ê
+ƒ
+java:S1130	"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(£ «ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(öÄ¬Ğùÿÿÿÿ
+ˆ
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(öÄ¬Ğùÿÿÿÿ
+N
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(˜ÁÃÊùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÑšÎ•
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Üá‡İûÿÿÿÿ

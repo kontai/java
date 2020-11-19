@@ -1,0 +1,6 @@
+
+]
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(‹·ÔÆüÿÿÿÿ
+‘
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ö»ä€ıÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÏïşÿÿÿÿ
