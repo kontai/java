@@ -1,27 +1,0 @@
-
-n
-java:S2095 "QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(Ó§Ó…8ºšÆÊº.
-Z	java:S106I"9Replace this use of System.out or System.err by a logger.(™©ôÃøÿÿÿÿ8ãÇ¿.
-~
-java:S1488O"\Immediately return this expression instead of assigning it to the temporary variable "inet".(ú•çüÿÿÿÿ8ãÇ¿.
-G
-java:S3457"%String contains no format specifiers.(ø‡Ìùÿÿÿÿ8ãÇ¿.
-W
-java:S1128"5Remove this unused import 'org.w3c.dom.ranges.Range'.(‡î±´ùÿÿÿÿ8øÈÉº.
-Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Ãî“¬ÿÿÿÿÿ8ãÇ¿.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø‡Ìùÿÿÿÿ8ãÇ¿.
-Z	java:S106H"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8ãÇ¿.
-P
-java:S1144@".Remove this unused private "getString" method.(ê¶šÅÿÿÿÿÿ8ãÇ¿.
-i
-java:S2095#"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(êõ8ãÇ¿.
-]	java:S125""<This block of commented-out lines of code should be removed.(¶û“ûÿÿÿÿ8ãÇ¿.
-U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÚÛå8“¡îÍº.
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·¥Ï§8ãÇ¿.
-X	java:S125P"<This block of commented-out lines of code should be removed.(Î­ğœ8ãÇ¿.
-G
-java:S34579"%String contains no format specifiers.(Ãî“¬ÿÿÿÿÿ8ãÇ¿.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°–İŞùÿÿÿÿ
-]	java:S125"<This block of commented-out lines of code should be removed.(êíßéúÿÿÿÿ8»·‚¿.
-—
-java:S1130"uRemove the declaration of thrown exception 'transPic.MAXLenthException' which is a subclass of 'java.io.IOException'.(¿è„¹ÿÿÿÿÿ8¹ñ¥ À.

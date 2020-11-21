@@ -1,6 +1,9 @@
 
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íù…U8¦ÔÛÍÜ.
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“‚…şÿÿÿÿ8¦ÔÛÍÜ.
-h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íù…U8¦ÔÛÍÜ.
-]	java:S125"<This block of commented-out lines of code should be removed.(Ğì·ıÿÿÿÿ8¦ÔÛÍÜ.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(­¨ãùüÿÿÿÿ8¦ÔÛÍÜ.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(®Ä­†8¦ÔÛÍÜ.
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8œ•ªåÜ.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8œ•ªåÜ.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(¯˜Æ¬ıÿÿÿÿ8œ•ªåÜ.

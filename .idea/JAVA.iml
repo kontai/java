@@ -107,6 +107,49 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/Test1013-web/flexmark-ext-ext-module/demo/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="jpa" name="JPA">
@@ -127,6 +170,49 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/WebRoot" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="web" name="Web5">
@@ -137,6 +223,49 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/Test1015/Demo/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="web" name="Web6">
@@ -147,6 +276,49 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/Test1014/demo/target/demo-1.0-SNAPSHOT" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="web" name="Web7">
@@ -157,6 +329,49 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/Test1014/demo/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="web" name="Web8">
@@ -167,6 +382,49 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/Test1015/Demo/out/artifacts/Demo_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="web" name="Web9">
@@ -177,6 +435,49 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/webdemo/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="web" name="Web10">
@@ -187,6 +488,102 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/webdemo/out/artifacts/webdemo_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/練習/OLD/test0809/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/練習/OLD/test0809" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/數組" />
+          <root url="file://$MODULE_DIR$/練習/OLD/test0225" />
+          <root url="file://$MODULE_DIR$/static靜態" />
+          <root url="file://$MODULE_DIR$/網路編程/day01" />
+          <root url="file://$MODULE_DIR$/網路編程/ie_server" />
+          <root url="file://$MODULE_DIR$/網路編程/II_UDP" />
+          <root url="file://$MODULE_DIR$/枚舉" />
+          <root url="file://$MODULE_DIR$/IO流/VII_字節與字符轉換" />
+          <root url="file://$MODULE_DIR$/IO流/X_IO_FILE類與常見功能/II_獲取/過濾器" />
+          <root url="file://$MODULE_DIR$/練習/test0801/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0802/tcpDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0802" />
+          <root url="file://$MODULE_DIR$/練習/test0803/XMLsaxDemo1" />
+          <root url="file://$MODULE_DIR$/練習/test0805/demo01" />
+          <root url="file://$MODULE_DIR$/練習/test0804/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/02_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic/servlet" />
+          <root url="file://$MODULE_DIR$/練習/test0808/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo01" />
+          <root url="file://$MODULE_DIR$/手寫webserver/03_server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/04+server" />
+          <root url="file://$MODULE_DIR$/手寫webserver/01_Basic" />
+          <root url="file://$MODULE_DIR$/練習/test0809/Demo02" />
+          <root url="file://$MODULE_DIR$/練習/test0810/Demo01" />
+          <root url="file://$MODULE_DIR$/練習/OLD" />
+          <root url="file://$MODULE_DIR$/練習/test0814/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/反射/com" />
+          <root url="file://$MODULE_DIR$/JDBC/Intro01" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src/com/bjsxt/test/annotation" />
+          <root url="file://$MODULE_DIR$/練習/test0815/Demo1" />
+          <root url="file://$MODULE_DIR$/練習/test0815" />
+          <root url="file://$MODULE_DIR$/練習/test0816/Demo1" />
+          <root url="file://$MODULE_DIR$/反射機制/動態編譯/TestDynamicCompile/src" />
+          <root url="file://$MODULE_DIR$/反射機制/腳本引擎/TestRhino/src" />
+          <root url="file://$MODULE_DIR$/反射機制/字節碼操作/TestJavassist/src" />
+          <root url="file://$MODULE_DIR$/反射機制/類加載機制/测试类加载全过程/src" />
+          <root url="file://$MODULE_DIR$/JDBC/testORM源码/src" />
+          <root url="file://$MODULE_DIR$/JDBC/测试JDBC源代码/src" />
+          <root url="file://$MODULE_DIR$/練習/test0819/Demo1" />
+          <root url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" />
+          <root url="file://$MODULE_DIR$/練習/Test1011" />
+        </sourceRoots>
       </configuration>
     </facet>
   </component>
@@ -234,6 +631,8 @@
       <sourceFolder url="file://$MODULE_DIR$/練習/test0819/Demo1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/註解Annotation/1TestAnnotation/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/練習/Test1011" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/練習/反射" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/練習/log4j" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/mysql-connector-java-5.1.49" />
       <excludeFolder url="file://$MODULE_DIR$/反射機制/资料" />
     </content>
@@ -242,5 +641,6 @@
     <orderEntry type="library" exported="" name="mysql-connector-java-5.1.49-bin" level="project" />
     <orderEntry type="library" exported="" name="commons-io-2" level="project" />
     <orderEntry type="library" name="javassist" level="project" />
+    <orderEntry type="library" name="log4j-1.2.17" level="project" />
   </component>
 </module>

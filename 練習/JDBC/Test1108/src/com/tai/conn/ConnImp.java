@@ -1,12 +1,15 @@
 package com.tai.conn;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import com.tai.user.User;
+
+import java.sql.*;
+import java.util.ArrayList;
 
 public class ConnImp {
-    public int getConn(){
+    private final String url="jdbc:oracle:thin:@localhost:1521:xe";
+    private final String username="tai";
+    private final String password="tai";
+    public int getUpdate(){
         //載入驅動
         try
         {
@@ -17,9 +20,6 @@ public class ConnImp {
         }
         //建立連接對象
         //"jdbc:oracle:thin:@localhost:1521:xe","system","oracle");
-        String url="jdbc:oracle:thin:@localhost:1521:xe";
-        String username="tai";
-        String password="tai";
         Connection conn=null;
         //建立sql命令對象
         Statement stmt=null;
@@ -69,5 +69,63 @@ public class ConnImp {
             }
         }
         return i;
+    }
+
+    public ArrayList<User> getQuery()
+    {
+        ArrayList<User> arr=new ArrayList<>();
+        //載入驅動
+        try
+        {
+            Class.forName("oracle.jdbc.driver.OracleDriver");
+        } catch (ClassNotFoundException e)
+        {
+            e.printStackTrace();
+        }
+        //建立連接對象
+        Connection conn=null;
+        //建立SQL命令對象
+        Statement stmt=null;
+
+        try
+        {
+            conn=DriverManager.getConnection(url,username,password);
+            stmt=conn.createStatement();
+
+            //執行SQL命令
+            ResultSet res = stmt.executeQuery("select * from test");
+            while(res.next())
+            {
+
+                User user=new User();
+                user.setEid(res.getInt("eid"));
+                user.setEname(res.getString("ename"));
+                user.setEage(res.getInt("eage"));
+
+                arr.add(user);
+            }
+        } catch (SQLException throwables)
+        {
+            throwables.printStackTrace();
+        }finally
+        {
+            try
+            {
+                stmt.close();
+            } catch (SQLException throwables)
+            {
+                throwables.printStackTrace();
+            }
+            try
+            {
+                conn.close();
+            } catch (SQLException throwables)
+            {
+                throwables.printStackTrace();
+            }
+            //關閉連接
+        }
+        //返回查詢結果
+        return arr;
     }
 }

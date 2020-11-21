@@ -99,12 +99,6 @@ o
 LIO流/XIV_ObjectIOStream對象的序列化與反序列/ObjectStreamDemo.java,9\6\9691927b2d4d306313234e5e51fb03037d75cbe5
 r
 BIO流/XIV_ObjectIOStream對象的序列化與反序列/Person.java,7\4\741d3e17bfd52697f4ab43b646e0173fa63d07f7
-[
-+練習/test0801/Demo01/InetDemo/send01.java,c\6\c61ecdc52febdd08e710e16db2ae1cdea685eda0
-]
--練習/test0801/Demo01/InetDemo/recive01.java,7\5\75221f41dd77634b0208915eb05276fe03d2b2e3
-[
-+練習/test0801/Demo01/transPic/IOUtil.java,c\b\cb4511fb21b80017fa579e97dca0f503967e7e01
 t
 DIO流/XIII_序列流sequenceInputStream/SequenceInputStreamDemo.java,2\5\257d27ebae5efb9216f2f756c6417715c079a598
 ]
@@ -115,52 +109,26 @@ Y
 )IO流/XX_commons_API使用/CIOTest01.java,a\7\a7cee6b07151fc4de28abcfd61398d9ccb4cc8f4
 Y
 )IO流/XX_commons_API使用/CIOTest02.java,0\d\0daaac1e1a47e34c5f9c108430a9628d5f7891bf
-]
--練習/test0801/Demo01/transPic/recive02.java,e\3\e3771e605c8391e59ae66c1a048605bc6c83de88
-f
-6練習/test0801/Demo01/transPic/MAXLenthException.java,7\2\72fc991e4cd1e6e01b40a6cf3df7ad98751dfe69
-[
-+練習/test0801/Demo01/transPic/send02.java,8\1\81162362609698ba26f87956b3b8930cc3620434
 e
 5內部類/匿名內部類/匿名內部類_應用.java,6\a\6a618b40f53c8fa0dab8df21de52757e7d62f53b
 g
 7內部類/匿名內部類/匿名函式作為引數.java,4\e\4efca52e2876f5058b4770c6d0a52c863f8c1e8b
 X
 (內部類/匿名內部類/Anonymous.java,3\4\34ca5f5fb04f5e920444df81c8e790e2e5312292
-\
-,練習/test0802/tcpDemo1/chatDemoServer.java,5\c\5c7bfd758a3f7f5be1a258d6a4c06944f8cd88e3
-]
--練習/test0802/tcpDemo1/chatDemoClient1.java,f\4\f411741ab6d1386552ba4ddb00ef4a5f66055a78
 X
 (手寫webserver/01_Basic/servlet/web.xml,5\f\5fd63e3bcf5c8f5ed1661e7242e558660a621545
-V
-&練習/test0803/XMLsaxDemo1/demo1.java,f\7\f7d341ffb9f9a44d515cb484b26b8eb02916bf30
 T
 $手寫webserver/02_server/login.html,b\b\bb8f1bef2024edb01c785440ce00ef73ddbc7584
 W
 '手寫webserver/02_server/Request1.java,8\5\85bf0e077cb98d74a1dfa50f82cdef836970e301
 W
 '手寫webserver/02_server/Server01.java,f\0\f08d3f8feb059e09a2248292c505320add3847f3
-P
- 練習/test0804/Demo01/test.html,8\3\83ce6305b94fe09e215b4aa94a830686f6f7e3ec
-N
-練習/test0804/Demo01/post.md,f\3\f365db45bb4b58931446b7d6b809a2b73e035a95
-M
-練習/test0804/Demo01/get.md,4\7\47f5bdf2b83b78b1ef170c186b7a68c7f581f292
-W
-'練習/test0804/Demo01/serverDemo1.java,e\a\eac6e2213f2e448118758e98b4c0e587b0ded12c
 T
 $網路編程/day01/SpiderTest01.java,b\1\b1b25a4cdb013cbc6dcf47cd835836a263040f5f
-N
-練習/test0804/pa01/gogo.java,1\2\1253a3c723b326152df492a7af9f1572d566aa1c
 y
 IIO流/X_IO_FILE類與常見功能/II_獲取/過濾器/FilterByHidden.java,d\f\df9e5d7f4284ea2e07a8d91e19970d2aef492608
 w
 GIO流/X_IO_FILE類與常見功能/II_獲取/過濾器/FilterByJava.java,e\5\e5d6389f986b7417dd3df174b4d19350d39ddaf8
-P
- 練習/test0805/demo01/test.html,e\c\eca12e4248346ca2d918d5a60517c92c5e11812b
-W
-'練習/test0805/demo01/serverDemo1.java,4\7\4730c9ea8b4689c23e8d8bcdde0bf5aa7355f5db
 W
 '手寫webserver/02_server/Server02.java,6\b\6bf688d591f196971e9d51d340fc2c5f75e57c66
 W
@@ -185,8 +153,6 @@ W
 '手寫webserver/02_server/Server04.java,d\2\d2aecb50a6209515274016b426fa92a36731f0cd
 W
 '手寫webserver/02_server/Server05.java,a\1\a11ab0468eb8e4c6227dc499eca939050829894d
-S
-#練習/test0808/Demo1/StrDemo1.java,1\3\13f51f2437768e1549b07a9bd282281b711edd71
 c
 3.idea/artifacts/JAVA_javaEEApplication_exploded.xml,2\7\27207a5bd82d98e121fa265a9818c58c929779dc
 L
@@ -1295,10 +1261,6 @@ W
 '手寫webserver/02_server/Request2.java,6\6\662fc6d770f2ccabef6a303a0bcee69c943bf2fe
 P
  網路編程/day01/PortTest.java,5\b\5bd1cfb67c830a81c33195d202629ff6bda94953
-O
-練習/test0809/WEB-INF/web.xml,d\d\ddbcd29214ff56d3a6d50c95447fda585121e962
-R
-"練習/test0809/Demo01/SaxP01.java,8\8\88cc72e4c096572d66498350bfc8100474fec2a5
 k
 ;手寫webserver/03_server/com/shsxt/sr/RegisterServlet.java,4\0\40d2161c86d5a4582d2a5b3a7f409ccd7fd2bc13
 c
@@ -1317,8 +1279,6 @@ i
 9手寫webserver/03_server/com/shsxt/sr/OthersServlet.java,8\0\8072885b2c593238c166af4a5c75e80ffdc2bab2
 f
 6手寫webserver/03_server/com/shsxt/sr/Dispatcher.java,6\1\610dee799049792d0b8eb983608c42d1f200c0e8
-R
-"練習/test0809/Demo02/Person.java,8\d\8d349a38b770bc45ad2f8702a0c7fec12c832039
 l
 <手寫webserver/01_Basic/com/sxt/server/basic/XmlTest01.java,5\7\57637947ef174dfd5e1c49befb2e79553e5d884b
 l
@@ -1327,14 +1287,6 @@ n
 >手寫webserver/01_Basic/com/sxt/server/basic/ReflectTest.java,8\4\843a688b9d0c733621d3283d2499a5965ed44251
 i
 9手寫webserver/01_Basic/com/sxt/server/basic/Person.java,6\0\608c80381f5f237308e5e2c9e84db934b405e6ae
-L
-練習/test0809/Demo02/p.xml,f\9\f9fd604234e6809be437e3c0c47edd6da6abc0aa
-U
-%練習/test0809/Demo02/XmlDemo02.java,b\3\b3ec041a763dc2c7ff7141b59c6d99107b570b8d
-P
- 練習/test0810/Demo01/test.html,1\0\107446e9ea633ef42f0aaac6dcc99984ee0e2c5f
-R
-"練習/test0810/Demo01/Server.java,a\3\a3755c5b1d768d07fb3955d6b8b2e0cc4a848861
 b
 2手寫webserver/03_server/com/shsxt/sr/WebApp.java,d\7\d7fd135bbe7d22f7630534abca537b5371c0ab78
 f
@@ -1455,14 +1407,6 @@ S
 #註解Annotation/自定義註解.md,4\7\4748b71c2dccdc49e75b4c7d944989df8d48ab9f
 M
 註解Annotation/元註解.md,3\8\380395b4e5d712af405ded8f350f246c4a59e924
-U
-%練習/test0814/Demo1/anno1Table.java,6\9\69126ad13c0bb31e856347f11b362a0fba8c5ecc
-U
-%練習/test0814/Demo1/anno1Field.java,1\7\1710086307bcf2e60afe461655668cfc7aa3a1f9
-P
- 練習/test0814/Demo1/Demo1.java,4\9\4929b5625a925d1fa928112d8de2ed608993e4cf
-Q
-!練習/test0814/Demo1/Call01.java,1\9\193b2f90e86f98ceca9614e342c7aef07bcb0fea
 ^
 .反射機制/反射/com/bjsxt/test/Demo01.java,1\2\128b532f771d98c350c2d96105088c6266754ecc
 ^
@@ -1483,18 +1427,12 @@ k
 ;反射機制/反射/com/bjsxt/test/annotation/SxtTable.java,6\7\6705dfc8675d713a33eeab0272bac5b5a9102f3c
 m
 =反射機制/反射/com/bjsxt/test/annotation/SxtStudent.java,4\5\458d7c8b36951ce71c06840112d4a3c5b86e67a8
-Q
-!練習/test0815/Demo1/MyTest.java,7\7\77540b9d5f8b92f54ea56d1425b5c0db04567dae
-P
- 練習/test0815/Demo1/Ref01.java,f\1\f180ffcce8c943ae1101a2a93fc247badc8a40aa
 R
 "JDBC/Intro01/Intro01/JDBCUtil.java,b\9\b9ade4dcf5c15518191cecb0fdc280bd607422fa
 R
 "JDBC/Intro01/Intro01/JDBCDemo.java,9\b\9bb5558a333474a68e1804d65b87d1b9377a53cd
 H
 META-INF/application.xml,b\e\befd840e7328c3f7262eeb114b0f6bb7aea55c02
-S
-#練習/test0815/Demo1/MyMethod.java,f\5\f5713fbd66799b81fabd39a6cf99badac6869be2
 e
 5反射機制/動態編譯/TestDynamicCompile/bin/a.js,9\f\9f795ccbcea492b58b18655079cca6e4ad69ece6
 e
@@ -2883,3 +2821,263 @@ N
 NJDBC/尚學堂-JDBC/01-Jdbc学习-新增/src/com/bjsxt/insert/TestInsert1.java,e\0\e07909a9226e6f0f2544334d500b9e0418b224ca
 ~
 NJDBC/尚學堂-JDBC/01-Jdbc学习-新增/src/com/bjsxt/insert/TestInsert2.java,a\8\a8c6fd01c8b9f0ec0581c97b16acae1ca8e8d248
+}
+MJDBC/尚學堂-JDBC/01-Jdbc学习-新增/.settings/org.eclipse.jdt.core.prefs,3\9\397167987b4bc2658292e12ee56a80447b7001eb
+c
+3JDBC/尚學堂-JDBC/01-Jdbc学习-新增/.classpath,a\1\a17249db1cfdc0ea4a6a874ab9ffc4477e94cb74
+a
+1JDBC/尚學堂-JDBC/01-Jdbc学习-新增/.project,a\0\a0a3c1d78635c8f0ab9636d1fc7abec088186b49
+�
+ZJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/.settings/org.eclipse.jdt.core.prefs,5\6\56650e213fedf6c3355488dce5569d4c1459e438
+w
+GJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/bin/db.properties,9\0\907e9c3f133c7eaea0137d006f03ed4170bdf63f
+�
+SJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/dao/EmpDao.java,2\6\267f4afe7232610a5e217e03bf4020b2041b5cc4
+�
+[JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/daoImpl/EmpDaoImpl.java,3\2\32e2d7e21756e94ba0e31884879d9d87a5890794
+�
+QJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/pojo/Emp.java,1\9\1971b271903212d7947b4b45f2ca9ea92fdacb57
+�
+[JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/service/EmpService.java,a\c\aca3c5e1a3bb1c43f087160df5bfe5c20531e531
+�
+RJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/test/Test.java,d\0\d061ffc4ff719978feb0f01b817adfef837d9a4b
+�
+VJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/util/JdbcUtil.java,2\8\288f4076768289d74ffc56f5699c762a98799b1b
+w
+GJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/db.properties,1\f\1f0fef4990b01f8238f2c16e3967cddb831a816d
+�
+\JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/emp.txt,7\3\732211586e8a568bc7fe03f86c6fa6dc832bf0b0
+�
+_JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/readme.txt,7\b\7b032297e5b3cab86ee314dc12ab20b79a36066b
+p
+@JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/.classpath,4\b\4b8cd61aaa4260d7687cac53f41044bbf88ffbdf
+n
+>JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/.project,7\a\7a3b54715ff7461d26ba9b18981aa9c354d6d77a
+t
+DJDBC/尚學堂-JDBC/jdbc-案例/.settings/org.eclipse.jdt.core.prefs,2\6\26d3ae40cc1bad35427968420c39e1217bfb10d2
+a
+1JDBC/尚學堂-JDBC/jdbc-案例/bin/db.properties,0\2\02b4053382c5624e501ef8b604303bc230345562
+u
+EJDBC/尚學堂-JDBC/jdbc-案例/src/com/bjsxt/daoImpl/EmpDaoImpl.java,0\4\048167ed7fa64d6206b36af4e72a4322445e7c0f
+k
+;JDBC/尚學堂-JDBC/jdbc-案例/src/com/bjsxt/pojo/Emp.java,2\f\2f9d846f0fc5ddf4c02e5950078050337cf190ac
+p
+@JDBC/尚學堂-JDBC/jdbc-案例/src/com/bjsxt/util/JdbcUtil.java,1\a\1a9dacc6736bec2f55b2d5dfd55c471fbbf978a9
+a
+1JDBC/尚學堂-JDBC/jdbc-案例/src/db.properties,d\2\d23c4c14f2b9ec7131f6026f72de14856cbcc229
+v
+FJDBC/尚學堂-JDBC/jdbc-案例/员工管理系统需求文档/emp.txt,a\7\a7b3ad4e81e3af36838a6e8eb656cbd36d189452
+y
+IJDBC/尚學堂-JDBC/jdbc-案例/员工管理系统需求文档/readme.txt,9\0\9037e11cb0b95f152e96f56ab8b2c2bd84e61cd9
+Z
+*JDBC/尚學堂-JDBC/jdbc-案例/.classpath,9\f\9fb2f8873b8596ebadf7057906b0b0ca0ba561ae
+X
+(JDBC/尚學堂-JDBC/jdbc-案例/.project,9\c\9c21f208ef025d26116aa9897799b8f8d65eac19
+s
+CJDBC/尚學堂-JDBC/Jdbc学习/.settings/org.eclipse.jdt.core.prefs,d\f\df8dda58e34a39c5399419ebd62e92ecb792ee4e
+p
+@JDBC/尚學堂-JDBC/Jdbc学习/src/com/bjsxt/delete/TestDel.java,f\6\f693f12700c32f2d9780dbf2615d9428f9b269fa
+t
+DJDBC/尚學堂-JDBC/Jdbc学习/src/com/bjsxt/insert/TestInsert1.java,0\5\0593acdd23581da0e5a172b827af061cfe98006c
+t
+DJDBC/尚學堂-JDBC/Jdbc学习/src/com/bjsxt/insert/TestInsert2.java,a\d\ad8be8d9ec33196bb655772f272ce6491951d64d
+v
+FJDBC/尚學堂-JDBC/Jdbc学习/src/com/bjsxt/translation/TestTran.java,b\d\bd666f07a86722094b0ec84cac0e8f4e3e02d6f3
+s
+CJDBC/尚學堂-JDBC/Jdbc学习/src/com/bjsxt/update/TestUpdate.java,c\2\c24bd040a4db9d2890da4bb13fddc0d6ceceb860
+Y
+)JDBC/尚學堂-JDBC/Jdbc学习/.classpath,b\e\bed0f87332bf81f19d1ebc4725a6b91394bb01a1
+W
+'JDBC/尚學堂-JDBC/Jdbc学习/.project,2\4\24474c146f4c97d924c2840f4ee4277e8e4d7698
+t
+DJDBC/尚學堂-JDBC/jdbc学习2/.settings/org.eclipse.jdt.core.prefs,1\a\1a879e09e1889d0b4a86385f2339fe19dda66a02
+y
+IJDBC/尚學堂-JDBC/jdbc学习2/src/com/bjsxt/daoImpl/StudentDaoImpl.java,b\9\b98ffc28ecd2ae7fd389d3546792cef374008b37
+z
+JJDBC/尚學堂-JDBC/jdbc学习2/src/com/bjsxt/daoImpl/StudentDaoImpl2.java,d\e\de6af21c91cd23ed8955c1051d6760278f560920
+o
+?JDBC/尚學堂-JDBC/jdbc学习2/src/com/bjsxt/pojo/Student.java,d\6\d6e266c63b4ac3832c8338192afe81d814d84a5e
+r
+BJDBC/尚學堂-JDBC/jdbc学习2/src/com/bjsxt/test/TestSelect.java,c\d\cd8ae36080b53dbfd00ba1ba64c1ec0a575893b7
+Z
+*JDBC/尚學堂-JDBC/jdbc学习2/.classpath,b\c\bc508945d7bf5ed8654cca59694b5f07bb088341
+X
+(JDBC/尚學堂-JDBC/jdbc学习2/.project,8\4\840f5d68b0089b5029059af259fc3046cac8cc31
+t
+DJDBC/尚學堂-JDBC/jdbc学习3/.settings/org.eclipse.jdt.core.prefs,9\3\9321be4ebb9180c608dd9bdefd191ed415869bd1
+a
+1JDBC/尚學堂-JDBC/jdbc学习3/bin/db.properties,4\4\4446b72eec922c40ab64a2437d2e0e6addc7a4f5
+l
+<JDBC/尚學堂-JDBC/jdbc学习3/src/com/bjsxt/pojo/User.java,b\2\b2d47d73a157363f8b6b2070d1322ac933ac8e17
+�
+TJDBC/尚學堂-JDBC/jdbc学习3/src/com/bjsxt/preparedStatementImpl/UserDaoImpl.java,3\f\3f6d8116731a38c54d287639612c0c4df67d4d4d
+�
+UJDBC/尚學堂-JDBC/jdbc学习3/src/com/bjsxt/preparedStatementImpl/UserDaoImpl2.java,9\4\9473c69e9b8d0cf9a4f066f4a6650896dbb03f1d
+p
+@JDBC/尚學堂-JDBC/jdbc学习3/src/com/bjsxt/util/JdbcUtil.java,a\f\afdf6e3ca56831953040e1b4e8102b731e6eed10
+a
+1JDBC/尚學堂-JDBC/jdbc学习3/src/db.properties,d\d\dd32bba7111d8791da405949dfbf194f8f6ff042
+Z
+*JDBC/尚學堂-JDBC/jdbc学习3/.classpath,c\1\c154dc8dfd8507ee4fc85c17a87554e49a725b46
+X
+(JDBC/尚學堂-JDBC/jdbc学习3/.project,3\d\3d314d8bf2cb2520fad9a7957f831b06e7bf8074
+u
+EJDBC/尚學堂-JDBC/反射学习/.settings/org.eclipse.jdt.core.prefs,c\d\cd414d8d0359e200a40adb83212a3cb925c09a9d
+o
+?JDBC/尚學堂-JDBC/反射学习/src/com/bjsxt/pojo/Person.java,f\3\f3a148c8afabfc93a0d2d2ce9a63da840e157334
+p
+@JDBC/尚學堂-JDBC/反射学习/src/com/bjsxt/pojo/Student.java,b\c\bc307e6921ff1cb85e8bc5082f86264e3e8aad77
+m
+=JDBC/尚學堂-JDBC/反射学习/src/com/bjsxt/pojo/User.java,0\2\02da60fb5053312c8bbc493d000efef34e9f8104
+x
+HJDBC/尚學堂-JDBC/反射学习/src/com/bjsxt/testReflect/TestUser.java,9\c\9cc800952aacc0e5d3c90f664afbf45ba51b494a
+[
++JDBC/尚學堂-JDBC/反射学习/.classpath,c\b\cbfd34bf62a183e2b0e1cb257a8023b02d773e2f
+Y
+)JDBC/尚學堂-JDBC/反射学习/.project,8\4\845d5f949a20b089d9f0458327ad32670aadfafc
+Q
+!JDBC/尚學堂-JDBC/JdbcUtil.java,4\d\4d0a3d9d2805394a02d20b324e7e3b2c3303fc4f
+R
+"JDBC/尚學堂-JDBC/JdbcUtil2.java,8\0\80aa1eff9d9fe143860335323392ec7ba9bedbc4
+S
+#out/production/java/servlet/web.xml,5\3\536281ddf13f2004f1ce6d9b0fa003c4e6be0cfe
+P
+ out/production/java/Test1011.iml,9\3\936e82dfe15f5925e5d2044d096eb0287cbe9626
+K
+out/production/java/web.xml,3\0\303b9aa9fe77923b23b9e0147e5e5360da968653
+L
+Servlet/.settings/.jsdtscope,7\9\796377cdce652af3b4dfa33de5f4d037cc61005b
+h
+8Servlet/.settings/com.genuitec.eclipse.j2eedt.core.prefs,4\0\401035f429808c8a48bd3c2c545e938064f2411f
+d
+4Servlet/.settings/com.genuitec.runtime.libraries.xml,e\8\e844bbbb8cba03d1830e02440bc0a16e20d51ca2
+\
+,Servlet/.settings/org.eclipse.jdt.core.prefs,5\1\517f957c6a0def5ba7d13a171b5f7bee4f3eb989
+b
+2Servlet/.settings/org.eclipse.wst.common.component,8\2\828ad25603a6a6410a362abd77e76f8372df76c2
+o
+?Servlet/.settings/org.eclipse.wst.common.project.facet.core.xml,7\9\794bdeb4cbd1a5ae1cc24c5e708c50a061b0a87a
+m
+=Servlet/.settings/org.eclipse.wst.jsdt.ui.superType.container,5\e\5e425e5e95717b5708c15de776a63fb1adf831fe
+h
+8Servlet/.settings/org.eclipse.wst.jsdt.ui.superType.name,b\d\bd40d106e9cab0036379cb2b6253edf8514fd3bb
+a
+1Servlet/src/com/bjsxt/servlet/RequestServlet.java,8\f\8f086e81672db0cba05ebf2caf4df1f90b5c1089
+b
+2Servlet/src/com/bjsxt/servlet/ResponseServlet.java,8\4\84f50b29c6cefdbfaa6a4e3305ef5b98952b707d
+^
+.Servlet/src/com/bjsxt/servlet/ServletLife.java,9\2\9247b87c62cf4789fd1ec09a89dd1034260e3386
+`
+0Servlet/src/com/bjsxt/servlet/ServletMethod.java,b\3\b3faaebee2315c244670a8c1a75af7586903ecbf
+T
+$Servlet/WebRoot/META-INF/MANIFEST.MF,9\6\9601fd386d7798f28110ffe452bd5c54c0df7180
+I
+Servlet/WebRoot/index.jsp,e\5\e558a7be171883a6dc43b4da08b70c7c0a5e3b48
+J
+Servlet/WebRoot/Method.jsp,a\4\a4a869e6582dbf1a25a06003ae04130f7d59caa9
+B
+Servlet/.classpath,a\9\a931890b82e6c6b4d18a6cd59e9756c3117c20d1
+@
+Servlet/.project,6\2\6254357b46a68cd1663c5d73db18231cef4fa874
+d
+4練習/Test1011/.idea/codeStyles/codeStyleConfig.xml,5\a\5a7f22f99e1aa8b5d76185ccfd4a14baad9ace44
+\
+,練習/Test1011/.idea/codeStyles/Project.xml,e\c\eccd27b493c69c72f9a10a22baf4f011162b569e
+l
+<練習/Test1011/.idea/inspectionProfiles/Project_Default.xml,a\8\a83c72523760366c46a809e3be6b8de1fbec0ca9
+c
+3練習/Test1011/.idea/sonarlint/issuestore/index.pb,c\b\cb3dcf11fbd5414e5e8fcd0be6891c7c7e29cc32
+e
+5練習/Test1011/src/com/kontai/reflection1/Demo1.java,6\9\6911e51ba0cad179e22fbd774e87ab6a813f4c75
+f
+6練習/Test1011/src/com/kontai/reflection1/Person.java,3\a\3a2ce3d072fcfa8c0a4df929a0561e0299964ca4
+n
+>練習/Test1011/src/com/kontai/reflection1/ReflectionDemo.java,9\e\9e00da6df25aaea7c882196d13dcc0549c347d3f
+P
+ 練習/Test1011/WEB-INFO/01.html,9\1\91133468854f84b3a06d4bb094b84ad38aafe4e9
+L
+練習/Test1011/Test1011.iml,9\9\9901f61757d7989a5f55f150df6bfdab0af83db1
+}
+M練習/Test1013-web/flexmark-ext-ext-module/demo/src/main/java/MyServlet.java,f\a\fa422680673c91cc10d67ff8bbe4701a6a88dced
+z
+J練習/Test1013-web/flexmark-ext-ext-module/demo/src/main/webapp/index.jsp,4\9\494ac2a482ffaac00bb527d41153d70b9821b4a2
+i
+9練習/Test1013-web/flexmark-ext-ext-module/demo/demo.iml,7\3\73e889fac1b8684181c43bf5c856f3000afbc4eb
+_
+/練習/Test1014/demo/src/main/java/Servlet.java,3\5\359167c3c10cec59e00a4d695c9e575a4edb1cf7
+M
+練習/Test1014/demo/demo.iml,e\c\ec1bb03e3fb4f82a3ae8e9f36f1069e290b861d8
+]
+-練習/Test1015/Demo/.idea/artifacts/Demo.xml,b\1\b108478ecc816606057d9f8c98b30dded45ec7af
+j
+:練習/Test1015/Demo/.idea/artifacts/Demo_war_exploded.xml,3\f\3fd85a5417cafa7f05af929d1c8e69916e7993bd
+i
+9練習/Test1015/Demo/.idea/codeStyles/codeStyleConfig.xml,2\8\28df8d2891f260d4543d45fec49d56cafd2895c0
+a
+1練習/Test1015/Demo/.idea/codeStyles/Project.xml,8\2\8248afed899a93ada0bf0ebd21a54a62d7fd7fe7
+q
+A練習/Test1015/Demo/.idea/inspectionProfiles/Project_Default.xml,4\1\417bc7267c28c87e29bff3ec0f38978e3587ac3c
+`
+0練習/Test1015/Demo/.idea/libraries/jsp_api.xml,1\5\1576351d44bcef2faa0dc87df4bc773a7718c707
+z
+J練習/Test1015/Demo/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml,9\b\9b606fd97ee2bdf811ee49ba471d24b97df923bf
+�
+U練習/Test1015/Demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml,2\4\24dcce43708be3b77c5881d785aee94db367cff6
+�
+Y練習/Test1015/Demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml,2\a\2ab5b544ce17bc9bb25c2b1395c4e78500a998b1
+�
+\練習/Test1015/Demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml,c\a\ca8a5b6a2224cda68641ff14508a9e67911ec31a
+�
+_練習/Test1015/Demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml,e\1\e135d63e14d3b4fcee2a22b04638dfdcb04e5879
+�
+^練習/Test1015/Demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml,3\5\3502f04b79d8cab7d26fa494a18361829a0f0736
+
+O練習/Test1015/Demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml,5\b\5b34dd7a1ad67499002b98af918c01f3db1122b2
+Y
+)練習/Test1015/Demo/META-INF/MANIFEST.MF,c\c\cc9bc4bfebd6c79012e56803fcb526d77ae61ec7
+_
+/練習/Test1015/Demo/src/main/java/Servlet.java,6\b\6b639f39e03b5786bc6a8fa74242f3e3e9f2575b
+M
+練習/Test1015/Demo/Demo.iml,c\1\c1e9ed3a199d343377705438a1a776ed869d2983
+k
+;練習/Test1027-JDBC-1/.idea/codeStyles/codeStyleConfig.xml,3\6\361f72bf52573276494330702ee4fa5533d1ca14
+c
+3練習/Test1027-JDBC-1/.idea/codeStyles/Project.xml,a\d\adeb15119bde2afcf4b7734daece9aad1c51bed2
+s
+C練習/Test1027-JDBC-1/.idea/inspectionProfiles/Project_Default.xml,b\b\bb87ff63c1422e01184837ec42ccbccd52d89c66
+^
+.練習/Test1027-JDBC-1/.idea/libraries/lib.xml,c\3\c3ccf73e41c5a8a1c5d56f309cf39f97403e73a8
+m
+=練習/Test1027-JDBC-1/src/com/kontai/insert/TestInsert1.java,b\f\bf1c1b5074f2267dbc1330838110eca7e8016ff7
+N
+練習/Test1027-JDBC-1/jdbc.md,9\3\93a8d92c38619329f367a6098124d14ff1cc6e61
+Z
+*練習/Test1027-JDBC-1/Test1027-JDBC-1.iml,b\b\bbf72665c3c6633959b1037fb0d99b6e9d5af9ec
+d
+4練習/Test1029/.idea/codeStyles/codeStyleConfig.xml,3\e\3ec59b77962e71a94d5e04a39f4bcf32287b64ec
+\
+,練習/Test1029/.idea/codeStyles/Project.xml,8\8\88aef7d7e1f8755fdc1915ee13d6c366b5cb26c3
+l
+<練習/Test1029/.idea/inspectionProfiles/Project_Default.xml,6\6\66706456380f6cf9a683725601f13589a132a29f
+L
+練習/Test1029/Test1029.iml,6\0\60ac079041dcaf7f9b864dc271948e504a455d67
+^
+.練習/webdemo/src/main/java/LoginServlet.java,d\6\d6cb970a6a589956bc1cf4f912a8ac09a76d7424
+]
+-練習/webdemo/src/main/java/PageServlet.java,2\6\26c35754c5f48af74f52a77a76c4d44996ff7bcf
+J
+練習/webdemo/webdemo.iml,0\0\00378c65e2de1f0212c204632b1c9c9fbafef628
+e
+5練習/反射/Test1116/com/tai/reflaect01/Person.java,5\4\54853a640bf845b17fb142565d88c0f930bd90b4
+f
+6練習/反射/Test1116/com/tai/reflaect01/Student.java,2\1\21d058e590124bd92a53e8a98c5bafa28cce4e75
+d
+4練習/反射/Test1116/com/tai/reflaect01/Demo1.java,e\d\ed882c7d8fe0c99f0e02246dc588e94435a098c6
+v
+Flib/apache-log4j-1.2.17/src/main/java/org/apache/log4j/nt/package.html,0\7\07dac28fcfe3248e9d2a1bc7360a4fd3ed8b78a2
+_
+/lib/apache-log4j-1.2.17/build.properties.sample,b\0\b06013a70b7cd67eef1963e990d1b47f9388101c
+M
+練習/log4j/log4j.properties,d\a\da4de52a78ae02bd536a52ade27502cd0b243b51
+Y
+)練習/log4j/com/tai/TestLog/testLog.java,4\9\49159b4f512c6fcdddba7bbb18a056d159a7ebb9

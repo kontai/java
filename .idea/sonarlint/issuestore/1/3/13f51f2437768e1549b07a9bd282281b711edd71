@@ -1,12 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8Üüøæ¼.
-i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë€”O8Üüøæ¼.
-\
-java:S2479":Remove the non-escaped \u00A0 character from this literal.(Áä­‡ýÿÿÿÿ8Üüøæ¼.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‚Ö¢üÿÿÿÿ8¯Óôæ¼.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü¢®Þûÿÿÿÿ8ƒÃ‚ß¼.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷·¹®ûÿÿÿÿ8Ù¯‡ç¼.
-X	java:S125"<This block of commented-out lines of code should be removed.(¹¯îî8¯Óôæ¼.
-L
-java:S1144"0Remove this unused private "StringDemo1" method.(ë€”O8Üüøæ¼.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(·ö³“8·Ä€ç¼.

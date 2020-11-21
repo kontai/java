@@ -1,6 +1,3 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(Ì¶éË8û¼›­Ú.
-J
-java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé8‡§Ó¬Ú.
-d
-java:S22591"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ8“òã­Ú.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÍƒÊû8¶­â¯Ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò³Šµúÿÿÿÿ8ĞñÜ¯Ú.

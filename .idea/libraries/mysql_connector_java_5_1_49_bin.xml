@@ -4,8 +4,6 @@
       <root url="jar://$PROJECT_DIR$/JDBC/Intro01/mysql-connector-java-5.1.49-bin.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/mysql-connector-java-5.1.49/src" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>
