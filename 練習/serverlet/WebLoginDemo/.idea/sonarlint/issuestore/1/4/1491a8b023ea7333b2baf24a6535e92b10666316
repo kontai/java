@@ -1,0 +1,24 @@
+
+h
+java:S1192 "FDefine a constant instead of duplicating this literal "uname" 4 times.(ø—¬Äıÿÿÿÿ8•É¶±ú.
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÄÊï8•É¶±ú.
+]
+java:S2259F"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8Ÿîú.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÌÎç8•É¶±ú.
+O
+java:S4925z"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8£ƒ·±ú.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ùÔ³¡ıÿÿÿÿ8•É¶±ú.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(™åÛ²şÿÿÿÿ8•É¶±ú.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(¿‘©ğ8•É¶±ú.
+]	java:S125h"<This block of commented-out lines of code should be removed.(…ÛÎ¿ùÿÿÿÿ8•É¶±ú.
+^
+java:S2259–"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8Şîú.
+n	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÄÊï8•É¶±ú.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Õ±ÒÃ8•É¶±ú.
+l	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×±38•É¶±ú.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(¸úÏÁ8•É¶±ú.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¿‘©ğ8•É¶±ú.
+O
+java:S4925)"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8¥ıÇíú.
+]	java:S125"<This block of commented-out lines of code should be removed.(…ÛÎ¿ùÿÿÿÿ8•É¶±ú.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(™åÛ²şÿÿÿÿ8•É¶±ú.

@@ -1,0 +1,27 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+I
+src/main/webapp/Login.jsp,5\9\595af3663cd8bb4acd654c8e262b107f48c3ce00
+\
+,src/main/java/com/tai/JDBC/LoginService.java,a\e\ae0300b78d42a55171f295112f8ed98a89c29760
+]
+-src/main/java/com/tai/WetbLoginDemo/main.java,d\3\d3b3bec3e7797482ab9a4db40c00000a3faeac7d
+T
+$src/main/java/com/tai/JDBC/main.java,4\9\4933704aa8b4111268dc28a35ebb975457273522
+]
+-src/main/java/com/tai/JDBC/LoginCheckImp.java,1\4\1491a8b023ea7333b2baf24a6535e92b10666316
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+`
+0src/main/java/com/tai/WetbLoginDemo/errPage.java,8\2\826376a5acb9d80e9f4002c40c3233cf593601c4
+f
+6src/main/java/com/tai/WetbLoginDemo/cookieServlet.java,b\9\b9377b3ffafe28696a60c662d728a6d5c1465118
+T
+$src/main/java/com/tai/User/User.java,1\c\1c20f6fd6a1eaeb418998646d6af22fd6aaa7fee
+`
+0src/main/java/com/tai/WetbLoginDemo/welcome.java,2\6\26d10fbbb1f3ba65520123bb29de3712bbf06930
+_
+/.idea/libraries/mysql_connector_java_5_1_49.xml,1\e\1ea2abda378a538301a10eb94be2b5d6a8049c87

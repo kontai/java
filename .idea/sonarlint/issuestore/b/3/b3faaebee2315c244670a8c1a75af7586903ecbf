@@ -1,10 +1,10 @@
 
-^
-java:S3518."CMake sure this expression can't be zero before doing this division.(½§±Êøÿÿÿÿ
-P
-java:S1854."5Remove this useless assignment to local variable "i".(½§±Êøÿÿÿÿ
-N	java:S106/"9Replace this use of System.out or System.err by a logger.(‚Âú
-S	java:S1066"9Replace this use of System.out or System.err by a logger.(¡‚ñÔşÿÿÿÿ
-N	java:S106;"9Replace this use of System.out or System.err by a logger.(€ïáá
-A
-java:S1481."&Remove this unused "i" local variable.(½§±Êøÿÿÿÿ
+H
+java:S1481."&Remove this unused "i" local variable.(½§±Êøÿÿÿÿ8Æ½ŠÖù.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ô•»8Æ½ŠÖù.
+e
+java:S3518."CMake sure this expression can't be zero before doing this division.(½§±Êøÿÿÿÿ8Æ½ŠÖù.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(”«àÆ8Æ½ŠÖù.
+W
+java:S1854."5Remove this useless assignment to local variable "i".(½§±Êøÿÿÿÿ8Æ½ŠÖù.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(äŠÙ¬şÿÿÿÿ8Æ½ŠÖù.

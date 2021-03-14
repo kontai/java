@@ -1,0 +1,14 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(¾¨Ñ°ûÿÿÿÿ8µ¶Û”õ.
+œ
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïû©Öûÿÿÿÿ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(„ƒİü8µµîú.
+]	java:S125("<This block of commented-out lines of code should be removed.(ìÕğöıÿÿÿÿ8€Ï«®ú.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Í¹Ï¬üÿÿÿÿ
+X	java:S1250"<This block of commented-out lines of code should be removed.(°–ë²8ÑßşØõ.
+—
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¨¯¿
+X	java:S125,"<This block of commented-out lines of code should be removed.(”àëØ8¤‚ÇĞø.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÍåÉÿÿÿÿÿ
+Q
+java:S1128"4Remove this unused import 'javax.websocket.Session'.(şÀÁ‡8Œê˜Ùõ.
