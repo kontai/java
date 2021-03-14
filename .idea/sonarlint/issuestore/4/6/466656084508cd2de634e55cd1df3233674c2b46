@@ -1,0 +1,19 @@
+
+<
+java:S1170"!Make this final field static too.(’³—Œüÿÿÿÿ
+<
+java:S1170
+"!Make this final field static too.(ÆÉ½µþÿÿÿÿ
+<
+java:S1170	"!Make this final field static too.(Ú¯¢öþÿÿÿÿ
+]
+java:S2259r"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ
+…
+java:S1319J"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¡‹¼f
+]
+java:S2259:"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ
+C
+java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé
+C
+java:S4925P"-Remove this "Class.forName()", it is useless.(ùíÄé
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ì¶éË

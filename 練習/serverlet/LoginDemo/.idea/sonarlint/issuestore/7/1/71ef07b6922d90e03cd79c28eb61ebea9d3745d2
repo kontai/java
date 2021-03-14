@@ -1,0 +1,27 @@
+
+c
+java:S2095±"GUse try-with-resources or close this "Statement" in a "finally" clause.(ôÕØıÿÿÿÿ
+f
+java:S2095½"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïØ¯î
+c
+java:S2095¯"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ÂÙ‡üÿÿÿÿ
+`
+java:S1192½"IDefine a constant instead of duplicating this literal "SELECT 1" 5 times.(ïØ¯î
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ƒÙ®Åüÿÿÿÿ
+a	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(è‘İ¦øÿÿÿÿ
+l	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ğûÿÿÿÿ
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ğûÿÿÿÿ
+y
+java:S1488“"]Immediately return this expression instead of assigning it to the temporary variable "suite".(®–ÓŞùÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(¥¦çüÿÿÿÿ
+T	java:S106é"9Replace this use of System.out or System.err by a logger.(†Š§ÿÿÿÿÿ
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(œİ˜ª
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ˆÆœùıÿÿÿÿ
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(ÏËâ¢ÿÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(’Ì†óúÿÿÿÿ
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(œİ˜ª
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ˆÆœùıÿÿÿÿ
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ÏËâ¢ÿÿÿÿÿ
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.(’Ì†óúÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(˜š®ßşÿÿÿÿ
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(ÿÿµéşÿÿÿÿ

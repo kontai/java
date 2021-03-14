@@ -1,0 +1,60 @@
+
+O
+java:S2755Ò"3Disable access to external entities in XML parsing.(Ó¨ºùıÿÿÿÿ
+J
+java:S2755§"3Disable access to external entities in XML parsing.(¦¢öŒ
+a	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(ôÊªšùÿÿÿÿ
+Q
+java:S1141ƒ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+G
+java:S1128@"1Remove this unused import 'org.w3c.dom.Document'.(Á§²“
+S
+java:S1128."8Remove this unused import 'javax.xml.parsers.SAXParser'.(á©ÎËøÿÿÿÿ
+U
+java:S1128/"?Remove this unused import 'javax.xml.parsers.SAXParserFactory'.(‡Ó¿ï
+P
+java:S1128?"5Remove this unused import 'org.w3c.dom.DOMException'.(İ°Ó¸ıÿÿÿÿ
+^
+java:S1128,"HRemove this unused import 'javax.xml.parsers.FactoryConfigurationError'.(ö©á 
+f
+java:S1128-"KRemove this unused import 'javax.xml.parsers.ParserConfigurationException'.(ûıƒøÿÿÿÿ
+n
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(æÀÂ©úÿÿÿÿ
+A
+java:S1181´"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+…
+java:S1130÷"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Œ‡ Ÿ
+…
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ä‚Ó©
+A
+java:S1181”"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+g
+java:S3252‰"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(¸šõ«
+i
+java:S3252Š"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(™œ¬
+A
+java:S1181Ø"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(Ÿ®…ëşÿÿÿÿ
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(¶ÌÑ±
+Q
+java:S1161œ":Add the "@Override" annotation above this method signature( …ÓÊ
+Q
+java:S1161­":Add the "@Override" annotation above this method signature(Òİ¥â
+O
+java:S1197­"8Move the array designator from the variable to the type.(Òİ¥â
+Q
+java:S1161µ":Add the "@Override" annotation above this method signature(İ¡ÇÊ
+O
+java:S1197µ"8Move the array designator from the variable to the type.(İ¡ÇÊ
+
+java:S1130»"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ÒÉ£Ìøÿÿÿÿ
+ˆ
+java:S1130À"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(¨ŸŠ‰
+
+java:S1130Å"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ŒË³Æşÿÿÿÿ
+T
+java:S1197Å"8Move the array designator from the variable to the type.(ŒË³Æşÿÿÿÿ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(×ƒîÛ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ

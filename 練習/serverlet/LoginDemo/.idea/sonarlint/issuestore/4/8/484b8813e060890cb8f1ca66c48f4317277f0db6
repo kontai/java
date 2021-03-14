@@ -1,0 +1,13 @@
+
+g
+java:S1192h"QDefine a constant instead of duplicating this literal "java.lang.Double" 4 times.(¶»ıÕ
+_
+java:S1192ˆ"HDefine a constant instead of duplicating this literal "DECIMAL" 4 times.(÷“ö¨
+[	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(³™ªí
+[	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(¡şş
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(•µÉ‰
+\	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(…­ÖÁ
+a	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(óÑüÿÿÿÿ
+\	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(ÿóÌÆ
+L
+java:S1133ä"5Do not forget to remove this deprecated code someday.(ÿóÌÆ

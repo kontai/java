@@ -1,0 +1,15 @@
+
+c
+java:S2095¸"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
+{
+java:S1192v"`Define a constant instead of duplicating this literal "SELECT * FROM testUpdateObject1" 4 times.(÷À˜üÿÿÿÿ
+v
+java:S1192<"[Define a constant instead of duplicating this literal "Result Set not updatable.*" 4 times.(’³—ùÿÿÿÿ
+…
+java:S1192ş"nDefine a constant instead of duplicating this literal "Unsupported SQL type: TIMESTAMP_WITH_TIMEZONE" 4 times.(‘Æ§Š
+x
+java:S1192š"aDefine a constant instead of duplicating this literal "Unsupported SQL type: REF_CURSOR" 4 times.(‹øéÒ
+…
+java:S1192â"iDefine a constant instead of duplicating this literal "Unsupported SQL type: TIME_WITH_TIMEZONE" 4 times.(‰“ïÃıÿÿÿÿ
+`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(–’¹úÿÿÿÿ
+`	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(È£–Æûÿÿÿÿ

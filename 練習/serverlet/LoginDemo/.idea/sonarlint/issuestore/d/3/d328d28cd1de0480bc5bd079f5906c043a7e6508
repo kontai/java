@@ -1,0 +1,120 @@
+
+^
+java:S1192¯"GDefine a constant instead of duplicating this literal "3.1.12" 4 times.(Û“ÂÛ
+b
+java:S1192…"FDefine a constant instead of duplicating this literal "3.0.2" 7 times.(ëË™¦ıÿÿÿÿ
+b
+java:S1192“"FDefine a constant instead of duplicating this literal "3.0.1" 3 times.(ƒµæúÿÿÿÿÿ
+b
+java:S1192£"FDefine a constant instead of duplicating this literal "3.1.1" 5 times.(É¥Î¡ÿÿÿÿÿ
+]
+java:S1192 "FDefine a constant instead of duplicating this literal "3.0.3" 3 times.(¶¬Ó¾
+]
+java:S1192¡"FDefine a constant instead of duplicating this literal "3.1.0" 5 times.(ç¹ÕØ
+x
+java:S1192´"aDefine a constant instead of duplicating this literal "ConnectionProperties.allVersions" 3 times.(ñ«¼
+b
+java:S1192É"FDefine a constant instead of duplicating this literal "3.1.3" 7 times.(îÅ­šüÿÿÿÿ
+c
+java:S1192İ"GDefine a constant instead of duplicating this literal "3.1.2" 10 times.(¹¢ò‰ÿÿÿÿÿ
+b
+java:S1192¦"FDefine a constant instead of duplicating this literal "3.1.5" 6 times.(Ã±ò“úÿÿÿÿ
+b
+java:S1192©"FDefine a constant instead of duplicating this literal "3.1.4" 4 times.(¸ôÅ°øÿÿÿÿ
+s
+java:S1192ï
+"\Define a constant instead of duplicating this literal "Internal properties failure" 4 times.(˜Úâ³
+b
+java:S1192¬"FDefine a constant instead of duplicating this literal "3.1.7" 7 times.(Áæ¿ıøÿÿÿÿ
+^
+java:S1192²"GDefine a constant instead of duplicating this literal "5.1.27" 3 times.(ÔÄ‘¬
+^
+java:S1192×"GDefine a constant instead of duplicating this literal "5.1.15" 4 times.(’ç‘
+b
+java:S1192Á"FDefine a constant instead of duplicating this literal "3.1.9" 7 times.(©äê¼úÿÿÿÿ
+c
+java:S1192÷"GDefine a constant instead of duplicating this literal "5.1.13" 7 times.(÷öåØúÿÿÿÿ
+b
+java:S1192°"FDefine a constant instead of duplicating this literal "3.1.8" 4 times.(Œè¦Ïÿÿÿÿÿ
+b
+java:S1192Ô"FDefine a constant instead of duplicating this literal "5.0.7" 8 times.(ÃºÔĞüÿÿÿÿ
+]
+java:S1192Ì"GDefine a constant instead of duplicating this literal "5.1.35" 4 times.(ïÅ¬
+c
+java:S1192à"GDefine a constant instead of duplicating this literal "3.0.10" 4 times.(ù¡‘şÿÿÿÿ
+b
+java:S1192‹"FDefine a constant instead of duplicating this literal "5.1.7" 5 times.(¿£¢ëÿÿÿÿÿ
+b
+java:S1192±"FDefine a constant instead of duplicating this literal "5.1.6" 6 times.(ü‰¯ÿÿÿÿÿ
+\
+java:S1192è"FDefine a constant instead of duplicating this literal "5.1.1" 5 times.(€Ûÿ
+b
+java:S1192‚"FDefine a constant instead of duplicating this literal "5.1.0" 9 times.(ñÌÖåşÿÿÿÿ
+b
+java:S1192ÿ"FDefine a constant instead of duplicating this literal "5.1.3" 3 times.(’½òíùÿÿÿÿ
+]
+java:S1192¼"FDefine a constant instead of duplicating this literal "5.0.6" 4 times.(ÍÀÏõ
+]
+java:S1192Ì"FDefine a constant instead of duplicating this literal "5.0.5" 8 times.(Äù…ª
+\
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "5.0.0" 5 times.(ö®¯H
+c
+java:S1192˜
+"GDefine a constant instead of duplicating this literal "5.1.19" 3 times.(àë‚›ÿÿÿÿÿ
+b
+java:S1192ä"FDefine a constant instead of duplicating this literal "5.0.1" 3 times.(º¥˜»úÿÿÿÿ
+q
+java:S1192¡"ZDefine a constant instead of duplicating this literal "The connection property '" 5 times.(À‘«¹
+g
+java:S1192ù"KDefine a constant instead of duplicating this literal "profileSql" 3 times.(Û¶Õüÿÿÿÿ
+K
+java:S1066£"/Merge this if statement with the enclosing one.(®™İ•ÿÿÿÿÿ
+K
+java:S1066Æ"/Merge this if statement with the enclosing one.(¶î¬÷üÿÿÿÿ
+V	java:S107•"AConstructor has 9 parameters, which is greater than 7 authorized.(íö…a
+\	java:S107Ê"AConstructor has 8 parameters, which is greater than 7 authorized.(×±ÛÜúÿÿÿÿ
+\	java:S107µ"AConstructor has 8 parameters, which is greater than 7 authorized.(ÎĞ“Òúÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ï¯”ÿÿÿÿÿ
+„
+java:S1845ü"mRename field "profileSQL" to prevent any misunderstanding/clash with field "profileSql" defined on line 1017.(üûÏ€
+P
+java:S5993’"9Change the visibility of this constructor to "protected".(’®ç
+I
+java:S1948|".Make "defaultValue" transient or serializable.(îÎğıÿÿÿÿ
+F
+java:S1948ˆ"/Make "valueAsObject" transient or serializable.(˜½ãß
+[
+java:S1124t"EReorder the modifiers to comply with the Java Language Specification.(åÀ—ş
+=
+java:S1168á"&Return an empty array instead of null.(¥¹ï
+U
+java:S2130ˆ">Use "Double.parseDouble" for this string-to-double conversion.(¸¤“‹
+\
+java:S1124±"EReorder the modifiers to comply with the Java Language Specification.(ã×è¸
+p
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëø°½
+]
+java:S2130ß"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ò®‰Øûÿÿÿÿ
+]
+java:S2130ã"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(Û˜¶‹úÿÿÿÿ
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ı…ğ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Î¹ïøÿÿÿÿ
+n
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(å’¤øÿÿÿÿ
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö´Ø ùÿÿÿÿ
+u
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ßûúşÿÿÿÿ
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ê·â
+=
+java:S2129¼"!Remove this "Integer" constructor(˜ÉëÕıÿÿÿÿ
+K
+java:S1874¼"/Remove this use of "Integer"; it is deprecated.(˜ÉëÕıÿÿÿÿ
+u
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨±Œùÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ò¥ˆÅ
+N
+java:S1135"2Complete the task associated to this TODO comment.(û§Óïùÿÿÿÿ

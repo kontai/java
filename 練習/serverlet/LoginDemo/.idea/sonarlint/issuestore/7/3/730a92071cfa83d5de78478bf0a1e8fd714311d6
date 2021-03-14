@@ -1,0 +1,20 @@
+
+E
+java:S1066¡"/Merge this if statement with the enclosing one.(Õò×s
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+y
+java:S3008="^Rename this field "INTERFACES_TO_PROXY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ì¬‚ùÿÿÿÿ
+]
+java:S1126¨"AReplace this if-then-else statement by a single return statement.(§­Şÿÿÿÿÿ
+E
+java:S1125ú")Remove the literal "false" boolean value.(à€±ïşÿÿÿÿ
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(§Ÿ«œ
+b
+java:S2142¶"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+_
+java:S2276µ"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(œèëºûÿÿÿÿ
+D	java:S108¶")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ
+D	java:S108Ó")Either remove or fill this block of code.(Ò´øÿÿÿÿ
+n
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œŒæ†úÿÿÿÿ

@@ -1,0 +1,13 @@
+
+n
+java:S1192Ò"RDefine a constant instead of duplicating this literal "java.lang.Integer" 5 times.(ì¨á›ÿÿÿÿÿ
+'
+java:S2176 "Rename this class.(®íÂf
+7	java:S1312""Add a default case to this switch.(ÜŸ•
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(É“‚
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¬•¿üÿÿÿÿ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ãÙñùÿÿÿÿ
+`
+java:S1871×"IThis case's code block is the same as the block for the case on line 719.(•ø×È

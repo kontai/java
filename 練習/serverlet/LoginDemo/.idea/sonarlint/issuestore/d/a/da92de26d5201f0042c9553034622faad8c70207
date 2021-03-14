@@ -1,0 +1,29 @@
+
+^
+java:S2095¿"GUse try-with-resources or close this "Statement" in a "finally" clause.(“Ö”Ç
+c
+java:S2095©"GUse try-with-resources or close this "Statement" in a "finally" clause.(ßÉó¯ùÿÿÿÿ
+^
+java:S2095Ÿ"GUse try-with-resources or close this "Statement" in a "finally" clause.(¿œŸû
+^
+java:S2095´"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÈÉ³¨
+r
+java:S1192¡"[Define a constant instead of duplicating this literal "SELECT * from testBug81196" 3 times.(ß×¯©
+…
+java:S1192 "iDefine a constant instead of duplicating this literal "INSERT INTO testBug81196(name) VALUES ('" 4 times.(çé„¬øÿÿÿÿ
+s
+java:S1192¦"\Define a constant instead of duplicating this literal "TRUNCATE TABLE testBug81196" 3 times.(¾®é¹
+m
+java:S1192>"RDefine a constant instead of duplicating this literal "characterEncoding" 8 times.(ˆŒîôüÿÿÿÿ
+c
+java:S1192<"HDefine a constant instead of duplicating this literal "utf8mb4" 3 times.(£Š¶±ûÿÿÿÿ
+a
+java:S1192>"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(ˆŒîôüÿÿÿÿ
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Úü‹ıÿÿÿÿ
+`	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(¢ßÌ˜üÿÿÿÿ
+a	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(“Ééÿÿÿÿÿ
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ƒÂÜË
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô­îâ
+g	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÉ³¨
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıáÎôûÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÆÀûı

@@ -1,0 +1,7 @@
+
+J
+java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé8å‘ıĞÛ.
+d
+java:S2259/"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ8¹¯«ÑÛ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(²‘¡“úÿÿÿÿ8Õ­ÑÛ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¨ËÙ8Í±üĞÛ.

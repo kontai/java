@@ -1,0 +1,200 @@
+
+c
+java:S2095ò"GUse try-with-resources or close this "Statement" in a "finally" clause.(õß¡¬ùÿÿÿÿ
+c
+java:S2095Ì	"GUse try-with-resources or close this "Statement" in a "finally" clause.( ¢Ûùÿÿÿÿ
+^
+java:S2095İ"GUse try-with-resources or close this "Statement" in a "finally" clause.(šã¤ÿ
+k
+java:S2095¦"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¬µ•ùÿÿÿÿ
+^
+java:S2095å"GUse try-with-resources or close this "Statement" in a "finally" clause.(Üò£í
+f
+java:S2095Æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†®¾¼
+^
+java:S2095´"GUse try-with-resources or close this "Statement" in a "finally" clause.(–óÅ…
+^
+java:S2095§"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÌÒµç
+k
+java:S2095¿"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ãöä¦øÿÿÿÿ
+k
+java:S2095¥"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ÷ÿıÿÿÿÿ
+f
+java:S2095â	"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¯òì
+c
+java:S2095¤"GUse try-with-resources or close this "Statement" in a "finally" clause.(»¶†âúÿÿÿÿ
+k
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¬µ•ùÿÿÿÿ
+]
+java:S2095¥	"GUse try-with-resources or close this "Statement" in a "finally" clause.(•ú·F
+k
+java:S2095Ó"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(¤Ø®úÿÿÿÿ
+]
+java:S2095¥"GUse try-with-resources or close this "Statement" in a "finally" clause.(•ú·F
+c
+java:S2095—"GUse try-with-resources or close this "Statement" in a "finally" clause.(öà–øÿÿÿÿ
+f
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¾¢Ñí
+f
+java:S2095÷	"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¯òì
+b
+java:S1192İ	"FDefine a constant instead of duplicating this literal "false" 5 times.(Èã¶Îûÿÿÿÿ
+`
+java:S1192ë"JDefine a constant instead of duplicating this literal "SELECT 1" 21 times.(üèØ
+|
+java:S1192ğ"`Define a constant instead of duplicating this literal "Update count must be '1', was '" 3 times.(µí€¿ÿÿÿÿÿ
+
+java:S1192æ"cDefine a constant instead of duplicating this literal "Probably wasn't actually cancelled" 6 times.(¦Ğşúÿÿÿÿ
+h
+java:S1192ä"QDefine a constant instead of duplicating this literal "SELECT SLEEP(30)" 5 times.(ˆø‹ï
+–
+java:S1192¤	"Define a constant instead of duplicating this literal "(pk_field INT PRIMARY KEY NOT NULL AUTO_INCREMENT, field1 INT)" 4 times.(İ©ñ„
+ˆ
+java:S1192ª"lDefine a constant instead of duplicating this literal "Should've thrown an out-of-range exception" 11 times.(çøõÿÿÿÿÿ
+o
+java:S1192Ÿ	"SDefine a constant instead of duplicating this literal "useServerPrepStmts" 5 times.(ÿ†ÉÙûÿÿÿÿ
+q
+java:S1192¤	"ZDefine a constant instead of duplicating this literal "testStatementRewriteBatch" 4 times.(İ©ñ„
+j
+java:S1192“"NDefine a constant instead of duplicating this literal "rewriteErrors" 4 times.(üò…©ıÿÿÿÿ
+p
+java:S1192¢	"YDefine a constant instead of duplicating this literal "rewriteBatchedStatements" 6 times.(ëéçÌ
+h
+java:S1192Ê	"QDefine a constant instead of duplicating this literal "maxAllowedPacket" 4 times.(üÌ û
+a
+java:S1192ß
+"JDefine a constant instead of duplicating this literal ", column " 9 times.(ã¢Ë¾
+`
+java:S1192Î
+"IDefine a constant instead of duplicating this literal "On row " 10 times.(ªˆÄš
+a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(ø‹Äÿÿÿÿÿ
+a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(ñŠé±øÿÿÿÿ
+\	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(Ó¢æÓ
+\	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(Ó¢æÓ
+\	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(Ó¢æÓ
+a	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(ãüÕüÿÿÿÿ
+a	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(şÑ€üøÿÿÿÿ
+a	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(£•‘¾şÿÿÿÿ
+a	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(ò„ŸÅıÿÿÿÿ
+a	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.(Ô¾°øÿÿÿÿ
+\	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(´ˆé
+\	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(şÚÏ
+\	java:S112š	"FDefine and throw a dedicated exception instead of using a generic one.(ÆÌç™
+a	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(­¦á—úÿÿÿÿ
+\	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(½©ç‹
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(´Á˜ªùÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Å‰‰Şùÿÿÿÿ
+\	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(¥Ûßã
+a	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(É‹„Ûùÿÿÿÿ
+Q
+java:S1141€"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1143É"4Remove this throw statement from this finally block.(Æ‚Õà
+T
+java:S1163É"=Refactor this code to not throw exceptions in finally blocks.(Æ‚Õà
+R	java:S125–"<This block of commented-out lines of code should be removed.(€©Íª
+`
+java:S1134•"DTake the required action to fix the issue indicated by this comment.(ÕĞâúÿÿÿÿ
+?	java:S108¦")Either remove or fill this block of code.(ÅŸ­Â
+[
+java:S1134¶"DTake the required action to fix the issue indicated by this comment.(»‰Êç
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ñŠé±øÿÿÿÿ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(äÀÎùÿÿÿÿ
+n
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(ãüÕüÿÿÿÿ
+b
+java:S2142‚"FEither re-interrupt this method or rethrow the "InterruptedException".(ï‘óÎüÿÿÿÿ
+b
+java:S2142É"FEither re-interrupt this method or rethrow the "InterruptedException".(ï‘óÎüÿÿÿÿ
+b
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ï‘óÎüÿÿÿÿ
+?	java:S108á")Either remove or fill this block of code.(Ô®ÙÜ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(ìÁÏêüÿÿÿÿ
+j
+java:S3776š	"SRefactor this method to reduce its Cognitive Complexity from 131 to the 15 allowed.(ÆÌç™
+:
+java:S2129
+"Remove this "Byte" constructor(Üì°ûÿÿÿÿ
+H
+java:S1874
+",Remove this use of "Byte"; it is deprecated.(Üì°ûÿÿÿÿ
+6
+java:S2129
+"Remove this "Short" constructor(–Ä¦
+D
+java:S1874
+"-Remove this use of "Short"; it is deprecated.(–Ä¦
+8
+java:S2129‘
+"!Remove this "Integer" constructor(¯ù¼
+F
+java:S1874‘
+"/Remove this use of "Integer"; it is deprecated.(¯ù¼
+@
+java:S2140‘
+")Use "java.util.Random.nextInt()" instead.(¯ù¼
+5
+java:S2129’
+"Remove this "Long" constructor(€¦©¿
+C
+java:S1874’
+",Remove this use of "Long"; it is deprecated.(€¦©¿
+;
+java:S2129”
+"Remove this "Float" constructor(§×›Ïşÿÿÿÿ
+I
+java:S1874”
+"-Remove this use of "Float"; it is deprecated.(§×›Ïşÿÿÿÿ
+<
+java:S2129•
+" Remove this "Double" constructor(ù¼…Šúÿÿÿÿ
+J
+java:S1874•
+".Remove this use of "Double"; it is deprecated.(ù¼…Šúÿÿÿÿ
+6
+java:S2153€" Remove the unboxing from "Byte".(ñ±ÿw
+7
+java:S2129€"!Remove this "Integer" constructor(ñ±ÿw
+E
+java:S1874€"/Remove this use of "Integer"; it is deprecated.(ñ±ÿw
+8
+java:S2153„"!Remove the unboxing from "Short".(½¬»
+8
+java:S2129„"!Remove this "Integer" constructor(½¬»
+F
+java:S1874„"/Remove this use of "Integer"; it is deprecated.(½¬»
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(­¦á—úÿÿÿÿ
+F
+java:S2093ñ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+D	java:S108 ")Either remove or fill this block of code.(¯íºøÿÿÿÿ
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(‹Îş
+R	java:S125‘"<This block of commented-out lines of code should be removed.(í•†î
+:
+java:S2129µ"Remove this "Byte" constructor(ËÓèûÿÿÿÿ
+H
+java:S1874µ",Remove this use of "Byte"; it is deprecated.(ËÓèûÿÿÿÿ
+;
+java:S2129µ"Remove this "Short" constructor(ËÓèûÿÿÿÿ
+I
+java:S1874µ"-Remove this use of "Short"; it is deprecated.(ËÓèûÿÿÿÿ
+=
+java:S2129µ"!Remove this "Integer" constructor(ËÓèûÿÿÿÿ
+K
+java:S1874µ"/Remove this use of "Integer"; it is deprecated.(ËÓèûÿÿÿÿ
+:
+java:S2129µ"Remove this "Long" constructor(ËÓèûÿÿÿÿ
+H
+java:S1874µ",Remove this use of "Long"; it is deprecated.(ËÓèûÿÿÿÿ
+<
+java:S2129¶" Remove this "Double" constructor(üâ´ıÿÿÿÿ
+J
+java:S1874¶".Remove this use of "Double"; it is deprecated.(üâ´ıÿÿÿÿ
+=
+java:S2111¶"!Use "BigDecimal.valueOf" instead.(üâ´ıÿÿÿÿ
+D	java:S108Õ")Either remove or fill this block of code.(Á¢ªùÿÿÿÿ

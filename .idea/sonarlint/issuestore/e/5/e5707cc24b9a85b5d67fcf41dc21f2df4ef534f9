@@ -1,0 +1,8 @@
+
+f
+java:S1104"PMake user a static final constant or non-public and provide accessors if needed.(‹³¤²
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢æŸ£ûÿÿÿÿ
+H
+java:S4925<"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ

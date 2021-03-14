@@ -1,0 +1,14 @@
+
+D
+java:S1185&"(Remove this method to simply inherit it.(­°¬d8öÏäÒÁ.
+X
+java:S1128	"6Remove this unused import 'java.util.logging.Handler'.(ƒœ®èûÿÿÿÿ8“¡ßÒÁ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ğĞÏÒÁ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(õ„èûÿÿÿÿ8ÚèëÒÁ.
+E
+java:S11852"(Remove this method to simply inherit it.(ââÊ°8öÏäÒÁ.
+]	java:S125"<This block of commented-out lines of code should be removed.(çùÅµşÿÿÿÿ8©ğÒÁ.
+E
+java:S1185,"(Remove this method to simply inherit it.(½•Ñ8öÏäÒÁ.
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8†ÛíÒÁ.

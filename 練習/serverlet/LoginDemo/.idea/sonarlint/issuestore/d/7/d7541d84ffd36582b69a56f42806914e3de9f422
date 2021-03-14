@@ -1,0 +1,102 @@
+
+e
+java:S1192ñ"ODefine a constant instead of duplicating this literal "\"abc\"\"xyz\"" 4 times.(çß‹
+b
+java:S1192—"KDefine a constant instead of duplicating this literal "`abc``xyz`" 4 times.(™§»º
+`
+java:S1192—"IDefine a constant instead of duplicating this literal "`abcxyz`" 5 times.(™§»º
+j
+java:S1192¿"SDefine a constant instead of duplicating this literal "abcxyzxyzxyzxyzabc" 6 times.(Ü¥•±
+`
+java:S1192Û"IDefine a constant instead of duplicating this literal "abstract" 4 times.(ãËü 
+o
+java:S1192Ò"SDefine a constant instead of duplicating this literal ". pedantic quoting" 6 times.(Ÿï™üÿÿÿÿ
+c
+java:S1192ñ"MDefine a constant instead of duplicating this literal "\"abc\"xyz\"" 3 times.(çß‹
+m
+java:S1192ò"QDefine a constant instead of duplicating this literal "Custom Charset: " 9 times.(ù¼…÷øÿÿÿÿ
+d
+java:S1192"HDefine a constant instead of duplicating this literal "Test C." 4 times.(™ô²Îúÿÿÿÿ
+e
+java:S1192–"IDefine a constant instead of duplicating this literal "abcxyz" 171 times.(şëø×ÿÿÿÿÿ
+e
+java:S1192ô"IDefine a constant instead of duplicating this literal "abcxyz\"" 3 times.(‚Ş³àøÿÿÿÿ
+_
+java:S1192š"HDefine a constant instead of duplicating this literal "abcxyz`" 3 times.(Û–­ÿ
+_
+java:S1192V"JDefine a constant instead of duplicating this literal "abc d efg" 4 times.(¿’O
+b
+java:S1192"KDefine a constant instead of duplicating this literal "`abcxyz```" 4 times.(ÿëñ‡
+n
+java:S1192È"WDefine a constant instead of duplicating this literal ". non-pedantic quoting" 3 times.(¨«Ãã
+c
+java:S1192×"GDefine a constant instead of duplicating this literal "ABCxyz" 4 times.(¨â”úÿÿÿÿ
+c
+java:S1192˜"GDefine a constant instead of duplicating this literal "___xyz" 9 times.(Ë úÿÿÿÿ
+m
+java:S1192ó"WDefine a constant instead of duplicating this literal "\"\"\"abc\"\"xyz\"\"\"" 4 times.(ÜñÛE
+[
+java:S1192Z"FDefine a constant instead of duplicating this literal "a str" 5 times.(ÉÄüI
+^
+java:S1192Ø"GDefine a constant instead of duplicating this literal "abcXYZ" 4 times.(üÅâÕ
+a
+java:S1192—"JDefine a constant instead of duplicating this literal "`abc`xyz`" 3 times.(™§»º
+k
+java:S1192ö"ODefine a constant instead of duplicating this literal "\"\"\"abcxyz\"" 4 times.(ğı‡ıÿÿÿÿ
+^
+java:S1192ñ"GDefine a constant instead of duplicating this literal "abc%%%" 7 times.(¼¢Õò
+b
+java:S1192™"MDefine a constant instead of duplicating this literal "```abcxyz```" 3 times.(‘i
+a
+java:S1192ñ"KDefine a constant instead of duplicating this literal "\"abcxyz\"" 5 times.(çß‹
+b
+java:S1192œ"KDefine a constant instead of duplicating this literal "```abcxyz`" 4 times.(Ú°•
+i
+java:S1192ß"MDefine a constant instead of duplicating this literal "introduction" 3 times.(ÍÎ‹îûÿÿÿÿ
+b
+java:S1192è"FDefine a constant instead of duplicating this literal "three" 3 times.(ÙÕÔÁüÿÿÿÿ
+^
+java:S1192÷"GDefine a constant instead of duplicating this literal "%%%xyz" 7 times.(Å¤ˆ
+e
+java:S1192ğ"IDefine a constant instead of duplicating this literal "abc\"xyz" 3 times.(‰›¤ıÿÿÿÿ
+f
+java:S1192ø"ODefine a constant instead of duplicating this literal "\"abcxyz\"\"\"" 4 times.(¡ä¦Ã
+d
+java:S1192–"HDefine a constant instead of duplicating this literal "abc`xyz" 3 times.(şëø×ÿÿÿÿÿ
+i
+java:S1192ó"SDefine a constant instead of duplicating this literal "\"\"\"abcxyz\"\"\"" 3 times.(ÜñÛE
+d
+java:S1192™"ODefine a constant instead of duplicating this literal "```abc``xyz```" 4 times.(‘i
+e
+java:S1192ô"IDefine a constant instead of duplicating this literal "\"abcxyz" 3 times.(‚Ş³àøÿÿÿÿ
+_
+java:S1192š"HDefine a constant instead of duplicating this literal "`abcxyz" 3 times.(Û–­ÿ
+k
+java:S1192±"TDefine a constant instead of duplicating this literal "abcabcabcabcabcabc" 10 times.(ĞÉ§Á
+^
+java:S1192•"GDefine a constant instead of duplicating this literal "abc___" 9 times.(“üŒ¡
+Z	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(¹—‘-
+\	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(µÉıÄ
+\	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(ê¼¥’
+[	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(ö¹¡i
+\	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(àĞÈö
+a	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(ÖæÙûÿÿÿÿ
+\	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(”Ùı¦
+a	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(ùªâœüÿÿÿÿ
+E
+java:S1121¢".Extract the assignment out of this expression.(Úì¤‹
+J
+java:S1121£".Extract the assignment out of this expression.(Ü‹Â©üÿÿÿÿ
+J
+java:S1121¥".Extract the assignment out of this expression.(ÕúÒÕıÿÿÿÿ
+J
+java:S1121¦".Extract the assignment out of this expression.(—ã„Öûÿÿÿÿ
+E
+java:S1121¨".Extract the assignment out of this expression.(ô¡¥
+E
+java:S1121©".Extract the assignment out of this expression.(ŠÁ½
+g
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¹—‘-
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(ê³
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(™›òíıÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Áœ¶æ

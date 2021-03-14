@@ -1,0 +1,25 @@
+
+[	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(ì¡°
+`	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(áÿçÍşÿÿÿÿ
+\	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(ıĞ¢”
+S
+java:S11977"8Move the array designator from the variable to the type.(üÏÕáûÿÿÿÿ
+t
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(–®ÙĞûÿÿÿÿ
+V	java:S125F"<This block of commented-out lines of code should be removed.(ğÖŸÁüÿÿÿÿ
+C	java:S108L")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+C	java:S108Q")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+S
+java:S1197_"8Move the array designator from the variable to the type.(¬ÈÔƒúÿÿÿÿ
+t
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(–®ÙĞûÿÿÿÿ
+N
+java:S1197m"8Move the array designator from the variable to the type.(÷¸Ê§
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜªÍ§øÿÿÿÿ
+@
+java:S2140­")Use "java.util.Random.nextInt()" instead.(«ÅÒØ
+M
+java:S2696´"6Make the enclosing method "static" or remove this set.(ª¿ğ
+@
+java:S2140»")Use "java.util.Random.nextInt()" instead.(ãèğ

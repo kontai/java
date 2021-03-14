@@ -1,0 +1,23 @@
+
+d
+java:S2095V"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(Ğ¨Æ(
+e
+java:S20954"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ÔÙÊ»
+j
+java:S2095h"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ÃÅöÿÿÿÿÿ
+e
+java:S20958"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(“û±²
+j
+java:S2095_"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(úÄŸàşÿÿÿÿ
+j
+java:S2095;"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ŒŒ‘´øÿÿÿÿ
+\
+java:S1192\"FDefine a constant instead of duplicating this literal "S1009" 3 times.(Õ¤áÓ
+}
+java:S1192\"gDefine a constant instead of duplicating this literal "Should error for read-only connection." 3 times.(Õ¤áÓ
+]
+java:S11928"GDefine a constant instead of duplicating this literal "CALL `" 4 times.(“û±²
+
+java:S1192Z"tDefine a constant instead of duplicating this literal "Should not execute because procedure modifies data." 3 times.(Ó„Ÿ¼şÿÿÿÿ
+`	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(§‘ë·ûÿÿÿÿ
+`	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(¬ªŠıÿÿÿÿ

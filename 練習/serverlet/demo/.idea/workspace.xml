@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo:war" />
+      <artifact name="demo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f29ea1c-7967-47ec-8cdd-b11281b23eb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/5/d/5d7f700df54dea0867245438b6ef05d663ba3bfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/7/873b9ca009866cab95158b496eb5901f5b79e428" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/b/8/b81c82e00ad69d6cdee032a3a6eb0e6797fc9fa6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/com.genuitec.eclipse.migration/workspace.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/com.genuitec.eclipse.sqlexplorer/ConnectionProfiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/com.genuitec.eclipse.sqlexplorer/SQLDrivers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/com.genuitec.pulse.client.delivery.package.runtime/logs/package-runtime-0.log.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/14/004aa0fb215400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/1f/20e26add265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/1f/e0190a8d265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/20/5023f7a6195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/24/102dd99b235400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/24/6091eea9195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/25/d05e5f38195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/26/b07a7738195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/29/708506cc265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/2c/60262638195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/2e/2052af97265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/2e/d05534b2195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/2f/c09f2438195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/3/90561d78225400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/30/d08110ca265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/38/00ab52e1235400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/3a/80c01769195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/3b/d02acb8e265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/44/30525b0d225400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/45/40705064205400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/45/b0fd988b265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/4c/00e44986265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/4f/204d0dd3195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/55/50b538a6195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/57/603db861195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/5a/40819a9c235400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/6/10812038195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/6/f0e955a2265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/64/80ed75d0265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/6a/606ca1e4195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/6b/903b559b195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/6d/408590d1265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/6d/f0edcfd3265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/6f/b036edbf195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/7e/e0f1bc64195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/80/c0e4247f195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/82/80321de2195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/84/50eee544265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/89/100a20a0195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/8c/b091737a195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/9b/b037ebd6265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/a0/90ac2de3235400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/a3/b0333fa8195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/a8/a05a9897195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/ab/007bb3d5265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/ac/900c59ad195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/ad/40f547e1265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/b3/f01b7ba3195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/b7/40203eaf195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/b9/d081f2ce265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/bb/b01f4b6f195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/bf/a05b2668195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/c5/20084298195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/d2/a044ab4f195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/d3/e06bd095195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/d4/d01973be195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/d5/60fc9aa8265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/d6/804ed75b1a5400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/d7/a0e02138195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/db/d08527cd265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/e7/c01ef13e265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/f4/904d5b8a265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/f9/20bcfd5f195400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/ff/80106ed1235400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.history/ff/c080d6a1265400181bb0920be17ab863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.projects/01-MyServlet/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.projects/01-MyServlet/.indexes/ca/a8/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.projects/01-MyServlet/.indexes/e4/81/67/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.projects/01-MyServlet/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.projects/01-MyServlet/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.projects/01-MyServlet/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.resources/.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.editor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.hibernate.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.wizards.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.pulse.client.delivery.package.runtime.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/101099628.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/1287774267.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/1379036884.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/1702850593.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/2081971257.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/2378226620.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/2439531939.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/2571551923.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/265093533.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/2736484428.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/2939347574.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/3464869364.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/3472583039.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/3475221547.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/3883062848.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/4123835072.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/708496569.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/85667918.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3164894210.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/segments_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/bba3cdbd6f2af4569f50129e6f4b3996/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/bba3cdbd6f2af4569f50129e6f4b3996/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/bba3cdbd6f2af4569f50129e6f4b3996/segments_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.core/nexus/bba3cdbd6f2af4569f50129e6f4b3996/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.4.0.20130601-0317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.sapphire.ui/state/500c055a231fc53f1ffa6f98b7aaa8212f0c547c9d5c080bdb51443696abead1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.team.cvs.core/.running" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.common.snippets/hidden.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.common.snippets/user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1129331900.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2188366365.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3043249355.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3464869364.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/419205460.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/565317043.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/668510843.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/WebRoot/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/src/com/bjsxt/servlet/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/src/com/bjsxt/servlet/MyServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/src/com/bjsxt/servlet/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/04-文档/01-HTTP协议详解.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/04-文档/02-Tomcat服务器介绍和使用.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/04-文档/03-MyEclipse的使用和第一个Web项目.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/04-文档/04-Servlet的概念和运行流程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/04-文档/05-Servlet的web.xml配置.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/com.genuitec.eclipse.j2eedt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/com.genuitec.runtime.libraries.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot/Method.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/src/com/bjsxt/servlet/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/src/com/bjsxt/servlet/RequestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/src/com/bjsxt/servlet/ResponseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/src/com/bjsxt/servlet/ServletLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/src/com/bjsxt/servlet/ServletMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/04-文档/06-Myeclipse集成tomcat和Servlet的生命周期.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/04-文档/07-service、doGet和doPost的区别和常见错误总结 .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/2. Servlet深入_request和response对象/04-文档/08-Servlet的请求处理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.settings/com.genuitec.eclipse.j2eedt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/WebRoot/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/src/com/bjsxt/servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/src/com/bjsxt/servlet/GetCookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.settings/com.genuitec.eclipse.j2eedt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot/doc/login.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/dao/LoginDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/dao/impl/LoginDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/servlet/MainServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/src/com/bjsxt/servlet/PageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/登录练习.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/04-文档/08-Servlet的请求处理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/04-文档/Cookie学习.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.settings/com.genuitec.eclipse.j2eedt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot/doc/login.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot/nums/nums.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/dao/LoginDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/dao/impl/LoginDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/servlet/MainServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/servlet/NumServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/servlet/PageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/src/com/bjsxt/servlet/ShowServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.settings/com.genuitec.eclipse.j2eedt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/WebRoot/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/src/com/bjsxt/servlet/SessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/src/com/bjsxt/servlet/SessionServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.settings/com.genuitec.eclipse.j2eedt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot/doc/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/src/com/bjsxt/servlet/ServletContextServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/src/com/bjsxt/servlet/ServletContextServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.settings/com.genuitec.eclipse.j2eedt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/WebRoot/index111.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/src/com/bjsxt/servlet/ServletConfigServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/04-文档/ServletContext对象和ServletConfig对象.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/04-文档/session学习.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Servlet/北京尚学堂/4.Servlet深入_session_Context对象/04-文档/web.xml文件和server.xml文件.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/artifacts/SessionDemo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/artifacts/SessionDemo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/0/d/0d7d021090a038fba4710cd19dfcf056964d0fa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/1/b/1b45a1687ceb4cca89c5f9d3cbc21a7d2c03a0be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/2/a/2a1eaec608f98542ed04613f64b922d1f19361cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/f/9/f9dce199264920c50e51232b45e680ae8b698317" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/SessionDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionDemo/src/main/java/com/tai/SessionDemo/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/artifacts/WebLoginDemo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/artifacts/WebLoginDemo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/mysql_connector_java_5_1_49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/libraries/mysql_connector_java_5_1_49_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/1/4/1491a8b023ea7333b2baf24a6535e92b10666316" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/4/9/4933704aa8b4111268dc28a35ebb975457273522" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/5/9/595af3663cd8bb4acd654c8e262b107f48c3ce00" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/7/8/784a45d53d2b74c1ed954fc17252eafac4e5a5f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/8/2/826376a5acb9d80e9f4002c40c3233cf593601c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/a/e/ae0300b78d42a55171f295112f8ed98a89c29760" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/b/9/b9377b3ffafe28696a60c662d728a6d5c1465118" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/d/3/d3b3bec3e7797482ab9a4db40c00000a3faeac7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/WebLoginDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/JDBC/LoginCheckImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/JDBC/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/JDBC/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/JDBC/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/WetbLoginDemo/cookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/WetbLoginDemo/errPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/WetbLoginDemo/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/java/com/tai/WetbLoginDemo/welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebLoginDemo/src/main/webapp/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/artifacts/demo2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/artifacts/demo2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/1/c/1c20f6fd6a1eaeb418998646d6af22fd6aaa7fee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/3/b/3b72148edd6b4c03c7fef8ccefbf6a662fc7dc50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/5/d/5d66a5fdea7a533a145f6fc22591b7e49826cb33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/6/c/6c358ecdf40b064d8f9892862a27a3e21ef72255" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/7/9/79a50dd957c7ebe5db1b513483d42639e823085d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/9/a/9a31ca25486530cba231850cf060e5e159cce4b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/c/c/cc865776030772ac00832b90f1ec95db4485526e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/e/7/e72e299dfa89afd21a0d0c60dc22041c20d5b1f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/e/8/e86e7d6a4ea1fae0b705d1f90aaf450c765c4641" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/demo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/LoginService/LoginJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/LoginService/LoginJDBCimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/LoginService/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/LoginService/LoginServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/Servlet/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/Servlet/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/Servlet/ck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/Servlet/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/tai/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/artifacts/demoJPA_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/artifacts/demoJPA_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/sonarlint/issuestore/6/6/6697c37ee637b14ee2fb19d53e43563c8c38194e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/sonarlint/issuestore/a/e/aee7265d7989bbeb91b14f4100ff124f2b581c18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/demoJPA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJPA/src/main/webapp/demo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/2/6/26536974011db44136905547543fbaaa867dc560" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/2/6/26536974011db44136905547543fbaaa867dc560" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/4/d/4d0a3d9d2805394a02d20b324e7e3b2c3303fc4f" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/4/d/4d0a3d9d2805394a02d20b324e7e3b2c3303fc4f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/5/2/5230daa26fb77cb77edd2c91bb44e4cc4499ec94" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/5/2/5230daa26fb77cb77edd2c91bb44e4cc4499ec94" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/5/3/53bc226f67ff2da8f297e69413bccdfd1aa45ab7" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/5/3/53bc226f67ff2da8f297e69413bccdfd1aa45ab7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/0/80aa1eff9d9fe143860335323392ec7ba9bedbc4" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/0/80aa1eff9d9fe143860335323392ec7ba9bedbc4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/4/84f50b29c6cefdbfaa6a4e3305ef5b98952b707d" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/4/84f50b29c6cefdbfaa6a4e3305ef5b98952b707d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/9/8981248a08c4c46028c99290cc8a0f2527858203" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/9/8981248a08c4c46028c99290cc8a0f2527858203" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/f/8f086e81672db0cba05ebf2caf4df1f90b5c1089" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/8/f/8f086e81672db0cba05ebf2caf4df1f90b5c1089" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/9/2/9247b87c62cf4789fd1ec09a89dd1034260e3386" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/9/2/9247b87c62cf4789fd1ec09a89dd1034260e3386" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/b/3/b3faaebee2315c244670a8c1a75af7586903ecbf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/b/3/b3faaebee2315c244670a8c1a75af7586903ecbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/RequestServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/RequestServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/ResponseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/ResponseServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/ServletLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/ServletLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/ServletMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Servlet/src/com/bjsxt/servlet/ServletMethod.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kdV1Br1lE8usrPmsQUBRl56ksA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2097516" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\JAVA\練習\serverlet\demo\src\main\webapp" />
+      <recent name="D:\workspace\JAVA\練習\serverlet\demo\src\main" />
+      <recent name="D:\workspace\JAVA\練習\serverlet\demo\src" />
+      <recent name="D:\workspace\JAVA\練習\serverlet\demo\src\main\java" />
+      <recent name="D:\workspace\JAVA\練習\serverlet\demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/demo_war/demo1" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="demo:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo_war" />
+          </settings>
+        </artifact>
+        <artifact name="demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_demo_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="23439" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demo:war" />
+          <artifact name="demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f29ea1c-7967-47ec-8cdd-b11281b23eb3" name="Default Changelist" comment="" />
+      <created>1606030241677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606030241677</updated>
+      <workItem from="1606030248065" duration="2841000" />
+      <workItem from="1606052321206" duration="43000" />
+      <workItem from="1606093613579" duration="1191000" />
+      <workItem from="1606177364363" duration="116000" />
+      <workItem from="1606177507003" duration="1619000" />
+      <workItem from="1606266304581" duration="16000" />
+      <workItem from="1606266351285" duration="779000" />
+      <workItem from="1606353224210" duration="1205000" />
+      <workItem from="1606487720636" duration="258000" />
+      <workItem from="1606488006904" duration="597000" />
+      <workItem from="1606608520684" duration="6701000" />
+      <workItem from="1606642939698" duration="378000" />
+      <workItem from="1607240245686" duration="1880000" />
+      <workItem from="1607306529089" duration="492000" />
+      <workItem from="1607308129299" duration="18000" />
+      <workItem from="1607308212254" duration="16000" />
+      <workItem from="1609202262198" duration="30000" />
+      <workItem from="1611994737074" duration="21000" />
+      <workItem from="1612001894239" duration="11000" />
+      <workItem from="1613392309660" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

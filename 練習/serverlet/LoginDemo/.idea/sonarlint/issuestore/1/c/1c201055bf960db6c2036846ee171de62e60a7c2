@@ -1,0 +1,271 @@
+
+^
+java:S2095Ø"GUse try-with-resources or close this "Statement" in a "finally" clause.(®“ö
+c
+java:S2095™"GUse try-with-resources or close this "Statement" in a "finally" clause.(£‰•øşÿÿÿÿ
+c
+java:S2095ï"GUse try-with-resources or close this "Statement" in a "finally" clause.( Ïÿÿÿÿÿ
+k
+java:S2095£"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤Áõöıÿÿÿÿ
+c
+java:S2095Û"GUse try-with-resources or close this "Statement" in a "finally" clause.(ö¿üüÿÿÿÿ
+c
+java:S2095¦"GUse try-with-resources or close this "Statement" in a "finally" clause.(£‰•øşÿÿÿÿ
+c
+java:S2095µ"GUse try-with-resources or close this "Statement" in a "finally" clause.(£‰•øşÿÿÿÿ
+c
+java:S2095©"GUse try-with-resources or close this "Statement" in a "finally" clause.(£‰•øşÿÿÿÿ
+f
+java:S2095ª"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Â–è‹
+c
+java:S2095ç"GUse try-with-resources or close this "Statement" in a "finally" clause.(ˆÛ‘×úÿÿÿÿ
+f
+java:S1192Æ"ODefine a constant instead of duplicating this literal "ST_LineFromWKB" 4 times.(†èäÛ
+i
+java:S1192Ô"MDefine a constant instead of duplicating this literal "ALTER USER '" 4 times.(´Ğ›Ïúÿÿÿÿ
+i
+java:S1192î"RDefine a constant instead of duplicating this literal "ST_PolygonFromWKB" 4 times.(òÂ…
+`
+java:S1192Ø"IDefine a constant instead of duplicating this literal "SELECT 1" 8 times.(®“ö
+¤
+java:S1192Ø"ŒDefine a constant instead of duplicating this literal "DELETE FROM testExplicitPartitions PARTITION (subp1) WHERE b like '%subp1%'" 3 times.(§Æù
+c
+java:S1192Õ"GDefine a constant instead of duplicating this literal "mplGeo" 5 times.(áÏƒœşÿÿÿÿ
+b
+java:S1192Ø"FDefine a constant instead of duplicating this literal "ptWkb" 4 times.(›ã¶ùÿÿÿÿ
+d
+java:S1192í"MDefine a constant instead of duplicating this literal "FLUSH STATUS" 4 times.(ÈèêÂ
+õ
+java:S1192î"İDefine a constant instead of duplicating this literal "INSERT INTO testExplicitPartitions2 PARTITION (`p10-99`, subp3, `p100-99999`) SELECT * FROM testExplicitPartitions PARTITION (subp3, `p10-99`, `p100-99999`)" 3 times.(óÚ®
+”
+java:S1192í"xDefine a constant instead of duplicating this literal "EXCHANGE PARTITION p1 WITH TABLE testExchangePartition2" 4 times.(û±áØüÿÿÿÿ
+u
+java:S1192£"^Define a constant instead of duplicating this literal "testCreateTableDataDirectorya" 3 times.(ø’×¤
+b
+java:S1192Ê"FDefine a constant instead of duplicating this literal "plWkt" 5 times.(“Ú†ùÿÿÿÿ
+l
+java:S1192¬"PDefine a constant instead of duplicating this literal "testRenameIndex" 3 times.(ê•¡”şÿÿÿÿ
+z
+java:S1192¤"^Define a constant instead of duplicating this literal "testCreateTableDataDirectoryb" 3 times.(®ë£öøÿÿÿÿ
+q
+java:S1192Ò"ZDefine a constant instead of duplicating this literal "ST_MultiLineStringFromWKB" 4 times.(”÷­’
+\
+java:S1192Å"FDefine a constant instead of duplicating this literal "lsWkt" 5 times.(ú¾ÇL
+Ë
+java:S1192¤"³Define a constant instead of duplicating this literal "LOAD DATA INFILE 'loadtestExplicitPartitions.txt' INTO TABLE testExplicitPartitions PARTITION (pNeg, subp4, subp5)" 3 times.(¸Áë
+c
+java:S1192Ñ"GDefine a constant instead of duplicating this literal "mlsGeo" 5 times.(Ş³‚ªüÿÿÿÿ
+]
+java:S1192Ô"GDefine a constant instead of duplicating this literal "mptWkb" 7 times.(äŞ“o
+z
+java:S1192¦"^Define a constant instead of duplicating this literal "testCreateTableDataDirectoryd" 3 times.(ÑÑ™œşÿÿÿÿ
+d
+java:S1192
+"HDefine a constant instead of duplicating this literal "testTs1" 3 times.(Àéñ¯ùÿÿÿÿ
+„
+java:S1192ù"mDefine a constant instead of duplicating this literal "{\"key1\": \"value1\", \"key2\": \"value2\"}" 9 times.(›‹ÃÕ
+l
+java:S1192Î"PDefine a constant instead of duplicating this literal "ST_MLineFromWKB" 4 times.(Ä“ÙËşÿÿÿÿ
+b
+java:S1192Ã"FDefine a constant instead of duplicating this literal "gcWkt" 6 times.(‚ÙÚ¬üÿÿÿÿ
+_
+java:S1192‚
+"HDefine a constant instead of duplicating this literal "testTs2" 3 times.(‹Ü®„
+~
+java:S1192ÿ
+"gDefine a constant instead of duplicating this literal "show create table testTableCompression" 3 times.(¸ƒÖú
+i
+java:S1192º"MDefine a constant instead of duplicating this literal "ST_ASWKB(%s)" 6 times.(Ïº†‡şÿÿÿÿ
+k
+java:S1192¾"ODefine a constant instead of duplicating this literal "ST_GeomFromWKB" 4 times.(ÅÁãèıÿÿÿÿ
+b
+java:S1192Ï"FDefine a constant instead of duplicating this literal "lsGeo" 5 times.(Šì¦¿şÿÿÿÿ
+…
+java:S1192³"nDefine a constant instead of duplicating this literal "Wrong index name for table 'testRenameIndex'." 4 times.(’ƒ´ü
+]
+java:S1192É"FDefine a constant instead of duplicating this literal "ptWkt" 3 times.(•š¨ü
+l
+java:S1192Ş"PDefine a constant instead of duplicating this literal "ST_MPolyFromWKB" 4 times.(Æîóİÿÿÿÿÿ
+z
+java:S1192ü"^Define a constant instead of duplicating this literal "testTransportableTablespaces1" 4 times.(Æ¡ŒÀıÿÿÿÿ
+
+java:S1192œ"…Define a constant instead of duplicating this literal "ALTER TABLE testExplicitPartitions TRUNCATE PARTITION pNeg, `p10-99`" 4 times.(ª“ÿª
+z
+java:S1192ı"^Define a constant instead of duplicating this literal "testTransportableTablespaces2" 3 times.(½çë”ÿÿÿÿÿ
+^
+java:S1192È"GDefine a constant instead of duplicating this literal "mplWkt" 5 times.(Ş„Å¼
+]
+java:S1192Ú"FDefine a constant instead of duplicating this literal "plWkb" 7 times.(ıšÄ¾
+w
+java:S1192¹"[Define a constant instead of duplicating this literal "'axis-order=srid-defined'" 15 times.(Ö—ÿ¬øÿÿÿÿ
+f
+java:S1192×"ODefine a constant instead of duplicating this literal "this is a test" 3 times.(Ù¬Ó
+m
+java:S1192Ö"QDefine a constant instead of duplicating this literal "ST_MPointFromWKB" 4 times.(“è¢óùÿÿÿÿ
+¿
+java:S1192²"¢Define a constant instead of duplicating this literal "CREATE TABLE testCreateTableDataDirectorya (x VARCHAR(10) NOT NULL DEFAULT '') DATA DIRECTORY = '" 3 times.(Œ™¨¿şÿÿÿÿ
+l
+java:S1192æ"PDefine a constant instead of duplicating this literal "ST_PointFromWKB" 4 times.(ÛÉ¹üÿÿÿÿÿ
+g
+java:S1192É"PDefine a constant instead of duplicating this literal "IDENTIFIED BY '" 3 times.(‰¶®é
+h
+java:S1192ÿ	"LDefine a constant instead of duplicating this literal "testTs2Tbl1" 3 times.(Åø•ÿÿÿÿÿÿ
+f
+java:S1192ê"ODefine a constant instead of duplicating this literal "ST_PolyFromWKB" 4 times.(Ù½¨•
+l
+java:S1192Š"PDefine a constant instead of duplicating this literal "PASSWORD EXPIRE" 4 times.(»²œ¿ûÿÿÿÿ
+b
+java:S1192Ì"FDefine a constant instead of duplicating this literal "gcWkb" 7 times.(û¦£—úÿÿÿÿ
+e
+java:S1192"NDefine a constant instead of duplicating this literal "UNLOCK TABLES" 4 times.(æ‚Å
+c
+java:S1192Ó"GDefine a constant instead of duplicating this literal "mptGeo" 5 times.(•„£¤üÿÿÿÿ
+^
+java:S1192Ò"GDefine a constant instead of duplicating this literal "mlsWkb" 7 times.(Ú«Œ
+]
+java:S1192Ö"GDefine a constant instead of duplicating this literal "mplWkb" 7 times.(ğü
+é
+java:S1192ù"ÌDefine a constant instead of duplicating this literal "INSERT IGNORE INTO testExplicitPartitions2 PARTITION (subp3) SELECT * FROM testExplicitPartitions PARTITION (subp3, `p10-99`, `p100-99999`)" 3 times.( ¿Û¿ûÿÿÿÿ
+q
+java:S1192Ê"UDefine a constant instead of duplicating this literal "ST_LineStringFromWKB" 4 times.(ğùÙ÷ùÿÿÿÿ
+]
+java:S1192×"FDefine a constant instead of duplicating this literal "ptGeo" 3 times.(˜¥ÀÂ
+Ë
+java:S1192Ş"®Define a constant instead of duplicating this literal "ALTER TABLE testExchangePartition1 EXCHANGE PARTITION p1 WITH TABLE testExchangePartition2 WITHOUT VALIDATION" 3 times.(¤ş€ïùÿÿÿÿ
+Ã
+java:S1192İ"«Define a constant instead of duplicating this literal "ALTER TABLE testExchangePartition1 EXCHANGE PARTITION p1 WITH TABLE testExchangePartition2 WITH VALIDATION" 3 times.(ãÙœ¯
+p
+java:S1192Ê"YDefine a constant instead of duplicating this literal "GRANT SELECT ON *.* TO '" 3 times.(üÔ°
+]
+java:S1192É"FDefine a constant instead of duplicating this literal "'@'%'" 9 times.(‰¶®é
+j
+java:S1192Â"SDefine a constant instead of duplicating this literal "ST_GeometryFromWKB" 4 times.(ÍÇŒî
+c
+java:S1192ş	"LDefine a constant instead of duplicating this literal "testTs1Tbl2" 3 times.(Ä‚ğ”
+„
+java:S1192Ô"mDefine a constant instead of duplicating this literal "SELECT * FROM testInnodbTablespaceEncryption" 3 times.(éÊÂØ
+b
+java:S1192Ù"FDefine a constant instead of duplicating this literal "plGeo" 5 times.(ùéÁáøÿÿÿÿ
+h
+java:S1192ı	"LDefine a constant instead of duplicating this literal "testTs1Tbl1" 3 times.(¸™ªôùÿÿÿÿ
+^
+java:S1192 "GDefine a constant instead of duplicating this literal "[1, 2]" 6 times.(ß—ƒÒ
+
+java:S1192¨"wDefine a constant instead of duplicating this literal "(x VARCHAR(10) NOT NULL DEFAULT '') DATA DIRECTORY = '" 5 times.(ÏäºŸ
+^
+java:S1192Æ"GDefine a constant instead of duplicating this literal "mlsWkt" 5 times.(–…“¿
+y
+java:S1192º"]Define a constant instead of duplicating this literal "ST_GeometryCollectionFromWKB" 4 times.(£çäéûÿÿÿÿ
+™
+java:S1192Ğ"Define a constant instead of duplicating this literal "DELETE FROM testExplicitPartitions PARTITION (pNeg) WHERE a = -1" 3 times.(ğ¶‹½
+³
+java:S1192à"›Define a constant instead of duplicating this literal "ALTER TABLE testExchangePartition1 EXCHANGE PARTITION p1 WITH TABLE testExchangePartition2" 4 times.(¬ŠÅµ
+o
+java:S1192¶"SDefine a constant instead of duplicating this literal "ST_GeomCollFromWKB" 4 times.(ØÌÇıÿÿÿÿ
+q
+java:S1192Ú"UDefine a constant instead of duplicating this literal "ST_MultiPointFromWKB" 4 times.(ÕÅ¡ıûÿÿÿÿ
+d
+java:S1192Í"MDefine a constant instead of duplicating this literal "Test case: " 12 times.(„ÂµÃ
+b
+java:S1192Ë"FDefine a constant instead of duplicating this literal "gcGeo" 5 times.(“äñ…ûÿÿÿÿ
+t
+java:S1192"XDefine a constant instead of duplicating this literal "useServerPrepStmts=true" 3 times.(úŠ›¸şÿÿÿÿ
+ª
+java:S1192–"Define a constant instead of duplicating this literal "DELETE FROM testExplicitPartitions2, testExplicitPartitions3 USING testExplicitPartitions2 PARTITION (`p0-9`), testExplicitPartitions3, testExplicitPartitions PARTITION (subp3) WHERE testExplicitPartitions.a = testExplicitPartitions3.a AND testExplicitPartitions3.b = 'subp3' AND testExplicitPartitions2.a = testExplicitPartitions.a" 3 times.(†¨¿Øúÿÿÿÿ
+¢
+java:S1192"…Define a constant instead of duplicating this literal "DELETE testExplicitPartitions, testExplicitPartitions2 FROM testExplicitPartitions PARTITION (pNeg), testExplicitPartitions3, testExplicitPartitions2 PARTITION (subp3) WHERE testExplicitPartitions.a = testExplicitPartitions3.a AND testExplicitPartitions3.b = 'subp3' AND testExplicitPartitions3.a = testExplicitPartitions2.a" 3 times.(ÅÄÂÜùÿÿÿÿ
+q
+java:S1192ò"ZDefine a constant instead of duplicating this literal "Column 'c' cannot be null" 3 times.(“á­«
+Æ
+java:S1192•"®Define a constant instead of duplicating this literal "SELECT * FROM testExplicitPartitions PARTITION (pNeg, `p10-99`) INTO OUTFILE 'loadtestExplicitPartitions.txt'" 3 times.(°òÃ
+r
+java:S1192î"[Define a constant instead of duplicating this literal "SELECT * FROM testJsonType" 5 times.(šö”±
+b
+java:S1192Ğ"FDefine a constant instead of duplicating this literal "lsWkb" 7 times.(¼ääãüÿÿÿÿ
+Æ
+java:S1192®"¯Define a constant instead of duplicating this literal "LOAD DATA INFILE 'loadtestExplicitPartitions.txt' INTO TABLE testExplicitPartitions PARTITION (pNeg, `p10-99`)" 3 times.(òƒ‹[
+w
+java:S1192°"[Define a constant instead of duplicating this literal "LineString(%s, %s, %s, %s)" 3 times.(Ëê±‘úÿÿÿÿ
+n
+java:S1192â"WDefine a constant instead of duplicating this literal "ST_MultiPolygonFromWKB" 4 times.(¥”
+]
+java:S1192Ç"GDefine a constant instead of duplicating this literal "mptWkt" 5 times.(›Ç›
+Æ
+java:S1192…"®Define a constant instead of duplicating this literal "CREATE TABLE testExplicitPartitions3 SELECT * FROM testExplicitPartitions PARTITION (pNeg,subp3,`p100-99999`)" 3 times.(º‚æÛ
+K
+java:S1066"/Merge this if statement with the enclosing one.(±µÛËøÿÿÿÿ
+\	java:S107ù"AConstructor has 8 parameters, which is greater than 7 authorized.(—¤Ëäûÿÿÿÿ
+a	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(›œŸ‹ûÿÿÿÿ
+a	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(¤î¿šùÿÿÿÿ
+a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(Ö¼åóûÿÿÿÿ
+[	java:S112¾"FDefine and throw a dedicated exception instead of using a generic one.(ø€¯J
+\	java:S112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ØÍ”è
+a	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(ŞÉëûÿÿÿÿ
+\	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(×š×ú
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(“Ï–îüÿÿÿÿ
+\	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(ÚÄœñ
+\	java:S112İ	"FDefine and throw a dedicated exception instead of using a generic one.(¯®“†
+a	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(Ş²‚†ûÿÿÿÿ
+\	java:S112§
+"FDefine and throw a dedicated exception instead of using a generic one.(îÿ¡‚
+\	java:S112à
+"FDefine and throw a dedicated exception instead of using a generic one.(¶µÍ¶
+a	java:S112÷
+"FDefine and throw a dedicated exception instead of using a generic one.(éÙÿ´ÿÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(öçá‘şÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(†ê‚•ÿÿÿÿÿ
+a	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(›¨Öüÿÿÿÿ
+\	java:S112ş"FDefine and throw a dedicated exception instead of using a generic one.(âØ†Ã
+[	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(¸Ôª)
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ëäûÿÿÿÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ëäûÿÿÿÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ëäûÿÿÿÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ëäûÿÿÿÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ëäûÿÿÿÿ
+g	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘îÉ™
+M
+java:S1135g"2Complete the task associated to this TODO comment.(íä³úÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(è”„îÿÿÿÿÿ
+n
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(›œŸ‹ûÿÿÿÿ
+e
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ğ Æñ
+Q	java:S899";Do something with the "boolean" value returned by "delete".(ğ Æñ
+e
+java:S4042†"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ô­·—
+Q	java:S899†";Do something with the "boolean" value returned by "delete".(Ô­·—
+D	java:S108Â")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+D	java:S108È")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+F
+java:S2093±"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¤î¿šùÿÿÿÿ
+[
+java:S3358ï"DExtract this nested ternary operation into an independent statement.(Ôá–
+[
+java:S3358û"DExtract this nested ternary operation into an independent statement.(Ôá–
+Z
+java:S3358"DExtract this nested ternary operation into an independent statement.(ĞÂ¹O
+Z
+java:S3358œ"DExtract this nested ternary operation into an independent statement.(ĞÂ¹O
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ö¼åóûÿÿÿÿ
+j
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
+V	java:S899";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
+u
+java:S2293À
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÜ§‡ıÿÿÿÿ
+u
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(È±ı«úÿÿÿÿ
+u	java:S116ñ"ZRename this field "low_version_maj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º²¨êÿÿÿÿÿ
+u	java:S116ò"ZRename this field "low_version_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( œ¨úÿÿÿÿ
+o	java:S116ó"ZRename this field "low_version_sub" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡é‘
+o	java:S116ô"YRename this field "hi_version_maj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ƒ´Š
+t	java:S116õ"YRename this field "hi_version_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æ×üûÿÿÿÿ
+t	java:S116ö"YRename this field "hi_version_sub" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¥…°ùÿÿÿÿ
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó¸ñÿÿÿÿÿ
+T	java:S106é"9Replace this use of System.out or System.err by a logger.(µÁÅ¶ùÿÿÿÿ

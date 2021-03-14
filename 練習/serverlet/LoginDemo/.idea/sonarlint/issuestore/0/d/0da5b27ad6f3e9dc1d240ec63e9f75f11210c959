@@ -1,0 +1,13 @@
+
+\
+java:S2095="GUse try-with-resources or close this "Statement" in a "finally" clause.(ÑâØ
+i
+java:S2095R"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÒŒ´Ÿüÿÿÿÿ
+@
+java:S1181@"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+E
+java:S2093P"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(æ…û»
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(ÏÜ˜ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(ð¶›Ì

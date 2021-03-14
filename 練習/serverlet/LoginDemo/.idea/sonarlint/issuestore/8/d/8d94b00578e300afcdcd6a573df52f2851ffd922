@@ -1,0 +1,142 @@
+
+j
+java:S1192Ä"NDefine a constant instead of duplicating this literal "StringUtils.5" 4 times.(¥œ¢½üÿÿÿÿ
+j
+java:S1192Ä"NDefine a constant instead of duplicating this literal "StringUtils.6" 4 times.(¥œ¢½üÿÿÿÿ
+j
+java:S1192ö"NDefine a constant instead of duplicating this literal "StringUtils.0" 3 times.(ñúü±ÿÿÿÿÿ
+j
+java:S1192ö"NDefine a constant instead of duplicating this literal "StringUtils.1" 3 times.(ñúü±ÿÿÿÿÿ
+K
+java:S1066í"/Merge this if statement with the enclosing one.(À®„£øÿÿÿÿ
+F
+java:S1066Ì"/Merge this if statement with the enclosing one.(‹÷ì“
+F
+java:S1066î"/Merge this if statement with the enclosing one.(Êº˜Ò
+F
+java:S1066"/Merge this if statement with the enclosing one.(Êº˜Ò
+F
+java:S1066¼"/Merge this if statement with the enclosing one.(Êº˜Ò
+F
+java:S1066Ü"/Merge this if statement with the enclosing one.(Êº˜Ò
+F
+java:S1066¦"/Merge this if statement with the enclosing one.(Êº˜Ò
+W	java:S107ÿ"<Method has 8 parameters, which is greater than 7 authorized.(²ö¹åÿÿÿÿÿ
+R	java:S107Í"<Method has 8 parameters, which is greater than 7 authorized.(ˆ”òç
+W	java:S107ı"<Method has 8 parameters, which is greater than 7 authorized.(«³ƒ¾ÿÿÿÿÿ
+W	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(éÒàûÿÿÿÿ
+8
+java:S1643ˆ"Use a StringBuilder instead.(µö¶íşÿÿÿÿ
+8
+java:S1643‰"Use a StringBuilder instead.(ñğÁìûÿÿÿÿ
+m	java:S127Ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ğ§ö
+
+s	java:S127”"XRefactor the code in order to not assign to this loop counter from within the loop body.(áœÈóÿÿÿÿÿ
+n	java:S127ƒ	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÈãÇÓ
+n	java:S127¾	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÈÑºÚ
+n	java:S127É	"XRefactor the code in order to not assign to this loop counter from within the loop body.(áäèã
+m	java:S127Ğ	"XRefactor the code in order to not assign to this loop counter from within the loop body.(©á
+n	java:S127×	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÈÑºÚ
+n	java:S127ß	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÈÑºÚ
+s	java:S127é	"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡íÖÑüÿÿÿÿ
+s	java:S127ê	"XRefactor the code in order to not assign to this loop counter from within the loop body.(õğ”­ıÿÿÿÿ
+n	java:S127î	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿç¡®
+s	java:S127ò	"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡íÖÑüÿÿÿÿ
+s	java:S127ó	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ùĞğüÿÿÿÿÿ
+n	java:S127ü	"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚ƒ§‰
+n	java:S127†
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿç¡®
+s	java:S127
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(È¦¯±şÿÿÿÿ
+n	java:S127‘
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(Î—›
+n	java:S127—
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÏÌ¥ë
+n	java:S127
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñü—ê
+t	java:S135İ"YReduce the total number of break and continue statements in this loop to use at most one.(ÉÁË„úÿÿÿÿ
+t	java:S135ª"YReduce the total number of break and continue statements in this loop to use at most one.(ÔïÙãşÿÿÿÿ
+t	java:S135÷"YReduce the total number of break and continue statements in this loop to use at most one.(ÔïÙãşÿÿÿÿ
+t	java:S135Å"YReduce the total number of break and continue statements in this loop to use at most one.(û‚„”øÿÿÿÿ
+o	java:S135ã"YReduce the total number of break and continue statements in this loop to use at most one.(Ã—ä
+]
+java:S2259ü"AA "NullPointerException" could be thrown; "src" is nullable here.(ÃŞŸ•ÿÿÿÿÿ
+E
+java:S1121Œ
+".Extract the assignment out of this expression.(İÌÀë
+t	java:S115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹‹öáûÿÿÿÿ
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÅƒ‰ıÿÿÿÿ
+\
+java:S2147"ECombine this catch with the one at line 141, which has the same body.(¼ï”›
+[
+java:S2147‘"ECombine this catch with the one at line 141, which has the same body.(à¼ßa
+X
+java:S3878¤"ADisambiguate this call by either casting as "Class" or "Class[]".(Ó’Û
+\
+java:S2147½"ECombine this catch with the one at line 187, which has the same body.(Ãì
+n
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ë™İóşÿÿÿÿ
+i
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(İ¤ìË
+=
+java:S1168®"&Return an empty array instead of null.(¥¹ï
+W	java:S125¿"<This block of commented-out lines of code should be removed.(ù²êûÿÿÿÿÿ
+€
+java:S1130³"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ÙÁÓ;
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÁÚ®úÿÿÿÿ
+†
+java:S1130·"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ÁÚ®úÿÿÿÿ
+
+java:S1130"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(×íûâ
+n
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ôá”øÿÿÿÿÿ
+†
+java:S1130…"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ôá”øÿÿÿÿÿ
+†
+java:S1130Î"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ş¦ÿŠşÿÿÿÿ
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(õı‹Š
+
+java:S1130Ò"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(õı‹Š
+>	java:S108Ç")Either remove or fill this block of code.(Ğ§ö
+
+i
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ûö¦±
+i
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(øÙù‘
+R
+java:S1854±	"6Remove this useless assignment to local variable "c0".(†ªÑüûÿÿÿÿ
+o
+java:S3776¥	"SRefactor this method to reduce its Cognitive Complexity from 132 to the 15 allowed.(•„İûşÿÿÿÿ
+j
+java:S1871ƒ
+"NThis branch's code block is the same as the block for the branch on line 1213.(²Ş¬»üÿÿÿÿ
+p
+java:S2293Ä
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆğÜÒ
+o
+java:S2293Í
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÏá
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆğÜÒ
+u
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(–«²Îûÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(Ì“ÚÍ
+=
+java:S1168ı"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ÿ”ÅÇüÿÿÿÿ
+?	java:S108…")Either remove or fill this block of code.(ƒ‚Åñ
+?	java:S108Š")Either remove or fill this block of code.(ƒ‚Åñ
+?	java:S108›")Either remove or fill this block of code.(ƒ‚Åñ
+=
+java:S1168õ"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168ÿ"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168š"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168¤"&Return an empty array instead of null.(¥¹ï

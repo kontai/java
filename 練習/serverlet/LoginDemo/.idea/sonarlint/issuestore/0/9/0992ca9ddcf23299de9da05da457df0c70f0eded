@@ -1,0 +1,18 @@
+
+J
+java:S1066r"/Merge this if statement with the enclosing one.(½©…ıÿÿÿÿ
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(áêÍ¢üÿÿÿÿ
+w
+java:S1488ƒ"`Immediately return this expression instead of assigning it to the temporary variable "asString".(‘Âÿ±
+Z
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(¸ÅÒX
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ùí÷èúÿÿÿÿ
+Z
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(ŸÙ¾J
+m
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(æ£»§ûÿÿÿÿ
+I
+java:S1874H"3Remove this use of "newInstance"; it is deprecated.(«²á¬
+\
+java:S2130r"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(½©…ıÿÿÿÿ

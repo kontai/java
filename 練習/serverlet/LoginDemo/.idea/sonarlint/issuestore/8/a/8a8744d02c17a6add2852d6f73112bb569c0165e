@@ -1,0 +1,13 @@
+
+[	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(£ËÀ
+
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñÂ¦şÿÿÿÿ
+œ
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§„¯Ãıÿÿÿÿ
+‚
+java:S1845Í"fRename method "setUrl" to prevent any misunderstanding/clash with method "setURL" defined on line 312.(ñ’Ã÷úÿÿÿÿ
+‚
+java:S1845×"fRename method "getUrl" to prevent any misunderstanding/clash with method "getURL" defined on line 321.(ê¼»Õÿÿÿÿÿ
+`
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(şÌÀÿûÿÿÿÿ
+Q	java:S125¯"<This block of commented-out lines of code should be removed.(¦£µc

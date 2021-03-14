@@ -1,0 +1,14 @@
+
+[	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Ê÷¿…
+Z	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(ßÈ!
+\	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(é‹÷Ö
+a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(»Ï‹øÿÿÿÿ
+\	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(©ö™Æ
+a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(²¤èŒøÿÿÿÿ
+\	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(÷òë‘
+a	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(¾™³Ãşÿÿÿÿ
+a	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(²±ã™ûÿÿÿÿ
+[	java:S112õ"FDefine and throw a dedicated exception instead of using a generic one.(‰âÀ3
+`
+java:S2259„"DA "NullPointerException" could be thrown; "result" is nullable here.(™ÈãÌúÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(†ûèêşÿÿÿÿ

@@ -1,0 +1,24 @@
+
+u
+java:S1192»"^Define a constant instead of duplicating this literal "Connection explicitly closed." 3 times.(òÓ®ø
+F
+java:S1066ê"/Merge this if statement with the enclosing one.(Íªü¤
+`	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(ıï§
+\	java:S112æ"FDefine and throw a dedicated exception instead of using a generic one.(­ş¤È
+
+java:S3008G"dRename this field "JDBC_4_MS_CONNECTION_CTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¬µÑÿÿÿÿÿ
+_
+java:S2147P"DCombine this catch with the one at line 78, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S2147R"DCombine this catch with the one at line 78, which has the same body.(ıàÑÎ
+\
+java:S3878M"ADisambiguate this call by either casting as "Class" or "Class[]".(àŸæ«ùÿÿÿÿ
+‡
+java:S1130„"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Throwable'.(ıï§
+
+java:S1130„"†Remove the declaration of thrown exception 'java.lang.reflect.InvocationTargetException' which is a subclass of 'java.lang.Throwable'.(ıï§
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(õ¸áœÿÿÿÿÿ

@@ -1,0 +1,40 @@
+
+€
+java:S1192¼"dUse already-defined constant 'SQL_STATE_ER_QUERY_INTERRUPTED' instead of duplicating its value here.(”£à÷ùÿÿÿÿ
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+\	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(È¤‘
+J
+java:S1143ø"4Remove this throw statement from this finally block.(ªäá:
+S
+java:S1163ø"=Refactor this code to not throw exceptions in finally blocks.(ªäá:
+U
+java:S11180":Add a private constructor to hide the implicit public one.(ÔÍöøûÿÿÿÿ
+a
+java:S2147˜"ECombine this catch with the one at line 150, which has the same body.(¼¯•¶ùÿÿÿÿ
+\
+java:S2147š"ECombine this catch with the one at line 150, which has the same body.(ıàÑÎ
+X
+java:S3878•"ADisambiguate this call by either casting as "Class" or "Class[]".(‘ğĞõ
+u
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÒÊıÿÿÿÿ
+u
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ôª¥ÿÿÿÿÿ
+u
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÏÃ»ıÿÿÿÿ
+i
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(´¢§ı
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(›×™Œÿÿÿÿÿ
+p
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Òï¥
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ÛÏˆ
+W	java:S125"<This block of commented-out lines of code should be removed.(õïŞÈüÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(Û¬¨à
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(¢é®Òøÿÿÿÿ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(ØôÿÂşÿÿÿÿ
+n
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(µäµ“şÿÿÿÿ
+i
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ĞæåÚ

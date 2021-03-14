@@ -1,0 +1,14 @@
+
+]
+java:S2095a"GUse try-with-resources or close this "Statement" in a "finally" clause.(›¥ú
+b
+java:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ
+c
+java:S2095;"HUse try-with-resources or close this "Connection" in a "finally" clause.(‡Å›ıÿÿÿÿ
+^
+java:S20955"HUse try-with-resources or close this "Connection" in a "finally" clause.(ğÂ‹ß
+]
+java:S2095="GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
+`	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+S
+java:S1197)"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ

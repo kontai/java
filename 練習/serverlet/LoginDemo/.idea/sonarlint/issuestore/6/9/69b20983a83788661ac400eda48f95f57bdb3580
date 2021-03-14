@@ -1,0 +1,51 @@
+
+s
+java:S1192§"WDefine a constant instead of duplicating this literal "Illegal minute value '" 4 times.(¨ÈÙÅþÿÿÿÿ
+€
+java:S1192¡"dDefine a constant instead of duplicating this literal "' for java.sql.Time type in value '" 6 times.(®¶ÿÔúÿÿÿÿ
+K
+java:S1066†"/Merge this if statement with the enclosing one.(Îø¿Œþÿÿÿÿ
+K
+java:S1066º"/Merge this if statement with the enclosing one.(Îø¿Œþÿÿÿÿ
+K
+java:S1066·"/Merge this if statement with the enclosing one.(ø“³—ÿÿÿÿÿ
+[
+java:S2184ü"ECast one of the operands of this subtraction operation to a "double".(Éç¶
+\
+java:S2184¨"ECast one of the operands of this subtraction operation to a "double".(†°—½
+X	java:S107è"=Method has 10 parameters, which is greater than 7 authorized.(÷…ýŽúÿÿÿÿ
+W	java:S107”"<Method has 8 parameters, which is greater than 7 authorized.(Ýõí²ùÿÿÿÿ
+
+java:S1488‚"cImmediately return this expression instead of assigning it to the temporary variable "changedTime".(ä¸‚–ÿÿÿÿÿ
+€
+java:S1488ˆ"dImmediately return this expression instead of assigning it to the temporary variable "adjustedTime".(Œ©…Îýÿÿÿÿ
+
+java:S1488¶"hImmediately return this expression instead of assigning it to the temporary variable "changedTimestamp".(çèøÎ
+P
+java:S1118+":Add a private constructor to hide the implicit public one.(íÍ´¤
+`
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(›À®©ùÿÿÿÿ
+_
+java:S2147?"DCombine this catch with the one at line 61, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S2147T"DCombine this catch with the one at line 82, which has the same body.(Å¡ß
+Z
+java:S2147V"DCombine this catch with the one at line 82, which has the same body.(åþáÿ
+k
+java:S2445Í"T"sessionCalendar" is a method parameter, and should not be used for synchronization.(´¶ú’
+\
+java:S1124è"EReorder the modifiers to comply with the Java Language Specification.(Í¡ÂÞ
+a
+java:S1124ˆ"EReorder the modifiers to comply with the Java Language Specification.(ô÷·˜ýÿÿÿÿ
+[
+java:S1124ž"EReorder the modifiers to comply with the Java Language Specification.(ðã®Q
+d
+java:S2445±"H"cal" is a method parameter, and should not be used for synchronization.(ë„Ç‚úÿÿÿÿ
+a
+java:S1124Â"EReorder the modifiers to comply with the Java Language Specification.(Õ×˜øÿÿÿÿ
+a
+java:S1124è"EReorder the modifiers to comply with the Java Language Specification.(÷…ýŽúÿÿÿÿ
+d
+java:S2445ë"H"cal" is a method parameter, and should not be used for synchronization.(ë„Ç‚úÿÿÿÿ
+a
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(Ýõí²ùÿÿÿÿ

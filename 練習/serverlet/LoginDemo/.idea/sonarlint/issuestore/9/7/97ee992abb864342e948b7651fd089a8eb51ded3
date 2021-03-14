@@ -1,0 +1,15 @@
+
+{
+java:S1192‡"dDefine a constant instead of duplicating this literal "'0123456789ABCDEF0123456789ABCDEF'," 4 times.(ü‚«“
+S	java:S106="9Replace this use of System.out or System.err by a logger.(†¥Ÿžùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ê§Â:
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(þŠ·ñýÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(ÌÑôùûÿÿÿÿ
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(¥¥ãè
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(ã’‰­
+N	java:S106¾"9Replace this use of System.out or System.err by a logger.(Þ³Ëg
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(å‡ëÇøÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+O	java:S106Æ"9Replace this use of System.out or System.err by a logger.(šà Ü
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(µÔ¸Ø

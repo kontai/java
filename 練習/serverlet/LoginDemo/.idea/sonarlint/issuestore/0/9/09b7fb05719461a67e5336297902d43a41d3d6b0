@@ -1,0 +1,48 @@
+
+a
+java:S1192n"FDefine a constant instead of duplicating this literal "false" 3 times.(×õ‚ÿùÿÿÿÿ
+`	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112â"FDefine and throw a dedicated exception instead of using a generic one.(®à¦úÿÿÿÿ
+U
+java:S1155©">Use isEmpty() to check whether the collection is empty or not.(‡ÈàÌ
+U
+java:S1155¸">Use isEmpty() to check whether the collection is empty or not.(ÿ‰‰à
+P
+java:S4973Ì"9Use the "equals" method if value comparison was intended.(óÑˆİ
+|
+java:S3008>"fRename this field "JDBC_4_REPL_CONNECTION_CTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õàì
+y
+java:S3008?"^Rename this field "INTERFACES_TO_PROXY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ì¬‚ùÿÿÿÿ
+_
+java:S2147I"DCombine this catch with the one at line 71, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S2147K"DCombine this catch with the one at line 71, which has the same body.(ıàÑÎ
+\
+java:S3878E"ADisambiguate this call by either casting as "Class" or "Class[]".(·²©øüÿÿÿÿ
+h
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(÷ñ
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á®ë¼ùÿÿÿÿ
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öœáÿÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒàÃÿÿÿÿÿ
+u
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÍØÈşÿÿÿÿ
+D	java:S108’")Either remove or fill this block of code.(Ò´øÿÿÿÿ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”Üıéşÿÿÿÿ
+`
+java:S4201Ä"IRemove this unnecessary null check; "instanceof" returns false for nulls.(×¿ûç
+e
+java:S4201Ë"IRemove this unnecessary null check; "instanceof" returns false for nulls.(úèüÿÿÿÿ
+i
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ˆË¹ˆ
+b
+java:S2886Â"FSynchronize this method to match the synchronization on "setReadOnly".(àÂõÊûÿÿÿÿ
+i
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ê½”â
+Š
+java:S1130Â"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(àÂõÊûÿÿÿÿ

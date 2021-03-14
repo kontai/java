@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¨ËÙ
+U
+java:S22592"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ª
+X
+java:S2259)"BA "NullPointerException" could be thrown; "conn" is nullable here.(çè˜Ò
+C
+java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(²‘¡“úÿÿÿÿ

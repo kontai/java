@@ -1,0 +1,149 @@
+
+c
+java:S2095˜"GUse try-with-resources or close this "Statement" in a "finally" clause.(«µÒüÿÿÿÿ
+^
+java:S2095Ù"GUse try-with-resources or close this "Statement" in a "finally" clause.(£ã€ÿ
+^
+java:S2095Û"GUse try-with-resources or close this "Statement" in a "finally" clause.(çíò
+n
+java:S2095Ô"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(£ğóÙûÿÿÿÿ
+^
+java:S2095Õ"GUse try-with-resources or close this "Statement" in a "finally" clause.(“×áé
+]
+java:S1192ç"FDefine a constant instead of duplicating this literal "TABLE" 3 times.(²©Ñ±
+f
+java:S1192Ã"JDefine a constant instead of duplicating this literal "localhost" 5 times.(¤•²¦ùÿÿÿÿ
+e
+java:S1192Ÿ"NDefine a constant instead of duplicating this literal "Connected to " 4 times.(İö¨Ê
+\	java:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(Ê½­Ê
+a	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(‡“éáûÿÿÿÿ
+\	java:S112›	"FDefine and throw a dedicated exception instead of using a generic one.(Ó¼¤
+\	java:S112ñ	"FDefine and throw a dedicated exception instead of using a generic one.(£ÖÃ†
+a	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(¡¼µŒıÿÿÿÿ
+[	java:S112–
+"FDefine and throw a dedicated exception instead of using a generic one.(¦ô§^
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×“Çıÿÿÿÿ
+D
+java:S1604æ"(Make this anonymous inner class a lambda(ø°ßåûÿÿÿÿ
+r
+java:S1488¼"[Immediately return this expression instead of assigning it to the temporary variable "url".(œ¼ïÄ
+t
+java:S1488û"^Immediately return this expression instead of assigning it to the temporary variable "lbConn".(ï®×j
+P
+java:S5993ƒ"9Change the visibility of this constructor to "protected".(´Çœã
+u	java:S116C"`Rename this field "DISABLED_testBug15121" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¨³Ñ
+y	java:S116D"_Rename this field "DISABLED_testBug7033" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™èÎíûÿÿÿÿ
+y	java:S116E"_Rename this field "DISABLED_testBug2654" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß›´üÿÿÿÿ
+y	java:S116F"_Rename this field "DISABLED_testBug5136" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŸÀêÿÿÿÿÿ
+u	java:S116G"`Rename this field "DISABLED_testBug65503" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êş°å
+|	java:S116H"bRename this field "DISABLED_testContention" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‘Ï¢ÿÿÿÿÿ
+`
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(üÍ¸ôşÿÿÿÿ
+`
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(ğß¢²ıÿÿÿÿ
+H
+java:S1135C"2Complete the task associated to this TODO comment.(¶¨³Ñ
+M
+java:S1135D"2Complete the task associated to this TODO comment.(™èÎíûÿÿÿÿ
+M
+java:S1135E"2Complete the task associated to this TODO comment.(ß›´üÿÿÿÿ
+M
+java:S1135F"2Complete the task associated to this TODO comment.(ÛŸÀêÿÿÿÿÿ
+H
+java:S1135G"2Complete the task associated to this TODO comment.(êş°å
+M
+java:S1135H"2Complete the task associated to this TODO comment.(î‘Ï¢ÿÿÿÿÿ
+>
+java:S3010Š""Remove this assignment of "dbUrl".(£ËÓ”ÿÿÿÿÿ
+9
+java:S3010""Remove this assignment of "dbUrl".(Ó £µ
+B
+java:S3010–"&Remove this assignment of "sha256Url".(¡õç«øÿÿÿÿ
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(Î…ÒÅ
+Y
+java:S1858á"="get" returns a string, there's no need to call "toString()".(—õ§Øüÿÿÿÿ
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(õ¿ˆ‹ÿÿÿÿÿ
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚ëô¡şÿÿÿÿ
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(úÓ„Òøÿÿÿÿ
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(ñÀê½
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(Ü´Œè
+O
+java:S1874€"3Remove this use of "newInstance"; it is deprecated.(É¨õÌÿÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıøÍ®ÿÿÿÿÿ
+E
+java:S2115…")Add password protection to this database.(âëÒ›üÿÿÿÿ
+?
+java:S2115†")Add password protection to this database.(¢ñM
+i
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(«¤ÜÕ
+D	java:S108É")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108Ğ")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108ã")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108è")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108ô")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108û")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108‚")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108‰")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(ä×“Çıÿÿÿÿ
+E
+java:S2140×")Use "java.util.Random.nextInt()" instead.(âˆíÆşÿÿÿÿ
+A
+java:S1181ñ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+e
+java:S4042ğ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ŒÅú
+Q	java:S899ğ";Do something with the "boolean" value returned by "delete".(ŒÅú
+d	java:S119·"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ŠÙÙÆüÿÿÿÿ
+_	java:S119»"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‹†Ø¨
+_	java:S119¿"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(„öˆâ
+d	java:S119Ã"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(£Ëñèıÿÿÿÿ
+A
+java:S1181É"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+T
+java:S1197‚"8Move the array designator from the variable to the type.(Û¦±¾şÿÿÿÿ
+T
+java:S1197‚"8Move the array designator from the variable to the type.(Û¦±¾şÿÿÿÿ
+;
+java:S2129‰"Remove this "Short" constructor(ÖÌ™²øÿÿÿÿ
+I
+java:S1874‰"-Remove this use of "Short"; it is deprecated.(ÖÌ™²øÿÿÿÿ
+8
+java:S2129‹"!Remove this "Integer" constructor(ü½ü
+F
+java:S1874‹"/Remove this use of "Integer"; it is deprecated.(ü½ü
+5
+java:S2129"Remove this "Long" constructor(ŒŒ‚Î
+C
+java:S1874",Remove this use of "Long"; it is deprecated.(ŒŒ‚Î
+8
+java:S2129"!Remove this "Boolean" constructor(½†ä¦
+F
+java:S1874"/Remove this use of "Boolean"; it is deprecated.(½†ä¦
+5
+java:S2129‘"Remove this "Byte" constructor(³Ö¤
+C
+java:S1874‘",Remove this use of "Byte"; it is deprecated.(³Ö¤
+7
+java:S2129“" Remove this "Double" constructor(“Ôş¶
+E
+java:S1874“".Remove this use of "Double"; it is deprecated.(“Ôş¶
+I
+java:S1874•"-Remove this use of "Float"; it is deprecated.(´•ÓÄúÿÿÿÿ
+p
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éşı‡
+ˆ
+java:S1130
+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¡¼µŒıÿÿÿÿ
+‚
+java:S1130–
+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¦ô§^

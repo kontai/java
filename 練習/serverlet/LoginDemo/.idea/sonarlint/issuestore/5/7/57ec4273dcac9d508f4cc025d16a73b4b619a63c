@@ -1,0 +1,33 @@
+
+a
+java:S1192¸"JDefine a constant instead of duplicating this literal "localhost" 3 times.(»ø¸ì
+
+java:S1192Ã"qDefine a constant instead of duplicating this literal "Unable to create properties transform instance '" 3 times.(€¢á¤øÿÿÿÿ
+e
+java:S1192À"IDefine a constant instead of duplicating this literal "address=" 3 times.(ğİ«ìüÿÿÿÿ
+|
+java:S1192Ã"`Define a constant instead of duplicating this literal "' due to underlying exception: " 3 times.(€¢á¤øÿÿÿÿ
+v
+java:S1488Ã"_Immediately return this expression instead of assigning it to the temporary variable "newConn".(¢Úñø
+[
+java:S1124r"EReorder the modifiers to comply with the Java Language Specification.(İ´ğ½
+a
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(ƒœ·Èşÿÿÿÿ
+u
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÑºÿÿÿÿÿ
+u
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÑºÿÿÿÿÿ
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªî©øÿÿÿÿ
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(³şÀ²şÿÿÿÿ
+n
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(‡­ï²ıÿÿÿÿ
+\
+java:S2147‚"ECombine this catch with the one at line 639, which has the same body.(®ıÑ
+\
+java:S2147Å"ECombine this catch with the one at line 705, which has the same body.(Å¡ß
+\
+java:S2147É"ECombine this catch with the one at line 705, which has the same body.(ıàÑÎ
+n
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ğÆ†ùÿÿÿÿ

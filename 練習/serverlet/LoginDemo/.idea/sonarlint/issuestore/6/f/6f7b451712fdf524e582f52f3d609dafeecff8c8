@@ -1,0 +1,14 @@
+
+Z	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(ðèú
+l	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‘ÚŽýÿÿÿÿ
+s
+java:S1450H"]Remove the "variationValue" field and declare it as a local variable in the relevant methods.(ˆ²Ï–
+O
+java:S5993U"9Change the visibility of this constructor to "protected".(‰´Ï†
+t
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ûËÒùÿÿÿÿ
+7
+java:S2129’" Remove this "Double" constructor(ø‡ëå
+E
+java:S1874’".Remove this use of "Double"; it is deprecated.(ø‡ëå
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(Ôóªµ

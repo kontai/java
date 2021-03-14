@@ -1,0 +1,333 @@
+
+G
+java:S1444ø"0Make this "public static charsetMap" field final(ø†¾÷
+d
+java:S1192’""HDefine a constant instead of duplicating this literal " ms: \t" 3 times.(¦á½–üÿÿÿÿ
+r
+java:S1192ó"VDefine a constant instead of duplicating this literal "parseInfoCacheFactory" 6 times.(Õ”˜Ñøÿÿÿÿ
+”
+java:S1192Ó"}Define a constant instead of duplicating this literal "HOLD_CUSRORS_OVER_COMMIT is only supported holdability level" 4 times.(œ éú
+w
+java:S1192ú"`Define a constant instead of duplicating this literal "Connection.CantLoadCacheFactory" 4 times.(±õ½…
+l
+java:S1192ÿ"UDefine a constant instead of duplicating this literal "character_set_client" 6 times.(¿Çæ³
+`
+java:S1192Ø"JDefine a constant instead of duplicating this literal "localhost" 3 times.(ãÓ7
+\
+java:S1192”""FDefine a constant instead of duplicating this literal " and " 4 times.(£õ».
+c
+java:S1192¼"GDefine a constant instead of duplicating this literal "latin1" 5 times.(»Ôæııÿÿÿÿ
+q
+java:S1192¸	"UDefine a constant instead of duplicating this literal "character_set_server" 3 times.(¼Ì‚Şúÿÿÿÿ
+c
+java:S1192”""MDefine a constant instead of duplicating this literal "\n\tbetween " 4 times.(£õ».
+g
+java:S1192´"KDefine a constant instead of duplicating this literal "SET NAMES " 3 times.(’éÔ€øÿÿÿÿ
+`
+java:S1192É"IDefine a constant instead of duplicating this literal "sql_mode" 3 times.( ôÎß
+p
+java:S1192€	"YDefine a constant instead of duplicating this literal "character_set_connection" 6 times.(±«Ğ¥
+]
+java:S1192„"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(»®¯
+F
+java:S1066Û	"/Merge this if statement with the enclosing one.(–å‰ç
+F
+java:S1066„"/Merge this if statement with the enclosing one.(æÇ¦
+F
+java:S1066Ğ"/Merge this if statement with the enclosing one.(ìæ”·
+E
+java:S1066¦"/Merge this if statement with the enclosing one.(¥°ä
+K
+java:S1066Ò"/Merge this if statement with the enclosing one.(âˆâ™ûÿÿÿÿ
+F
+java:S1066“"/Merge this if statement with the enclosing one.(¥À¬à
+K
+java:S1066ú"/Merge this if statement with the enclosing one.(—ÆÖìùÿÿÿÿ
+K
+java:S1066…"/Merge this if statement with the enclosing one.(âˆâ™ûÿÿÿÿ
+K
+java:S1066’ "/Merge this if statement with the enclosing one.(âˆâ™ûÿÿÿÿ
+F
+java:S1066ê""/Merge this if statement with the enclosing one.(İ¨©ò
+F
+java:S1066˜$"/Merge this if statement with the enclosing one.(æÇ¦
+K
+java:S1066Ç$"/Merge this if statement with the enclosing one.(âˆâ™ûÿÿÿÿ
+K
+java:S1066µ&"/Merge this if statement with the enclosing one.(‰£Óıÿÿÿÿ
+F
+java:S1066ä'"/Merge this if statement with the enclosing one.(Ê˜¡Û
+a	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Å*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112‰+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+o	java:S135¦"YReduce the total number of break and continue statements in this loop to use at most one.(¨ïÎÖ
+n	java:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(›”„
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141§"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141’"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141°#"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117ï	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ï¯”ÿÿÿÿÿ
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ï¯”ÿÿÿÿÿ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨õëŒ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï´­Ûûÿÿÿÿ
+g	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨õëŒ
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÙ²³úÿÿÿÿ
+?
+java:S1604¿*"(Make this anonymous inner class a lambda(ğ‹Ê¾
+m
+java:S1104ø"VMake charsetMap a static final constant or non-public and provide accessors if needed.(ø†¾÷
+|
+java:S1104Ö"eMake indexToCustomMysqlCharset a static final constant or non-public and provide accessors if needed.(õ¥®Ó
+S
+java:S2589"7Remove this expression which always evaluates to "true"(òÀ£†øÿÿÿÿ
+S
+java:S2589ö'"7Remove this expression which always evaluates to "true"(Ñá¦œûÿÿÿÿ
+S
+java:S2589š"7Remove this expression which always evaluates to "true"(åää‡şÿÿÿÿ
+s
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "index".(•´êe
+y
+java:S1488‹"]Immediately return this expression instead of assigning it to the temporary variable "cStmt".(¿¹µÍûÿÿÿÿ
+†
+java:S1450°"jRemove the "characterSetResultsOnServer" field and declare it as a local variable in the relevant methods.(‚ –úÿÿÿÿ
+B
+java:S1948a"'Make "proxy" transient or serializable.(¿‘ ‡şÿÿÿÿ
+A
+java:S1948b"+Make "realProxy" transient or serializable.(ÜÌ™ 
+J
+java:S1948—"3Make "serverConfigCache" transient or serializable.(¡ŸûÅ
+X
+java:S1948 "AMake "connectionLifecycleInterceptors" transient or serializable.(ú¤òª
+[
+java:S1948¥"?Make "cachedPreparedStatementParams" transient or serializable.(‚˜ì°ùÿÿÿÿ
+B
+java:S1948Ã"&Make "dbmd" transient or serializable.(©ÊÔîşÿÿÿÿ
+G
+java:S1948È"+Make "eventSink" transient or serializable.(¨ÿã¯úÿÿÿÿ
+M
+java:S1948Ö"6Make "indexToCustomMysqlCharset" private or transient.(õ¥®Ó
+U
+java:S1948«">Make "parsedCallableStatementCache" transient or serializable.(‰û±ë
+9
+java:S1948º""Make "props" private or transient.(éßóß
+T
+java:S1948Ã"8Make "resultSetMetadataCache" transient or serializable.(¯„õ¦ùÿÿÿÿ
+Q
+java:S1948å":Make "serverSideStatementCache" transient or serializable.(£®õõ
+N
+java:S1948ƒ"7Make "statementInterceptors" transient or serializable.(½Æáú
+R
+java:S1948Ó)"6Make "exceptionInterceptor" transient or serializable.(ÊÜÒİúÿÿÿÿ
+l
+java:S1149Æ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ö³¾Şıÿÿÿÿ
+M
+java:S1905p"2Remove this unnecessary cast to "MySQLConnection".(ò©ô¸ÿÿÿÿÿ
+K
+java:S1133w"5Do not forget to remove this deprecated code someday.(¦ÉÂ½
+„
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¤·˜
+6
+java:S2097Ö"Add a type test to this method.(ÜÑã
+[
+java:S1124ı"EReorder the modifiers to comply with the Java Language Specification.(ûŞã6
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ŞöÁ
+u
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ğÔûÿÿÿÿ
+p
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ åÓ
+a
+java:S2147¶"ECombine this catch with the one at line 308, which has the same body.(¼¯•¶ùÿÿÿÿ
+\
+java:S2147¸"ECombine this catch with the one at line 308, which has the same body.(ıàÑÎ
+X
+java:S3878³"ADisambiguate this call by either casting as "Class" or "Class[]".(ÌÈü€
+A
+java:S1181ä"%Catch Exception instead of Throwable.(’ÇíŸüÿÿÿÿ
+a
+java:S2147â"ECombine this catch with the one at line 352, which has the same body.(¨ÇÑÍøÿÿÿÿ
+a
+java:S2147ä"ECombine this catch with the one at line 352, which has the same body.(’ÇíŸüÿÿÿÿ
+O
+java:S3878Ö"8Remove this array creation and simply pass the elements.(èø«ç
+W
+java:S3878Ø"ADisambiguate this call by either casting as "Class" or "Class[]".(ÄÛØC
+W
+java:S3878Ú"ADisambiguate this call by either casting as "Class" or "Class[]".(“Éû@
+2
+java:S3878İ"Remove this array creation.(éíƒ
+T
+java:S3878Ş"8Remove this array creation and simply pass the elements.(Şò•¸üÿÿÿÿ
+D	java:S108à")Either remove or fill this block of code.(›§Ñùÿÿÿÿ
+D	java:S108â")Either remove or fill this block of code.(¨ÇÑÍøÿÿÿÿ
+D	java:S108ä")Either remove or fill this block of code.(’ÇíŸüÿÿÿÿ
+F
+java:S1172‹"*Remove this unused method parameter "url".(”Ï»‰üÿÿÿÿ
+p
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šìäü
+W	java:S125ı"<This block of commented-out lines of code should be removed.(†üÖĞûÿÿÿÿ
+o
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª·
+n
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¤®à‹şÿÿÿÿ
+]
+java:S3878¶"ADisambiguate this call by either casting as "Class" or "Class[]".(ö³‘şÿÿÿÿ
+u
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óµ×§ùÿÿÿÿ
+p
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(òúô¨
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(œ³óııÿÿÿÿ
+u
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìş°øùÿÿÿÿ
+u
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌãØ²ùÿÿÿÿ
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÊäêÌùÿÿÿÿ
+n
+java:S3776®	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(»Ê¢˜ûÿÿÿÿ
+…
+java:S1130ı	"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Í¦ï“
+A
+java:S1181›
+"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+W	java:S125–
+"<This block of commented-out lines of code should be removed.(İéèüÿÿÿÿÿ
+L
+java:S1133»
+"5Do not forget to remove this deprecated code someday.(Ûš¸ã
+?
+java:S1123»
+"(Add the missing @deprecated Javadoc tag.(Ûš¸ã
+W	java:S125Ç
+"<This block of commented-out lines of code should be removed.(İªŒÖøÿÿÿÿ
+T
+java:S1854×"8Remove this useless assignment to local variable "stmt".(ÏĞ§æüÿÿÿÿ
+2
+java:S3626–"Remove this redundant jump.(ûÁİ…
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ã†Ëö
+j
+java:S3776Î"SRefactor this method to reduce its Cognitive Complexity from 205 to the 15 allowed.(ÊáÙÆ
+[
+java:S3358®"DExtract this nested ternary operation into an independent statement.(®®šõ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(ÿ¯›è
+`
+java:S3358ß"DExtract this nested ternary operation into an independent statement.(ú ‡Òúÿÿÿÿ
+N
+java:S1197ş"8Move the array designator from the variable to the type.(Ü–ìb
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(öš˜ü
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(®àôš
+b
+java:S2142§"FEither re-interrupt this method or rethrow the "InterruptedException".(ï´­Ûûÿÿÿÿ
+p
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹÷Ú«
+e
+java:S1871ğ"NThis branch's code block is the same as the block for the branch on line 2149.(å¥‡
+u
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢åíıÿÿÿÿ
+2
+java:S3626Ç"Remove this redundant jump.(ûÁİ…
+W
+java:S1193Ë"@Replace the usage of the "instanceof" operator by a catch block.(ãùª
+W
+java:S1193Ö"@Replace the usage of the "instanceof" operator by a catch block.(¸à‹ß
+]
+java:S2147ÿ"FCombine this catch with the one at line 2296, which has the same body.(Å¡ß
+O
+java:S1874ì"3Remove this use of "newInstance"; it is deprecated.(Á˜Õîøÿÿÿÿ
+p
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(–îòâ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(åºƒ¦şÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(±¶¹Ş
+i
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Šÿş¶
+`
+java:S3358¢"DExtract this nested ternary operation into an independent statement.(©Ç…šùÿÿÿÿ
+\
+java:S1193Á"@Replace the usage of the "instanceof" operator by a catch block.(ÁÖŞûÿÿÿÿ
+W
+java:S1193Æ"@Replace the usage of the "instanceof" operator by a catch block.(š÷•
+L
+java:S1133ö"5Do not forget to remove this deprecated code someday.(«¥é
+n
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÜÚÎ˜ûÿÿÿÿ
+Q
+java:S1133Õ"5Do not forget to remove this deprecated code someday.(÷ç²—ÿÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ï×ÁÁúÿÿÿÿ
+p
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çâ¯°
+Q
+java:S1133„"5Do not forget to remove this deprecated code someday.(÷í›úÿÿÿÿ
+D
+java:S1123„"(Add the missing @deprecated Javadoc tag.(÷í›úÿÿÿÿ
+p
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï á­
+u
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØº¿úÿÿÿÿ
+i
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(«°Ïû
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¢éß 
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¸Õ¹‡øÿÿÿÿ
+]
+java:S2147Ë"FCombine this catch with the one at line 3652, which has the same body.(Å¡ß
+J
+java:S1874£"3Remove this use of "newInstance"; it is deprecated.(ÜÙ‰Ê
+
+java:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾»¢ˆÿÿÿÿÿ
+˜
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î
+a
+java:S1124Ö"EReorder the modifiers to comply with the Java Language Specification.(ìï—ˆùÿÿÿÿ
+i
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Ú²äÉ
+n
+java:S2737Ö"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢åíıÿÿÿÿ
+?	java:S108Û")Either remove or fill this block of code.(«Ä¨û
+?	java:S108â")Either remove or fill this block of code.(«Ä¨û
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(İµıêÿÿÿÿÿ
+[
+java:S1134È"DTake the required action to fix the issue indicated by this comment.(¾áå¬
+n
+java:S3776» "RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(è™˜ùÿÿÿÿ
+?	java:S108é ")Either remove or fill this block of code.(”ı¾
+n
+java:S3776ó!"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(òˆõñüÿÿÿÿ
+i
+java:S3776•#"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(äŸãÄ
+i
+java:S3776Ë#"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(…¤¤¿
+2
+java:S3626º%"Remove this redundant jump.(ûÁİ…
+n
+java:S3776ı$"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ô›ÿŠşÿÿÿÿ
+@
+java:S1125­%")Remove the literal "false" boolean value.(¿‹Òˆ
+i
+java:S3776Ë%"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Íğ“İ
+L
+java:S1133™&"5Do not forget to remove this deprecated code someday.(íĞ†ş
+?
+java:S1123™&"(Add the missing @deprecated Javadoc tag.(íĞ†ş
+i
+java:S3776ğ&"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÉŠØ
+u
+java:S2293ò&"YReplace the type specification in this constructor call with the diamond operator ("<>").(âùè¹øÿÿÿÿ
+p
+java:S2293÷*"YReplace the type specification in this constructor call with the diamond operator ("<>").(­°Àò
+u
+java:S2293ø*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀŸĞêùÿÿÿÿ

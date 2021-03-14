@@ -1,0 +1,7 @@
+
+N
+java:S1444#"8Make this "public static SOCKS_DEFAULT_PORT" field final(µ£ Ï
+t
+java:S1104#"^Make SOCKS_DEFAULT_PORT a static final constant or non-public and provide accessors if needed.(µ£ Ï
+s
+java:S3008#"]Rename this field "SOCKS_DEFAULT_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ£ Ï

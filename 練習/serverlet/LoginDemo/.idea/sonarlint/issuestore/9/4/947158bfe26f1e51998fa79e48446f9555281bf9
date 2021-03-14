@@ -1,0 +1,9 @@
+
+Э
+java:S1186≤"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(иЉўІь€€€€
+П
+java:S1130ƒ"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(€Ц≤∞э€€€€
+К
+java:S1130Ћ"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(нн°ƒ
+П
+java:S1130“"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(№»Т э€€€€

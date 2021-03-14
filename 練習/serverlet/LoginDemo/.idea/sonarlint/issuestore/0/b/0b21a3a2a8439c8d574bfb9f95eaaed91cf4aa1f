@@ -1,0 +1,60 @@
+
+f
+java:S2095¢"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Á…¾Ö
+c
+java:S2095ª"GUse try-with-resources or close this "Statement" in a "finally" clause.(ôÍ“ßûÿÿÿÿ
+^
+java:S2095‰"GUse try-with-resources or close this "Statement" in a "finally" clause.(´´ÔÁ
+^
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ú¾ŒÔ
+c
+java:S2095—"GUse try-with-resources or close this "Statement" in a "finally" clause.(ôÍ“ßûÿÿÿÿ
+_
+java:S1192”"IDefine a constant instead of duplicating this literal "SELECT 1" 8 times.(‘Ä¿/
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(“ø¥»
+a	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(Ä‘û†şÿÿÿÿ
+a	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(·ë½ìüÿÿÿÿ
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(Ğ Ş¾ùÿÿÿÿ
+a	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(ÂÜéùÿÿÿÿ
+a	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(¤ÊÏ¡üÿÿÿÿ
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(øØ¹åşÿÿÿÿ
+a	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(ÿãŸíûÿÿÿÿ
+\	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ïä‰
+\	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(™÷¡ó
+\	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(ÑØ¾Â
+\
+java:S2259ˆ"EA "NullPointerException" could be thrown; "boundDs" is nullable here.(ü²®î
+a
+java:S2259Å"EA "NullPointerException" could be thrown; "boundDs" is nullable here.(‹öÿçûÿÿÿÿ
+`
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(¶Ñğİıÿÿÿÿ
+`
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(§¤£Æıÿÿÿÿ
+[
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.(µ÷Æ²
+`
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(İˆ¿ßüÿÿÿÿ
+[
+java:S1124Q"EReorder the modifiers to comply with the Java Language Specification.(‰¼¢ö
+e
+java:S4042‚"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(È‡¼²
+Q	java:S899‚";Do something with the "boolean" value returned by "delete".(È‡¼²
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(—¹öúøÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(Çêòºùÿÿÿÿ
+e
+java:S4042ç"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(È‡¼²
+Q	java:S899ç";Do something with the "boolean" value returned by "delete".(È‡¼²
+p
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï‹¯Ø
+O
+java:S1874ƒ"3Remove this use of "newInstance"; it is deprecated.(È©âŸúÿÿÿÿ
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(öêÚ¸
+]
+java:S3878’"ADisambiguate this call by either casting as "Class" or "Class[]".(©»òŠûÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(¤½÷¾
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(‰¤áâ
+]
+java:S2142´"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?	java:S108´")Either remove or fill this block of code.(ä ¹€

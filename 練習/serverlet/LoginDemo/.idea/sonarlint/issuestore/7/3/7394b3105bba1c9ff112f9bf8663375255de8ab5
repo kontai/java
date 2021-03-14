@@ -1,0 +1,32 @@
+
+p
+java:S1192T"ZDefine a constant instead of duplicating this literal "Statement already closed" 40 times.(ÕëÓ¸
+`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+_
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S21474"DCombine this catch with the one at line 48, which has the same body.(ıàÑÎ
+W
+java:S3878/"ADisambiguate this call by either casting as "Class" or "Class[]".(æÄÂá
+B
+java:S1168ñ"&Return an empty array instead of null.(‰ª™ÿÿÿÿÿ
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(äÕñøÿÿÿÿ
+B
+java:S1168×"&Return an empty array instead of null.(‰ª™ÿÿÿÿÿ
+P
+java:S1161Ş":Add the "@Override" annotation above this method signature(±Ÿ¤{
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(ú†Ñ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(ñ“ù°ıÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(ŸÛ‰ùÿÿÿÿ
+Q
+java:S1161¦":Add the "@Override" annotation above this method signature(®§¯
+Q
+java:S1161¸":Add the "@Override" annotation above this method signature(Ãğœ
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(Ü¿Üõşÿÿÿÿ

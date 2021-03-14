@@ -1,0 +1,16 @@
+
+`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+i
+java:S3824X"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(æµƒ¡ûÿÿÿÿ
+_
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S21474"DCombine this catch with the one at line 48, which has the same body.(ıàÑÎ
+\
+java:S3878/"ADisambiguate this call by either casting as "Class" or "Class[]".(Ü¤Èòşÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘øòøÿÿÿÿ
+M
+java:S1135T"2Complete the task associated to this TODO comment.(…‹Êüÿÿÿÿ

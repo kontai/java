@@ -1,0 +1,133 @@
+
+r
+java:S1192¸"VDefine a constant instead of duplicating this literal "exceptionInterceptors" 3 times.(ï¥€£ûÿÿÿÿ
+F
+java:S1066¾"/Merge this if statement with the enclosing one.(Â€§è
+F
+java:S1066Ì"/Merge this if statement with the enclosing one.(Â€§è
+\	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(‡ù÷ò
+U
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.(¶«éš
+q
+java:S1488×"ZImmediately return this expression instead of assigning it to the temporary variable "mc".(êé›‡
+
+java:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µôÈæùÿÿÿÿ
+˜
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­Í‘°
+
+java:S1186Ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜåÔ¿úÿÿÿÿ
+
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§ŒµÊşÿÿÿÿ
+
+java:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û¼…Õûÿÿÿÿ
+˜
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Øˆ£
+˜
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íĞ†ş
+
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ˆµ”üÿÿÿÿ
+
+java:S1186¼"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘íúúÿÿÿÿ
+
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óÿ‚ğùÿÿÿÿ
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µä²ûùÿÿÿÿ
+
+java:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„È¸²üÿÿÿÿ
+˜
+java:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜»ôÈ
+—
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀºÇ]
+
+java:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä÷ô‘ûÿÿÿÿ
+
+java:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ÊÓ´ÿÿÿÿÿ
+˜
+java:S1186ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“óÖë
+˜
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Øú
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÈú¸üÿÿÿÿ
+
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È¥Üşÿÿÿÿ
+˜
+java:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£›²ô
+
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(è™˜ùÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë–¨–øÿÿÿÿ
+—
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”ÏÎf
+
+java:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ’ºŒıÿÿÿÿ
+
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼¨†Œıÿÿÿÿ
+
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢¸ú˜úÿÿÿÿ
+˜
+java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Şãİí
+
+java:S1186¸"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥ÏíÜıÿÿÿÿ
+
+java:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÃ¬ıÿÿÿÿ
+
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öİ†úÿÿÿÿ
+
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ùÒ ıÿÿÿÿ
+
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£üÃÊşÿÿÿÿ
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áá¸ïıÿÿÿÿ
+@
+java:S1948["%Make "log" transient or serializable.(âñú£úÿÿÿÿ
+H
+java:S1948]"2Make "fabricConnection" transient or serializable.(ıÎ¾
+N
+java:S1948d"3Make "serverConnections" transient or serializable.(‚Ìû·ıÿÿÿÿ
+N
+java:S1948g"3Make "currentConnection" transient or serializable.(áıÛÅøÿÿÿÿ
+=
+java:S1948p"(Make "queryTables" private or transient.(Ì  
+C
+java:S1948r"-Make "serverGroup" transient or serializable.(ô³™½
+I
+java:S1948z".Make "shardMapping" transient or serializable.(Ş£‹÷ûÿÿÿÿ
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚Ìû·ıÿÿÿÿ
+n
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì  
+e
+java:S3252~"OUse static access with "java.sql.Connection" for "TRANSACTION_REPEATABLE_READ".(¢ö”ş
+G
+java:S1172å"+Remove this unused method parameter "conn".(Úµ¼øıÿÿÿÿ
+T
+java:S1197Ô"8Move the array designator from the variable to the type.(Âºø›ıÿÿÿÿ
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(£ı×½øÿÿÿÿ
+u
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁÏÚ³ùÿÿÿÿ
+u
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(™¹™Éüÿÿÿÿ
+?	java:S108ş")Either remove or fill this block of code.(À‹ø„
+L
+java:S1133Ò"5Do not forget to remove this deprecated code someday.(¦ÉÂ½
+Q
+java:S1133œ"5Do not forget to remove this deprecated code someday.(÷ç²—ÿÿÿÿÿ
+L
+java:S1133ü"5Do not forget to remove this deprecated code someday.(Ûš¸ã
+?
+java:S1123ü"(Add the missing @deprecated Javadoc tag.(Ûš¸ã
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(÷í›úÿÿÿÿ
+D
+java:S1123"(Add the missing @deprecated Javadoc tag.(÷í›úÿÿÿÿ
+D
+java:S1185Š"(Remove this method to simply inherit it.(†¸Ö‘şÿÿÿÿ
+L
+java:S1133¶"5Do not forget to remove this deprecated code someday.(íĞ†ş
+?
+java:S1123¶"(Add the missing @deprecated Javadoc tag.(íĞ†ş
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(«¥é
+B
+java:S1168ß"+Return an empty collection instead of null.(¥¹ï

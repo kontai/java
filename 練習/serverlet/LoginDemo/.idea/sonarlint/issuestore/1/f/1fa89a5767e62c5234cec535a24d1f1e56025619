@@ -1,0 +1,66 @@
+
+k
+java:S2095ñ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ãşÜÿÿÿÿÿ
+k
+java:S2095Ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(íÂêşÿÿÿÿ
+f
+java:S1192«"ODefine a constant instead of duplicating this literal " milliseconds." 3 times.(É¿Şı
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(›ó™î
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(¯ãıÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ŸüÔ¬
+\	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(ìå›Ü
+a	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+a	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(®ŞÚ¿şÿÿÿÿ
+?
+java:S1604Î"(Make this anonymous inner class a lambda(Ù£©€
+?
+java:S1604í"(Make this anonymous inner class a lambda(²êÈ 
+{
+java:S14500"`Remove the "numThreadsStarted" field and declare it as a local variable in the relevant methods.(û’£¶üÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(½ò²Ô
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(×¥çõıÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ØŞÌñûÿÿÿÿ
+a
+java:S2142h"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(ãÉ®îüÿÿÿÿ
+o
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(’åª
+4
+java:S2129u"Remove this "Long" constructor(È­É„
+B
+java:S1874u",Remove this use of "Long"; it is deprecated.(È­É„
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(Æ©ÿ×ùÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(›µ¡‘
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ô­îŒùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µĞùúÿÿÿÿ
+O
+java:S1172š"3Remove this unused method parameter "threadNumber".(ïø±Éùÿÿÿÿ
+L
+java:S2446¼"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+Q	java:S125»"<This block of commented-out lines of code should be removed.(ºğT
+N
+java:S1135º"2Complete the task associated to this TODO comment.(¨¥¤¡ıÿÿÿÿ
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(¡ôÆ
+N	java:S106ä"9Replace this use of System.out or System.err by a logger.(å©
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(±ø§Å
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(®ŞÚ¿şÿÿÿÿ
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(öŞ
+M
+java:S2696Ù"6Make the enclosing method "static" or remove this set.(‰·ß¥
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ºÜª¢
+R
+java:S2696ô"6Make the enclosing method "static" or remove this set.(ï¿ÂÏıÿÿÿÿ
+O	java:S106ı"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+T	java:S106"9Replace this use of System.out or System.err by a logger.(†šéåúÿÿÿÿ
+R
+java:S2696™"6Make the enclosing method "static" or remove this set.(Ïˆ÷ıÿÿÿÿ
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(É¿Şı
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(÷½Æé
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(¸æÅ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(á‹…¨ùÿÿÿÿ
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(•ôÈ»
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(¸æÅ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(á‹…¨ùÿÿÿÿ
+O	java:S106Æ"9Replace this use of System.out or System.err by a logger.(şù°ü

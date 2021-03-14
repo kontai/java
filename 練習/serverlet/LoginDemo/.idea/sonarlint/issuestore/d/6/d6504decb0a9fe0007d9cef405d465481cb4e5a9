@@ -1,0 +1,13 @@
+
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(¢ˆùÁ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(¢ˆùÁ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(–Ì„„üÿÿÿÿ
+…
+java:S1130€"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ÅùÅÆ
+=
+java:S1168Á"&Return an empty array instead of null.(¥¹ï
+™
+java:S1130Ì"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ÖÄ«Éşÿÿÿÿ
+R	java:S125•"<This block of commented-out lines of code should be removed.(êûöƒ
+™
+java:S1130"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(êÌ‹Óûÿÿÿÿ

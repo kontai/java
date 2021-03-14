@@ -1,0 +1,38 @@
+
+^
+java:S2095¥"GUse try-with-resources or close this "Statement" in a "finally" clause.(åúåŒ
+`	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+P
+java:S1143Â"4Remove this throw statement from this finally block.(›¬ä¡ÿÿÿÿÿ
+P
+java:S1143Ê"4Remove this throw statement from this finally block.(›¬ä¡ÿÿÿÿÿ
+Y
+java:S1163Â"=Refactor this code to not throw exceptions in finally blocks.(›¬ä¡ÿÿÿÿÿ
+Y
+java:S1163Ê"=Refactor this code to not throw exceptions in finally blocks.(›¬ä¡ÿÿÿÿÿ
+v
+java:S1488´"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(ªû½Üÿÿÿÿÿ
+x
+java:S1488å"bImmediately return this expression instead of assigning it to the temporary variable "connToWrap".(’æÓt
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(¸»®À
+o
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨‡Ûœ
+_
+java:S2147b"DCombine this catch with the one at line 96, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S2147d"DCombine this catch with the one at line 96, which has the same body.(ıàÑÎ
+W
+java:S3878_"ADisambiguate this call by either casting as "Class" or "Class[]".(â‘ø™
+R	java:S125ş"<This block of commented-out lines of code should be removed.(íôéé
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘¤ÅÚ
+N
+java:S1135¤"2Complete the task associated to this TODO comment.(ìøòÿÿÿÿÿ
+N
+java:S1135ô"2Complete the task associated to this TODO comment.(³¸¸€ÿÿÿÿÿ
+N
+java:S1135¯"2Complete the task associated to this TODO comment.(ìøòÿÿÿÿÿ
+?	java:S108½")Either remove or fill this block of code.(ÅŸ­Â

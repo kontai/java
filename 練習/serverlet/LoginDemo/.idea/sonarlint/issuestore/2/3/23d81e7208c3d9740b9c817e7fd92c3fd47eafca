@@ -1,0 +1,11 @@
+
+{
+java:S1192V"eDefine a constant instead of duplicating this literal "Unable to instantiate logger class '" 3 times.(„œÐÉ
+P
+java:S1141@"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+U
+java:S1118%":Add a private constructor to hide the implicit public one.(¿¢‡·øÿÿÿÿ
+\
+java:S3878F"ADisambiguate this call by either casting as "Class" or "Class[]".(É¤Ÿ¾þÿÿÿÿ
+S
+java:S3878H"8Remove this array creation and simply pass the elements.(±Ð¥ãüÿÿÿÿ

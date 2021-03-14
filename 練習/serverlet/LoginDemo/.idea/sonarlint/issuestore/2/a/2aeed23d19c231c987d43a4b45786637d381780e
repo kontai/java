@@ -1,0 +1,41 @@
+
+c
+java:S2095•"GUse try-with-resources or close this "Statement" in a "finally" clause.(ºå…¿ıÿÿÿÿ
+b
+java:S2095B"GUse try-with-resources or close this "Statement" in a "finally" clause.(ĞöÊÕøÿÿÿÿ
+c
+java:S2095¾"GUse try-with-resources or close this "Statement" in a "finally" clause.(€À´Íşÿÿÿÿ
+^
+java:S2095”"GUse try-with-resources or close this "Statement" in a "finally" clause.(®¡¢Û
+^
+java:S2095¶"GUse try-with-resources or close this "Statement" in a "finally" clause.(Á¶‡
+b
+java:S2095J"GUse try-with-resources or close this "Statement" in a "finally" clause.(µ÷Š‡ûÿÿÿÿ
+]
+java:S2095A"GUse try-with-resources or close this "Statement" in a "finally" clause.(—ÁÑ¦
+^
+java:S2095‘"GUse try-with-resources or close this "Statement" in a "finally" clause.(Á¶‡
+~
+java:S1192’"bDefine a constant instead of duplicating this literal "SHOW VARIABLES LIKE 'server_uuid'" 3 times.(‡˜¥ºşÿÿÿÿ
+`
+java:S1192À"IDefine a constant instead of duplicating this literal "Waiting " 3 times.(ÄÛúœ
+l
+java:S1192|"QDefine a constant instead of duplicating this literal "ha_config1_group" 6 times.(¡¹ó…ûÿÿÿÿ
+\
+java:S2184Á"@Cast one of the operands of this addition operation to a "long".(ûŒöøÿÿÿÿ
+\
+java:S2184"@Cast one of the operands of this addition operation to a "long".(ûŒöøÿÿÿÿ
+\
+java:S2184©"@Cast one of the operands of this addition operation to a "long".(ûŒöøÿÿÿÿ
+[	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(ñÄ 
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Èù¹àúÿÿÿÿ
+[	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Û™¤¨
+`	java:S112v"FDefine and throw a dedicated exception instead of using a generic one.(¦¨†Ôşÿÿÿÿ
+a	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(ÕœˆÁüÿÿÿÿ
+\	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(éÿÍø
+\	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(­°„Ó
+\	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(ŠÃÕ•
+O	java:S106À"9Replace this use of System.out or System.err by a logger.(ÄÛúœ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(™ˆÜÌşÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(Ÿ¢“¼øÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(›–âşÿÿÿÿ

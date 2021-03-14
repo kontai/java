@@ -1,0 +1,17 @@
+
+a
+java:S11921"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(´¾‰óùÿÿÿÿ
+o
+java:S1128 "TRemove this unnecessary import: same package classes are always implicitly imported.(ŞûÉáùÿÿÿÿ
+o
+java:S1128!"TRemove this unnecessary import: same package classes are always implicitly imported.(êÑ‚òøÿÿÿÿ
+j
+java:S1128""TRemove this unnecessary import: same package classes are always implicitly imported.(°Âï
+j
+java:S1128#"TRemove this unnecessary import: same package classes are always implicitly imported.(’ØÊÀ
+O
+java:S1161/":Add the "@Override" annotation above this method signature(§¹Ûp
+P
+java:S1161\":Add the "@Override" annotation above this method signature(è¦¼
+U
+java:S1161x":Add the "@Override" annotation above this method signature(¤¢Ğıÿÿÿÿ

@@ -1,0 +1,21 @@
+
+j
+java:S1128'"TRemove this unnecessary import: same package classes are always implicitly imported.(Ş×“„
+o
+java:S1128("TRemove this unnecessary import: same package classes are always implicitly imported.(“®ğ™ûÿÿÿÿ
+j
+java:S1128)"TRemove this unnecessary import: same package classes are always implicitly imported.(°Âï
+G
+java:S1128",Remove this unused import 'java.sql.Struct'.(Í‘©–ûÿÿÿÿ
+U
+java:S1161=":Add the "@Override" annotation above this method signature(®ÈŒÍıÿÿÿÿ
+m
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®ÈŒÍıÿÿÿÿ
+U
+java:S1161f":Add the "@Override" annotation above this method signature(ÆÖàúÿÿÿÿ
+U
+java:S1161s":Add the "@Override" annotation above this method signature(­Ëãøøÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(û×
+Q
+java:S1161Œ":Add the "@Override" annotation above this method signature(úìÒç
