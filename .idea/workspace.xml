@@ -26,7 +26,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="">
+    <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="1121">
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d7f700df54dea0867245438b6ef05d663ba3bfa" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/873b9ca009866cab95158b496eb5901f5b79e428" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b81c82e00ad69d6cdee032a3a6eb0e6797fc9fa6" afterDir="false" />
@@ -392,6 +392,7 @@
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/csv-plugin.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
@@ -403,6 +404,7 @@
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/libraries/lib.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/libraries/lib__2_.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/libraries/mysql_connector_java_5_1_49.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/libraries/mysql_connector_java_5_1_49_bin.xml" afterDir="false" />
@@ -412,12 +414,12 @@
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/1/4/1491a8b023ea7333b2baf24a6535e92b10666316" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/1/c/1c20f6fd6a1eaeb418998646d6af22fd6aaa7fee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/1/e/1ea2abda378a538301a10eb94be2b5d6a8049c87" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/2/6/26d10fbbb1f3ba65520123bb29de3712bbf06930" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/4/9/4933704aa8b4111268dc28a35ebb975457273522" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/5/9/595af3663cd8bb4acd654c8e262b107f48c3ce00" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/7/8/784a45d53d2b74c1ed954fc17252eafac4e5a5f2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/8/2/826376a5acb9d80e9f4002c40c3233cf593601c4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/WebLoginDemo/.idea/sonarlint/issuestore/a/e/ae0300b78d42a55171f295112f8ed98a89c29760" afterDir="false" />
@@ -515,6 +517,272 @@
       <change afterPath="$PROJECT_DIR$/練習/serverlet/demoJPA/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/demoJPA/demoJPA.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/練習/serverlet/demoJPA/src/main/webapp/demo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/artifacts/webManager_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/artifacts/webManager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/java/com/tai/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/java/com/tai/jdbc/LoginCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/java/com/tai/jdbc/LoginCheckImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/java/com/tai/webService/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/Properties/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/css/select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/kindeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_08.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_09.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/emoticons/etc_36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/flash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/plainpaste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/remote_image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/plugins/wordpaste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/default.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/div.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/dl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/ol.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/p.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/tinymce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/tinymce.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/editor/skins/ul.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/btnbg(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/btnbg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/btnbg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/btnbg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/btnbg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/buttonbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/bz00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/bz01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/bz02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/c01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/c02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/c03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/cbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/clist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/close1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/d01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/d02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/d03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/d04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/d05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/d06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/d07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/diskbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/f01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/f02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/f03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/f04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/f05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/f06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/fjt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/i09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/iadd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ibtnbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ico01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ico02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ico03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ico04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ico05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ico06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/icon18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/img15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/inputbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/itabbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/itabbg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/jszc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/jtx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/l01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/l02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/l03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/l04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lbg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lc00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lc01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lc02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lc03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lc04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lc05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lc06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/leftico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/leftico01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/leftico02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/leftico03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/leftico04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/leftline.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/leftmenubg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/lefttop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/libg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/light1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/line1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/list.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/list1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/list2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginbg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginbg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginbg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginbg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/logininfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/logininfo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/logininfo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/logininfo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginpassword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginsj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/loginuser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/msg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/navbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/next.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/pre.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/px.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/righttop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/rlist.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/sj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/sub-menu-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/t01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/t02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/t03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/t04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/t05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/tbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/tcbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/th.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ticon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/toolbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/topbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/topleft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/topright.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ub1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/uew_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/uew_icon_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/ulist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/userbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/images/yzmbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/PIE.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/cloud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/format+zh_CN,default,corechart.I.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/jquery.ba-resize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/jquery.gvChart-1.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/jquery.idTabs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/jsapi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/js/select-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/src/main/webapp/src/jquery.gvChart-1.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/serverlet/webManager/webManager.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JAVA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26536974011db44136905547543fbaaa867dc560" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26536974011db44136905547543fbaaa867dc560" afterDir="false" />
@@ -596,7 +864,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/JDBC/Intro01" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/練習/serverlet/demo2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
@@ -881,6 +1149,7 @@
       <workItem from="1613120077526" duration="1200000" />
       <workItem from="1613208838753" duration="1637000" />
       <workItem from="1613400629960" duration="203000" />
+      <workItem from="1615736758766" duration="690000" />
     </task>
     <task id="LOCAL-00001" summary="0607">
       <created>1591514733404</created>
