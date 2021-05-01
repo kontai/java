@@ -1,14 +1,14 @@
 
+{
+java:S1488:"YImmediately return this expression instead of assigning it to the temporary variable "i".(²Ëªáúÿÿÿÿ8«°ˆ™Ž/
+H
+java:S1172>"&Remove these unused method parameters.(û”ªóþÿÿÿÿ8«°ˆ™Ž/
+X	java:S125Q"<This block of commented-out lines of code should be removed.(Ïà÷Ø8«°ˆ™Ž/
+R
+java:S1854K"5Remove this useless assignment to local variable "i".(ÓÀ–¬8«°ˆ™Ž/
+C
+java:S1481K"&Remove this unused "i" local variable.(ÓÀ–¬8«°ˆ™Ž/
+X
+java:S17510"6Remove this "return" statement or make it conditional.(©‡ë‹üÿÿÿÿ8«°ˆ™Ž/
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(Âæ“ú8«°ˆ™Ž/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠÇŠÜúÿÿÿÿ
-t
-java:S1488:"YImmediately return this expression instead of assigning it to the temporary variable "i".(§ˆåþþÿÿÿÿ
-Q
-java:S17510"6Remove this "return" statement or make it conditional.(©‡ë‹üÿÿÿÿ
-A
-java:S1172>"&Remove these unused method parameters.(û”ªóþÿÿÿÿ
-K
-java:S1854K"5Remove this useless assignment to local variable "i".(ÓÀ–¬
-N	java:S106L"9Replace this use of System.out or System.err by a logger.(Âæ“ú
-Q	java:S125Q"<This block of commented-out lines of code should be removed.(Ïà÷Ø
-<
-java:S1481K"&Remove this unused "i" local variable.(ÓÀ–¬

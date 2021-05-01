@@ -1,0 +1,65 @@
+
+}
+java:S1192"`Define a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/407" 5 times.(ôŞşä8ºŞŠÄ/
+x
+java:S1192"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 5 times.(¹µÖÁüÿÿÿÿ8ÊŞŠÄ/
+^
+java:S2259Ø"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8‰ßŠÄ/
+]
+java:S2259Š"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ª8ÚŞŠÄ/
+^
+java:S2259£"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8ùŞŠÄ/
+]
+java:S22597"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8êŞŠÄ/
+\
+java:S2259h"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ª8˜ßŠÄ/
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8·ßŠÄ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(‹äó¸ùÿÿÿÿ8ÇßŠÄ/
+T
+java:S11359"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8×ßŠÄ/
+T
+java:S1135?"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8æßŠÄ/
+T
+java:S1135E"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8õßŠÄ/
+O
+java:S4925X"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8„àŠÄ/
+Q
+java:S6212\"/Declare this local variable with "var" instead.(İÑ¢Øøÿÿÿÿ8”àŠÄ/
+T
+java:S1135j"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¤àŠÄ/
+T
+java:S1135p"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8´àŠÄ/
+P
+java:S4925‚"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ÃàŠÄ/
+R
+java:S6212†"/Declare this local variable with "var" instead.(ı†‰¼şÿÿÿÿ8ÒàŠÄ/
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù×èÙ8âàŠÄ/
+U
+java:S1135¥"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8òàŠÄ/
+U
+java:S1135«"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‚áŠÄ/
+U
+java:S1135±"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8’áŠÄ/
+M
+java:S6212Â"/Declare this local variable with "var" instead.(æÕ¿¼8¢áŠÄ/
+P
+java:S4925Å"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8²áŠÄ/
+M
+java:S6212É"/Declare this local variable with "var" instead.(Ò¦Ú¬8ÂáŠÄ/
+U
+java:S1135Ú"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ÑáŠÄ/
+U
+java:S1135à"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8àáŠÄ/
+U
+java:S1135æ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ğáŠÄ/
+P
+java:S4925÷"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8€âŠÄ/
+M
+java:S6212û"/Declare this local variable with "var" instead.(©Î±í8âŠÄ/
+U
+java:S1135Œ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8 âŠÄ/
+U
+java:S1135’"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8°âŠÄ/

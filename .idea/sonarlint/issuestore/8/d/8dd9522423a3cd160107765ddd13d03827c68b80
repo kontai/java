@@ -1,9 +1,9 @@
 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”›İ»
 c
 java:S1104	"MMake u a static final constant or non-public and provide accessors if needed.(®ÿş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(åü§…
 \
 java:S2259'"AA "NullPointerException" could be thrown; "res" is nullable here.(¢Ş­şÿÿÿÿÿ
 H
 java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”›İ»
-N	java:S106"9Replace this use of System.out or System.err by a logger.(åü§…

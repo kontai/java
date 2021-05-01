@@ -1,0 +1,26 @@
+
+p
+java:S1192|"NDefine a constant instead of duplicating this literal "/mg/login.jsp" 3 times.(Üè›ıÿÿÿÿ8Ëêöß/
+[
+java:S4973j"9Use the "equals" method if value comparison was intended.(Îõ¸úÿÿÿÿ8Îêöß/
+[
+java:S4973m"9Use the "equals" method if value comparison was intended.(¼º°¹ûÿÿÿÿ8Ïêöß/
+L
+java:S6212J"/Declare this local variable with "var" instead.(şÕÿú8Úêöß/
+Q
+java:S6212K"/Declare this local variable with "var" instead.(Íÿ×ÿûÿÿÿÿ8Úêöß/
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(ŸÂÄ¶ûÿÿÿÿ8âêöß/
+9
+java:S3626Š"Remove this redundant jump.(ûÁİ…8äêöß/
+M
+java:S6212ƒ"/Declare this local variable with "var" instead.(şÕÿú8äêöß/
+R
+java:S6212„"/Declare this local variable with "var" instead.(Íÿ×ÿûÿÿÿÿ8åêöß/
+9
+java:S3626¸"Remove this redundant jump.(ûÁİ…8êêöß/
+9
+java:S3626¾"Remove this redundant jump.(ûÁİ…8êêöß/
+z
+java:S2226""XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Òåæóúÿÿÿÿ8ìêöß/
+u
+java:S2226$"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ö¥ô8ìêöß/

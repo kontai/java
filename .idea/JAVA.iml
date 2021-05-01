@@ -165,7 +165,7 @@
     <facet type="web" name="Web4">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/WebRoot" relative="/" />
@@ -589,7 +589,7 @@
     <facet type="web" name="Web16">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot" relative="/" />
@@ -611,7 +611,7 @@
     <facet type="web" name="Web18">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/WebRoot" relative="/" />
@@ -666,7 +666,7 @@
     <facet type="web" name="Web12">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot" relative="/" />
@@ -688,7 +688,7 @@
     <facet type="web" name="Web13">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/WebRoot" relative="/" />
@@ -704,22 +704,24 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/SessionDemo/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web26">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/WebRoot" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web29">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot" relative="/" />
@@ -730,11 +732,12 @@
     <facet type="web" name="Web28">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web23">
@@ -745,6 +748,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demoJPA/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web22">
@@ -755,6 +759,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demoJPA/target/demoJPA-1.0-SNAPSHOT" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web25">
@@ -765,15 +770,138 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/SessionDemo/target/SessionDemo-1.0-SNAPSHOT" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web24">
       <configuration>
         <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/WebRoot/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet和JSP/1.Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/WebRoot/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/WebRoot" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web41">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/conf" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web40">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/docs/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/docs" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web38">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/docs/appdev/sample/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/docs/appdev/sample/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web37">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/練習/serverlet/webManager/target/webManager-1.0-SNAPSHOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/練習/serverlet/webManager/target/webManager-1.0-SNAPSHOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web39">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/練習/serverlet/WebLoginDemo/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/練習/serverlet/WebLoginDemo/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web30">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/Servers/MyEclipse Tomcat v8.5-config/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/Servers/MyEclipse Tomcat v8.5-config" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web32">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web31">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web34">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/練習/serverlet/webManager/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/練習/serverlet/webManager/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web33">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/練習/serverlet/WebLoginDemo/target/WebLoginDemo-1.0-SNAPSHOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/練習/serverlet/WebLoginDemo/target/WebLoginDemo-1.0-SNAPSHOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web36">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/examples/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/examples" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web35">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/ROOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/ROOT" relative="/" />
         </webroots>
       </configuration>
     </facet>
