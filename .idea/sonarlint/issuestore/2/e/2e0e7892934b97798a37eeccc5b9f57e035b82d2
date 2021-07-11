@@ -1,0 +1,10 @@
+
+^
+java:S3518."CMake sure this expression can't be zero before doing this division.(½§±Êøÿÿÿÿ
+P
+java:S1854."5Remove this useless assignment to local variable "i".(½§±Êøÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(äŠÙ¬şÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(”«àÆ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ô•»
+A
+java:S1481."&Remove this unused "i" local variable.(½§±Êøÿÿÿÿ

@@ -2837,10 +2837,6 @@ RJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/test/Test.j
 VJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/com/bjsxt/util/JdbcUtil.java,2\8\288f4076768289d74ffc56f5699c762a98799b1b
 w
 GJDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/src/db.properties,1\f\1f0fef4990b01f8238f2c16e3967cddb831a816d
-�
-\JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/emp.txt,7\3\732211586e8a568bc7fe03f86c6fa6dc832bf0b0
-�
-_JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/readme.txt,7\b\7b032297e5b3cab86ee314dc12ab20b79a36066b
 p
 @JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/.classpath,4\b\4b8cd61aaa4260d7687cac53f41044bbf88ffbdf
 n
@@ -3157,3 +3153,7 @@ CServlet和JSP/6.監聽器/12-Manager/src/com/bjsxt/dao/UserDao.java,1\3\13079d
 TServlet和JSP/6.監聽器/12-Manager/src/com/bjsxt/service/impl/UserServiceImpl.java,d\4\d4b3c51281c41a15240968e1b82042c266a26a6f
 |
 LServlet和JSP/6.監聽器/12-Manager/src/com/bjsxt/dao/impl/UserDaoImpl.java,5\a\5a907910fe8eb98f9841030f651fd74ab43655e5
+�
+\JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/emp.txt,7\3\732211586e8a568bc7fe03f86c6fa6dc832bf0b0
+�
+_JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/readme.txt,7\b\7b032297e5b3cab86ee314dc12ab20b79a36066b
