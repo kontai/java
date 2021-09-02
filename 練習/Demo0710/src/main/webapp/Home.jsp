@@ -23,18 +23,9 @@
     <br>
     <br>
     </h3>
-    <tr>
-        <th>head</th>
-        <td>1</td>
-        <td>2</td>
-    <tr>
 
-        <td>3</td>
-    </tr>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-
-    </tr>
+    <% if(String.valueOf(this.getServletConfig().getServletContext().getAttribute("number"))!=null)
+        {response.getWriter().write("number:"+(this.getServletConfig().getServletContext().getAttribute("number"))
+        );} %>
 </body>
 </html>

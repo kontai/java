@@ -2,6 +2,7 @@ package com.tai.Demo0710.dao;
 
 import com.tai.Demo0710.User.User;
 
+import javax.servlet.http.Cookie;
 import java.sql.*;
 
 
@@ -46,7 +47,9 @@ public class JDBCinterfaceImpl implements JDBCinterface {
                 String pass = res.getString("pwd");
                 user = new User(uname, pass);
                 user.setUid(uid);
-                System.out.println("user name="+uname+",password="+pass);
+
+
+//                System.out.println("user name="+uname+",password="+pass);
             }
         } catch (SQLException throwables) {
             throwables.printStackTrace();

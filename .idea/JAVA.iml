@@ -1024,6 +1024,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/Demo0710/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web52">

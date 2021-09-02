@@ -27,163 +27,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="1121">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2183fdfba498c00e59f250d4125bc2f563f2b3ca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e0e7892934b97798a37eeccc5b9f57e035b82d2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52ad7d28b85b24e767792360b059ebcbac5527e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61bb35a0c1ea5932512d68c201e2b1e51ecf117d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/737d692ef89c3b3fca37e5538aaaa6daaa343fbd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9447c8f2181f6397b991302a5151cbcc797a828c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca7ad259a97c3084a6724632b39ade4adf824a55" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e53543fd4be0150728005fe14b25f81048dc615d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed350283c2c0e75e33997b9a9345902c7ed2c10a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff0e6903ad94dba7007a520e898c5797835db70d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/GrepConsole.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/artifacts/Demo0710_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/artifacts/Demo0710_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/d/8/d88f1dc381b7561c4165f2f9cf47489f1284d88a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/Demo0710.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/target/Demo0710-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/target/Demo0710-1.0-SNAPSHOT/WEB-INF/classes/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/target/Demo0710-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/target/Demo0710-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/target/classes/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/Demo0710/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0501/demo1/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0501/demo1/src/main/webapp/WEB-INF/classes/com/tai/JSP/01.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/demo0530.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/artifacts/demo1_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/sonarlint/issuestore/b/0/b007f2eb565384da1ac42a37605f9c7e5d09de53" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/sonarlint/issuestore/b/2/b2669fe6b9afbbec83e01bcaf306dddaea7032fe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/MyWeb/JDBC/JDBCImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/MyWeb/Login/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/Service/WebParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/ServletContext/ServletContextServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/ServletContext/StaticServContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/cookie/LoginCheckWithCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/cookie/MyCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/demo2/myHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/webapp/Data/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/webapp/WEB-INF/classes/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/webapp/demo1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/webapp/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/artifacts/demo0705_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/artifacts/demo0705_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/5/b/5b33126682462e638c3259fe8b34466805c9f704" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/6/8/6853166b9553bb500860233db274f93560c021c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/9/d/9d6e231556ed8471bbb9cb73f6b6725970f29090" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/d/7/d70a91919cec20e8076e7158bec97fd866ed6244" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/e/d/ed3fa28aa5996d44358dd316a56b34e99c73d599" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/demo0705.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/src/main/webapp/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/demo0705/src/main/webapp/hook.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet和JSP/1.Servlet/Cookie/Cookie.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet和JSP/1.Servlet/Session/Session.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet和JSP/3.Ajax/Ajax.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/1/0/1072c71c1af743be3435c593bbd4e970c7aa2eae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/2/7/27d3d01d3d427f66b1678e4d2a9883fe995cd7b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/8/5/85ee523d01e5e19376db640e846c91bbcb0a1c22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/9/9/9945cb03484ba77d89150fb583543f6a93ac4cdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/9/a/9a0ed34cf6ce7558a8200a7ce52da88072a05251" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/a/9/a9883cd98e728b7e95ad915a7b70fbed26e0084b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/d/0/d03a950ad8797ab5b853efb12c14773be6027f2f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/f/0/f0ece6a9a29b00f945859cfbd7f1a4f24aaa10bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/MyServlet/ajax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/MyServlet/number/numberServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/ajax.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/img/01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/img/02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/img/03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/img/04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/number/number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/Demo0710/target/Demo0710-1.0-SNAPSHOT/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/sonarlint/issuestore/a/7/a7fda096ef23226aba59762333076830d53bc77f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/sonarlint/issuestore/b/e/be4e0c68061a364ea9bcc7c2772dbfaa853a9ff9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/demo0714.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/src/fileDemo/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/src/fileDemo/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/練習/demo0714/src/fileDemo/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JAVA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/732211586e8a568bc7fe03f86c6fa6dc832bf0b0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b032297e5b3cab86ee314dc12ab20b79a36066b" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/artifacts/demo1_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/artifacts/demo1_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/artifacts/demo1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/artifacts/demo1_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/libraries/mysql_connector_java_8_0_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/libraries/mysql_connector_java_8_0_23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/markdown-navigator-enh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/.idea/markdown-navigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/sonarlint/issuestore/1/2/125a9cf70249903a9f2ceb116913e12f7208abd5" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/sonarlint/issuestore/1/2/125a9cf70249903a9f2ceb116913e12f7208abd5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/sonarlint/issuestore/b/0/b007f2eb565384da1ac42a37605f9c7e5d09de53" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6132454470f6f18bdb634d6250663267e9cea71" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/sonarlint/issuestore/b/2/b2669fe6b9afbbec83e01bcaf306dddaea7032fe" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/demo1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/src/main/java/com/tai/MyWeb/JDBC/JDBCImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/src/main/java/com/tai/MyWeb/JDBC/JDBCInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/MyWeb/JDBC/JDBCInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/src/main/java/com/tai/MyWeb/Login/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/MyWeb/Login/Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/src/main/java/com/tai/MyWeb/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/練習/demo0530/demo1/src/main/java/com/tai/MyWeb/User/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/demo0501/demo1/src/main/webapp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/MyServlet/ck.java" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/MyServlet/ck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/MyServlet/invoke/MainInvoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/MyServlet/invoke/MainInvoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/dao/JDBCinterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/java/com/tai/Demo0710/dao/JDBCinterfaceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/Home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/Home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/Demo0710/target/Demo0710-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/練習/Demo0710/target/Demo0710-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,11 +171,11 @@
       <recent name="D:\workspace\JAVA\Servlet\北京尚学堂\4.Servlet深入_session_Context对象" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\JAVA\Servlet和JSP\1.Servlet\Cookie" />
       <recent name="D:\workspace\JAVA\Servlet和JSP" />
       <recent name="D:\workspace\JAVA\JDBC\百戰尚學堂\01-Jdbc学习-新增\src\com\bjsxt\insert" />
       <recent name="D:\workspace\JAVA\Servlet\img" />
       <recent name="D:\workspace\JAVA\JDBC" />
-      <recent name="D:\workspace\JAVA\lib" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -554,6 +452,9 @@
       <workItem from="1619868907391" duration="865000" />
       <workItem from="1625883176951" duration="2610000" />
       <workItem from="1625897153170" duration="24000" />
+      <workItem from="1626505264556" duration="112000" />
+      <workItem from="1626511047555" duration="2724000" />
+      <workItem from="1626570090443" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="0607">
       <created>1591514733404</created>

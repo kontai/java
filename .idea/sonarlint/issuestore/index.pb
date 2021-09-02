@@ -3157,3 +3157,9 @@ LServlet和JSP/6.監聽器/12-Manager/src/com/bjsxt/dao/impl/UserDaoImpl.java,5
 \JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/emp.txt,7\3\732211586e8a568bc7fe03f86c6fa6dc832bf0b0
 �
 _JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/readme.txt,7\b\7b032297e5b3cab86ee314dc12ab20b79a36066b
+X
+(Servlet和JSP/1.Servlet/Cookie/Cookie.md,7\2\72ec27046866eb338948786bdbb6cea69c1951ed
+M
+Servlet和JSP/3.Ajax/Ajax.jsp,1\f\1fbcbc9a5479c2e79dc9568b82ab5ec001a635ea
+[
++Servlet和JSP/1.Servlet/Session/Session.jsp,d\b\db56f1809efd53cf03fe656ca11d749274fc542a

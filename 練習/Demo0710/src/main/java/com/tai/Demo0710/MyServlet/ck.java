@@ -12,20 +12,26 @@ public class ck extends HttpServlet {
         req.setCharacterEncoding("utf-8");
         resp.setContentType("text/html; charset=UTF-8");
 
+        Cookie[] cookies = req.getCookies();
+        if (cookies != null) {
+            for (Cookie ck : cookies) {
+                if (ck.getName().equals("uid")) {
+                    req.getSession().setAttribute("uid", Integer.parseInt(ck.getValue()));
+                    System.out.println("get Cookie uid=" + ck.getValue());
+                }
+                if(ck.getName().equals("uname")){
+                    req.getSession().setAttribute("uname", ck.getValue());
+                }
+            }
+        }
+
         if (req.getSession().getAttribute("uid") == null) {
-            ifNull(resp);
+            resp.sendRedirect("login.jsp");
         } else {
-            ifNotNull(resp);
+            resp.sendRedirect("Home.jsp");
         }
 
     }
 
-    private void ifNotNull(HttpServletResponse resp) throws IOException {
-        resp.sendRedirect("Home.jsp");
-    }
-
-    public void ifNull(HttpServletResponse resp) throws IOException {
-        resp.sendRedirect("login.jsp");
-    }
 
 }
