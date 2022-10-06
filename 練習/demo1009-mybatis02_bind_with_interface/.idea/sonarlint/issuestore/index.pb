@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+m
+=src/main/java/com/example/demo1009mybatis01/HelloServlet.java,2\2\227761712db37a9a549e8763e4bb5e9c24c86315
+q
+Asrc/main/java/com/example/demo1009mybatis01/HelloApplication.java,7\7\77347f075fb267171eb97be66535e6132c5a9ea2
+n
+>src/main/java/com/example/demo1009mybatis01/HelloResource.java,1\3\13d910231af1f7e0e505d2d022e232ea5a582004
+V
+&src/main/java/com/tai/pojo/People.java,d\1\d197c1c3d00a62f1074fc3b278f01686de0577d1
+^
+.src/main/java/com/tai/mapper/PeopleMapper.java,d\a\da69c760a920921712c58d6bdb8443dd8856317d
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+T
+$src/main/java/com/tai/test/test.java,c\6\c66e419a262774c65d99ffc1f8f83af55d964186
+_
+/src/main/java/com/tai/mybatisUtil/myfilter.java,2\3\238418eeb18479eb1c449a81a2388027697db47d
+b
+2src/main/java/com/tai/mybatisUtil/mybatisUtil.java,5\6\560235582d9d33e07ba2fb3badd2f2db06a36519
+d
+4src/main/java/com/tai/service/PeopleServiceImpl.java,b\8\b8dcc72047040ce808e2ebccc40dfc4a577919c6
+Z
+*src/main/java/com/tai/servlet/servlet.java,3\5\35ea965685c885513e4dab843bee885572a96ccf

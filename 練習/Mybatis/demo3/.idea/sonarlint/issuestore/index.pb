@@ -1,0 +1,30 @@
+
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	demo3.iml,5\e\5ea7f7a55191490bfe5e88443c9cd16c66576873
+U
+%.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
+[
++src/main/java/com/tai/dao/PeopleMapper.java,f\6\f671a62a46fff874cdeed909ef4d7d0693dc82dc
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+V
+&src/main/java/com/tai/pojo/People.java,d\1\d197c1c3d00a62f1074fc3b278f01686de0577d1
+`
+0src/main/java/com/tai/service/PeopleService.java,e\9\e995dbabb134bea7f69acad5c2a1381e28cace63
+Z
+*src/main/java/com/tai/pojo/simpleHTML.java,3\a\3a7d3d4ed21f550693c61f3226956dbeee33cd95
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+[
++src/main/java/com/tai/util/MybatisUtil.java,2\7\270e38722474093d1890569fc469708d4a532236
+X
+(src/main/java/com/tai/util/myFilter.java,e\4\e4caa74694c05c3464e10128192880b7b9144692
+^
+.src/main/java/com/tai/servlet/PageServlet.java,d\0\d0d1b5f4d8abc1f55e459eb029694f210af410b7
+h
+8src/main/java/com/tai/service/imp/PeopleServiceImpl.java,3\9\3938047fdb05cf72bdade1edee6c6e739dd732e4

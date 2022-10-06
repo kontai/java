@@ -2,9 +2,12 @@
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
+    <settings>
+        <setting name="logImpl" value="LOG4J" />
+    </settings>
     <typeAliases>
 <!--        批量別名定義，指定包名，mybatis自動掃描包中的po類,自動定義別名,別名是類名(首字母大寫-->
-        <package name="com.tai.pojo.Account"/>
+        <package name="com.tai.pojo"/>
     </typeAliases>
     <environments default="default">
         <environment id="default">
@@ -18,7 +21,7 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource=""/>
+        <mapper resource="mapper/AccountMapper.xml"/>
     </mappers>
 
 </configuration>

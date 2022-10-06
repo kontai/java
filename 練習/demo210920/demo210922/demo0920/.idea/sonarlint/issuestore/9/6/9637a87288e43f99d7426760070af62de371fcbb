@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±æ‘üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ö¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×€ø
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ
+Q
+java:S1874*"6Remove this use of "toLocaleString"; it is deprecated.(š¨³½şÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(×èŒñ
+c
+java:S2095"HUse try-with-resources or close this "SqlSession" in a "finally" clause.(»òÄøÿÿÿÿ

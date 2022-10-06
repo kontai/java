@@ -2,5 +2,27 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/EL/demo20200512" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/Mybatis/demo4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/Mybatis/demo5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/Mybatis/demo6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/hibernate/HibProj1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/hibernate/hibAnno" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/hibernate/myFirstHibProj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/ValidCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/aop/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/aop/demo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/demo01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/demo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/demo3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/demo4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/spring/login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/springMVC/demo1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/springMVC/demo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/springMVC/demo3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/springMVC/spring03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/用戶系統管理實戰_Servlet_JSP項目實戰/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/能力提升/menu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/練習/能力提升/register" vcs="Git" />
   </component>
 </project>

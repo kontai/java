@@ -1,12 +1,20 @@
 package com.tai.pojo;
 
+
+/**
+ * The type Account.
+ * id ID
+ * accNo:使用者帳戶
+ * password:密碼
+ * balance:帳戶餘額
+ * name:姓名
+ */
 public class Account {
     private int id;
     private String accno;
     private int password;
     private double balance;
     private String name;
-
 
     public int getId() {
         return id;
@@ -46,16 +54,5 @@ public class Account {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    @Override
-    public String toString() {
-        return "Account{" +
-                "id=" + id +
-                ", accno='" + accno + '\'' +
-                ", password=" + password +
-                ", balance=" + balance +
-                ", name='" + name + '\'' +
-                '}';
     }
 }
