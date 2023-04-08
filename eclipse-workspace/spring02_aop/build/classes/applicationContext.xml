@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" 
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	   xmlns:context="http://www.springframework.org/schema/context"
+	       xmlns:aop="http://www.springframework.org/schema/aop"
+
+	   default-autowire="byName"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop
+        https://www.springframework.org/schema/aop/spring-aop.xsd
+        ">
+	<context:property-placeholder location="classpath:db.properties"/>
+	
+	<!-- AOP使用註解方式'-->
+	<context:component-scan base-package="com.tai.advice,com.tai.test"></context:component-scan>
+	
+	<bean id="myadvice" class="com.tai.advice.MyAdvice"></bean>
+	<aop:aspectj-autoproxy proxy-target-class="true"></aop:aspectj-autoproxy>
+	<!-- AOP 使用aspectJ方式-->
+	<aop:config>
+		<aop:aspect ref="myadvice">
+				<aop:pointcut id="mypoint1" expression="execution(* com.tai.test.Demo2.demo1(String)) and args(name1)" />
+				<aop:pointcut id="mypoint2" expression="execution(* com.tai.test.Demo2.demo2(String,int)) and args(name1,age1)" />
+				<aop:pointcut id="mypoint3" expression="execution(* com.tai.test.Demo2.demo3())" />
+				<aop:before method="mybefore" pointcut-ref="mypoint2" arg-names="name1,age1" />
+				<aop:before method="mybefore1" pointcut-ref="mypoint1" arg-names="name1"/>
+				<aop:after-throwing method="mythrow" pointcut-ref="mypoint3" />
+				<aop:after method="myafter" pointcut-ref="mypoint3" />
+		</aop:aspect>
+	</aop:config>
+	
+<!-- 	<bean id="demo2" class="com.tai.test.Demo2"></bean> -->
+
+	
+
+	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName" value="${jdbc.driverClassName}"></property>
+		<property name="url" value="${jdbc.url}"></property>
+		<property name="username" value="${jdbc.username}"></property>
+		<property name="password" value="${jdbc.password}"></property>
+	</bean>
+
+	<bean id="factory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<property name="dataSource" ref="dataSource"></property>
+		<property name="typeAliasesPackage" value="com.tai.pojo"></property>
+	</bean>
+	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+	<property name="basePackage" value="com.tai.mapper"></property>
+		<property name="sqlSessionFactoryBeanName" value="factory" ></property>
+	</bean>
+	<bean id="peopleService" class="com.tai.service.impl.PeopleServiceImpl">
+		<property name="mapper" ref="peopleMapper"></property>
+	</bean>
+</beans>

@@ -1,0 +1,20 @@
+
+2
+java:S16430"Use a StringBuilder instead.(ÆÔú‡
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äÍ©
+e	java:S116"PRename this field "WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¾–Ÿ
+k	java:S116"QRename this field "HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÄê»ÿÿÿÿÿ
+m	java:S116"SRename this field "FONTSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÜÕÄþÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(§¾–Ÿ
+<
+java:S1170"!Make this final field static too.(ÄÄê»ÿÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(âÜÕÄþÿÿÿÿ
+3
+java:S2119#"Save and re-use this "Random".(¼ÝÅf
+V	java:S125*"<This block of commented-out lines of code should be removed.(¦Ëâ½ùÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(ÃäçØ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ô‹Ë¼
+U
+java:S1128":Remove this unused import 'java.awt.geom.AffineTransform'.(˜ÊÊ¡ýÿÿÿÿ

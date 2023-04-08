@@ -1,0 +1,59 @@
+
+`	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+X
+java:S1163@"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+X
+java:S1163E"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+X
+java:S1163Z"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+X
+java:S1163_"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+O
+java:S1143@"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+O
+java:S1143E"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+O
+java:S1143Z"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+O
+java:S1143_"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+\
+java:S2259X"AA "NullPointerException" could be thrown; "ins" is nullable here.(¯Ü¿Îøÿÿÿÿ
+W
+java:S2259]"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
+X
+java:S2259>"BA "NullPointerException" could be thrown; "bout" is nullable here.(þ³Š«
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(­çûƒ
+‚
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(™‘”ïøÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(½žœ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡Š”¦
+Z
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(ï­£Ä
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z
+java:S2147:"DCombine this catch with the one at line 56, which has the same body.(ï­£Ä
+E
+java:S20931"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z
+java:S2147T"DCombine this catch with the one at line 82, which has the same body.(ï­£Ä
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÝõÒ¼
+E
+java:S2093M"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+B
+java:S1144",Remove this unused private "method1" method.(ÎúÂ‡
+G
+java:S1144.",Remove this unused private "method2" method.(¸±ñþÿÿÿÿ

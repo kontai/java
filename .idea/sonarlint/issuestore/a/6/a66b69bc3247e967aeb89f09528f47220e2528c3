@@ -1,0 +1,11 @@
+
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëˆœüÿÿÿÿ
+_
+java:S2259&"DA "NullPointerException" could be thrown; "logger" is nullable here.(ıÌ¯Éÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê­½İøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ßºİ×
+M	java:S106"9Replace this use of System.out or System.err by a logger.(…ñÃ\
+Q	java:S125$"<This block of commented-out lines of code should be removed.(†€éˆ
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(õ—‹7
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(•æÿ¼
+Q	java:S1250"<This block of commented-out lines of code should be removed.(…Î²œ

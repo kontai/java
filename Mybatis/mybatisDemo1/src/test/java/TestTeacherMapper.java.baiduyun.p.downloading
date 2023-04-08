@@ -1,0 +1,63 @@
+import com.itbaizhan.mapper.TeacherMapper;
+import com.itbaizhan.mapper.UserMapper;
+import com.itbaizhan.pojo.PageQuery;
+import com.itbaizhan.pojo.Teacher;
+import com.itbaizhan.pojo.User;
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class TestTeacherMapper {
+    InputStream is = null;
+    SqlSession session = null;
+    TeacherMapper teacherMapper = null;
+
+    @Before
+    public void before() throws IOException {
+        // （1）读取核心配置文件
+        is = Resources.getResourceAsStream("SqlMapConfig.xml");
+        // （2）创建SqlSessionFactoryBuilder对象
+        SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
+        // （3）SqlSessionFactoryBuilder对象获取SqlSessionFactory对象
+        SqlSessionFactory factory = builder.build(is);
+        // （4）SqlSessionFactory对象获取SqlSession对象
+        session = factory.openSession();
+        // （5）获取代理对象
+        teacherMapper = session.getMapper(TeacherMapper.class);
+    }
+
+    @After
+    public void after() throws IOException {
+        // 释放资源
+        session.close();
+        is.close();
+    }
+
+    @Test
+    public void testFindAll(){
+        List<Teacher> all = teacherMapper.findAll();
+        all.forEach(System.out::println);
+    }
+
+    @Test
+    public void testFindById(){
+        Teacher teacher = teacherMapper.findById(1);
+        System.out.println(teacher);
+    }
+
+    @Test
+    public void testFinById2(){
+        List<Teacher> all = teacherMapper.findById2(2);
+        all.forEach(System.out::println);
+    }
+}

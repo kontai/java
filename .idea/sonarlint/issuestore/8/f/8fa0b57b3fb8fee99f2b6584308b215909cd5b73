@@ -1,0 +1,35 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú”Ä2
+V
+java:S2259<"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù
+V
+java:S2259{"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤Úì„
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¼«îÔ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(Ô½Ì<
+S	java:S106("9Replace this use of System.out or System.err by a logger.(‹Íİ‘ùÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(µàİÜ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(—ü§›ıÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ÃÍÒøıÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÂúĞ»ûÿÿÿÿ
+L	java:S106X"9Replace this use of System.out or System.err by a logger.(®Í+
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(âÜ£™ùÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(¤Úì„
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(¼«îÔ
+M	java:S106l"9Replace this use of System.out or System.err by a logger.(Ô½Ì<
+Q	java:S125m"<This block of commented-out lines of code should be removed.(µàİÜ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(—ü§›ıÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(ÃÍÒøıÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ÂúĞ»ûÿÿÿÿ

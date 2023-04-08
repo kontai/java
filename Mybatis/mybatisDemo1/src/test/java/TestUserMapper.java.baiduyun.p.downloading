@@ -1,0 +1,66 @@
+import com.itbaizhan.mapper.UserMapper;
+import com.itbaizhan.pojo.User;
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import org.junit.Test;
+
+import java.io.InputStream;
+import java.util.List;
+
+public class TestUserMapper {
+    @Test
+    public void testFindAll() throws Exception {
+        // （1）读取核心配置文件
+        InputStream is = Resources.getResourceAsStream("SqlMapConfig.xml");
+        // （2）创建SqlSessionFactoryBuilder对象
+        SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
+        // （3）SqlSessionFactoryBuilder对象获取SqlSessionFactory对象
+        SqlSessionFactory factory = builder.build(is);
+        // （4）SqlSessionFactory对象获取SqlSession对象
+        SqlSession session = factory.openSession();
+        // （5）SqlSession对象获取代理对象
+        UserMapper userMapper = session.getMapper(UserMapper.class);
+        // （6）代理对象执行方法
+        List<User> all = userMapper.findAll();
+        all.forEach(System.out::println);
+
+        // （7）释放资源
+        session.close();
+        is.close();
+    }
+
+    @Test
+    public void testFindAll2() throws Exception {
+        // （1）读取核心配置文件
+        InputStream is = Resources.getResourceAsStream("SqlMapConfig.xml");
+        // （2）创建SqlSessionFactoryBuilder对象
+        SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
+        // （3）SqlSessionFactoryBuilder对象获取SqlSessionFactory对象
+        SqlSessionFactory factory = builder.build(is);
+        // （4）SqlSessionFactory对象获取SqlSession对象
+        SqlSession session = factory.openSession();
+        // （5）SqlSession直接操作数据库
+        List<User> users = session.selectList("com.itbaizhan.mapper.UserMapper.findAll");
+        users.forEach(System.out::println);
+        // （6）关闭资源
+        session.close();
+        is.close();
+    }
+
+    @Test
+    public void testAdd() throws Exception{
+        InputStream is= Resources.getResourceAsStream("SqlMapConfig.xml");
+        SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
+        SqlSessionFactory factory = builder.build(is);
+        SqlSession session = factory.openSession();
+        UserMapper userMapper = session.getMapper(UserMapper.class);
+        User user = new User("程序员", "男", "上海");
+        userMapper.add(user);
+        // 提交事务
+        session.commit();
+        session.close();
+        is.close();
+    }
+}

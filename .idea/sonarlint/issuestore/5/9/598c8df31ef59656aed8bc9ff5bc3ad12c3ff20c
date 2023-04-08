@@ -1,0 +1,17 @@
+
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+X
+java:S11632"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+O
+java:S11432"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+V
+java:S22590"@A "NullPointerException" could be thrown; "is" is nullable here.(şÑù
+i
+java:S2095&"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ıÚğ¢ùÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(‡Ã§Õ
+D
+java:S1481"")Remove this unused "ppls" local variable.(ıœèºúÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(à…ç›ùÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

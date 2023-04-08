@@ -1,0 +1,82 @@
+import com.itbaizhan.mapper.ClassesMapper;
+import com.itbaizhan.mapper.StudentMapper;
+import com.itbaizhan.mapper.TeacherMapper;
+import com.itbaizhan.mapper2.ClassesMapper2;
+import com.itbaizhan.mapper2.StudentMapper2;
+import com.itbaizhan.pojo.Classes;
+import com.itbaizhan.pojo.Student;
+import com.itbaizhan.pojo.Teacher;
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.List;
+
+public class TestManyTableQuery {
+    InputStream is = null;
+    SqlSession session = null;
+
+    @Before
+    public void before() throws IOException {
+        // （1）读取核心配置文件
+        is = Resources.getResourceAsStream("SqlMapConfig.xml");
+        // （2）创建SqlSessionFactoryBuilder对象
+        SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
+        // （3）SqlSessionFactoryBuilder对象获取SqlSessionFactory对象
+        SqlSessionFactory factory = builder.build(is);
+        // （4）SqlSessionFactory对象获取SqlSession对象
+        session = factory.openSession();
+    }
+
+    @After
+    public void after() throws IOException {
+        // 释放资源
+        session.close();
+        is.close();
+    }
+
+    @Test
+    public void testFindAllStudent(){
+        StudentMapper studentMapper = session.getMapper(StudentMapper.class);
+        List<Student> all = studentMapper.findAll();
+        all.forEach(System.out::println);
+    }
+
+    @Test
+    public void testFindAllClasses(){
+        ClassesMapper classesMapper = session.getMapper(ClassesMapper.class);
+        List<Classes> all = classesMapper.findAll();
+        all.forEach(System.out::println);
+    }
+
+    @Test
+    public void testFindAllTeacher(){
+        TeacherMapper teacherMapper = session.getMapper(TeacherMapper.class);
+        List<Teacher> all = teacherMapper.findAll();
+        all.forEach(System.out::println);
+    }
+
+    @Test
+    public void testFindAllClasses2(){
+        ClassesMapper2 classesMapper2 = session.getMapper(ClassesMapper2.class);
+        List<Classes> all = classesMapper2.findAll();
+        all.forEach(System.out::println);
+        System.out.println("-------------------------");
+        System.out.println(all.get(0).getStudentList());
+    }
+
+    @Test
+    public void testFindAllStudent2(){
+        StudentMapper2 studentMapper2 = session.getMapper(StudentMapper2.class);
+        List<Student> all = studentMapper2.findAll();
+        all.forEach(System.out::println);
+    }
+
+
+}

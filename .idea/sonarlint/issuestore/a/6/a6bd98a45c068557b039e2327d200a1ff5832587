@@ -1,0 +1,13 @@
+
+L
+java:S1854"7Remove this useless assignment to local variable "sc2".(Ø¦›6
+Q
+java:S1854"6Remove this useless assignment to local variable "sc".(Ì£ÙŸùÿÿÿÿ
+B
+java:S1481"'Remove this unused "sc" local variable.(Ì£ÙŸùÿÿÿÿ
+=
+java:S1481"(Remove this unused "sc2" local variable.(Ø¦›6
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿ÙŒì
+V	java:S125"<This block of commented-out lines of code should be removed.(¾¨Ñ°ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ïû©Öûÿÿÿÿ

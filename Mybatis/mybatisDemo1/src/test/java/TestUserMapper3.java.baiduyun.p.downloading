@@ -1,0 +1,114 @@
+import com.itbaizhan.mapper.UserMapper;
+import com.itbaizhan.mapper.UserMapper2;
+import com.itbaizhan.pojo.PageQuery;
+import com.itbaizhan.pojo.User;
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class TestUserMapper3 {
+    InputStream is = null;
+    SqlSession session = null;
+    UserMapper2 userMapper2 = null;
+
+    @Before
+    public void before() throws IOException {
+        // （1）读取核心配置文件
+        is = Resources.getResourceAsStream("SqlMapConfig.xml");
+        // （2）创建SqlSessionFactoryBuilder对象
+        SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
+        // （3）SqlSessionFactoryBuilder对象获取SqlSessionFactory对象
+        SqlSessionFactory factory = builder.build(is);
+        // （4）SqlSessionFactory对象获取SqlSession对象
+        session = factory.openSession();
+        // （5）获取代理对象
+        userMapper2 = session.getMapper(UserMapper2.class);
+    }
+
+    @After
+    public void after() throws IOException {
+        // 释放资源
+        session.close();
+        is.close();
+    }
+
+    @Test
+    public void testFindByCondition(){
+        User user = new User();
+        List<User> users1 = userMapper2.findByCondition(user);
+//        users1.forEach(System.out::println);
+
+        user.setUsername("%尚学堂%");
+        List<User> users2 = userMapper2.findByCondition(user);
+        users2.forEach(System.out::println);
+
+        user.setAddress("北京");
+        List<User> users3 = userMapper2.findByCondition(user);
+        users3.forEach(System.out::println);
+    }
+
+    @Test
+    public void testUpdateUser(){
+        User user = new User();
+        user.setId(11);
+        user.setUsername("程序员");
+        user.setSex("女");
+
+        userMapper2.updateUser(user);
+        session.commit();
+    }
+
+    @Test
+    public void testFindByUsername(){
+        List<User> users = userMapper2.findByUsername("北京欢迎你哈哈11111111111111");
+        users.forEach(System.out::println);
+    }
+
+
+    @Test
+    public void testDeleteBatch(){
+        int[] ids = {9,11};
+        userMapper2.deleteBatch(ids);
+        session.commit();
+    }
+
+    @Test
+    public void testInsertBatch(){
+        User user1 = new User("程序员1", "男", "北京");
+        User user2 = new User("程序员2", "女", "上海");
+        List<User> users = new ArrayList();
+        users.add(user1);
+        users.add(user2);
+
+        userMapper2.insertBatch(users);
+        session.commit();
+    }
+
+
+    @Test
+    public void testFindUser(){
+        Map<String,Object> queryMap = new HashMap();
+        queryMap.put("sex","男");
+        queryMap.put("address","北京");
+        List<User> users = userMapper2.findUser(queryMap);
+        users.forEach(System.out::println);
+    }
+
+
+
+
+
+
+
+}

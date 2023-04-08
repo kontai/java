@@ -1,0 +1,8 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú¤Ò
+q
+java:S1450"VRemove the "context" field and declare it as a local variable in the relevant methods.(Å¯ÙÕúÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "peo2".(ùßüº
+?
+java:S1481")Remove this unused "peo2" local variable.(ùßüº

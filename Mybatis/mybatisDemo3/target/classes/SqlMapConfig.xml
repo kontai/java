@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties resource="db.properties"></properties>
+    <plugins>
+        <!-- 配置分页插件 -->
+        <plugin interceptor="com.github.pagehelper.PageInterceptor">
+            <!--  设置数据库类型   -->
+            <property name="helperDialect" value="mysql"/>
+        </plugin>
+    </plugins>
+    <!-- 配置环境  -->
+    <environments default="mysql">
+        <environment id="mysql">
+            <!--  事务类型  -->
+            <transactionManager type="JDBC"></transactionManager>
+            <!--  数据源  -->
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!--  注册接口  -->
+    <mappers>
+        <package name="com.itbaizhan.mapper"/>
+    </mappers>
+</configuration>

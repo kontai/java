@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties resource="db.properties"></properties>
+    <settings>
+        <setting name="cacheEnabled" value="true"/>
+    </settings>
+<!--    <properties>-->
+<!--        <property name="jdbc.driver" value="com.mysql.jdbc.Driver"/>-->
+<!--        <property name="jdbc.url" value="jdbc:mysql:///mybatis"/>-->
+<!--        <property name="jdbc.username" value="root"/>-->
+<!--        <property name="jdbc.password" value="root"/>-->
+<!--    </properties>-->
+    <typeAliases>
+        <!-- type:全类名  alias:别名 -->
+        <typeAlias type="com.itbaizhan.com.itbaizhan.pojo.User" alias="user"></typeAlias>
+        <!-- 为该包下的所有类配置别名，别名省略包名，和类名相同   -->
+        <package name="com.itbaizhan.com.itbaizhan.pojo"/>
+    </typeAliases>
+
+    <!-- 配置环境  -->
+    <environments default="mysql">
+        <environment id="mysql">
+            <!--  事务类型  -->
+            <transactionManager type="JDBC"></transactionManager>
+<!--            <transactionManager type="MANAGED"></transactionManager>-->
+
+            <!--  数据源  -->
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!--  注册映射文件  -->
+    <mappers>
+<!--        <mapper resource="com/itbaizhan/mapper/UserMapper.xml"></mapper>-->
+<!--        <mapper url="file:///C:\Users\a\IdeaProjects\mybatiscase\mybatisDemo1\src\main\resources\com\itbaizhan\mapper\UserMapper.xml"></mapper>-->
+<!--        <mapper class="com.itbaizhan.mapper.UserMapper"></mapper>-->
+        <package name="com.itbaizhan.mapper"/>
+    </mappers>
+</configuration>
