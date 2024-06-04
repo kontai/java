@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï‹²ä8èÛÅˆş1J$9d10d2be-9c57-4efc-a2e8-377e6c0ae34d
+
+java:S1854"<Remove this useless assignment to local variable "username".(”ÿö‚8ëÛÅˆş1J$f2ee7490-af07-472d-99b5-44051e30d46e
+~	java:S125	"<This block of commented-out lines of code should be removed.(äÆ¾Ó8ïÛÅˆş1J$2ef433f7-d202-41a7-99d1-a844c2ae274d
+p
+java:S1481"-Remove this unused "username" local variable.(”ÿö‚8ğÛÅˆş1J$b33c2f8d-fa21-435f-ad4f-58b3d822432a
+m	java:S106"+Replace this use of System.out by a logger.(Éáğè8ñÛÅˆş1J$847ea5ce-4ba3-4791-83cb-ebc722213b7e
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8„øÅˆş1J$8fcadde9-823e-47cf-8e5e-7c0f12365252

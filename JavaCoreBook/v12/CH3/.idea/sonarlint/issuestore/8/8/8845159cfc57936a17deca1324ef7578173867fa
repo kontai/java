@@ -1,0 +1,11 @@
+
+g
+java:S2095
+"EUse try-with-resources or close this "Scanner" in a "finally" clause.(·«™úÿÿÿÿ8ìÈıˆş1
+€
+java:S1854
+"8Remove this useless assignment to local variable "read".(·«™úÿÿÿÿ8¹ˆûˆş1J$70033a87-68d7-40e6-b21b-fc3bcabc7819
+q
+java:S1481
+")Remove this unused "read" local variable.(·«™úÿÿÿÿ8ºˆûˆş1J$7f3b8e91-c757-4243-910c-12078ad32ce6
+~	java:S125"<This block of commented-out lines of code should be removed.(õÜ¹ƒ8¼ˆûˆş1J$385670fd-4b23-4ee5-8b2a-f3ab5ee68960
