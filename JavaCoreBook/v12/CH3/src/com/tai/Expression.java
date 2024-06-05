@@ -37,6 +37,7 @@ public class Expression {
             case 'c'->"3";
             default -> throw new IllegalStateException("Unexpected value: " + chNum);
         };
+        System.out.println(charSet);
         
         enum Size{SMALL,MEDIUM,LARGE,EXTRA_LARGE};
         Size itemSize=Size.MEDIUM;
@@ -46,5 +47,6 @@ public class Expression {
             case LARGE->"L";
             case EXTRA_LARGE -> "XL";
         };
+        System.out.println(label);
     }
 };

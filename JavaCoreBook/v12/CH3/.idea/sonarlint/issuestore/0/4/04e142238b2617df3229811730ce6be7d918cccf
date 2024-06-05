@@ -1,16 +1,0 @@
-
-~
-java:S1854"";Remove this useless assignment to local variable "charSet".(ìáœ³8ÎêŞ…ş1J$c05b8ea7-0212-4bac-9819-e24a53c30f93
-
-java:S1854+"9Remove this useless assignment to local variable "label".(í—ìºÿÿÿÿÿ8ĞêŞ…ş1J$8457bdd1-155b-4ebf-bcc2-11fc2c4de29d
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ª°€˜üÿÿÿÿ8ÕêŞ…ş1J$7a663f26-3730-4830-81a7-57b458be39ff
-~	java:S125"<This block of commented-out lines of code should be removed.(Ìø»Í8ØêŞ…ş1J$3416d4ec-36cd-418a-9f98-9923b46ec580
-m	java:S106"+Replace this use of System.out by a logger.(Œ®­‹8ÙêŞ…ş1J$658f5434-9359-4791-ba89-0a90b9881a4d
-o
-java:S1481"",Remove this unused "charSet" local variable.(ìáœ³8ÙêŞ…ş1J$83626e10-49b6-409b-89ae-a5c49576d9bd
-_
-java:S1116)"Remove this empty statement.(×Ÿƒ8ÙêŞ…ş1J$b46a31d0-4889-4b40-bf88-740e33a46744
-r
-java:S1481+"*Remove this unused "label" local variable.(í—ìºÿÿÿÿÿ8ÙêŞ…ş1J$684cd72d-bde5-4943-abd7-07e2f95c2467
-d
-java:S11162"Remove this empty statement.(ôŸìúÿÿÿÿ8ÙêŞ…ş1J$14063b6f-ab1d-48f2-aeef-8c46f2488fe0

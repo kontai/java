@@ -1,11 +1,10 @@
 
-g
-java:S2095
-"EUse try-with-resources or close this "Scanner" in a "finally" clause.(·«™úÿÿÿÿ8ìÈıˆş1
-€
-java:S1854
-"8Remove this useless assignment to local variable "read".(·«™úÿÿÿÿ8¹ˆûˆş1J$70033a87-68d7-40e6-b21b-fc3bcabc7819
-q
-java:S1481
-")Remove this unused "read" local variable.(·«™úÿÿÿÿ8ºˆûˆş1J$7f3b8e91-c757-4243-910c-12078ad32ce6
-~	java:S125"<This block of commented-out lines of code should be removed.(õÜ¹ƒ8¼ˆûˆş1J$385670fd-4b23-4ee5-8b2a-f3ab5ee68960
+
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¢òç¦şÿÿÿÿ8µàê°ş1J$4babe7fe-5060-48f2-bd27-bf703bfe2ba9
+m	java:S106"+Replace this use of System.out by a logger.(ñº›8·àê°ş1J$18f1fc9e-3bfa-4f75-a52b-02c26efd6a50
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÒÍ€8¸àê°ş1J$db180c5f-4bdd-41fc-8f19-1938d49d55c4
+m	java:S106"+Replace this use of System.out by a logger.(ÒÍ€8¹àê°ş1J$9c8f05e2-bb00-48fc-b082-662853103c6b
+~	java:S125"<This block of commented-out lines of code should be removed.(õÜ¹ƒ8»àê°ş1J$476fda80-48ef-4d4e-8f8f-67104d951a50
+t
+java:S1128"1Remove this unused import 'java.util.Properties'.(¬µ²8¼àê°ş1J$80386731-3b9c-40e7-94de-cf0f7bcaa9c6
