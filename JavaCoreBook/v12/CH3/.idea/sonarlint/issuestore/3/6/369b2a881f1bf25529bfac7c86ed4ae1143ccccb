@@ -1,0 +1,12 @@
+
+
+java:S2589	"7Remove this expression which always evaluates to "true"(ƒ…ÎÙýÿÿÿÿ8Úñ¶±þ1J$032c2a15-69e0-4d41-a729-1f430825e6ca
+ƒ
+java:S1119";Refactor the code to remove this label and the need for it.(õÐ•¥ùÿÿÿÿ8Ýñ¶±þ1J$0bd57334-75f6-46b4-9989-1511bf30d758
+r	java:S106
+"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ýñ¶±þ1J$d5d5e0ec-2e51-4171-b51b-d3c336da1dc8
+m	java:S106"+Replace this use of System.out by a logger.(Ü¹œù8ú…¼±þ1J$f091357e-360a-42c5-a6fb-3c929cf8751d
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ì×Â±þ1J$511978dd-2c94-48ff-b658-22843f91b39f
+r	java:S106"+Replace this use of System.out by a logger.(ò„‹Åùÿÿÿÿ8ÇñÅ±þ1J$4a37f892-0c7b-42e8-a469-3aa3339333be
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Þñ¶±þ1J$4dcfcbfb-666a-4d8f-9feb-3f1dd64b5145
