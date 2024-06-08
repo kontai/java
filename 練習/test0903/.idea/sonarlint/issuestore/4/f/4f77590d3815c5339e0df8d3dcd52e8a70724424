@@ -1,12 +1,0 @@
-
-L
-java:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8ä´ßŠÅ.
-F
-java:S1481!")Remove this unused "file" local variable.(ÀÊ÷Ë8ÔÌÜŠÅ.
-M
-java:S1481#"+Remove this unused "format" local variable.(æû‹£øÿÿÿÿ8ÒñæŠÅ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Ÿµİ
->
-java:S1116""Remove this empty statement.(»ş§ùÿÿÿÿ8ÔÌÜŠÅ.
-X	java:S1259"<This block of commented-out lines of code should be removed.(œÂª’8ı„ÅŠÅ.
-]	java:S125&"<This block of commented-out lines of code should be removed.(Şüç‰şÿÿÿÿ8ÒñæŠÅ.

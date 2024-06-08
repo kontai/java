@@ -1,8 +1,0 @@
-
-X	java:S125"<This block of commented-out lines of code should be removed.(ù‘åë8‹ü÷öÞ.
-Z
-java:S1128">Remove this unused import 'javax.servlet.ServletOutputStream'.(©ãï8©Å·÷Þ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´Ä»ñýÿÿÿÿ8ŸàšøÞ.
-]	java:S125"<This block of commented-out lines of code should be removed.(¾¨Ñ°ûÿÿÿÿ8­’ùöÞ.
-O
-java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8Û›øÞ.

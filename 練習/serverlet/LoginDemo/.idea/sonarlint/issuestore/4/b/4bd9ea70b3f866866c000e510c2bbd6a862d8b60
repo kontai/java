@@ -1,4 +1,0 @@
-
-Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(—ÊËƒ
-f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ§Å™
-k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãšœûúÿÿÿÿ

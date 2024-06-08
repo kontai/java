@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="folder">
-    <output-path>$PROJECT_DIR$/out/artifacts/folder</output-path>
-    <root id="archive" name="folder.war">
-      <element id="extracted-dir" path="$PROJECT_DIR$/target/webdemo-1.0-SNAPSHOT.war" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>

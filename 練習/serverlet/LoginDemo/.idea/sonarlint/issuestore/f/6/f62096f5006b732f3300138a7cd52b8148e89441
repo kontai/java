@@ -1,17 +1,0 @@
-
-V
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ù—õÔ8üÜ’²â.
-]	java:S125"<This block of commented-out lines of code should be removed.(üÓ–„üÿÿÿÿ8ˆÇÿ²â.
-]	java:S125$"<This block of commented-out lines of code should be removed.(ïÙˆºúÿÿÿÿ8·Æ‰â.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÅĞ¼ê8·Æ‰â.
-\
-java:S2259#"?A "NullPointerException" could be thrown; "u" is nullable here.(ÅĞ¼ê8Š½—²â.
-[
-java:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(ù—õÔ8şŸ‘²â.
-X	java:S125("<This block of commented-out lines of code should be removed.(ù‘åë8·Æ‰â.
-[
-java:S1128
-">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8şŸ‘²â.
-X	java:S125"<This block of commented-out lines of code should be removed.(»÷ñÍ8Õ¹•²â.
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(®«ƒá8·Æ‰â.
-]	java:S125&"<This block of commented-out lines of code should be removed.(¾¨Ñ°ûÿÿÿÿ8·Æ‰â.

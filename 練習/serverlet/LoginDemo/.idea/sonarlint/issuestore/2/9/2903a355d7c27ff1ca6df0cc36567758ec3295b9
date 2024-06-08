@@ -1,9 +1,0 @@
-
-O
-java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8â¿š‰â.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(åü§…8«–æˆâ.
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”›İ»8«–æˆâ.
-c
-java:S2259'"AA "NullPointerException" could be thrown; "res" is nullable here.(¢Ş­şÿÿÿÿÿ8«–æˆâ.
-j
-java:S1104	"MMake u a static final constant or non-public and provide accessors if needed.(®ÿş8í¨‰â.
