@@ -39,7 +39,7 @@ public class Expression {
         };
         System.out.println(charSet);
         
-        enum Size{SMALL,MEDIUM,LARGE,EXTRA_LARGE};
+        enum Size{SMALL,MEDIUM,LARGE,EXTRA_LARGE}
         Size itemSize=Size.MEDIUM;
         String label=switch(itemSize){
             case SMALL->"S";
@@ -49,4 +49,4 @@ public class Expression {
         };
         System.out.println(label);
     }
-};
+}
