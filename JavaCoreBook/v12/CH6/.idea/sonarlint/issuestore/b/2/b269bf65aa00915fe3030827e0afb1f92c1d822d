@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¦ùÿÿÿÿ8æŸÈ€2
+G	java:S106"+Replace this use of System.out by a logger.(şî—8êŸÈ€2
+G	java:S106"+Replace this use of System.out by a logger.(ÿëñ8êŸÈ€2
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÌÚêô8êŸÈ€2
+N
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8ëŸÈ€2
