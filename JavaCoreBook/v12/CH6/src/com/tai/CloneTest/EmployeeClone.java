@@ -1,6 +1,5 @@
-package com.tai.ColneTest;
+package com.tai.CloneTest;
 
-import java.text.DateFormat;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
