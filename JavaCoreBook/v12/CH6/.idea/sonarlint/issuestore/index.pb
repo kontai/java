@@ -14,3 +14,7 @@ U
 %src/com/tai/Lambda/FuncInterface.java,6/2/62344dd4666a355a159e3e98e2b26d36eec550a4
 S
 #src/com/tai/Lambda/IntConsumer.java,d/4/d4790cc25debb3ac7632fd6a9a5712a25c9002e2
+e
+5src/com/tai/Lambda/UsefulFunction/forEachExample.java,6/f/6fbe1ec6ff4e4f77b38c620911a7fa4eb7e5ad71
+Z
+*src/com/tai/InnerClass/InnerClassTest.java,1/5/15982d9f77d453cbe533c17e9338e7a81e683cde

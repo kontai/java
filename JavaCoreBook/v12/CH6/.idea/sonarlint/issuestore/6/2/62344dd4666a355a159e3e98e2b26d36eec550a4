@@ -1,8 +1,13 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê­¥î8ÁÛø¥2J$23e16120-8779-409e-a903-4a247703837c
-r	java:S106	"+Replace this use of System.out by a logger.(¼„¶¾üÿÿÿÿ8ÅÛø¥2J$14aee34d-d80c-4a97-8051-0f839260b135
-r	java:S106"+Replace this use of System.out by a logger.(³Á¼Çşÿÿÿÿ8åÍù¥2J$792f71bf-770e-4329-a45f-0079b754c50e
-u
-java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ÈÇÿ¥2J$26c43885-19be-408a-90b2-d5d025ea73bc
-€
-java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8ÊÇÿ¥2J$e0557691-4d3b-4ba0-9bde-caa30c2c0f09
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê­¥î8µ£â„‚2J$6e74c042-4b74-40de-99b3-4c2c91970f94
+r	java:S106	"+Replace this use of System.out by a logger.(¼„¶¾üÿÿÿÿ8¹£â„‚2J$4b5ac35e-9da0-47ef-911f-d0113fe966e2
+‚
+java:S1612
+"@Replace this lambda with method reference 'System.out::println'.(…ÎÙ8º£â„‚2J$593b2771-2dcd-4d91-97cc-842ecf98db32
+l	java:S106
+"+Replace this use of System.out by a logger.(…ÎÙ8»£â„‚2J$b37161bc-84e0-4c72-a447-fceb2d93aaf7
+r	java:S106"+Replace this use of System.out by a logger.(³Á¼Çşÿÿÿÿ8¾£â„‚2J$9db0ae46-8751-45e0-b7ae-8c04576f980d
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¼Æä„‚2
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¼Æä„‚2

@@ -7,6 +7,9 @@ import java.util.function.Consumer;
 public class FuncInterface {
     public static void main(String[] args) {
         repeat(10,i-> System.out.println("Countdown: "+(9-i)));
+        IntConsumer ic=i-> System.out.println(i);
+        ic.accept(20);
+
 
         String str="9239402958102900 ";
         boolean prob = str.strip().transform(BigInteger::new).isProbablePrime(20);
