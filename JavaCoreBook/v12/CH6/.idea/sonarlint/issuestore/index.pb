@@ -18,3 +18,7 @@ e
 5src/com/tai/Lambda/UsefulFunction/forEachExample.java,6/f/6fbe1ec6ff4e4f77b38c620911a7fa4eb7e5ad71
 Z
 *src/com/tai/InnerClass/InnerClassTest.java,1/5/15982d9f77d453cbe533c17e9338e7a81e683cde
+c
+3src/com/tai/InnerClass/AnonynousInerrClassTest.java,4/a/4ae8e59523f3a87d7d8d9d929bb8c08cdf5b7e9f
+q
+Asrc/com/tai/InnerClass/staticInnerClass/StaticInnerClassTest.java,1/8/188f512175655bd07e31bb5c47bb68fa8a591127

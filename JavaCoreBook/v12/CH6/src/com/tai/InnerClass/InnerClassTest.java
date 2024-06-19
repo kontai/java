@@ -20,6 +20,9 @@ public class InnerClassTest {
         // keep program running until the user selects "OK"
         JOptionPane.showMessageDialog(null, "Quit program?");
         System.exit(0);
+
+        var bob=new Object(){String name="Bob";};
+        System.out.println(bob.name);
     }
 }
 
@@ -29,6 +32,7 @@ public class InnerClassTest {
 class TalkingClock {
     private int interval;
     private boolean beep;
+
 
     /**
      * Constructs a talking clock
@@ -45,13 +49,22 @@ class TalkingClock {
      * Starts the clock.
      */
     public void start() {
-        var listener =new  TimePrinter();
+        var listener = new TimePrinter();
 //       var listener = this.new TimePrinter();
         var timer = new Timer(interval, listener);
         timer.start();
     }
 
+    /*
+    反編譯得到this$0(外部類的引用)
+    public class com.tai.InnerClass.TalkingClock$TimePrinter implements java.awt.event.ActionListener {
+      final com.tai.InnerClass.TalkingClock this$0;
+      public com.tai.InnerClass.TalkingClock$TimePrinter(com.tai.InnerClass.TalkingClock);
+      public void actionPerformed(java.awt.event.ActionEvent);
+    }
+     */
     public class TimePrinter implements ActionListener {
+
         public void actionPerformed(ActionEvent event) {
             System.out.println("At the tone, the time is "
                     + Instant.ofEpochMilli(event.getWhen()));

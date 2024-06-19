@@ -1,9 +1,9 @@
 
 p
-java:S1604"(Make this anonymous inner class a lambda(ü·ª“ÿÿÿÿÿ8Íƒ†‚2J$014d41a6-7504-4db3-9e8b-2e71041d466a
-	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿Ú½‰8 ˜†‚2J$20dc25ea-88c4-4c4c-a355-537ff5133cca
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á×ÆØıÿÿÿÿ8‚ ˜†‚2J$9d97b772-d26b-4206-adf3-323ec5c7fe63
-l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8„ ˜†‚2J$9a4fd8b4-4d23-474a-abac-c7cfc18e43cc
-l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8´‰›†‚2J$5a2af16d-ba0f-4162-930d-2d42a4657cde
-l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8ß‡¡†‚2J$d71257d4-8b1c-4500-a7cd-d971d11687ff
-ƒ	java:S125#"<This block of commented-out lines of code should be removed.(•®îÑüÿÿÿÿ8…ÏŸ†‚2J$47ef33b4-8b95-4b63-9b59-38c26f2abee7
+java:S1604"(Make this anonymous inner class a lambda(ü·ª“ÿÿÿÿÿ8Íƒ†‚2J$8c6bf807-9cb9-4180-926d-41c714f5ddb6
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿Ú½‰8 ˜†‚2J$8b565436-1749-4a14-a9ad-b1eb472d723a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á×ÆØıÿÿÿÿ8‚ ˜†‚2J$bc8c380a-9c9b-4ef6-8b99-1adcb083f54d
+l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8„ ˜†‚2J$38712b95-2d1b-4170-94ea-c1ac51e321a0
+l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8´‰›†‚2J$f12bc6e3-8f96-499f-b89a-d2cc2d51df6d
+l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8ß‡¡†‚2J$cc7ffb39-c1b7-4f33-843a-d4a6b43ce39f
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(•®îÑüÿÿÿÿ8…ÏŸ†‚2J$2f195ef0-b155-4acd-b800-be36658c2a10
