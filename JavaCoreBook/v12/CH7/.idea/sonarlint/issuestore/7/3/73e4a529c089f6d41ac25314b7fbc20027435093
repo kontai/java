@@ -1,11 +1,11 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş£œÆşÿÿÿÿ8À´ó›ƒ2J$ba6c33a9-ced9-4531-a47e-fd7126ee6338
-‹
-java:S3518"CMake sure this expression can't be zero before doing this division.(±èú¬ùÿÿÿÿ8À´ó›ƒ2J$5da6ac16-b658-4083-a751-56dc1abd7181
-ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Œˆ”8Á´ó›ƒ2J$1714f664-112c-440b-a056-10afa97fc24f
-ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ëéÌö8î„œƒ2J$80db403e-e60a-4e7f-a566-c5337d54db79
-m	java:S106	"+Replace this use of System.out by a logger.(à‹ôÜ8Ç´ó›ƒ2J$376fa4e5-5967-4719-9cb7-b55d33ff3ce6
-}
-java:S1854"5Remove this useless assignment to local variable "a".(±èú¬ùÿÿÿÿ8Ç´ó›ƒ2J$d16f7e70-1f55-4e60-8a1c-c69946c8dd06
-n
-java:S1481"&Remove this unused "a" local variable.(±èú¬ùÿÿÿÿ8È´ó›ƒ2J$8d8ab4c4-56cb-4748-8000-efb376546c5f
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş£œÆşÿÿÿÿ8õ¸îÃƒ2
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(±èú¬ùÿÿÿÿ8÷¸îÃƒ2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Œˆ”8ø¸îÃƒ2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ëéÌö8ú¸îÃƒ2
+G	java:S106	"+Replace this use of System.out by a logger.(à‹ôÜ8ı¸îÃƒ2
+W
+java:S1854"5Remove this useless assignment to local variable "a".(±èú¬ùÿÿÿÿ8ş¸îÃƒ2
+H
+java:S1481"&Remove this unused "a" local variable.(±èú¬ùÿÿÿÿ8€¹îÃƒ2

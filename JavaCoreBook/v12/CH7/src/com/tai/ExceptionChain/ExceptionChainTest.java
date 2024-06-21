@@ -11,7 +11,7 @@ public class ExceptionChainTest {
     }
 
     private static void func() throws Exception {
-        try {
+        try{
             var a = 1 / 0;
         } catch (Exception original) {
             throw new Exception("div by zero", original);
