@@ -1,0 +1,12 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "m1".(Ÿ‡Îµ8…ÏŠáÿ1
+D
+java:S1481"'Remove this unused "m1" local variable.(Ÿ‡Îµ8‡ÏŠáÿ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¶êö8‰ÏŠáÿ1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ™ê³úÿÿÿÿ8‹ÏŠáÿ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¿º‘ùÿÿÿÿ8‘ÏŠáÿ1
+V
+java:S1161I":Add the "@Override" annotation above this method signature(Ìß«K8’ÏŠáÿ1
+>
+java:S1116Q"Remove this empty statement.(ôŸŽìúÿÿÿÿ8“ÏŠáÿ1

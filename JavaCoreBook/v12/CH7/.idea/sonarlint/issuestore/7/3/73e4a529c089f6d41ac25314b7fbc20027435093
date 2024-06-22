@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş£œÆşÿÿÿÿ8õ¸îÃƒ2
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(±èú¬ùÿÿÿÿ8÷¸îÃƒ2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Œˆ”8ø¸îÃƒ2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ëéÌö8ú¸îÃƒ2
+G	java:S106	"+Replace this use of System.out by a logger.(à‹ôÜ8ı¸îÃƒ2
+W
+java:S1854"5Remove this useless assignment to local variable "a".(±èú¬ùÿÿÿÿ8ş¸îÃƒ2
+H
+java:S1481"&Remove this unused "a" local variable.(±èú¬ùÿÿÿÿ8€¹îÃƒ2

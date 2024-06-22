@@ -1,0 +1,15 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øÄñòüÿÿÿÿ8ªŠˆåÿ1J$7e1a919e-7383-42de-9d1a-95338cc2ad90
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¢ãÝèùÿÿÿÿ8¬Šˆåÿ1J$b5c6279e-4380-4c1e-b13d-8c41fb1fa04f
+~
+java:S4973"<Strings and Boxed types should be compared using "equals()".(—ýù8­Šˆåÿ1J$4271f28c-6c7e-4f4c-8fdd-9e3474cc80ad
+m	java:S106
+"+Replace this use of System.out by a logger.(åŽ¨8¯Šˆåÿ1J$1df6a679-7cb6-4f10-9da6-b18b18f4446f
+r	java:S106"+Replace this use of System.out by a logger.(¢ãÝèùÿÿÿÿ8±Šˆåÿ1J$992d13e1-e8b6-4091-8f62-bda7e7c04a64
+l	java:S106"+Replace this use of System.out by a logger.(—ýù8²Šˆåÿ1J$a646890f-e02e-46c7-80a6-1422bfe0b00c
+m	java:S106"+Replace this use of System.out by a logger.(»žÜò8³Šˆåÿ1J$f52f28ec-a7ab-4ef5-84e1-56c11b0d67ab
+m	java:S106"+Replace this use of System.out by a logger.(ÆÅÎ…8´Šˆåÿ1J$21c7f8e7-23e3-43c8-83e8-8da8cfff16c0
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8µŠˆåÿ1J$58515ee0-3af5-4545-b945-8d0750f0dfbd
+m	java:S106"+Replace this use of System.out by a logger.(Öê±ô8¶Šˆåÿ1J$47efd3df-4d52-4f8e-bcda-723bd7b26eeb
+r	java:S106"+Replace this use of System.out by a logger.(¡ÓÆøÿÿÿÿ8²š™åÿ1J$cc6c72fd-ea69-4f73-8b55-b8ff3b4ac567
