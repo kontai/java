@@ -1,205 +1,0 @@
-
-†
-java:S4165¶ "jRemove this useless assignment; "warningCount" already holds the assigned value along all execution paths.(øœßúÿÿÿÿ
-g
-java:S1192"KDefine a constant instead of duplicating this literal "MysqlIO.43" 3 times.(Ã¤ëµøÿÿÿÿ
-z
-java:S1192Á"cDefine a constant instead of duplicating this literal "Connection.BadAuthenticationPlugin" 3 times.(ú¢ÃÇ
-b
-java:S1192!"KDefine a constant instead of duplicating this literal "MysqlIO.91" 4 times.(Éˆ¬
-b
-java:S1192!"KDefine a constant instead of duplicating this literal "MysqlIO.92" 4 times.(Éˆ¬
-^
-java:S1192ÿ"GDefine a constant instead of duplicating this literal "ASCII" 10 times.(ÿÉú€
-F
-java:S1066Ë"/Merge this if statement with the enclosing one.(â –
-F
-java:S1066¿"/Merge this if statement with the enclosing one.(°•°÷
-K
-java:S1066«"/Merge this if statement with the enclosing one.(“¹ã›şÿÿÿÿ
-E
-java:S1066Ê"/Merge this if statement with the enclosing one.(Ñû”
-E
-java:S1066Ó"/Merge this if statement with the enclosing one.(Ñû”
-W	java:S107"<Method has 9 parameters, which is greater than 7 authorized.(€¥¦øùÿÿÿÿ
-R	java:S107½"<Method has 8 parameters, which is greater than 7 authorized.(üå™¥
-X	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(ÑïŒ§üÿÿÿÿ
-S	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(Ùùâƒ
-S	java:S107æ"=Method has 10 parameters, which is greater than 7 authorized.(’¿ÎÆ
-a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ã¤ëµøÿÿÿÿ
-a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‘Ãã¢øÿÿÿÿ
-U
-java:S1155î">Use isEmpty() to check whether the collection is empty or not.(÷ˆìÒ
-Q
-java:S1141®"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Q
-java:S1141À"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Q
-java:S1141¦"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Q
-java:S1141À"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Áƒ¦øÿÿÿÿ
-l	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÜœÉşÿÿÿÿ
-g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óê—È
-K
-java:S1143î"4Remove this throw statement from this finally block.(Ğ·Ç·
-K
-java:S1143ì"4Remove this throw statement from this finally block.(Æ‚Õà
-T
-java:S1163î"=Refactor this code to not throw exceptions in finally blocks.(Ğ·Ç·
-T
-java:S1163ì"=Refactor this code to not throw exceptions in finally blocks.(Æ‚Õà
-[
-java:S2259Û"DA "NullPointerException" could be thrown; "plugin" is nullable here.(£÷¨’
-`
-java:S2259—"DA "NullPointerException" could be thrown; "plugin" is nullable here.(ğëÇÏøÿÿÿÿ
-w
-java:S1104«"[Make mysqlConnection a static final constant or non-public and provide accessors if needed.(îøïŒşÿÿÿÿ
-v
-java:S1488Ö"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(ØŠÊæüÿÿÿÿ
-y
-java:S1488Í"]Immediately return this expression instead of assigning it to the temporary variable "field".(Î¾Š¹ÿÿÿÿÿ
-y
-java:S1488î"]Immediately return this expression instead of assigning it to the temporary variable "field".(´Èù´ùÿÿÿÿ
-v
-java:S1488ş"_Immediately return this expression instead of assigning it to the temporary variable "results".(×Ñ¯Ì
-s
-java:S1488é"\Immediately throw this expression instead of assigning it to the temporary variable "sqlEx".(ŸÑ‡„
-E
-java:S1121Ş"".Extract the assignment out of this expression.(úÉ—ñ
-Z
-java:S1124{"EReorder the modifiers to comply with the Java Language Specification.(ß³â
-`
-java:S1124|"EReorder the modifiers to comply with the Java Language Specification.(‘Ùª²ıÿÿÿÿ
-F
-java:S2093ˆ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-a
-java:S1124—"EReorder the modifiers to comply with the Java Language Specification.(öû¸Üıÿÿÿÿ
-p
-java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖŠÕ¯
-n
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(€¥¦øùÿÿÿÿ
-D	java:S108 ")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
-n
-java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŸÅÃñùÿÿÿÿ
-D	java:S108÷")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
-[
-java:S1854’"DRemove this useless assignment to local variable "catalogNameStart".(©Â‘É
-n
-java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ğí½ùÿÿÿÿ
-2
-java:S3626ı"Remove this redundant jump.(ÉŠ©ƒ
-?	java:S108²")Either remove or fill this block of code.(ÅŸ­Â
-U
-java:S1854û"9Remove this useless assignment to local variable "errno".(é¾º®ùÿÿÿÿ
-j
-java:S3776ê"SRefactor this method to reduce its Cognitive Complexity from 126 to the 15 allowed.(Øñ½
-W	java:S125ó"<This block of commented-out lines of code should be removed.(è¬¿Ğşÿÿÿÿ
-I
-java:S1135ò"2Complete the task associated to this TODO comment.(Æ®¥…
-W	java:S125¶	"<This block of commented-out lines of code should be removed.(¬›ˆªÿÿÿÿÿ
-N
-java:S1135µ	"2Complete the task associated to this TODO comment.(ùÛüÿÿÿÿ
-r
-java:S3923£
-"[Remove this conditional structure or edit its code blocks so that they're not all the same.(â¥Êº
-Y
-java:S1126£
-"BReplace this if-then-else statement by a single method invocation.(â¥Êº
-i
-java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ô›¥ò
-p
-java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(£¾×Ë
-u
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆàÀëøÿÿÿÿ
-A
-java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-O
-java:S1874‹"3Remove this use of "newInstance"; it is deprecated.(ÒÔ•ÿÿÿÿÿ
-j
-java:S3776½"SRefactor this method to reduce its Cognitive Complexity from 143 to the 15 allowed.(íÔîë
-p
-java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùí½É
-Š
-java:S1130î"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ëÓ‹®şÿÿÿÿ
-W	java:S125ı"<This block of commented-out lines of code should be removed.(íòÊîùÿÿÿÿ
-D	java:S108•")Either remove or fill this block of code.(ĞĞ¹óúÿÿÿÿ
-i
-java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(üå™¥
-i
-java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(Î¯ø°
-[
-java:S1134†"DTake the required action to fix the issue indicated by this comment.(¢îãå
-N
-java:S1135¬"2Complete the task associated to this TODO comment.(Í‚“İøÿÿÿÿ
-W	java:S125¯"<This block of commented-out lines of code should be removed.(è¥øùÿÿÿÿÿ
-5
-java:S2178¼"Correct this "&" to "&&".(·ûÖøÿÿÿÿ
-n
-java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÿËşºıÿÿÿÿ
-a
-java:S2674¢"JCheck the return value of the "skip" call to see how many bytes were read.(Ìûìß
-i
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 90 to the 15 allowed.(Ùùâƒ
-W	java:S125ƒ"<This block of commented-out lines of code should be removed.(Íøäùÿÿÿÿ
-a
-java:S1124€"EReorder the modifiers to comply with the Java Language Specification.(à¶¨†úÿÿÿÿ
-U
-java:S1172ç"9Remove this unused method parameter "preSentColumnCount".(èæÙØıÿÿÿÿ
-O
-java:S1874Ö"3Remove this use of "newInstance"; it is deprecated.(Ì›Ù®ıÿÿÿÿ
-u
-java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Ú²æüÿÿÿÿ
-8	java:S131½""Add a default case to this switch.(€Ëé¢
-n
-java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.( ‰ıÿÿÿÿ
-D	java:S108Ã")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
-D	java:S108Ç")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
-n
-java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(—Ş›åûÿÿÿÿ
-n
-java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(õâø¶øÿÿÿÿ
-p
-java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸õÛ”
-F
-java:S2093­"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-E
-java:S1172Œ".Remove this unused method parameter "command".(’Î´
-W	java:S125"<This block of commented-out lines of code should be removed.(¾øì¢ûÿÿÿÿ
-U
-java:S1854©"9Remove this useless assignment to local variable "errno".(é¾º®ùÿÿÿÿ
-i
-java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(‚ùñ•
-n
-java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ìÈİşÿÿÿÿ
-u
-java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ìµıøÿÿÿÿ
-i
-java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(æüæÔ
-p
-java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ª¦Ô
-p
-java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(äçæˆ
-h
-java:S3776Æ "RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(åˆˆy
-i
-java:S3776Í!"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(öçĞ€
-b
-java:S2147‡""FCombine this catch with the one at line 4356, which has the same body.(ĞĞ¹óúÿÿÿÿ
-N
-java:S1135Ğ""2Complete the task associated to this TODO comment.(«™Î×ûÿÿÿÿ
-f
-java:S1871˜#"JThis case's code block is the same as the block for the case on line 4497.(ä„¥«úÿÿÿÿ
-R
-java:S1854¶$";Remove this useless assignment to local variable "seconds".(—Å‹
-V
-java:S1854µ$":Remove this useless assignment to local variable "minute".(À›í¸úÿÿÿÿ
-T
-java:S1854´$"8Remove this useless assignment to local variable "hour".(ÌÇÍüÿÿÿÿ
-i
-java:S3776µ#"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Öù§Ü
-Q	java:S125%"<This block of commented-out lines of code should be removed.(’ÆĞv
-=
-java:S1172í%"&Remove these unused method parameters.(ñàª¡
-o
-java:S2293”&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠØ.

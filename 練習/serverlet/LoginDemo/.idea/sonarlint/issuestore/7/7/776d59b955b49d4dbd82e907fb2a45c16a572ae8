@@ -1,7 +1,0 @@
-
-E
-java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-n
-java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ°™>
-„
-java:S1130S"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ÿ«³ƒ

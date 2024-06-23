@@ -1,9 +1,0 @@
-
-^
-java:S2095,"HUse try-with-resources or close this "Connection" in a "finally" clause.(ñóÏØ
-]
-java:S2095-"GUse try-with-resources or close this "Statement" in a "finally" clause.(®‡ÔÂ
-S
-java:S1197 "8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ
-H
-java:S4925("-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
