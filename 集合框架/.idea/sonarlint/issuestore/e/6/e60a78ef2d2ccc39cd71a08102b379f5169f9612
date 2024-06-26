@@ -1,10 +1,10 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–µÝºýÿÿÿÿ
-J
-java:S3740"/Provide the parametrized type for this generic.(ÊÉÈ‰ûÿÿÿÿ
-J
-java:S3740"/Provide the parametrized type for this generic.(ÊÉÈ‰ûÿÿÿÿ
-J
-java:S3740"/Provide the parametrized type for this generic.(Õæ—Þùÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ƒßÎùÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(É„†ú
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–µÝºýÿÿÿÿJ$14fe39b1-4396-4bee-8ef3-ba13c035134d
+p
+java:S3740"/Provide the parametrized type for this generic.(ÊÉÈ‰ûÿÿÿÿJ$0b268201-f188-4165-a2d3-dd03e41ab178
+p
+java:S3740"/Provide the parametrized type for this generic.(ÊÉÈ‰ûÿÿÿÿJ$8a105837-eef0-4129-afc9-f09f8b8d3867
+p
+java:S3740"/Provide the parametrized type for this generic.(Õæ—ÞùÿÿÿÿJ$d592766d-ed35-4188-8a60-5ee7d60873a1
+|	java:S125"<This block of commented-out lines of code should be removed.(ƒßÎùÿÿÿÿJ$f891a038-7cc5-4339-b207-18b002253d00
+f	java:S106"+Replace this use of System.out by a logger.(É„†úJ$d7c7e6a9-8bc3-429e-ae0c-01ec40d5d925
