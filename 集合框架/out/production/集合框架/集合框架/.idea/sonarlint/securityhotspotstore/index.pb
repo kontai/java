@@ -13,3 +13,17 @@ X
 ,IIList集合/p4_Set/HashSet/set/SetTest.java,4/6/46de0bd44b830f281a4c42ccd0c81f7af157e799
 \
 ,IIList集合/p4_Set/TreeSet/TreeSetDemo.java,0/8/084fc8edcbe3a61fd7e9bda640bcf768b4aa8429
+\
+,IIList集合/p4_Set/TreeSet/TreeSetTest.java,b/f/bf23d19de3f2e19b94f7dfa54bd25d558ee78841
+c
+3IIList集合/p4_Set/TreeSet/ComparatorByLength.java,2/2/2246f371866cd4fcc5fe6cec26256e9c793d3f6f
+b
+2IIList集合/p4_Set/TreeSet/Items/TreeSetTest.java,8/7/870afc1914257b39ab138bd55404e83886c47b33
+[
++IIList集合/p4_Set/TreeSet/Items/Item.java,f/0/f0ba4d54d3c68a599306807993a578aa1bd9d44a
+W
+'IIList集合/p4_Set/TreeSet/Person.java,7/b/7b543aaa09de9d39552eb10aecd6ab42606baf7b
+i
+9IIList集合/p5Queue/priorityQueue/PriorityQueueTest.java,1/0/100be2d6d09e32801175b783e601bdb1271f36b8
+j
+:IIList集合/p5_Queue/priorityQueue/PriorityQueueTest.java,0/3/035dfcdfed118b362e515f385e35ead1a1eed5c2
