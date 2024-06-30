@@ -27,20 +27,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/1/d/1d2f47b3b9629d91796ad98a3bced86ea37c6417" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/3/2/32e074f71d16c1e88ac02aa83592ca6ad1fd98a8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/6/46d6465113c16ddf430940aa5c74b313fa4df614" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/e/4e379770fa58d30aff0d2b48263254a67443015c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/9/f/9f6be87768bc9fc21426d953495dd2b8c1594cd5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/e/6/e6070bd076d4e8875c3f36f60c83f8b3a73bf9ac" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_6_30__11_07__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_6_30_上午_11_07_[Default_Changelist]/1bd00e302d865948e4a918fa9c4e8352cae4a981" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_6_30_上午_11_07_[Default_Changelist]/dff6f7bc3ee8785d0acd5eddf69f66a81278ea04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_6_30_上午_11_07_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50dad87dc33197db96ee8df7935f434c961b269e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/770b36f5396ed91a28ebc392abd9129e73153249" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dc69d5e0552712a16186732474132a4b33840de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f9487ebe76e0dcfef9d869ea694f50c94816b58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac7b131d02fd715a39df2e22d9dd3e97b8db3409" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9062c8f76e662b0da9209bf67b45a625cf3baea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/b/1bd00e302d865948e4a918fa9c4e8352cae4a981" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/0/50dad87dc33197db96ee8df7935f434c961b269e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/770b36f5396ed91a28ebc392abd9129e73153249" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9dc69d5e0552712a16186732474132a4b33840de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9f9487ebe76e0dcfef9d869ea694f50c94816b58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/c/ac7b131d02fd715a39df2e22d9dd3e97b8db3409" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/9/c9062c8f76e662b0da9209bf67b45a625cf3baea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/f/dff6f7bc3ee8785d0acd5eddf69f66a81278ea04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/sonarlint/issuestore/9/f/9fcad5195f29c15a55fd1b5e620e4d21524fcc8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/sonarlint/securityhotspotstore/9/f/9fcad5195f29c15a55fd1b5e620e4d21524fcc8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/v12/CH6/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/v12/CH6/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/v12/CH6/.idea/sonarlint/issuestore/6/2/62344dd4666a355a159e3e98e2b26d36eec550a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/v12/CH6/.idea/sonarlint/securityhotspotstore/6/2/62344dd4666a355a159e3e98e2b26d36eec550a4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/732211586e8a568bc7fe03f86c6fa6dc832bf0b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b032297e5b3cab86ee314dc12ab20b79a36066b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e0d26149-dc87-4285-b86d-17384db71574.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e0d26149-dc87-4285-b86d-17384db71574.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -65,6 +92,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kontai"
+  }
+}]]></component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -73,6 +106,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kontai/java",
+    "accountId": "70cecafc-4d49-49d5-9bdd-d3cd4a2f3de9"
+  }
+}]]></component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
@@ -111,7 +150,12 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/workspace/JAVA"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/workspace/JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -205,6 +249,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">

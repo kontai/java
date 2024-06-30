@@ -1,0 +1,28 @@
+
+g	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™áÉÃûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÎÚÿÿÿÿÿ
+7
+java:S1116 "Remove this empty statement.(Ÿùûÿÿÿÿÿ
+]
+java:S2094,"BRemove this empty class, write its code or make it an "interface".(ÅÁ‹Åúÿÿÿÿ
+L
+java:S18545"6Remove this useless assignment to local variable "bb".( ¹©‡
+L
+java:S18544"6Remove this useless assignment to local variable "aa".(ÓÙõå
+K
+java:S18543"6Remove this useless assignment to local variable "zz".(¶Ù'
+Q
+java:S18542"6Remove this useless assignment to local variable "ww".(Ö¨Çëûÿÿÿÿ
+Q
+java:S18540"6Remove this useless assignment to local variable "ss".(ÙâÅ™øÿÿÿÿ
+B
+java:S14810"'Remove this unused "ss" local variable.(ÙâÅ™øÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(çÇÆ¦
+B
+java:S14812"'Remove this unused "ww" local variable.(Ö¨Çëûÿÿÿÿ
+<
+java:S14813"'Remove this unused "zz" local variable.(¶Ù'
+=
+java:S14814"'Remove this unused "aa" local variable.(ÓÙõå
+=
+java:S14815"'Remove this unused "bb" local variable.( ¹©‡
