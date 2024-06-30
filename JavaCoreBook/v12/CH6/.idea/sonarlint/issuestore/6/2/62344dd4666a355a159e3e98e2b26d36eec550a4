@@ -1,28 +1,13 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øãµ»øÿÿÿÿ8üÜ¤ª€2J$dc6717ec-e288-477f-8eec-a5c5b0203042
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê­¥î8ıÜ¤ª€2J$b3f8799f-6f06-4c9c-8a2f-808d3130f75d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê­¥î8µ£â„‚2J$6e74c042-4b74-40de-99b3-4c2c91970f94
+r	java:S106	"+Replace this use of System.out by a logger.(¼„¶¾üÿÿÿÿ8¹£â„‚2J$4b5ac35e-9da0-47ef-911f-d0113fe966e2
 ‚
-java:S1854":Remove this useless assignment to local variable "timer2".(Åàæíûÿÿÿÿ8ÿÜ¤ª€2J$cbed2836-99db-47a6-b354-c8159c5ce849
-|
-java:S1854"9Remove this useless assignment to local variable "timer".(òâ‡8ÿÜ¤ª€2J$091191ef-1a3b-46ff-b12d-734e027dc942
-
-java:S1854"FRemove this useless assignment to local variable "abotherDate_better".(øãµ»øÿÿÿÿ8€İ¤ª€2J$6fe1c69d-1b94-4c60-923a-f41d66bb9d6e
-
-java:S1854"?Remove this useless assignment to local variable "abotherDate".(ö•…k8€İ¤ª€2J$f17b60f6-44d1-4371-bc3d-17eb372b3d17
-r
-java:S1481"0Remove this unused "abotherDate" local variable.(ö•…k8€İ¤ª€2J$9a6c58b9-13f5-4f58-836c-c6958c1e1976
-
-java:S1481"7Remove this unused "abotherDate_better" local variable.(øãµ»øÿÿÿÿ8€İ¤ª€2J$6690e962-ef82-4a5e-b9b0-c20cd271e33f
-ƒ
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(òâ‡8‚İ¤ª€2J$95c9e223-93bf-4bb3-a14d-b72cfa64f7cf
-m	java:S106"+Replace this use of System.out by a logger.(òâ‡8‚İ¤ª€2J$49860899-1657-4386-96bd-14c7bcf1633b
-m
-java:S1481"*Remove this unused "timer" local variable.(òâ‡8‚İ¤ª€2J$a9f527a5-e877-461c-9781-32a2141a0319
-r	java:S106"+Replace this use of System.out by a logger.(Åàæíûÿÿÿÿ8‚İ¤ª€2J$b2d4d5a5-673d-417b-8b2a-ba5c995f2659
-s
-java:S1481"+Remove this unused "timer2" local variable.(Åàæíûÿÿÿÿ8‚İ¤ª€2J$b8c8efdc-d654-4ade-8473-6c4a4f2fad10
-r	java:S106"+Replace this use of System.out by a logger.( Ñ–°ıÿÿÿÿ8‚İ¤ª€2J$6ed1698a-c35f-4e61-b407-c8cdb32f2bd9
-r	java:S106"+Replace this use of System.out by a logger.( Ñ–°ıÿÿÿÿ8‚İ¤ª€2J$5643847e-cdf9-4427-a1fc-83628ab98033
-r	java:S106"+Replace this use of System.out by a logger.( Ñ–°ıÿÿÿÿ8‚İ¤ª€2J$357a36ba-d728-4c9f-b98c-b228922cf3d4
-s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8À°«ª€2J$18ae8aa4-c856-439e-b8bc-45e06d93c9e9
+java:S1612
+"@Replace this lambda with method reference 'System.out::println'.(…ÎÙ8º£â„‚2J$593b2771-2dcd-4d91-97cc-842ecf98db32
+l	java:S106
+"+Replace this use of System.out by a logger.(…ÎÙ8»£â„‚2J$b37161bc-84e0-4c72-a447-fceb2d93aaf7
+r	java:S106"+Replace this use of System.out by a logger.(³Á¼Çşÿÿÿÿ8¾£â„‚2J$9db0ae46-8751-45e0-b7ae-8c04576f980d
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¼Æä„‚2
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¼Æä„‚2

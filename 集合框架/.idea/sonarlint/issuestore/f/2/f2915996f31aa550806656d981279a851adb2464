@@ -1,0 +1,16 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¸§øÿÿÿÿÿJ$35abf82d-8e99-4edb-ae5a-c1c14d93b40d
+p
+java:S3740"/Provide the parametrized type for this generic.(’ø×ŠúÿÿÿÿJ$60459e16-a34b-4f2b-8d9e-1be0daaced40
+p
+java:S3740"/Provide the parametrized type for this generic.(’ø×ŠúÿÿÿÿJ$c0c5ee43-72b9-4bae-b2b0-0dffcc9dda6c
+f	java:S106"+Replace this use of System.out by a logger.(¼ ôJ$c1d66f16-97d0-4de9-961c-ca0be9965366
+w	java:S125"<This block of commented-out lines of code should be removed.(é’‡J$c9a6bac5-8098-412e-873b-957720f2c68f
+|	java:S125"<This block of commented-out lines of code should be removed.(ÿ•Ú´ıÿÿÿÿJ$e46cfa8b-a7fb-4c02-b24d-27d1627f84b2
+f	java:S106"+Replace this use of System.out by a logger.(§´¼ÆJ$13ea6160-bb2f-41c9-a3a7-fecf0ef752de
+f	java:S106 "+Replace this use of System.out by a logger.(¼ ôJ$d8e7217b-f770-4d51-b5ce-e69f6cf06264
+|	java:S125!"<This block of commented-out lines of code should be removed.(¼†çÒùÿÿÿÿJ$7d477417-1a18-4bde-8653-81671f49416c
+r
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿJ$0a5c61da-d8d3-4484-8c75-edfb3d56620b
+s
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿJ$d35e504a-4241-4daf-9117-ab6a51c8a280

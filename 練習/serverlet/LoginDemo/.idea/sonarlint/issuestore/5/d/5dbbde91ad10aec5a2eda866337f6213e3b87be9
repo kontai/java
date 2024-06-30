@@ -1,8 +1,0 @@
-
-`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ä¥Ÿüÿÿÿÿ
->
-java:S1604C"(Make this anonymous inner class a lambda(‚ÈüÎ
-J
-java:S1128%"4Remove this unused import 'com.mysql.jdbc.SQLError'.(°Âï
-U
-java:S1128#":Remove this unused import 'com.mysql.jdbc.ConnectionImpl'.(Šàîüÿÿÿÿ

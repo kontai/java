@@ -1,10 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€‘Õ°øÿÿÿÿ8ôÎî€€2J$683fac38-dbe2-462e-812a-13d1ac18ea73
-m	java:S106"+Replace this use of System.out by a logger.(ßŽ²Ì8÷Îî€€2J$6ddc79b1-2b41-4817-b30d-2d1ecebf9b7a
-ƒ	java:S125%"<This block of commented-out lines of code should be removed.(çßóîûÿÿÿÿ8ûÎî€€2J$1f604d8b-bbfe-4bdc-86f1-5ef0ed244d1e
-n
-java:S1068"&Remove this unused "id" private field.(ôç¼Óþÿÿÿÿ8üÎî€€2J$180ce293-0f11-482c-a80c-d448dcc304a7
-k
-java:S1068"(Remove this unused "name" private field.(Ë¥¼8ýÎî€€2J$e071327d-d1a8-494b-ac7a-d29cccfa9320
-l
-java:S1068")Remove this unused "bonus" private field.(êÝÆê8ÿÎî€€2J$3b3f81f5-cc76-4eae-aa62-a88f4c91edb3

@@ -1,252 +1,0 @@
-
-^
-java:S2095›"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÒÀû,
-h
-java:S2095Ô	"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(Ù§æ
-c
-java:S2095Ä	"GUse try-with-resources or close this "Statement" in a "finally" clause.(õß¡¬ùÿÿÿÿ
-^
-java:S2095Ñ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ş˜ğ–
-d
-java:S2095—"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ºÅİğûÿÿÿÿ
-c
-java:S2095¬"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ã¹Äûÿÿÿÿ
-c
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(€Ê¨Úüÿÿÿÿ
-c
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(°¥êòşÿÿÿÿ
-^
-java:S2095ä"GUse try-with-resources or close this "Statement" in a "finally" clause.(ñ‡²ä
-c
-java:S2095œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
-h
-java:S2095¶	"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ˆÆÇ
-c
-java:S2095û"GUse try-with-resources or close this "Statement" in a "finally" clause.(ˆÌ€ğüÿÿÿÿ
-b
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡¼Óçşÿÿÿÿ
-c
-java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
-c
-java:S2095ò"GUse try-with-resources or close this "Statement" in a "finally" clause.(õß¡¬ùÿÿÿÿ
-c
-java:S2095ú"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
-^
-java:S2095š"GUse try-with-resources or close this "Statement" in a "finally" clause.(Œ¼Îö
-c
-java:S2095ˆ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
-^
-java:S2095ÿ
-"GUse try-with-resources or close this "Statement" in a "finally" clause.(×ù¹™
-c
-java:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
-^
-java:S2095ˆ"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜¶ê
-^
-java:S2095Œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÀÎÒ
-c
-java:S2095é"GUse try-with-resources or close this "Statement" in a "finally" clause.(¸Ğ¬úúÿÿÿÿ
-^
-java:S2095‰"GUse try-with-resources or close this "Statement" in a "finally" clause.(ı¨·Ò
-c
-java:S2095Ô"GUse try-with-resources or close this "Statement" in a "finally" clause.(™ª„³ÿÿÿÿÿ
-c
-java:S2095Û"GUse try-with-resources or close this "Statement" in a "finally" clause.(”É–Êøÿÿÿÿ
-c
-java:S2095ì"GUse try-with-resources or close this "Statement" in a "finally" clause.(™ª„³ÿÿÿÿÿ
-k
-java:S2095ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ò“·ûÿÿÿÿ
-^
-java:S2095°"GUse try-with-resources or close this "Statement" in a "finally" clause.(ßñúŠ
-c
-java:S2095Í"GUse try-with-resources or close this "Statement" in a "finally" clause.(‘®ñºøÿÿÿÿ
-f
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀîÑ
-c
-java:S2095“"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
-k
-java:S2095ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ğáŸ›úÿÿÿÿ
-k
-java:S2095¾"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”ïëşÿÿÿÿ
-c
-java:S2095Ó"GUse try-with-resources or close this "Statement" in a "finally" clause.(ûäİßüÿÿÿÿ
-^
-java:S2095·"GUse try-with-resources or close this "Statement" in a "finally" clause.(œ€„
-h
-java:S2095Ç	"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(«…ëÇ
-f
-java:S2095¬"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—©ßƒ
-^
-java:S2095²"GUse try-with-resources or close this "Statement" in a "finally" clause.(·Æ¿œ
-c
-java:S2095®"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğâ¯ıÿÿÿÿ
-^
-java:S2095˜"GUse try-with-resources or close this "Statement" in a "finally" clause.(¬¬î²
-c
-java:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ™ºÿÿÿÿÿ
-]
-java:S2095Ü"GUse try-with-resources or close this "Statement" in a "finally" clause.(¾éñ5
-^
-java:S2095Ù"GUse try-with-resources or close this "Statement" in a "finally" clause.(Üò£í
-d
-java:S2095Ø"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ºÅİğûÿÿÿÿ
-c
-java:S1192"GDefine a constant instead of duplicating this literal "false" 13 times.(„­—¡ıÿÿÿÿ
-f
-java:S1192¬"JDefine a constant instead of duplicating this literal "SELECT 1" 12 times.(‰ã¹Äûÿÿÿÿ
-c
-java:S1192Å"GDefine a constant instead of duplicating this literal "useSSL" 5 times.(êç§ìüÿÿÿÿ
-d
-java:S1192Œ"NDefine a constant instead of duplicating this literal "autoReconnect" 4 times.(õïµK
-b
-java:S1192Â"KDefine a constant instead of duplicating this literal "logFactory" 3 times.(é±Ú¾
-f
-java:S1192¨"JDefine a constant instead of duplicating this literal "enEscProc" 3 times.(‚êüòüÿÿÿÿ
-_
-java:S1192©"HDefine a constant instead of duplicating this literal "useSSPS" 3 times.(ì†åÿ
-^
-java:S1192Ô"GDefine a constant instead of duplicating this literal "\u0430" 3 times.(Š¶Û
-y
-java:S1192"]Define a constant instead of duplicating this literal "trustCertificateKeyStoreType" 4 times.(—Ê¹ñıÿÿÿÿ
-a
-java:S1192¨
-"JDefine a constant instead of duplicating this literal "localhost" 3 times.(Ë¬ŒÔ
-p
-java:S1192ê"YDefine a constant instead of duplicating this literal "LOAD DATA LOCAL INFILE '" 4 times.(ôã½ú
-e
-java:S1192©"NDefine a constant instead of duplicating this literal "procEscProcPS" 3 times.(ì†åÿ
-t
-java:S1192Æ"XDefine a constant instead of duplicating this literal "verifyServerCertificate" 7 times.(£¿íƒøÿÿÿÿ
-e
-java:S1192‘"IDefine a constant instead of duplicating this literal "password" 4 times.(á©©¥ûÿÿÿÿ
-b
-java:S1192ğ"FDefine a constant instead of duplicating this literal "'@'%'" 4 times.(ƒ¯”¬şÿÿÿÿ
-s
-java:S1192"\Define a constant instead of duplicating this literal "trustCertificateKeyStoreUrl" 4 times.(™ç
-r
-java:S1192Ï"VDefine a constant instead of duplicating this literal "Row count should be 0" 3 times.(—¥èûÿÿÿÿ
-]
-java:S1192Ò"GDefine a constant instead of duplicating this literal "field1" 4 times.(„‡k
-}
-java:S1192‘"aDefine a constant instead of duplicating this literal "trustCertificateKeyStorePassword" 4 times.(á©©¥ûÿÿÿÿ
-^
-java:S1192Ã"GDefine a constant instead of duplicating this literal "InnoDB" 3 times.(õ¢à
-g
-java:S1192Ã"PDefine a constant instead of duplicating this literal "testSavepoints" 10 times.(õ¢à
-n
-java:S1192õ"RDefine a constant instead of duplicating this literal "characterEncoding" 3 times.(‘šÓúÿÿÿÿ
-y
-java:S1192Ò"bDefine a constant instead of duplicating this literal "set session transaction read only" 5 times.(è§õİ
-l
-java:S1192†"VDefine a constant instead of duplicating this literal "SELECT CURRENT_USER()" 6 times.(ÜÛ‚[
-g
-java:S1192Á"KDefine a constant instead of duplicating this literal "profileSQL" 5 times.(‡Şüíøÿÿÿÿ
-u
-java:S1192ø"YDefine a constant instead of duplicating this literal "Access denied for user '" 4 times.(ÍíŸ»úÿÿÿÿ
-b
-java:S2184Õ"FCast one of the operands of this multiplication operation to a "long".(áÿèşÿÿÿÿ
-`	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ü¥„—úÿÿÿÿ
-[	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(„ãŸ
-a	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(î öƒøÿÿÿÿ
-\	java:S112ñ"FDefine and throw a dedicated exception instead of using a generic one.(Ä©Ó¾
-a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(«£·¯ÿÿÿÿÿ
-a	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(§Ú×îıÿÿÿÿ
-a	java:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(ë—óÔùÿÿÿÿ
-a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(Õ¶ÙÛıÿÿÿÿ
-\	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(²ªÙØ
-a	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(È…óÛşÿÿÿÿ
-[	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(´Æ
-[	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(÷§^
-a	java:S112ê"FDefine and throw a dedicated exception instead of using a generic one.(Ú·Ä¥üÿÿÿÿ
-\	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(ùÛûº
-\	java:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(£³å
-a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(½Ñùªÿÿÿÿÿ
-a	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(ößæÚıÿÿÿÿ
-a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(«•É¦ûÿÿÿÿ
-a	java:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(”ıˆ¼şÿÿÿÿ
-\	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(ÓĞ‹Î
-\	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(î „Û
-\	java:S112«	"FDefine and throw a dedicated exception instead of using a generic one.(İÁÃ°
-[	java:S112ñ	"FDefine and throw a dedicated exception instead of using a generic one.(ÓŸ¼
-a	java:S112ñ
-"FDefine and throw a dedicated exception instead of using a generic one.(èçˆÛüÿÿÿÿ
-\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÕÎñó
-a	java:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(ÍîÎÑıÿÿÿÿ
-a	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(¸ï€„üÿÿÿÿ
-\	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(²õÊ¶
-\	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(±‹§ı
-a	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(„×¹—ùÿÿÿÿ
-\	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(¢Æ»ª
-a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(ŞÚùÔúÿÿÿÿ
-a	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(âø®âşÿÿÿÿ
-a	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(€üÚáıÿÿÿÿ
-a	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(‚’à¦ûÿÿÿÿ
-\	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(ÔÛµÎ
-a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(öÕØûÿÿÿÿ
-a	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(Ç´Ğ“üÿÿÿÿ
-a	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(ÙüŞÔúÿÿÿÿ
-a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(ğÏÃÊÿÿÿÿÿ
-M
-java:S2589á	"7Remove this expression which always evaluates to "true"(¥ÑãR
-O	java:S106"9Replace this use of System.out or System.err by a logger.(êÁÓ
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÌ¢Øÿÿÿÿÿ
-T	java:S106“"9Replace this use of System.out or System.err by a logger.(ÈœõŒøÿÿÿÿ
-T	java:S106™"9Replace this use of System.out or System.err by a logger.(×»ùÜıÿÿÿÿ
-T	java:S106×"9Replace this use of System.out or System.err by a logger.(¯—Îâûÿÿÿÿ
-O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ÖİØ°
-O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(–Í ö
-T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(¢Œİöşÿÿÿÿ
-W	java:S125‡"<This block of commented-out lines of code should be removed.(£‘×øşÿÿÿÿ
-W	java:S125Ù"<This block of commented-out lines of code should be removed.(Ñ²”ıÿÿÿÿ
-W	java:S125Û"<This block of commented-out lines of code should be removed.(œı±áüÿÿÿÿ
-T	java:S106ã"9Replace this use of System.out or System.err by a logger.(˜¿¬øÿÿÿÿ
-N	java:S106ä"9Replace this use of System.out or System.err by a logger.(ğš­H
-T	java:S106ç"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-O	java:S106ê"9Replace this use of System.out or System.err by a logger.(«•ß‰
-T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-T	java:S106û"9Replace this use of System.out or System.err by a logger.(˜¿¬øÿÿÿÿ
-N	java:S106ü"9Replace this use of System.out or System.err by a logger.(ğš­H
-T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-T	java:S106‚"9Replace this use of System.out or System.err by a logger.(º’¯Áıÿÿÿÿ
-T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(€Å°Âıÿÿÿÿ
-T	java:S106‰"9Replace this use of System.out or System.err by a logger.(°àºÿÿÿÿÿ
-T	java:S106Š"9Replace this use of System.out or System.err by a logger.(§…êÁúÿÿÿÿ
-T	java:S106¾"9Replace this use of System.out or System.err by a logger.(µıÔüşÿÿÿÿ
-N	java:S106î"9Replace this use of System.out or System.err by a logger.(¢ßğc
-D
-java:S1874×"-Remove this use of "toURL"; it is deprecated.(à³­
-W	java:S125–"<This block of commented-out lines of code should be removed.(Âñéêşÿÿÿÿ
-T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÎÂÚÉÿÿÿÿÿ
-T	java:S106·"9Replace this use of System.out or System.err by a logger.(ÙÂ“¶üÿÿÿÿ
-V
-java:S1854Ğ"?Remove this useless assignment to local variable "cannedProps".(ÌŠÇ
-R	java:S125´	"<This block of commented-out lines of code should be removed.(ãÏåü
-N
-java:S1135³	"2Complete the task associated to this TODO comment.(‡§¦Ÿúÿÿÿÿ
-h
-java:S3776ñ	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÓŸ¼
-u
-java:S2293ö	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ñ›‚şÿÿÿÿ
-T	java:S106
-"9Replace this use of System.out or System.err by a logger.(ãÉ®îüÿÿÿÿ
-A
-java:S1181·
-"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-L
-java:S2446Ë
-"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-T	java:S106ô
-"9Replace this use of System.out or System.err by a logger.(ü«É™ÿÿÿÿÿ
-T
-java:S1197¬"8Move the array designator from the variable to the type.(¬ù§èşÿÿÿÿ
-]
-java:S2147µ"FCombine this catch with the one at line 1587, which has the same body.(Å¡ß
-]
-java:S2147·"FCombine this catch with the one at line 1587, which has the same body.(åşáÿ
-D	java:S108³")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
-?	java:S108µ")Either remove or fill this block of code.(Å¡ß
-?	java:S108·")Either remove or fill this block of code.(åşáÿ
-n
-java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ç´Ğ“üÿÿÿÿ
-H
-java:S1481‹"1Remove this unused "connectionId" local variable.(ä½ç

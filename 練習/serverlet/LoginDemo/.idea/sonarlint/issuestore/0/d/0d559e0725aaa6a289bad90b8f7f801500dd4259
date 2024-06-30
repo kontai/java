@@ -1,8 +1,0 @@
-
-`
-java:S1192L"JDefine a constant instead of duplicating this literal "Proc 1.v1" 4 times.(מ׀ֶ•
-`	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(ש×גüÿÿÿÿ
-Q
-java:S1854D";Remove this useless assignment to local variable "results".(חפÚַ
-o
-java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(חפÚַ

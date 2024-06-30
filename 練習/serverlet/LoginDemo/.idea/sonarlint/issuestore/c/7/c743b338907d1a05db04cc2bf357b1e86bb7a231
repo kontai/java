@@ -1,9 +1,0 @@
-
-o
-java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ¢…—
-t
-java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(îõ“ìúÿÿÿÿ
-o
-java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÑ Á
-}
-java:S2178 "fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(„†õ

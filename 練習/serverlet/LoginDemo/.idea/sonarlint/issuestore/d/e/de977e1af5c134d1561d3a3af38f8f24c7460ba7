@@ -1,21 +1,0 @@
-
-j
-java:S1128""TRemove this unnecessary import: same package classes are always implicitly imported.(Ş×“„
-D
-java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
-F
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-F
-java:S1128 "+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-A
-java:S1128"+Remove this unused import 'java.sql.Types'.(»¤¤Š
-U
-java:S1161h":Add the "@Override" annotation above this method signature(ŠüúÑûÿÿÿÿ
-P
-java:S1161w":Add the "@Override" annotation above this method signature(ò²à
-V
-java:S1161‚":Add the "@Override" annotation above this method signature(Ô‘öòøÿÿÿÿ
-Q
-java:S1161‹":Add the "@Override" annotation above this method signature(Ùø
-i
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ˆÏÔ

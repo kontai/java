@@ -1,16 +1,0 @@
-
-C
-java:S1481"'Remove this unused "mc" local variable.(ãÍü_8¢÷§±Ê.
-R
-java:S1854"6Remove this useless assignment to local variable "mc".(ãÍü_8ÿĞ€±Ê.
-X	java:S125""<This block of commented-out lines of code should be removed.(¤¢ï8±©ø²Ê.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Ÿµİ
-X	java:S125K"<This block of commented-out lines of code should be removed.(Ú°à¬8¢÷§±Ê.
-X	java:S125H"<This block of commented-out lines of code should be removed.(Ú°à¬8¢÷§±Ê.
-]	java:S125"<This block of commented-out lines of code should be removed.(ŠıŸÈıÿÿÿÿ8¢÷§±Ê.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã¯±Ìúÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ‰Àşÿÿÿÿ8‡Ğû²Ê.
-X	java:S125B"<This block of commented-out lines of code should be removed.(Ú°à¬8Í¥·±Ê.
-Q
-java:S3740"/Provide the parametrized type for this generic.(Ã¯±Ìúÿÿÿÿ8è˜±Ê.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜¶øùÿÿÿÿ8µæ°Ê.

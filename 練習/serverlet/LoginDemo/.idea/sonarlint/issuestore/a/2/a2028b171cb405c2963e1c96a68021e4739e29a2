@@ -1,9 +1,0 @@
-
-[
-java:S1192{"FDefine a constant instead of duplicating this literal "SHA-1" 4 times.(½™İz
-€
-java:S3008'"eRename this field "CACHING_SHA2_DIGEST_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÆ±åûÿÿÿÿ
-_
-java:S3358-"DExtract this nested ternary operation into an independent statement.(Ò•ºúÿÿÿÿ
-–
-java:S1130É"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(³òĞö

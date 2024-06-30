@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ô¼•
+J
+java:S3740"/Provide the parametrized type for this generic.(†£‹òþÿÿÿÿ
+o
+java:S12106"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ò ü±
+V	java:S125"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(™ž®ôÿÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(ŒÿÑºþÿÿÿÿ
