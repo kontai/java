@@ -1,19 +1,0 @@
-
-L
-java:S3740!"/Provide the parametrized type for this generic.(—…¿ë8¹´û¿.
-Q
-java:S3740"/Provide the parametrized type for this generic.(µ“üøüÿÿÿÿ8†—ş¿.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(É„†ú8†—ş¿.
-]	java:S125&"<This block of commented-out lines of code should be removed.(­Ûü—üÿÿÿÿ8¹´û¿.
-Q
-java:S3740"/Provide the parametrized type for this generic.(¢‚ÆÕûÿÿÿÿ8¹´û¿.
-]	java:S125"<This block of commented-out lines of code should be removed.(À¼®Éùÿÿÿÿ8†—ş¿.
-S
-java:S1854"6Remove this useless assignment to local variable "c2".(´»´î8†—ş¿.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‚ÆÕûÿÿÿÿ8¹´û¿.
-D
-java:S1481"'Remove this unused "c2" local variable.(´»´î8†—ş¿.
-L
-java:S3740"/Provide the parametrized type for this generic.(œ¾ü÷8†—ş¿.
-L
-java:S3740!"/Provide the parametrized type for this generic.(—…¿ë8¹´û¿.
