@@ -1,0 +1,22 @@
+
+l
+java:S1104""QMake width a static final constant or non-public and provide accessors if needed.(şçÑåıÿÿÿÿ
+F
+java:S1444""+Make this "public static width" field final(şçÑåıÿÿÿÿ
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Á•ÖÖÿÿÿÿÿ8µß…¸¿.
+g	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â»•Îøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(˜ªì¸úÿÿÿÿ
+‡
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(«… ÿÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(Ä­ o
+@	java:S106"+Replace this use of System.out by a logger.(ÎÛŒ 
+V	java:S125"<This block of commented-out lines of code should be removed.(×¹£ıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ªçŸú
+L
+java:S3252"6Use static access with "com.bjsxt.test.A" for "width".(ÎÛŒ 
+@	java:S106"+Replace this use of System.out by a logger.(×îõ¤
+E	java:S106&"+Replace this use of System.out by a logger.(®»éÓùÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(’î­
+E	java:S1060"+Replace this use of System.out by a logger.( ÕĞûÿÿÿÿ

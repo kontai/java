@@ -1,8 +1,0 @@
-
-^
-java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(êØ±¨
-N
-java:S1854"8Remove this useless assignment to local variable "conn".(êØ±¨
-?
-java:S1481")Remove this unused "conn" local variable.(êØ±¨
-V	java:S125"<This block of commented-out lines of code should be removed.(†ç‡åþÿÿÿÿ

@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ž§ì‚þÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(«ç¤Âÿÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.( ööÙûÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(Œ´ÈÌýÿÿÿÿ
+@	java:S106H"+Replace this use of System.out by a logger.(Æ¿ð×
+E	java:S106I"+Replace this use of System.out by a logger.(ùÃâýýÿÿÿÿ
+¯
+java:S6548N"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(úžŠÚ
