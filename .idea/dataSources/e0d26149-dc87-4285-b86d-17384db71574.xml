@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="student@localhost">
-  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.43">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.52">
     <root id="1">
       <DefaultCasing>lower/lower</DefaultCasing>
       <DefaultEngine>InnoDB</DefaultEngine>
@@ -906,17 +906,17 @@
     </table>
     <column id="287" parent="286" name="id">
       <AutoIncrement>1</AutoIncrement>
-      <DataType>int|0s</DataType>
+      <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
     <column id="288" parent="286" name="name">
-      <DataType>varchar(10)|0s</DataType>
+      <DasType>varchar(10)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
     <column id="289" parent="286" name="age">
-      <DataType>int|0s</DataType>
+      <DasType>int|0s</DasType>
       <Position>3</Position>
     </column>
     <key id="290" parent="286" name="PRIMARY">

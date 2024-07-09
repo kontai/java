@@ -1,4 +1,4 @@
-package 細節;
+package 內部類.細節;
 
 
 /*
@@ -6,7 +6,11 @@ package 細節;
 那是因為內部類持有了外部類的引用。  外部類名.this
 
 */
-class Outer {
+
+class A{
+    int num=6;
+}
+class Outer extends A {
     int num = 3;
 
     class Inner {
@@ -18,6 +22,7 @@ class Outer {
             System.out.println(num);
             System.out.println(this.num);
             System.out.println(Outer.this.num);
+            System.out.println(Outer.super.num);
         }
     }
 

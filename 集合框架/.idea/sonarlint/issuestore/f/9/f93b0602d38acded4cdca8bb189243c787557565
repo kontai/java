@@ -1,0 +1,31 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êö¾Ş
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æä±
+t
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+t
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "abcde" 3 times.(ÍÚí
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßìØ—
+E	java:S106%"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(ÊÔğÏşÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(‹óéˆıÿÿÿÿ
+c	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŸğØ
+V	java:S125."<This block of commented-out lines of code should be removed.(âğ²üÿÿÿÿ
+E	java:S106A"+Replace this use of System.out by a logger.(”åÕ÷ûÿÿÿÿ
+h	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¼Ä¸øÿÿÿÿ
+E	java:S106O"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(ªªš
+V	java:S125Q"<This block of commented-out lines of code should be removed.(Ö³ã¥ùÿÿÿÿ
+@	java:S106V"+Replace this use of System.out by a logger.(Ì°û°
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾£·ç
+E	java:S106e"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+Q	java:S125i"<This block of commented-out lines of code should be removed.(ªªš
+E	java:S106m"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+P	java:S125w"<This block of commented-out lines of code should be removed.(Ç´¾l
+Q	java:S125‹"<This block of commented-out lines of code should be removed.(Ç´¾l

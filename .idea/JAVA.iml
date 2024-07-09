@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="CheckStyle-IDEA-Module">
-    <option name="configuration">
-      <map />
-    </option>
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
   </component>
   <component name="FacetManager">
     <facet type="javaeeApplication" name="javaEEApplication">
@@ -594,7 +592,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/2. Servlet深入_request和response对象/03-源码/03-MyServlet/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web15">
@@ -605,7 +602,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demo2/target/demo2-1.0-SNAPSHOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web18">
@@ -616,7 +612,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/1. Servlet入门和Tomcat服务器使用/03-源码/01-MyServlet/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web17">
@@ -627,7 +622,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/LoginDemo/target/LoginDemo-1.0-SNAPSHOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web19">
@@ -638,7 +632,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demo2/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web21">
@@ -649,7 +642,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/LoginDemo/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web20">
@@ -660,7 +652,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demo/target/demo-1.0-SNAPSHOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web12">
@@ -671,7 +662,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Login/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web14">
@@ -682,7 +672,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demo/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web13">
@@ -693,7 +682,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/3.Servlet深入_转发和重定向_Cookie/03-源码/04-Cookie/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web27">
@@ -704,7 +692,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/SessionDemo/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web26">
@@ -715,7 +702,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/05-session/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web29">
@@ -726,7 +712,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/06-ServletContext/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web28">
@@ -737,7 +722,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/04-Login/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web23">
@@ -748,7 +732,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demoJPA/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web22">
@@ -759,7 +742,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/demoJPA/target/demoJPA-1.0-SNAPSHOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web25">
@@ -770,7 +752,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/SessionDemo/target/SessionDemo-1.0-SNAPSHOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web24">
@@ -781,7 +762,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet/北京尚学堂/4.Servlet深入_session_Context对象/03-源码/07-ServletConfig/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web41">
@@ -792,7 +772,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/conf" relative="/WEB-INF" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web40">
@@ -803,7 +782,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/docs" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web38">
@@ -814,7 +792,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/docs/appdev/sample/web" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web37">
@@ -825,7 +802,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/webManager/target/webManager-1.0-SNAPSHOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web39">
@@ -836,7 +812,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/WebLoginDemo/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web30">
@@ -847,7 +822,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/Servers/MyEclipse Tomcat v8.5-config" relative="/WEB-INF" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web32">
@@ -858,7 +832,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/manager" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web31">
@@ -869,7 +842,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/host-manager" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web34">
@@ -880,7 +852,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/webManager/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web33">
@@ -891,7 +862,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/serverlet/WebLoginDemo/target/WebLoginDemo-1.0-SNAPSHOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web36">
@@ -902,7 +872,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/examples" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web35">
@@ -913,7 +882,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Temp/.metadata/.me_tcat85/webapps/ROOT" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web63">
@@ -1024,7 +992,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/練習/Demo0710/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web52">
@@ -1165,7 +1132,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/Servlet和JSP/6.監聽器/14-Filter/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web43">

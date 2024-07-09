@@ -27,30 +27,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/1/d/1d2f47b3b9629d91796ad98a3bced86ea37c6417" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/3/2/32e074f71d16c1e88ac02aa83592ca6ad1fd98a8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/6/46d6465113c16ddf430940aa5c74b313fa4df614" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/e/4e379770fa58d30aff0d2b48263254a67443015c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/9/f/9f6be87768bc9fc21426d953495dd2b8c1594cd5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/e/6/e6070bd076d4e8875c3f36f60c83f8b3a73bf9ac" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Demo1/src/com/tai/Excise/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Demo1/src/com/tai/Excise/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Demo1/src/com/tai/Excise/GeometricTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Demo1/src/com/tai/Excise/MyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Demo1/src/com/tai/FuZi/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Demo1/src/com/tai/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/MutableMethod/mutableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/.idea/sonarlint/issuestore/0/4/04c94149959c032d900983239a9c7b7b712cdef4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/.idea/sonarlint/issuestore/f/9/f93b0602d38acded4cdca8bb189243c787557565" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/.idea/sonarlint/securityhotspotstore/0/4/04c94149959c032d900983239a9c7b7b712cdef4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/.idea/sonarlint/securityhotspotstore/f/9/f93b0602d38acded4cdca8bb189243c787557565" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/IVMap集合/WeakHashMap/WeakHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/VIII視圖/checklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/VIII視圖/smallCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合框架/VIII視圖/subrange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JAVA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e0d26149-dc87-4285-b86d-17384db71574.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e0d26149-dc87-4285-b86d-17384db71574.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/732211586e8a568bc7fe03f86c6fa6dc832bf0b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b032297e5b3cab86ee314dc12ab20b79a36066b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/.idea/sonarlint/issuestore/1/0/100be2d6d09e32801175b783e601bdb1271f36b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/.idea/sonarlint/issuestore/3/9/39a78b67c8572c1281b2dcff550f4de84cb6e6d3" beforeDir="false" afterPath="$PROJECT_DIR$/集合框架/.idea/sonarlint/issuestore/3/9/39a78b67c8572c1281b2dcff550f4de84cb6e6d3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/集合框架/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/.idea/sonarlint/securityhotspotstore/1/0/100be2d6d09e32801175b783e601bdb1271f36b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/VI_JDK5新增功能/函數可變參數/ParamterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/集合框架/VI_JDK5新增功能/函數可變參數/ParamterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,15 +113,12 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="1cywefep51md6lb3D55y8A168b9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -108,10 +128,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ParamterDemo (1).executor": "Run",
+    "Application.ParamterDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "1439",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "1257",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/workspace/JAVA"
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/tai/workspace/java/集合框架",
+    "last_opened_file_path": "/home/tai/workspace/java/抽象類",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -145,27 +183,7 @@
       <recent name="InetDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectP">
-    <configuration name="CollectP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectP" />
-      <module name="JAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bjsxt.test.Demo02" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bjsxt.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ParamterDemo">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test1116.com.tai.reflaect01.Demo1" />
       <module name="JAVA" />
@@ -192,6 +210,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParamterDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParamterDemo" />
+      <module name="JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VI_JDK5新增功能.函數可變參數.ParamterDemo" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VI_JDK5新增功能.函數可變參數.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tai.TestLog.testLog" />
       <module name="JAVA" />
@@ -205,6 +243,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParamterDemo" />
+        <item itemvalue="Application.ParamterDemo (1)" />
+        <item itemvalue="Application.testLog" />
+        <item itemvalue="Application.FrameDemo" />
+        <item itemvalue="Application.Demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -415,6 +470,13 @@
       <workItem from="1626511047555" duration="2724000" />
       <workItem from="1626570090443" duration="1469000" />
       <workItem from="1665074837346" duration="682000" />
+      <workItem from="1719994968103" duration="755000" />
+      <workItem from="1719995733487" duration="38000" />
+      <workItem from="1719995783784" duration="62000" />
+      <workItem from="1719995850524" duration="2256000" />
+      <workItem from="1720312033813" duration="10000" />
+      <workItem from="1720312060698" duration="108000" />
+      <workItem from="1720312179078" duration="2166000" />
     </task>
     <task id="LOCAL-00001" summary="0607">
       <created>1591514733404</created>
