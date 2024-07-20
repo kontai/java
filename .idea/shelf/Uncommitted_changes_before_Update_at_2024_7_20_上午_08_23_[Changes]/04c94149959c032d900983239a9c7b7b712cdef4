@@ -1,0 +1,29 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯¸ÄŒ8±õìÁ†2J$9fc4edf0-5f49-49bd-b7bd-534af42735cf
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”çˆY8²õìÁ†2J$b30fa04a-0c34-43b1-8098-68aad3bf6ed7
+ª
+java:S4165"bRemove this useless assignment; "key2" already holds the assigned value along all execution paths.(˜®»®ÿÿÿÿÿ8µõìÁ†2J$6918007d-d3d2-4bb7-a786-3c09cafea774
+¥
+java:S4165"bRemove this useless assignment; "key1" already holds the assigned value along all execution paths.(é¹´™8³õìÁ†2J$2d338345-ed0a-4589-bff0-b3fc7e1e0f9f
+{
+java:S1854"8Remove this useless assignment to local variable "key1".(é¹´™8¶õìÁ†2J$0dacfa71-0885-4449-a852-df27b7e081da
+€
+java:S1854"8Remove this useless assignment to local variable "key2".(˜®»®ÿÿÿÿÿ8·õìÁ†2J$0ba6641e-f208-4dfe-badc-17479a8332f9
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¸õìÁ†2J$df6410ce-1081-4eef-acf8-569f9e1b88b3
+h
+java:S2129	" Remove this "String" constructor(ç†¶¢üÿÿÿÿ8¹õìÁ†2J$08fc5ec7-29e4-45a4-92db-2345b0d68d67
+c
+java:S2129
+" Remove this "String" constructor(—åÉù8ºõìÁ†2J$c6865a8b-5a51-4d1c-afc0-eace16f395a1
+—
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¼õìÁ†2J$42c4d62b-a595-4a87-8f3b-a33705c8fafe
+m	java:S106"+Replace this use of System.out by a logger.(“×¾¯8½õìÁ†2J$b61e7857-cd9b-4e5a-921f-87176ce73401
+r	java:S106"+Replace this use of System.out by a logger.(ÿ±äúÿÿÿÿ8¾õìÁ†2J$1b8aa367-eab6-4887-b660-0d9aa1735de9
+r	java:S106"+Replace this use of System.out by a logger.(Ïèú§ÿÿÿÿÿ8¿õìÁ†2J$7fd2546c-9df5-49c9-a838-ec87bf6a370b
+—
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ÀõìÁ†2J$06725896-ed5e-4ed7-a52c-f2df25a95c6e
+r	java:S106"+Replace this use of System.out by a logger.(ïÖ¾•ùÿÿÿÿ8ÁõìÁ†2J$461f5896-41a4-4e27-a18a-06dbdcc200f1
+m	java:S106"+Replace this use of System.out by a logger.(ë§Èå8ÂõìÁ†2J$3f714cc4-30f1-4b11-9334-52b24c802659
+m	java:S106"+Replace this use of System.out by a logger.(œ×Ä¸8ÃõìÁ†2J$c4503ba9-8254-461f-8dab-8dd041cc7ee8
