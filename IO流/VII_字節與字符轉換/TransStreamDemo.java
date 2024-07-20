@@ -15,8 +15,7 @@ public class TransStreamDemo {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-
-		//字節流。 
+		//字節流。
 		InputStream in = System.in;
 //		int ch = in.read();
 //		System.out.println(ch);

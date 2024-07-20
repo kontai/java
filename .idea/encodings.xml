@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/JDBC/尚學堂-JDBC/01-Jdbc学习-新增/src/com/bjsxt/insert/TestInsert1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JDBC/尚學堂-JDBC/01-Jdbc学习-新增/src/com/bjsxt/insert/TestInsert2.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/JDBC/尚學堂-JDBC/03.Servlet深入_转发和重定向_Cookie/04-Cookie/src/com/bjsxt/servlet/CookieServlet.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/JDBC/尚學堂-JDBC/03.Servlet深入_转发和重定向_Cookie/04-Cookie/src/com/bjsxt/servlet/GetCookieServlet.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/emp.txt" charset="x-windows-950" />
     <file url="file://$PROJECT_DIR$/JDBC/尚學堂-JDBC/04-jdbc-案例-员工管理系统/员工管理系统需求文档/readme.txt" charset="x-windows-950" />
     <file url="file://$PROJECT_DIR$/JDBC/尚學堂-JDBC/jdbc学习3/src/com/bjsxt/preparedStatementImpl/UserDaoImpl2.java" charset="x-windows-950" />

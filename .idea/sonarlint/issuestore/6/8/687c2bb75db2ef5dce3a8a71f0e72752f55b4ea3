@@ -1,0 +1,12 @@
+
+ƒ
+java:S2259"@A "NullPointerException" could be thrown; "mm" is nullable here.(›÷µ¢8Ö€ù²‡2J$264fe01a-5099-4658-a40b-d21572d2c154
+f	java:S106"+Replace this use of System.out by a logger.(›÷µ¢J$3fb12e80-e7d7-492d-9bfa-a10b71c03c7a
+f	java:S106"+Replace this use of System.out by a logger.(º˜¦®J$779065e6-5db0-4600-848a-0a2c932b6e85
+k	java:S106"+Replace this use of System.out by a logger.(Ğâ–ÚûÿÿÿÿJ$be794fed-a42b-4dfc-9e78-9ef7b5b894a5
+v
+java:S1118":Add a private constructor to hide the implicit public one.(¹ÚJ$fb9e7465-ca94-4954-997b-134ed7fe073f
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ú€ù²‡2J$d83906ed-088d-48fb-9168-c4a35ed431bc
+x
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8Ú€ù²‡2J$48040131-399d-4b72-b26c-e3e770c37f58
