@@ -1,0 +1,7 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‡ˆŸûÿÿÿÿJ$465860d2-30e9-4ac8-92bd-6a8579989e03
+f	java:S106"+Replace this use of System.out by a logger.(âÈýéJ$9ee1001c-b285-4d5e-ba14-d7ff377bd52c
+_
+java:S2119'"Save and re-use this "Random".(¼Ú’¸þÿÿÿÿJ$350687c0-052a-4c0f-bd54-6fbc2b432628
+š
+java:S1171-"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿJ$3eb63cc8-7d10-4d0c-87d9-0cf61968081d

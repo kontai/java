@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16a755f7-d81c-43f9-84a2-47fcaef19f91" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.11/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2j7W29BAWeGsNFPcjh9WEIF8pDO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path": "/home/tai/mylib",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.wrapclassDemo.test.executor": "Run",
+    "JUnit.wrapclassDemo.test2.executor": "Run",
+    "JUnit.wrapclassDemo.test3.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.wrapclassDemo.test3">
+    <configuration name="wrapclassDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wrapperClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tai" />
+      <option name="MAIN_CLASS_NAME" value="com.tai.wrapclassDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wrapclassDemo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wrapperClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tai" />
+      <option name="MAIN_CLASS_NAME" value="com.tai.wrapclassDemo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wrapclassDemo.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wrapperClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tai" />
+      <option name="MAIN_CLASS_NAME" value="com.tai.wrapclassDemo" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.wrapclassDemo.test" />
+        <item itemvalue="JUnit.wrapclassDemo.test3" />
+        <item itemvalue="JUnit.wrapclassDemo.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16a755f7-d81c-43f9-84a2-47fcaef19f91" name="Changes" comment="" />
+      <created>1720738387960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720738387960</updated>
+      <workItem from="1720738389009" duration="3278000" />
+      <workItem from="1720915092980" duration="1171000" />
+      <workItem from="1720922823084" duration="97000" />
+      <workItem from="1720922939423" duration="16000" />
+      <workItem from="1720922968191" duration="49000" />
+      <workItem from="1720923021589" duration="6000" />
+      <workItem from="1720923033326" duration="11000" />
+      <workItem from="1720923049843" duration="6000" />
+      <workItem from="1720923061925" duration="11000" />
+      <workItem from="1720923081822" duration="1950000" />
+      <workItem from="1720945345548" duration="48000" />
+      <workItem from="1720945487987" duration="15000" />
+      <workItem from="1720945510558" duration="19000" />
+      <workItem from="1720945538394" duration="53000" />
+      <workItem from="1720945603302" duration="19000" />
+      <workItem from="1720945636257" duration="30000" />
+      <workItem from="1720945670631" duration="7000" />
+      <workItem from="1720945682285" duration="9000" />
+      <workItem from="1720945697116" duration="8000" />
+      <workItem from="1720945709404" duration="10000" />
+      <workItem from="1720945723437" duration="9000" />
+      <workItem from="1720945738463" duration="43000" />
+      <workItem from="1720945793360" duration="39000" />
+      <workItem from="1720945839720" duration="37000" />
+      <workItem from="1720945883695" duration="15000" />
+      <workItem from="1720945905780" duration="33000" />
+      <workItem from="1720945944093" duration="9000" />
+      <workItem from="1720945957190" duration="15000" />
+      <workItem from="1720946001268" duration="17000" />
+      <workItem from="1720946029470" duration="159000" />
+      <workItem from="1720946196810" duration="1231000" />
+      <workItem from="1721004792618" duration="92000" />
+      <workItem from="1721004904764" duration="20000" />
+      <workItem from="1721004930158" duration="15000" />
+      <workItem from="1721004951170" duration="8000" />
+      <workItem from="1721004963764" duration="11000" />
+      <workItem from="1721004978368" duration="89000" />
+      <workItem from="1721005097613" duration="51000" />
+      <workItem from="1721005158396" duration="37000" />
+      <workItem from="1721005205032" duration="37000" />
+      <workItem from="1721005248213" duration="9000" />
+      <workItem from="1721005260750" duration="29000" />
+      <workItem from="1721005299027" duration="84000" />
+      <workItem from="1721005390436" duration="38000" />
+      <workItem from="1721005550895" duration="16000" />
+      <workItem from="1721005574933" duration="1041000" />
+      <workItem from="1721057405647" duration="19000" />
+      <workItem from="1721057435942" duration="11000" />
+      <workItem from="1721057469104" duration="80000" />
+      <workItem from="1721057555277" duration="57000" />
+      <workItem from="1721057707681" duration="616000" />
+      <workItem from="1721084586939" duration="28000" />
+      <workItem from="1721084635743" duration="15000" />
+      <workItem from="1721084683984" duration="29000" />
+      <workItem from="1721084727845" duration="5040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

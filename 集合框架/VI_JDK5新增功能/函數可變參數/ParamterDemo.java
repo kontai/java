@@ -1,4 +1,4 @@
-package VI_JDK5新增功能.函數可變參數;
+package 集合框架.VI_JDK5新增功能.函數可變參數;
 
 public class ParamterDemo {
 

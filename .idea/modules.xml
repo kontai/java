@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaCoreBook/v12/CH3/CH3.iml" filepath="$PROJECT_DIR$/JavaCoreBook/v12/CH3/CH3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCoreBook/v12/CH4/CH4.iml" filepath="$PROJECT_DIR$/JavaCoreBook/v12/CH4/CH4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCoreBook/v12/CH5_Inheritance/CH5_Inheritance.iml" filepath="$PROJECT_DIR$/JavaCoreBook/v12/CH5_Inheritance/CH5_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCoreBook/v12/CH6/CH6.iml" filepath="$PROJECT_DIR$/JavaCoreBook/v12/CH6/CH6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCoreBook/v12/CH7/CH7.iml" filepath="$PROJECT_DIR$/JavaCoreBook/v12/CH7/CH7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCoreBook/v12/CH8/CH8.iml" filepath="$PROJECT_DIR$/JavaCoreBook/v12/CH8/CH8.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCoreBook/JavaCoreBook.iml" filepath="$PROJECT_DIR$/JavaCoreBook/JavaCoreBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/匿名內部類/匿名內部類.iml" filepath="$PROJECT_DIR$/匿名內部類/匿名內部類.iml" />
     </modules>
   </component>
 </project>

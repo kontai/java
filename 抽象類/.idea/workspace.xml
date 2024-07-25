@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76f7b0eb-fb7d-4fe9-9baf-b90ac1a1d0a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo1/src/com/tai/Excise/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo1/src/com/tai/Excise/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo1/src/com/tai/Excise/GeometricTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo1/src/com/tai/Excise/MyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo1/src/com/tai/FuZi/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo1/src/com/tai/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/MutableMethod/mutableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/issuestore/0/4/04c94149959c032d900983239a9c7b7b712cdef4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/issuestore/f/9/f93b0602d38acded4cdca8bb189243c787557565" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/securityhotspotstore/0/4/04c94149959c032d900983239a9c7b7b712cdef4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/securityhotspotstore/f/9/f93b0602d38acded4cdca8bb189243c787557565" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/WeakHashMap/WeakHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/VIII視圖/checklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/VIII視圖/smallCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/VIII視圖/subrange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/e0d26149-dc87-4285-b86d-17384db71574.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources/e0d26149-dc87-4285-b86d-17384db71574.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/issuestore/1/0/100be2d6d09e32801175b783e601bdb1271f36b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/issuestore/3/9/39a78b67c8572c1281b2dcff550f4de84cb6e6d3" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/issuestore/3/9/39a78b67c8572c1281b2dcff550f4de84cb6e6d3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/securityhotspotstore/1/0/100be2d6d09e32801175b783e601bdb1271f36b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/VI_JDK5新增功能/函數可變參數/ParamterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/VI_JDK5新增功能/函數可變參數/ParamterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2iuG6mOnO4kHFNmubg2BCsnE23K" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/tai/workspace/java/內部類",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76f7b0eb-fb7d-4fe9-9baf-b90ac1a1d0a0" name="Changes" comment="" />
+      <created>1720332875111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720332875111</updated>
+      <workItem from="1720332876195" duration="6848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
