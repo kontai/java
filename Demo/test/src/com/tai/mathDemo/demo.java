@@ -3,6 +3,12 @@ package com.tai.mathDemo;
 import org.junit.Test;
 
 import java.math.BigInteger;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.time.Instant;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
+import java.util.Date;
 
 /**
  * ClassName: demo
@@ -54,5 +60,37 @@ Both bi1 and bd2 will hold the value of the number 10. The main difference is th
             BigInteger pow = bi1.pow(3);
             System.out.println(pow);
         }
+    }
+    @Test
+    public void test3() {
+        String d1 = "2000-11-11";
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+        Date date1;
+        try {
+            date1 = sdf.parse(d1);
+            System.out.println(date1);
+        } catch (ParseException e) {
+            throw new RuntimeException(e);
+        }
+        SimpleDateFormat sdf2 = new SimpleDateFormat("yyyy年MM月dd日");
+        String format = sdf2.format(date1);
+        System.out.println(format);
+    }
+    @Test
+    public void test4(){
+        ZoneId zid=ZoneId.systemDefault();
+        System.out.println(zid);
+
+        Instant inst=Instant.now();
+        System.out.println(inst);
+        System.out.println(inst.atZone(zid));
+
+
+        ZonedDateTime zdt=ZonedDateTime.now();
+        System.out.println(zdt);
+
+        ZonedDateTime zdtf=ZonedDateTime.of(2019,1,1,0,0,0,0,ZoneId.of("Asia/Taipei"));
+        System.out.println(zdtf);
+
     }
 }

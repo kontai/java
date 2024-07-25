@@ -1,10 +1,11 @@
 package 集合框架.IVMap集合.treeMap;
 
+import 集合框架.IVMap集合.hashMap.Student;
+
 import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
 
-import 集合框架.III泛型.III_自定義泛型.I泛型類.Student;
 
 public class TreeMapDemo {
 

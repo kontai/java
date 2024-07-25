@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61a23ba4-f9d9-453f-a827-d3f1deeae28c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/civetCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/huskyDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/persianCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/GenericExam/teddyDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/Set/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/Set/hashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/genericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/Date/Date.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/Date/out/production/Date/Date/Date.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a01jdk7datedemo/A01_DateDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a01jdk7datedemo/A02_DateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a01jdk7datedemo/A03_SimpleDateFormatDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a01jdk7datedemo/A04_SimpleDateFormatDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a01jdk7datedemo/A05_SimpleDateFormatDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a01jdk7datedemo/A06_CalendarDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A01_ZoneIDDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A02_InstantDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A03_ZoneDateTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A04_DateTimeForMatterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A05_LocalDateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A06_LocalTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A07_LocalDateTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A08_PeriodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A09_DurationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../常用API/a02jdk8datedemo/A10_ChronoUnitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/III_示例/RegexTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/III_示例/greedy/show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/out/production/正則表達式/正則表達式/正則表達式.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/代码/RegexDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/正则表达式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../正則表達式/正則表達式.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/libraries/junit_libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/IIList集合.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/Snipaste_2024-07-24_15-07-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/IIList集合.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/List.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/p2_LinkedList/LinkedList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/p4_Set/HashSet/set/alice30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/out/production/IIList集合/集合框架/IIList集合/p4_Set/Set.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/p4_Set/HashSet/set/HashSet/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/p4_Set/HashSet/set/HashSet/hashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/p4_Set/HashSet/set/linkedhashset/likedhashsetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/p4_Set/HashSet/set/treeset/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/p4_Set/HashSet/set/treeset/treesetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/p4_Set/HashSet/set/treeset/treesetDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IIList集合/使用場景.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IVMap集合.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashMap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashMap/map遍歷/Ikeyset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/IVMap集合.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IVMap集合/集合框架/IVMap集合/Map.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/treeMap/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/libraries/junit_libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/.idea/libraries/junit_libs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/test/src/com/tai/mathDemo/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/test/src/com/tai/mathDemo/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map.md" beforeDir="false" afterPath="$PROJECT_DIR$/Map.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeakHashMap/WeakHashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeakHashMap/WeakHashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashMap/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hashMap/HashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/treeMap/ComparatorByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/treeMap/ComparatorByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/treeMap/TreeMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/treeMap/TreeMapDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2jgSILhJLfBLJ7Qv4jgtO20HzKf" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HashMapDemo.executor": "Run",
+    "Application.WeakHashMapExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/tai/workspace/java/lib/junit-libs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="集合框架.IVMap集合.treeMap" />
+      <recent name="集合框架.IVMap集合.hashMap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Ikeyset.test">
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集合框架.IVMap集合.hashMap.HashMapDemo" />
+      <module name="IVMap集合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="集合框架.IVMap集合.hashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeakHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集合框架.IVMap集合.WeakHashMap.WeakHashMapExample" />
+      <module name="IVMap集合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="集合框架.IVMap集合.WeakHashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ikeyset.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IVMap集合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="集合框架.IVMap集合.hashMap.map遍歷.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="集合框架.IVMap集合.hashMap.map遍歷" />
+      <option name="MAIN_CLASS_NAME" value="集合框架.IVMap集合.hashMap.map遍歷.Ikeyset" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Ikeyset.test" />
+        <item itemvalue="Application.HashMapDemo" />
+        <item itemvalue="Application.WeakHashMapExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a23ba4-f9d9-453f-a827-d3f1deeae28c" name="Changes" comment="" />
+      <created>1721807145856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721807145856</updated>
+      <workItem from="1721807147006" duration="1480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

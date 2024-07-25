@@ -1,11 +1,10 @@
 package 集合框架.IVMap集合.treeMap;
 
-import 集合框架.III泛型.II_comparator.Person;
 
 import java.util.Comparator;
 
 
-public class ComparatorByName implements Comparator<Person> {
+public class ComparatorByName<S, S1> implements Comparator<Person> {
 
 	@Override
 	public int compare(Person o1, Person o2) {
