@@ -1,6 +1,6 @@
 
-V	java:S1250"<This block of commented-out lines of code should be removed.(€¸‹ùÿÿÿÿ
-M	java:S106#"9Replace this use of System.out or System.err by a logger.(­öİ 
-V	java:S125"<This block of commented-out lines of code should be removed.(±ÀÇ²üÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¦°®ûÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(•¥Ó
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¦°®ûÿÿÿÿ8öÓİˆ‡2J$f9461d89-ba9d-4c7c-9a5a-9c55549294f8
+~	java:S125"<This block of commented-out lines of code should be removed.(•¥Ó8üÓİˆ‡2J$13c4dfc1-d262-432b-91a5-1f22dd6d87f2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(±ÀÇ²üÿÿÿÿ8ıÓİˆ‡2J$cf4f2435-c118-4767-a0c4-ee3544fabcaf
+l	java:S106""+Replace this use of System.out by a logger.(­öİ 8şÓİˆ‡2J$3468bb15-31fe-4149-b4f3-9c746d490b63
+ƒ	java:S125/"<This block of commented-out lines of code should be removed.(€¸‹ùÿÿÿÿ8„Ôİˆ‡2J$1202dbfe-0e37-4e90-a730-2276717a51cd

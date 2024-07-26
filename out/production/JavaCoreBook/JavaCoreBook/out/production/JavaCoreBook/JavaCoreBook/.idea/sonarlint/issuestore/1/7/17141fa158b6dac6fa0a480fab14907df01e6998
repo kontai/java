@@ -1,0 +1,35 @@
+
+‘	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÕğäúÿÿÿÿJ$abdbdea7-40c6-4884-a0ae-e1c30882b3b4
+Œ	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¦İ×J$c1331c4d-3106-4ff4-bcbe-b9f0d3fceb07
+Œ	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŒïJ$a36d0631-39e8-4b6e-8369-68ba605e8c52
+Œ	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÊîJ$583acee6-7f23-42c2-b9e9-0c3fe4adecdc
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ûÒ·J$dcc38978-bd1e-4431-bd27-69c834d605a3
+¨
+java:S1192+"lDefine a constant instead of duplicating this literal "name:%s , Salary:%.3f , Hair Date:%d-%d-%d
+" 6 times.(¹û©ıJ$ee74e4b0-573e-4b90-9625-7a95d6e99161
+q
+java:S1854-"5Remove this useless assignment to local variable "x".(Ù·ÇµJ$d142c871-36fc-4863-97de-0ad57dc9ca85
+q
+java:S1854)"5Remove this useless assignment to local variable "y".(…·ºÊJ$ff626108-971b-4ef6-8994-889186de5216
+f	java:S106*"+Replace this use of System.out by a logger.(ÛÍ›•J$430e859a-2e17-4745-b0c9-7f49e1318927
+
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(¹û©ıJ$def9def8-4a54-4bb3-b4b1-55c2d253ac36
+f	java:S106+"+Replace this use of System.out by a logger.(¹û©ıJ$64e65afc-de6a-4dc6-9e4c-0ae15d90944b
+
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(İƒÄ’J$0f76c585-8b1a-4907-957b-7c3b267e3818
+f	java:S1069"+Replace this use of System.out by a logger.(İƒÄ’J$7a9c787d-eed7-4804-9b7b-2cad47dab9fc
+’
+java:S3457:"Q%n should be used in place of \n to produce the platform-specific line separator.(¦„›•ÿÿÿÿÿJ$21c83a53-1b26-481f-a572-be08de3df25e
+k	java:S106:"+Replace this use of System.out by a logger.(¦„›•ÿÿÿÿÿJ$188f6c83-78d3-4cf1-acba-cb03c606028f
+k	java:S106?"+Replace this use of System.out by a logger.(µ²àÓşÿÿÿÿJ$00413624-457c-4519-a716-1707902b1e7b
+
+java:S3457@"Q%n should be used in place of \n to produce the platform-specific line separator.(İƒÄ’J$49591524-f4d6-423b-871f-968af53aaea7
+f	java:S106@"+Replace this use of System.out by a logger.(İƒÄ’J$5c0470a3-8e6f-4b78-8d91-1f25095dc311
+k	java:S106D"+Replace this use of System.out by a logger.(µ²àÓşÿÿÿÿJ$30a171bd-841b-4e59-b2dc-17c02c62c034
+k	java:S106E"+Replace this use of System.out by a logger.(‚ÀôÍıÿÿÿÿJ$2dc5f062-913f-4b85-94b8-051b4fd5dfe6
+
+java:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(İƒÄ’J$8f012a83-6156-4d73-81d8-c3a1182dce72
+f	java:S106F"+Replace this use of System.out by a logger.(İƒÄ’J$41496556-aa6d-4ee4-bc35-f84aba686387
+’
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(È¦‹æùÿÿÿÿJ$1c84534f-42b7-45a7-bc66-0c5f8c1e01f8
+k	java:S106G"+Replace this use of System.out by a logger.(È¦‹æùÿÿÿÿJ$01a14dd3-99bf-4809-95b4-88538d8ab7cb

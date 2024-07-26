@@ -47,8 +47,7 @@ public class FileWriterDemo {
 		fw.close();
 		
 //		fw.write("haha");// java.io.IOException: Stream closed
-		
-		
+
 		
 	}
 

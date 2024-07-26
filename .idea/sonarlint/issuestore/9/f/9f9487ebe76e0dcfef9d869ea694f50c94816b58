@@ -1,0 +1,25 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÃ‘¼ÿÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(”™¬
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¼®õ«ûÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(†ú»¶üÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "------" 3 times.(þú±Ÿûÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(¸Íþ
+@	java:S106"+Replace this use of System.out by a logger.(Ü¯©¹
+E	java:S106"+Replace this use of System.out by a logger.(þú±Ÿûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ã“Äª
+E	java:S106"+Replace this use of System.out by a logger.(þú±Ÿûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(®Åò‘ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(þú±Ÿûÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(ÄøÇÑ
+;
+java:S2129" Remove this "String" constructor(À³äúúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(”™¬
+E	java:S106"+Replace this use of System.out by a logger.(¼®õ«ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(†ú»¶üÿÿÿÿ

@@ -1,9 +1,0 @@
-
-_
-java:S1192"IDefine a constant instead of duplicating this literal "main.jsp" 4 times.(Ñ÷îý
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ý•Î­ûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¸‹»˜
-N	java:S106"9Replace this use of System.out or System.err by a logger.(žê¦Ù
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(æ·ð÷þÿÿÿÿ
-N	java:S106,"9Replace this use of System.out or System.err by a logger.(Ž¥­©
-N	java:S1062"9Replace this use of System.out or System.err by a logger.(Øåá§

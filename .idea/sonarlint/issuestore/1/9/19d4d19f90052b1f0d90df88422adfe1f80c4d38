@@ -1,10 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¬®ûÿÿÿÿ
-“
-java:S1598"xThis file "Demo2.java" should be located in "ç·´ç¿’\test0521" directory, not in "D:\workspace\JAVA\ç·´ç¿’\OLD\test0521".(¤¬®ûÿÿÿÿ
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷üêÌ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÄÏ
-h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïòãÑøÿÿÿÿ
-S	java:S106'"9Replace this use of System.out or System.err by a logger.(§™×ùÿÿÿÿ
-N	java:S106/"9Replace this use of System.out or System.err by a logger.(©²ğ÷
-Q	java:S125"<This block of commented-out lines of code should be removed.(ŞèÈ¤

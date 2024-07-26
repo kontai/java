@@ -26,23 +26,151 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/1/d/1d2f47b3b9629d91796ad98a3bced86ea37c6417" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/3/2/32e074f71d16c1e88ac02aa83592ca6ad1fd98a8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/6/46d6465113c16ddf430940aa5c74b313fa4df614" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/4/e/4e379770fa58d30aff0d2b48263254a67443015c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/9/f/9f6be87768bc9fc21426d953495dd2b8c1594cd5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習/spring/login/.idea/sonarlint/issuestore/e/6/e6070bd076d4e8875c3f36f60c83f8b3a73bf9ac" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    <list default="true" id="98dd5131-3e76-4898-91ea-5c7efecf5ed8" name="Default Changelist" comment="1006">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05b62a853e538b013f84b02ba063af50aa3b62ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e6d63585124b8b5dc5df46865e8c2503b770f79" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b646bcd386b511bb61b431c0ef187ca488b080b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/687c2bb75db2ef5dce3a8a71f0e72752f55b4ea3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c225b2bb06296ab3947accb68c4b38493b40e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a03240727d0655ba851a8a5702b00973f0adc456" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a57b17e894b08f868a04d669fed9edb1bf0d954c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c93e2b2ef108a17d119aca6015c01942079596b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/5/05b62a853e538b013f84b02ba063af50aa3b62ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/e/0e6d63585124b8b5dc5df46865e8c2503b770f79" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/b/2ba9864d728e01f8c053847aef129cc3d0ac8ea6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/b/5b646bcd386b511bb61b431c0ef187ca488b080b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/8/687c2bb75db2ef5dce3a8a71f0e72752f55b4ea3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/78c225b2bb06296ab3947accb68c4b38493b40e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/0/a03240727d0655ba851a8a5702b00973f0adc456" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a57b17e894b08f868a04d669fed9edb1bf0d954c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/9/c93e2b2ef108a17d119aca6015c01942079596b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCoreBook/JavaCoreBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/匿名內部類/匿名內部類.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/732211586e8a568bc7fe03f86c6fa6dc832bf0b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b032297e5b3cab86ee314dc12ab20b79a36066b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2ba9864d728e01f8c053847aef129cc3d0ac8ea6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2ba9864d728e01f8c053847aef129cc3d0ac8ea6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936e82dfe15f5925e5d2044d096eb0287cbe9626" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO流/I_FileStream文件流/I_fileWritter/FileWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IO流/I_FileStream文件流/I_fileWritter/FileWriterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO流/VII_字節與字符轉換/TransStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IO流/VII_字節與字符轉換/TransStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/sonarlint/issuestore/0/e/0e95a24e446d9d19cb13b940302bdd9ed3b6ef8e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/sonarlint/issuestore/1/e/1e90ab57d9fcc95c773120ec65f31ad8a2b8ef52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/sonarlint/issuestore/5/c/5c1442e1af952dc6bb42ed297a62c1150cdb5e49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/sonarlint/issuestore/8/d/8d447f4f9c130a16fc51536002757865727c9980" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/sonarlint/issuestore/a/1/a106acbd90b93270c10000b1d79e0fa515a6bc67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Test1011.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/WEB-INFO/01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/com/kontai/server1/01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0528_HTML/Demo1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0801/Demo01/transPic/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0801/Demo01/transPic/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0804/Demo01/get.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0804/Demo01/post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0804/Demo01/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0805/demo01/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0809/Demo02/p.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0809/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0810/Demo01/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/libraries/lib__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/sonarlint/issuestore/0/d/0dd217282dc9ab45ee541918d8d192a893ee0cc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/sonarlint/issuestore/8/1/81c2e147f167560f6bd4b683c2177a1d0995c5c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/test0819.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/libraries/lib__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/sonarlint/issuestore/8/1/81c2e147f167560f6bd4b683c2177a1d0995c5c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/test0819.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0819/out/production/test0819/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/sonarlint/issuestore/c/b/cb52641dc2b635934c4193fddef656fc56a4f84d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0823/test0823.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/sonarlint/issuestore/6/7/67d68e98d9a62face11c44ccefc792bd7a9f1164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/sonarlint/issuestore/b/2/b2bb421eba595f925073d3db78bb38a8ce94b3a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/sonarlint/issuestore/d/6/d6877a85cc021d3f95530ef975c4dbd71e23512c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/out/production/test0825/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/src/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0825/test0825.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/libraries/mysql_connector_java_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/sonarlint/issuestore/9/8/98c8859dd2e41e370fe5892178ad0beb3dacab6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/sonarlint/issuestore/9/e/9e15deec735a0464ee0a9bd9313152596801a2d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/simple.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/test0831/test0831.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +179,10 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,6 +197,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kontai&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -73,6 +211,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kontai/java&quot;,
+    &quot;accountId&quot;: &quot;70cecafc-4d49-49d5-9bdd-d3cd4a2f3de9&quot;
+  }
+}</component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
@@ -96,9 +240,15 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="1cywefep51md6lb3D55y8A168b9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -108,10 +258,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.InnerClassDemo5 (1).executor": "Run",
+    "Application.InnerClassDemo5.executor": "Run",
+    "Application.PairTest1 (1).executor": "Run",
+    "Application.PairTest1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/workspace/JAVA"
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/java/JavaCoreBook",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -145,20 +312,13 @@
       <recent name="InetDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectP">
-    <configuration name="CollectP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectP" />
-      <module name="JAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bjsxt.test.Demo02" />
-      <module name="JAVA" />
+  <component name="RunManager" selected="Application.PairTest1 (1)">
+    <configuration name="InnerClassDemo5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="匿名內部類.應用.InnerClassDemo5" />
+      <module name="匿名內部類" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bjsxt.test.*" />
+          <option name="PATTERN" value="匿名內部類.應用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test1116.com.tai.reflaect01.Demo1" />
-      <module name="JAVA" />
+    <configuration name="InnerClassDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="匿名內部類.應用.InnerClassDemo5" />
+      <module name="匿名內部類" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test1116.com.tai.reflaect01.*" />
+          <option name="PATTERN" value="匿名內部類.應用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +339,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrameDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GUI.I_awt.FrameDemo" />
+    <configuration name="PairTest1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tai.pair1.PairTest1" />
+      <module name="CH8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tai.pair1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tai.pair1.PairTest1" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GUI.I_awt.*" />
+          <option name="PATTERN" value="com.tai.pair1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,6 +378,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PairTest1 (1)" />
+        <item itemvalue="Application.PairTest1" />
+        <item itemvalue="Application.InnerClassDemo5 (1)" />
+        <item itemvalue="Application.InnerClassDemo5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -415,6 +604,10 @@
       <workItem from="1626511047555" duration="2724000" />
       <workItem from="1626570090443" duration="1469000" />
       <workItem from="1665074837346" duration="682000" />
+      <workItem from="1719722777708" duration="13000" />
+      <workItem from="1719877503113" duration="414000" />
+      <workItem from="1719884082506" duration="1278000" />
+      <workItem from="1719969922885" duration="2207000" />
     </task>
     <task id="LOCAL-00001" summary="0607">
       <created>1591514733404</created>
@@ -507,7 +700,15 @@
       <option name="project" value="LOCAL" />
       <updated>1665075186838</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1006">
+      <option name="closed" value="true" />
+      <created>1719717621252</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719717621252</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

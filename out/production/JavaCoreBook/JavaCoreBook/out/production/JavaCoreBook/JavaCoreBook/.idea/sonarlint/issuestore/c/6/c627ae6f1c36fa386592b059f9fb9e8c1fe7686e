@@ -1,0 +1,16 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÂÛÓıÿÿÿÿJ$97a557c8-3cf8-4a23-898f-19505785faf1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šş—ûÿÿÿÿJ$2a5d8a85-53b2-4fef-b96c-33298b78c355
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‡ˆŸûÿÿÿÿJ$52864a60-b9ff-4912-9f2c-4bc98fd845d0
+]
+java:S1170"!Make this final field static too.(Âó™ùJ$08748e0d-a915-445b-b272-7b7d6e4ab3c6
+b
+java:S1170"!Make this final field static too.(Ú­•ßşÿÿÿÿJ$d9e873be-e797-4ecc-b865-babe326160c6
+w
+java:S1854"6Remove this useless assignment to local variable "aa".(åğÛğøÿÿÿÿJ$38a8b017-9e63-46c8-8926-548d98af6ef1
+v	java:S125"<This block of commented-out lines of code should be removed.(È‹é;J$044f8c40-f1c6-4188-a065-9c7969c99215
+h
+java:S1481"'Remove this unused "aa" local variable.(åğÛğøÿÿÿÿJ$a9625d05-4da3-413e-8738-8e17577aeb9c
+k	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿJ$09ba728a-6a8a-4651-a14c-e9452c212786
+c
+java:S1068"'Remove this unused "num" private field.(Âó™ùJ$e1e1b816-df6e-4e5c-bd0e-6d9fcd5b3855

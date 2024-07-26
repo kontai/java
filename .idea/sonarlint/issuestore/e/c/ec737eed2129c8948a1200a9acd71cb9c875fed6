@@ -1,8 +1,0 @@
-
-u
-java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "teacher".(ËÎ“È
-V	java:S125"<This block of commented-out lines of code should be removed.(Õ›ÇÉûÿÿÿÿ
-V
-java:S1854";Remove this useless assignment to local variable "teacher".(ç˜ˆÔüÿÿÿÿ
-G
-java:S1481",Remove this unused "teacher" local variable.(ç˜ˆÔüÿÿÿÿ

@@ -1,12 +1,0 @@
-
-a
-java:S1192"FDefine a constant instead of duplicating this literal "model" 3 times.(ûŸõ»øÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(³ÎªŒûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Íö­‡
-P	java:S125"<This block of commented-out lines of code should be removed.(Þ°È%
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ææ¦Ñýÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ûŸõ»øÿÿÿÿ
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ì’ëÿ
-V	java:S125$"<This block of commented-out lines of code should be removed.(ŠÕÖ˜þÿÿÿÿ
-S	java:S106."9Replace this use of System.out or System.err by a logger.(÷ôðûþÿÿÿÿ
-V	java:S125/"<This block of commented-out lines of code should be removed.(ýä®Çýÿÿÿÿ
