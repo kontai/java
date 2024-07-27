@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Õ…’8ùŒæ…2J$6ef90050-7ba2-42df-8491-c8f58b5f455e
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ¸ºùÿÿÿÿ8úŒæ…2J$a5acf1f6-923d-4b29-9730-5af32adebb35
+Š
+java:S1192"HDefine a constant instead of duplicating this literal "zhaoliu" 3 times.(àãât8ÿŒæ…2J$e5501d66-e08f-4193-b7b7-9d358e21db95
+~	java:S125"<This block of commented-out lines of code should be removed.(øÂÃç8æ…2J$131b56c9-f147-4193-a0d6-2534cc053cf0
+r	java:S106'"+Replace this use of System.out by a logger.(ŠìÁÿÿÿÿÿ8‚æ…2J$a0dd5a5b-547f-420c-8446-fe56c12400f5
+m	java:S106*"+Replace this use of System.out by a logger.(¢Î€’8„æ…2J$e8704a12-1a20-444f-b80b-92a47bf409cf
+m	java:S106."+Replace this use of System.out by a logger.(¢Î€’8…æ…2J$2756c8be-85e6-47d6-b452-7c5deccb8e8a
+m	java:S1062"+Replace this use of System.out by a logger.(¢Î€’8†æ…2J$c7ccb8c6-2001-4291-9309-51886136b5b6
+m	java:S1065"+Replace this use of System.out by a logger.(÷şğó8‡æ…2J$15a388a9-9582-4648-b06a-cdf97bf96af6
+m	java:S1069"+Replace this use of System.out by a logger.(ìöù”8ˆæ…2J$bc22dfc1-e5a9-4e68-943b-ed2f21bc48d9
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8‰æ…2J$38746406-6cdf-4ced-963c-0d6bd16b4545

@@ -5,158 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="515e773a-58dc-4a8b-9a80-4b44c299de55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/civetCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/huskyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/persianCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/GenericExam/teddyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/Set/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/Set/hashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/tai/genericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/Date/Date.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/Date/out/production/Date/Date/Date.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a01jdk7datedemo/A01_DateDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a01jdk7datedemo/A02_DateDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a01jdk7datedemo/A03_SimpleDateFormatDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a01jdk7datedemo/A04_SimpleDateFormatDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a01jdk7datedemo/A05_SimpleDateFormatDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a01jdk7datedemo/A06_CalendarDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A01_ZoneIDDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A02_InstantDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A03_ZoneDateTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A04_DateTimeForMatterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A05_LocalDateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A06_LocalTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A07_LocalDateTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A08_PeriodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A09_DurationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../常用API/a02jdk8datedemo/A10_ChronoUnitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/III_示例/RegexTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/III_示例/greedy/show.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/out/production/正則表達式/正則表達式/正則表達式.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/代码/RegexDemo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/正则表达式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../正則表達式/正則表達式.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/libraries/junit_libs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/IIList集合.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/Snipaste_2024-07-24_15-07-09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/IIList集合.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/List.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/p2_LinkedList/LinkedList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/p4_Set/HashSet/set/alice30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/out/production/IIList集合/集合框架/IIList集合/p4_Set/Set.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/p4_Set/HashSet/set/HashSet/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/p4_Set/HashSet/set/HashSet/hashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/p4_Set/HashSet/set/linkedhashset/likedhashsetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/p4_Set/HashSet/set/treeset/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/p4_Set/HashSet/set/treeset/treesetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/p4_Set/HashSet/set/treeset/treesetDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IIList集合/使用場景.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/libraries/junit_libs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/IVMap集合.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/hashMap/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/hashMap/map遍歷/IIIlambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/hashMap/map遍歷/IIentry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/hashMap/map遍歷/Ikeyset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/IVMap集合.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/out/production/IVMap集合/集合框架/IVMap集合/Map.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/treeMap/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/A01_CollectionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/A02_CollectionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/A03_CollectionDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/A04_CollectionDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/A05_CollectionDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/A06_CollectionDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/A07_CollectionDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a01mycollection/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a02mylist/A01_ListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a02mylist/A02_ListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a02mylist/A03_ListDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a03myarraylist/A01_ArrayListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a03myarraylist/A02_ArrayListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/GenericsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/GenericsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/GenericsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/GenericsDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/GenericsDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/GenericsDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/ListUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/MyArrayList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/MyArrayList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a04mygenerics/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A01_SetDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A02_HashSetDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A03_HashSetDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A04_LinkedHashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A04_TreeSetDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A05_TreeSetDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A06_TreeSetDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/A07_TreeSetDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05myset/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/HuskyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/LiHuaCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/PersianCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/TeddyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../集合框架/代碼/a05test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_libs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/tai/mathDemo/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/tai/mathDemo/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../集合框架/IVMap集合/Map.md" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/Map.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../集合框架/IVMap集合/WeakHashMap/WeakHashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/WeakHashMap/WeakHashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../集合框架/IVMap集合/hashMap/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/hashMap/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../集合框架/IVMap集合/treeMap/ComparatorByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/treeMap/ComparatorByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../集合框架/IVMap集合/treeMap/TreeMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/treeMap/TreeMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/笔记/img/01_Stream流思想.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/笔记/img/12_红黑树结构图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/笔记/img/13_红黑树添加节点颜色.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/笔记/img/14_JKD8以前哈希表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/笔记/img/15_JKD8以后哈希表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/笔记/集合03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/资料/HashMap源码解读.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/资料/HashMap源码超详细讲解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../集合框架/资料/TreeMap源码解读.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/9/7/979378de0e4f46678b58ab9645376f6b879b6235" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/a/a/aa6ef33fda77109ab29569c2f45a5ede1cad18fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/9/7/979378de0e4f46678b58ab9645376f6b879b6235" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/a/a/aa6ef33fda77109ab29569c2f45a5ede1cad18fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/集合框架.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/out/production/集合框架/集合框架/集合框架.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../集合框架/集合框架.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/集合框架.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +77,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/tai/workspace/java/集合框架/IIList集合",
+    "last_opened_file_path": "/home/tai/workspace/java/Demo/test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -369,6 +239,8 @@
       <workItem from="1721607304975" duration="3151000" />
       <workItem from="1721780893624" duration="667000" />
       <workItem from="1721782495205" duration="1899000" />
+      <workItem from="1721955220720" duration="81000" />
+      <workItem from="1721955318862" duration="165000" />
     </task>
     <servers />
   </component>

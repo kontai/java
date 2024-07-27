@@ -1,19 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œ» ²şÿÿÿÿ8’½ŒÈ†2J$5c41673c-a3de-4a22-b45c-b317fe5521ad
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„éö¤üÿÿÿÿ8“½ŒÈ†2J$ad0d837b-15d2-48f0-9563-cf22121bf135
-‚
-java:S1854":Remove this useless assignment to local variable "scores".(Ú‹¼âùÿÿÿÿ8 ½ŒÈ†2J$51310de3-5b2c-44d6-ae08-8105b134e886
-ƒ
-java:S1854
-";Remove this useless assignment to local variable "numbers".(¥…ŸÍûÿÿÿÿ8¡½ŒÈ†2J$bb936647-c7e9-44c4-90d4-cb8725fb6973
-
-java:S1854	"9Remove this useless assignment to local variable "anmes".(ü½º…ùÿÿÿÿ8¢½ŒÈ†2J$75a22163-7d09-4e20-b2ce-3bf50279deb6
-r
-java:S1481	"*Remove this unused "anmes" local variable.(ü½º…ùÿÿÿÿ8£½ŒÈ†2J$5afd0dba-3b56-4306-a1f9-22f8966fcb73
-t
-java:S1481
-",Remove this unused "numbers" local variable.(¥…ŸÍûÿÿÿÿ8¤½ŒÈ†2J$c608c277-f59d-4320-b16a-417b19ab6738
-s
-java:S1481"+Remove this unused "scores" local variable.(Ú‹¼âùÿÿÿÿ8¦½ŒÈ†2J$35081b91-adaf-4c85-b905-e64f8cc68c4a
-]	java:S125"<This block of commented-out lines of code should be removed.(¾ï¨©ùÿÿÿÿ8¬œÈ†2
-]	java:S125"<This block of commented-out lines of code should be removed.(¯òõùÿÿÿÿ8®œÈ†2
