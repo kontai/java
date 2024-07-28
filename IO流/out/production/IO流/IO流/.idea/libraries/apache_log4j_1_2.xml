@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="apache-log4j-1.2">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/site/apidocs" />
+      <root url="file://$PROJECT_DIR$/../lib/commons-io-2.7/docs" />
+      <root url="file://$PROJECT_DIR$/../lib/spring/commons-logging-1.2/apidocs" />
+      <root url="file://$PROJECT_DIR$/../lib/spring/spring-framework-5.3.9/docs/javadoc-api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/contribs/CekiGulcu" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/contribs/Jamie Tsao" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/contribs/JimMoore" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/contribs/ThomasFenner" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/src/main/javadoc" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/src/performance/java" />
+      <root url="file://$PROJECT_DIR$/../lib/apache-log4j-1.2.17/tests/src/java" />
+      <root url="file://$PROJECT_DIR$/../lib/javassist" />
+      <root url="file://$PROJECT_DIR$/../lib/javassist/src/main" />
+      <root url="file://$PROJECT_DIR$/../lib/javassist/src/test" />
+      <root url="file://$PROJECT_DIR$/../lib/mysql-connector-java-5.1.49/src" />
+    </SOURCES>
+  </library>
+</component>
