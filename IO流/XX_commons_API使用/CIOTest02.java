@@ -1,5 +1,6 @@
-//package IO流.XX_commons_API使用;
+package IO流.XX_commons_API使用;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.DirectoryFileFilter;
 import org.apache.commons.io.filefilter.EmptyFileFilter;
 import org.apache.commons.io.filefilter.FileFilterUtils;
@@ -18,7 +19,7 @@ import java.util.Collection;
 public class CIOTest02 {
 
 	public static void main(String[] args) {
-		Collection<File> files =FileUtils.listFiles(new File("IO流\\XX_commons_API使用"),
+		Collection<File> files = FileUtils.listFiles(new File("IO流\\XX_commons_API使用"),
 				EmptyFileFilter.NOT_EMPTY, null);
 		for (File file : files) {
 			System.out.println(file.getAbsolutePath());

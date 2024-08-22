@@ -5,8 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67a0c658-1fbf-46f5-b272-24cbbd9cf0c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/mathDemo/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多線程thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/.idea/libraries/commons_io_2_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/.idea/libraries/hutool_all_5_8_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/aaa/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/bbb/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/bbb/csb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/ddd/aaa.txt/ddd/bbb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/BufferedIO/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/CommonIo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/IO/HuTool/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest2/allnames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest3/allnames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest4/allnames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest4/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest5/allnames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest5/backups.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest6/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest7/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest8/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest8/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest9/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest9/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/myiotest9/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exerice/IO/q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/file/exercise/SortLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/MyRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/pAndC/Cooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/pAndC/Desk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/pAndC/Foodie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/pAndC/cumtomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/threadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/threadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/threadDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/.idea/libraries/commons_io_2_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/.idea/libraries/commons_io_2_16_1_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/.idea/libraries/hutool_all_5_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/.idea/libraries/hutool_all_5_8_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/XXI_hutool/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/笔记/IO流（其他流）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/笔记/img/1_charset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/笔记/img/2_zhuanhuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/笔记/img/3_xuliehua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/资料/commons-io相关资料/commons-io整理的文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/资料/csb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/资料/gbkfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO流/黑馬-IO（其他流）/资料/hutool相关资料/文档资料.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/test/aaa/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/test/aaa/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO流/IO流.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IO流/IO流.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO流/XX_commons_API使用/CIOTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO流/XX_commons_API使用/CIOTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,30 +75,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2jLur0d0s3etd2yKcRSnlw6VXPC" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/tai/workspace/java/多線程thread",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "AtomSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tai/workspace/java/多線程thread&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AtomSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="多線程thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="多線程thread" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +132,8 @@
       <option name="presentableId" value="Default" />
       <updated>1721178872480</updated>
       <workItem from="1721178873721" duration="1950000" />
+      <workItem from="1724258999632" duration="2282000" />
+      <workItem from="1724290785308" duration="1656000" />
     </task>
     <servers />
   </component>
