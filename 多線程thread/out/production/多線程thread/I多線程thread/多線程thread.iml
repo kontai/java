@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="I多線程thread" />
+      <sourceFolder url="file://$MODULE_DIR$/練習題" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/III同步代碼塊" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/II線程安全問題" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IV同步函數" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IX_JDK1_5新特性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/I多線程thread" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/VIII線程間通信" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/VII死鎖" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/VI多線程中的單例模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/V靜態同步" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/XIII面試題" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/XII等待該執行緒完成Join" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/XI停止線程的方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/X_wait與sleep的區別" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/垃圾回收" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

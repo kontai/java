@@ -18,4 +18,5 @@ public class Desk {
     //總數量
     public static int count = 10;
 
+
 }
