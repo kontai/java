@@ -5,110 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67a0c658-1fbf-46f5-b272-24cbbd9cf0c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exercise1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/exercise1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/exercise5/SellTicekts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/exercise5/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadPool/src/mythreadpool/src/com/itheima/a01threadpool1/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadPool/src/mythreadpool/src/com/itheima/a01threadpool1/MyThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadPool/src/mythreadpool/src/com/itheima/a02threadpool2/MyThreadPoolDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadPool/src/mythreadpool/src/com/itheima/a02threadpool2/MyThreadPoolDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1591163781941.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1591165506516.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1591168965857.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1591169254280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1591169338256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571652681276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571655104091.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571732060388.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571735388181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571735465100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571735607347.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571735715977.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571735904991.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571736824748.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571743818653.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571744627663.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571746088704.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571794778139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571817059527.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571817085047.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571817628904.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571818176635.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571818465276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571818597998.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571818747880.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571880094854.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571901607504.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/assets/1571905221097.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc额外扩展资料/多线程（额外扩展）.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ThreadPool/mythreadpool/mythreadpool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/img/1591163781941.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/img/1591165506516.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/img/1591168965857.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/img/1591169254280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/img/1591169338256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571652681276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571655104091.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571732060388.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571735388181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571735465100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571735607347.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571735715977.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571735904991.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571736824748.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571743818653.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571744627663.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571746088704.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571794778139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571817059527.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571817085047.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571817628904.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571818176635.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571818465276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571818597998.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571818747880.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571880094854.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571901607504.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/assets/1571905221097.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/juc额外扩展资料/多线程（额外扩展）.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/多線程thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/多线程02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/線程池/mythreadpool/mythreadpool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/多線程thread/I多線程thread/線程池/mythreadtest/mythreadtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test2/MyRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test3/MyRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test4case1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test4case1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test4case2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test4case2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test5/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test6case1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test6case1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test6case2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test6case2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test7/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/練習題/test7/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/pAndC/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/multithreading/pAndC/Desk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IV同步函數/SynFunctionLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IV同步函數/SynFunctionLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/垃圾回收/ThreadDemo0.java" beforeDir="false" afterPath="$PROJECT_DIR$/垃圾回收/ThreadDemo0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThreadPool/ThreadPool線程池.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +37,7 @@
     "Application.I多線程thread.線程池.mythreadtest.src.com.itheima.test2.Test.executor": "Run",
     "Application.I多線程thread.線程池.mythreadtest.src.com.itheima.test3.Test.executor": "Run",
     "Application.MyThreadPoolDemo.executor": "Run",
+    "Application.MyThreadPoolDemo2.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.mythreadpool.src.com.itheima.a01threadpool1.MyThreadPoolDemo.executor": "Run",
@@ -144,6 +45,7 @@
     "Application.test4case1.Test.executor": "Run",
     "Application.test5.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -169,7 +71,7 @@
       <recent name="$PROJECT_DIR$/練習題" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mythreadpool.src.com.itheima.a01threadpool1.MyThreadPoolDemo">
+  <component name="RunManager" selected="Application.MyThreadPoolDemo2">
     <configuration name="I多線程thread.線程池.mythreadtest.src.com.itheima.test2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I多線程thread.線程池.mythreadtest.src.com.itheima.test2.Test" />
       <module name="多線程thread" />
@@ -209,9 +111,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyThreadPoolDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mythreadpool.src.com.itheima.a02threadpool2.MyThreadPoolDemo2" />
+      <module name="ThreadPool線程池" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mythreadpool.src.com.itheima.a02threadpool2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mythreadpool.src.com.itheima.a01threadpool1.MyThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mythreadpool.src.com.itheima.a01threadpool1.MyThreadPoolDemo" />
-      <module name="ThreadPool" />
+      <module name="ThreadPool線程池" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="mythreadpool.src.com.itheima.a01threadpool1.*" />
@@ -222,26 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test5.Test" />
-      <module name="多線程thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyThreadPoolDemo2" />
         <item itemvalue="Application.mythreadpool.src.com.itheima.a01threadpool1.MyThreadPoolDemo" />
         <item itemvalue="Application.I多線程thread.線程池.mythreadtest.src.com.itheima.test3.Test" />
         <item itemvalue="Application.I多線程thread.線程池.mythreadtest.src.com.itheima.test2.Test" />
         <item itemvalue="Application.MyThreadPoolDemo" />
-        <item itemvalue="Application.test5.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +168,7 @@
       <workItem from="1724290785308" duration="1656000" />
       <workItem from="1724377224476" duration="1510000" />
       <workItem from="1724456892498" duration="3749000" />
+      <workItem from="1724566324681" duration="2165000" />
     </task>
     <servers />
   </component>

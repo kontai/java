@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool線程池.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool線程池.iml" />
       <module fileurl="file://$PROJECT_DIR$/多線程thread.iml" filepath="$PROJECT_DIR$/多線程thread.iml" />
     </modules>
   </component>

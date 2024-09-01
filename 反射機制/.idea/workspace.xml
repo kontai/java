@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7eee0736-d1f9-406a-93dd-aab1e6160b84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/test/IMG/myPic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/IMG/myPic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/IMG/myPic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/IMG/r/ebad51d423234b8489868e62c6f965bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/IMG/r/myPic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/Exercise01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/Exercise01/reflect.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/Exercise01/reflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/Exercise01/teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/Field/FieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/Field/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/classDemo/ClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/classDemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/constructor/ConstructotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Reflect/constructor/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise1/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise1/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/Basic/clinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/Basic/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/FileNameUUID/clinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/FileNameUUID/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/WithThread/clinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/WithThread/myThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/WithThread/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/WithThreadPool/clinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/WithThreadPool/myThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/Exercise2FileIO/WithThreadPool/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/TCP/clinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/TCP/sever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/UDP/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/UDP/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/src/com/tai/Socket/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/test/test/IMG/r/myPic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/反射機制.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多線程thread/.idea/sonarlint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多線程thread/out/production/ThreadPool線程池/mythreadpool/mythreadpool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../網路編程/out/production/網路編程/網路編程/網路編程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../網路編程/網路編程.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/test/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/test/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../多線程thread/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../多線程thread/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../多線程thread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../多線程thread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../多線程thread/ThreadPool/ThreadPool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../多線程thread/ThreadPool/ThreadPool線程池.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../網路編程/III_TCP/ClientDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../網路編程/III_TCP/ClientDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../網路編程/III_TCP/ServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../網路編程/III_TCP/ServerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../集合框架/IVMap集合/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2lT1ZDA23yGok0jDaGiwBPhe50V" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/tai/workspace/java/反射機制",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "zielu.gittoolbox.app.config.blame",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eee0736-d1f9-406a-93dd-aab1e6160b84" name="Changes" comment="" />
+      <created>1725189305803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725189305803</updated>
+      <workItem from="1725189307326" duration="1353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

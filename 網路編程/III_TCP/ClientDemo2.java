@@ -30,7 +30,7 @@ public class ClientDemo2 {
 		
 		
 		
-		Socket socket = new Socket(InetAddress.getLocalHost(),10002);
+		Socket socket = new Socket(InetAddress.getLocalHost(),19002);
 		
 		
 		OutputStream out = socket.getOutputStream();	

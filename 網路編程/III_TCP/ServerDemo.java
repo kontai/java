@@ -24,7 +24,7 @@ public class ServerDemo {
 		 */
 		
 		//1創建服務端對象。
-		ServerSocket ss = new ServerSocket(10002);
+		ServerSocket ss = new ServerSocket(19002);
 		
 		//2,獲取連接過來的客戶端對象。
 		Socket s = ss.accept();//阻塞式.
