@@ -5,7 +5,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<properties>
-	<spring-webmvc-version>5.3.23</spring-webmvc-version>
+	<spring-webmvc-version>6.1.13</spring-webmvc-version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
